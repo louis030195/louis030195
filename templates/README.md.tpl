@@ -11,11 +11,11 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-<!-- <!-- ARTICLES::START -->
-<!-- <!-- ARTICLES::END -->
+<!-- ARTICLES::START -->
+<!-- ARTICLES::END -->
 
-<!-- <!-- YOUTUBE::START -->
-<!-- <!-- YOUTUBE::END -->
+<!-- YOUTUBE::START -->
+<!-- YOUTUBE::END -->
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
