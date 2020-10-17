@@ -14,6 +14,12 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 - [louis030195/protometry](https://github.com/louis030195/protometry) - Geometry on protobuf stubs (2 months ago)
 - [louis030195/octree](https://github.com/louis030195/octree) - Dynamic sparse bounded octree in Go (2 months ago)
 
+
+
+
+
+
+
 #### 🌱 My latest projects
 
 - [louis030195/prismarine-gym](https://github.com/louis030195/prismarine-gym) - train minecraft agents using reinforcement learning (inspired by https://gym.openai.com/)
