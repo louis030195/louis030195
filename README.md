@@ -8,7 +8,7 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [louis030195/prismarine-gym](https://github.com/louis030195/prismarine-gym) - train minecraft agents using reinforcement learning (inspired by https://gym.openai.com/) (1 day ago)
+- [louis030195/prismarine-gym](https://github.com/louis030195/prismarine-gym) - train minecraft agents using reinforcement learning (inspired by https://gym.openai.com/) (2 days ago)
 - [louis030195/dotfiles](https://github.com/louis030195/dotfiles) - my config files (1 week ago)
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) - Distributed multiplayer sandbox evolution simulation (1 week ago)
 - [louis030195/protometry](https://github.com/louis030195/protometry) - Geometry on protobuf stubs (2 months ago)
