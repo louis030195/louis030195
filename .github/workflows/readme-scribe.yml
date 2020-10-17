@@ -17,16 +17,6 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQyHp-A6Y4hwRt7qmi_TYOQ"
-
-      - uses: gautamkrishnar/blog-post-workflow@1.2.5
-        with:
-          comment_tag_name: "ARTICLES"
-          feed_list: "https://medium.com/feed/@louis.beaumont"
       
       - uses: actions/upload-artifact@v1
         with:
@@ -42,3 +32,13 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCQyHp-A6Y4hwRt7qmi_TYOQ"
+
+      - uses: gautamkrishnar/blog-post-workflow@1.2.5
+        with:
+          comment_tag_name: "ARTICLES"
+          feed_list: "https://medium.com/feed/@louis.beaumont"
