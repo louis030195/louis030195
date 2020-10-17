@@ -1,5 +1,6 @@
 name: Louis On Medium
 on:
+  push:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'

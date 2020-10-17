@@ -2,7 +2,7 @@
 
 “Tsze-kung asked what constituted the superior man. The Master said, “He acts before he speaks, and afterwards speaks according to his actions.”” - Confucius
 
-If you want a dive into my thoughts direction <https://publish.obsidian.md/louis030195/Introduction>
+If you want a dive into my thoughts direction <https://publish.obsidian.md/louis030195>
 
 <img align="right" src="https://raw.githubusercontent.com/louis030195/louis030195/main/assets/seneca.jpg" width="260">
 

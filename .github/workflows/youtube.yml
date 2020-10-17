@@ -1,5 +1,6 @@
 name: Latest YouTube Videos
 on:
+  push:
   schedule:
     # Runs every hour
     - cron: '0 * * * *'
