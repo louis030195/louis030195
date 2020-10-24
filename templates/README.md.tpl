@@ -11,16 +11,13 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 
 #### Medium posts
 {{range rss "https://medium.com/feed/@@louis.beaumont" 5}}
-Title: {{.Title}}
-URL: {{.URL}}
+Title: [{{.Title}}]({{.URL}})
 Published: {{humanize .PublishedAt}}
 {{end}}
 
 #### My Latest Gists
 {{range gists 5}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
+[{{.Description}}]({{.URL}})
 Created: {{humanize .CreatedAt}}
 {{end}}
 
