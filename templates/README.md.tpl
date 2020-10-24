@@ -4,18 +4,25 @@
 
 If you want a dive into my thoughts direction <https://publish.obsidian.md/louis030195/README>
 
-<img align="right" src="https://raw.githubusercontent.com/louis030195/louis030195/main/assets/seneca.jpg" width="260">
-
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-<!-- ARTICLES::START -->
-<!-- ARTICLES::END -->
+#### Medium posts
+{{range rss "https://medium.com/feed/@@louis.beaumont" 5}}
+Title: {{.Title}}
+URL: {{.URL}}
+Published: {{humanize .PublishedAt}}
+{{end}}
 
-<!-- YOUTUBE::START -->
-<!-- YOUTUBE::END -->
+#### My Latest Gists
+{{range gists 5}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Created: {{humanize .CreatedAt}}
+{{end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
@@ -26,11 +33,6 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-#### 💬 Feedback
-
-If you use one of my projects, I'd love to hear from you! Don't be shy and let me know what you liked
-and what needs being improved. Got an issue? Open a ticket, I don't bite and will try my best to help!
 
 #### 📫 How to reach me
 
