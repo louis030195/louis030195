@@ -9,18 +9,18 @@ If you want a dive into my thoughts direction <https://publish.obsidian.md/louis
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
 {{- end}}
 
-#### `:books:` Medium posts
+#### 👋 Medium posts
 {{range rss "https://medium.com/feed/@@louis.beaumont" 5}}
 [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{end}}
 
-#### `:video_camera:` Youtube Videos
+#### 👋 Youtube Videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCQyHp-A6Y4hwRt7qmi_TYOQ" 5}}
 [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{end}}
 
 
-#### `:paper_clip:` My Latest Gists
+#### 👋 My Latest Gists
 {{range gists 3}}
 [{{.Description}}]({{.URL}})
 Created: {{humanize .CreatedAt}}
