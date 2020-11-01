@@ -42,3 +42,14 @@ and what needs being improved. Got an issue? Open a ticket, I don't bite and wil
 
 - Twitter: https://www.twitter.com/louis_3195
 - Blog: https://publish.obsidian.md/louis030195/Introduction
+
+#### Links
+[<img src="assets/Website.png" alt="Website" width="40" height="40">](https://louis030195.com)
+[<img src="assets/Obsidian.png" alt="Obsidian" width="40" height="40">](https://publish.obsidian.md/louis030195)
+[<img src="assets/GitHub.png" alt="GitHub" width="40" height="40">](https://github.com/louis030195)
+[<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://medium.com/@louis.beaumont)
+[<img src="assets/Twitch.png" alt="Twitch" width="40" height="40">](https://www.twitch.tv/louis030195)
+[<img src="assets/Twitter.png" alt="Twitter" width="40" height="40">](https://www.twitter.com/louis_3195)
+[<img src="assets/YouTube.png" alt="YouTube" width="40" height="40">](https://youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
+[<img src="assets/Goodreads.png" alt="Goodreads" width="40" height="40">](https://www.goodreads.com/user/show/103091881-louis-beaumont)
+[<img src="assets/Readwise.png" alt="Readwise" width="40" height="40">](https://readwise.io/@louis)
