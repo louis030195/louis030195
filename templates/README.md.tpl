@@ -3,15 +3,15 @@
 “Tsze-kung asked what constituted the superior man. The Master said, “He acts before he speaks, and afterwards speaks according to his actions.”” - Confucius
 
 **🤔 If you want a dive into my thoughts direction <https://publish.obsidian.md/louis030195>**
-
+<!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
 {{range goodReadsCurrentlyReading 5}}
-- {{range .Book.Authors}} {{.Name}} {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{humanize .DateUpdated}}
+- {{ range $index, $author := .Book.Authors}} {{if $index}},{{end}} **{{$author.Name}}** {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{humanize .DateUpdated}}
 {{- end}}
 
 #### ✍ My latest Goodreads reviews
 {{range goodReadsReviews 5}}
-- {{range .Book.Authors}} {{.Name}} {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{.Rating}} - {{humanize .DateUpdated}}
+- {{ range $index, $author := .Book.Authors}} {{if $index}},{{end}} **{{$author.Name}}** {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{.Rating}}/5 - {{humanize .DateUpdated}}
 {{- end}}
 
 #### 👷 Check out what I'm currently working on
