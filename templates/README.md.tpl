@@ -4,6 +4,16 @@
 
 **🤔 If you want a dive into my thoughts direction <https://publish.obsidian.md/louis030195>**
 
+#### 📚 What I'm currently reading
+{{range goodReadsCurrentlyReading 5}}
+- {{.Book.Title}} - {{.Book.Link}} - {{humanize .DateUpdated}}
+{{- end}}
+
+#### ✍ My latest Goodreads reviews
+{{range goodReadsReviews 5}}
+- {{.Book.Title}} - {{.Book.Link}} - {{.Rating}} - {{humanize .DateUpdated}}
+{{- end}}
+
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 5}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
