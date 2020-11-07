@@ -22,9 +22,9 @@
 
 - [A simulation of evolution — Two](https://medium.com/@louis.beaumont/a-simulation-of-evolution-two-b26664d159a5?source=rss-f1c331c9f256------2) - 2 months ago
 - [A Simulation of Evolution — Part One](https://medium.com/swlh/a-simulation-of-evolution-part-one-62a1acfb009a?source=rss-f1c331c9f256------2) - 3 months ago
-- [A powerful strategy to learn programming](https://medium.com/dev-genius/a-powerful-strategy-to-learn-programming-f7331cff301?source=rss-f1c331c9f256------2) - 5 months ago
 - [Krishnamurti — Total Freedom, a review](https://medium.com/@louis.beaumont/krishnamurti-total-freedom-a-review-6c0a9821be8e?source=rss-f1c331c9f256------2) - 10 months ago
 - [REST API with Rust &amp; Mongodb](https://medium.com/@louis.beaumont/rest-api-with-rust-mongodb-10eeb6bd51d7?source=rss-f1c331c9f256------2) - 1 year ago
+- [How to pass key to Tensorflow graph](https://medium.com/@louis.beaumont/how-to-pass-key-to-tensorflow-graph-2cd29085f31a?source=rss-f1c331c9f256------2) - 1 year ago
 
 #### 🎬 Youtube Videos
 
