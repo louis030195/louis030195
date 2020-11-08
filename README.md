@@ -36,11 +36,11 @@
 
 #### ⚡ My Latest Gists
 
+- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: today
 - [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 1 day ago
 - [Automatic differentiation in 3 languages](https://gist.github.com/80ce2fdd2c475bef09267399b0be0b79) - Created: 1 month ago
 - [How VxLAN works](https://gist.github.com/201f8979d50793d836572ab3fd961843) - Created: 1 month ago
 - [Unity helper to spawn object above ground or try to spawn objects above ground in a random sphere while keeping a given distance](https://gist.github.com/4cc2dd8a708cad24d58028e07480eb73) - Created: 5 months ago
-- [Diamond square algorithm in Golang](https://gist.github.com/617e7767396f6b0f2be54bc6863563c6) - Created: 6 months ago
 
 #### 🌱 My latest projects
 
