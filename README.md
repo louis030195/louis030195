@@ -22,7 +22,7 @@
 
 - [A simulation of evolution — Two](https://medium.com/@louis.beaumont/a-simulation-of-evolution-two-b26664d159a5?source=rss-f1c331c9f256------2) - 2 months ago
 - [A Simulation of Evolution — Part One](https://medium.com/swlh/a-simulation-of-evolution-part-one-62a1acfb009a?source=rss-f1c331c9f256------2) - 3 months ago
-- [Krishnamurti — Total Freedom, a review](https://medium.com/@louis.beaumont/krishnamurti-total-freedom-a-review-6c0a9821be8e?source=rss-f1c331c9f256------2) - 10 months ago
+- [Krishnamurti — Total Freedom, a review](https://medium.com/@louis.beaumont/krishnamurti-total-freedom-a-review-6c0a9821be8e?source=rss-f1c331c9f256------2) - 11 months ago
 - [REST API with Rust &amp; Mongodb](https://medium.com/@louis.beaumont/rest-api-with-rust-mongodb-10eeb6bd51d7?source=rss-f1c331c9f256------2) - 1 year ago
 - [How to pass key to Tensorflow graph](https://medium.com/@louis.beaumont/how-to-pass-key-to-tensorflow-graph-2cd29085f31a?source=rss-f1c331c9f256------2) - 1 year ago
 
@@ -36,8 +36,8 @@
 
 #### ⚡ My Latest Gists
 
-- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 2 days ago
-- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 3 days ago
+- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 3 days ago
+- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 4 days ago
 - [Automatic differentiation in 3 languages](https://gist.github.com/80ce2fdd2c475bef09267399b0be0b79) - Created: 1 month ago
 - [How VxLAN works](https://gist.github.com/201f8979d50793d836572ab3fd961843) - Created: 1 month ago
 - [Unity helper to spawn object above ground or try to spawn objects above ground in a random sphere while keeping a given distance](https://gist.github.com/4cc2dd8a708cad24d58028e07480eb73) - Created: 5 months ago
