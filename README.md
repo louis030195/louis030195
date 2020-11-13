@@ -36,9 +36,9 @@
 
 #### ⚡ My Latest Gists
 
-- [Nearest neighbor search on Readwise quotes using FAISS and HuggingFace tools](https://gist.github.com/3fe7b242a033b6016f2243c40e5b36c6) - Created: 1 day ago
-- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 4 days ago
-- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 5 days ago
+- [Nearest neighbor search on Readwise quotes using FAISS and HuggingFace tools](https://gist.github.com/3fe7b242a033b6016f2243c40e5b36c6) - Created: 2 days ago
+- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 5 days ago
+- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 6 days ago
 - [Automatic differentiation in 3 languages](https://gist.github.com/80ce2fdd2c475bef09267399b0be0b79) - Created: 1 month ago
 - [How VxLAN works](https://gist.github.com/201f8979d50793d836572ab3fd961843) - Created: 1 month ago
 
