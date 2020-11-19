@@ -6,16 +6,16 @@
 
 #### 📚 What I'm currently reading
 
+-   **Blaise Pascal**  - [Pensées Sur La Justice](https://www.goodreads.com/book/show/11740918-pens-es-sur-la-justice) - Thu Nov 19 08:58:25 -0800 2020
 -   **Roger Penrose**  - [The Road to Reality: A Complete Guide to the Laws of the Universe](https://www.goodreads.com/book/show/10638.The_Road_to_Reality) - Thu Nov 05 03:10:43 -0800 2020
--   **Marvin Minsky**  - [The Society of Mind](https://www.goodreads.com/book/show/326790.The_Society_of_Mind) - Sat Oct 31 00:04:27 -0700 2020
 
 #### ✍ My latest Goodreads reviews
 
+-   **Marvin Minsky**  - [The Society of Mind](https://www.goodreads.com/book/show/326790.The_Society_of_Mind) - 4/5 - Thu Nov 19 08:56:30 -0800 2020
 -   **Richard P. Feynman**  - [Six Easy Pieces: Essentials of Physics By Its Most Brilliant Teacher](https://www.goodreads.com/book/show/5553.Six_Easy_Pieces) - 5/5 - Sat Oct 31 00:08:55 -0700 2020
 -   **Voltaire**  - [L&#39;Ingénu](https://www.goodreads.com/book/show/289382.L_Ing_nu) - 4/5 - Tue Oct 20 23:28:27 -0700 2020
 -   **Matt Ridley**  - [The Red Queen: Sex and the Evolution of Human Nature](https://www.goodreads.com/book/show/16176.The_Red_Queen) - 5/5 - Mon Sep 21 01:15:21 -0700 2020
 -   **Carl Sagan**  - [Cosmos](https://www.goodreads.com/book/show/55030.Cosmos) - 5/5 - Mon Jul 20 05:19:10 -0700 2020
--   **Leonardo da Vinci**  - [Leonardo&#39;s Notebooks](https://www.goodreads.com/book/show/24096.Leonardo_s_Notebooks) - 5/5 - Mon Jun 15 11:40:45 -0700 2020
 
 
 #### 🗒 Medium posts
