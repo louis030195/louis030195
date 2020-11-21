@@ -36,10 +36,10 @@
 
 #### ⚡ My Latest Gists
 
-- [Minecraft bot that detect toxic players using TensorflowJS and Mineflayer](https://gist.github.com/f0a90443b10e29472a4fff2f8ffd5b73) - Created: 1 day ago
+- [Minecraft bot that detect toxic players using TensorflowJS and Mineflayer](https://gist.github.com/f0a90443b10e29472a4fff2f8ffd5b73) - Created: 2 days ago
 - [Nearest neighbor search on Readwise quotes using FAISS and HuggingFace tools](https://gist.github.com/3fe7b242a033b6016f2243c40e5b36c6) - Created: 1 week ago
 - [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 1 week ago
-- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 1 week ago
+- [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 2 weeks ago
 - [Automatic differentiation in 3 languages](https://gist.github.com/80ce2fdd2c475bef09267399b0be0b79) - Created: 1 month ago
 
 #### 🌱 My latest projects
@@ -53,7 +53,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 2 weeks ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 3 weeks ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
+- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 4 weeks ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) ([0.0.1](https://github.com/louis030195/niwrad/releases/tag/0.0.1), 1 month ago) - Distributed multiplayer sandbox evolution simulation
 - [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) ([v4.1](https://github.com/microsoft/CameraTraps/releases/tag/v4.1), 6 months ago) - Tools for training and running detectors and classifiers for wildlife images collected from motion-triggered cameras.
 
