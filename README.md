@@ -6,6 +6,7 @@
 
 #### 📚 What I'm currently reading
 
+-   **Nassim Nicholas Taleb**  - [The Bed of Procrustes: Philosophical and Practical Aphorisms](https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes) - Mon Nov 23 13:13:24 -0800 2020
 -   **Blaise Pascal**  - [Pensées Sur La Justice](https://www.goodreads.com/book/show/11740918-pens-es-sur-la-justice) - Thu Nov 19 08:58:25 -0800 2020
 -   **Roger Penrose**  - [The Road to Reality: A Complete Guide to the Laws of the Universe](https://www.goodreads.com/book/show/10638.The_Road_to_Reality) - Thu Nov 05 03:10:43 -0800 2020
 
