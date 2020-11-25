@@ -45,11 +45,11 @@
 
 #### 🌱 My latest projects
 
+- [louis030195/mineflayer-k8s](https://github.com/louis030195/mineflayer-k8s) - A generalist Mineflayer bot runnable on Kubernetes
 - [louis030195/prismarine-gym](https://github.com/louis030195/prismarine-gym) - train minecraft agents using reinforcement learning (inspired by https://gym.openai.com/)
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) - Distributed multiplayer sandbox evolution simulation
 - [louis030195/dotfiles](https://github.com/louis030195/dotfiles) - my config files
 - [louis030195/octree](https://github.com/louis030195/octree) - Dynamic sparse bounded octree in Go
-- [louis030195/protometry](https://github.com/louis030195/protometry) - Geometry on protobuf stubs
 
 #### 🔭 Latest releases I've contributed to
 
