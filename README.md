@@ -30,7 +30,7 @@
 #### 🎬 Youtube Videos
 
 - [Niwrad 0.0.1-alpha](https://www.youtube.com/watch?v=B0MwLHRPuP8) - 2 months ago
-- [Erutan](https://www.youtube.com/watch?v=OElXIRdJFVs) - 9 months ago
+- [Erutan](https://www.youtube.com/watch?v=OElXIRdJFVs) - 10 months ago
 - [Google Cloud computer vision - Batch example](https://www.youtube.com/watch?v=b2P8ez4Q68I) - 1 year ago
 - [Example usage diablo2-protocol sniffer](https://www.youtube.com/watch?v=R5yfRTR3-mY) - 1 year ago
 - [Evol - Tree attacks, few fixes](https://www.youtube.com/watch?v=vtNwiOTORHo) - 2 years ago
