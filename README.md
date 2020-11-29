@@ -39,7 +39,7 @@
 
 - [Minecraft bot that detect toxic players using TensorflowJS and Mineflayer](https://gist.github.com/f0a90443b10e29472a4fff2f8ffd5b73) - Created: 1 week ago
 - [Nearest neighbor search on Readwise quotes using FAISS and HuggingFace tools](https://gist.github.com/3fe7b242a033b6016f2243c40e5b36c6) - Created: 2 weeks ago
-- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 2 weeks ago
+- [Use deep learning to turn Readwise quotes into vectors and visualize the distances between each-other](https://gist.github.com/02525d0b08a83ff06a28f42ea204f976) - Created: 3 weeks ago
 - [Readwise API usage](https://gist.github.com/f0e37aeacf4ae9f93eab3b80819a827d) - Created: 3 weeks ago
 - [Automatic differentiation in 3 languages](https://gist.github.com/80ce2fdd2c475bef09267399b0be0b79) - Created: 1 month ago
 
