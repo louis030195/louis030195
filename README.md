@@ -53,7 +53,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 3 weeks ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
+- [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 4 weeks ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 1 month ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) ([0.0.1](https://github.com/louis030195/niwrad/releases/tag/0.0.1), 2 months ago) - Distributed multiplayer sandbox evolution simulation
 - [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) ([v4.1](https://github.com/microsoft/CameraTraps/releases/tag/v4.1), 7 months ago) - Tools for training and running detectors and classifiers for wildlife images collected from motion-triggered cameras.
