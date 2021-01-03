@@ -2,6 +2,8 @@
 
 “Tsze-kung asked what constituted the superior man. The Master said, “He acts before he speaks, and afterwards speaks according to his actions.”” - Confucius
 
+I publicly write some of my notes and reflections on a wide range of topics [here](https://publish.obsidian.md/louis030195).
+
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
 {{range goodReadsCurrentlyReading 5}}
