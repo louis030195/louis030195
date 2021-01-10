@@ -17,7 +17,7 @@ I publicly write some of my notes and reflections on a wide range of topics [her
 
 
 #### 🗒 Medium posts
-{{range rss "https://medium.com/feed/@@louis.beaumont" 5}}
+{{range rss "https://medium.com/feed/@@louis-beaumont" 5}}
 - [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{- end}}
 
@@ -46,7 +46,7 @@ I publicly write some of my notes and reflections on a wide range of topics [her
 [<img src="assets/Website.png" alt="Website" width="40" height="40">](https://louis030195.com)
 [<img src="assets/Obsidian.png" alt="Obsidian" width="40" height="40">](https://publish.obsidian.md/louis030195)
 [<img src="assets/GitHub.png" alt="GitHub" width="40" height="40">](https://github.com/louis030195)
-[<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://medium.com/@louis.beaumont)
+[<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://louis-beaumont.medium.com)
 [<img src="assets/Twitch.png" alt="Twitch" width="40" height="40">](https://www.twitch.tv/louis030195)
 [<img src="assets/Twitter.png" alt="Twitter" width="40" height="40">](https://www.twitter.com/louis_3195)
 [<img src="assets/YouTube.png" alt="YouTube" width="40" height="40">](https://youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
