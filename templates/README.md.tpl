@@ -1,6 +1,6 @@
 ### 👋
 
-“Tsze-kung asked what constituted the superior man. The Master said, “He acts before he speaks, and afterwards speaks according to his actions.”” - Confucius
+"Only the autodidacts are free" - Nassim Taleb.
 
 I publicly write some of my notes and reflections on a wide range of topics [here](https://publish.obsidian.md/louis030195).
 
