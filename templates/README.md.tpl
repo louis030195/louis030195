@@ -17,7 +17,7 @@ I publicly write some of my notes and reflections on a wide range of topics [her
 
 
 #### 🗒 Medium posts
-{{range rss "https://medium.com/feed/@@louis-beaumont" 5}}
+{{range rss "https://medium.com/feed/@@louis030195" 5}}
 - [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{- end}}
 
