@@ -1,8 +1,12 @@
 ### 👋
 
-"Only the autodidacts are free" - Nassim Taleb.
+"We join spokes together in a wheel,
+but it is the center hole that makes the wagon move.
+We shape clay into a pot, but it is the emptiness inside that holds whatever we want.
+We hammer wood for a house, but it is the inner space that makes it livable.
+We work with being, but non-being is what we use." - Lao Tzu.
 
-I publicly write some of my notes and reflections on a wide range of topics [here](https://publish.obsidian.md/louis030195).
+Some messy thoughts [brain.louis030195.com](https://brain.louis030195.com).
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
@@ -44,7 +48,7 @@ I publicly write some of my notes and reflections on a wide range of topics [her
 #### 🔗 Links
 
 [<img src="assets/Website.png" alt="Website" width="40" height="40">](https://louis030195.com)
-[<img src="assets/Obsidian.png" alt="Obsidian" width="40" height="40">](https://publish.obsidian.md/louis030195)
+[<img src="assets/Obsidian.png" alt="Obsidian" width="40" height="40">](https://brain.louis030195.com)
 [<img src="assets/GitHub.png" alt="GitHub" width="40" height="40">](https://github.com/louis030195)
 [<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://louis-beaumont.medium.com)
 [<img src="assets/Twitch.png" alt="Twitch" width="40" height="40">](https://www.twitch.tv/louis030195)
