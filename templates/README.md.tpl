@@ -6,7 +6,7 @@ We shape clay into a pot, but it is the emptiness inside that holds whatever we 
 We hammer wood for a house, but it is the inner space that makes it livable.
 We work with being, but non-being is what we use." - Lao Tzu.
 
-Some messy thoughts [brain.louis030195.com](https://brain.louis030195.com).
+Data privacy is the root of all evil -> some of my (messy) thoughts: [brain.louis030195.com](https://brain.louis030195.com).
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
