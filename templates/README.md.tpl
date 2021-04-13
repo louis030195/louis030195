@@ -1,10 +1,6 @@
 ### 👋
 
-"We join spokes together in a wheel,
-but it is the center hole that makes the wagon move.
-We shape clay into a pot, but it is the emptiness inside that holds whatever we want.
-We hammer wood for a house, but it is the inner space that makes it livable.
-We work with being, but non-being is what we use." - Lao Tzu.
+When I grow up I want to be a learning machine.
 
 Data privacy is the root of all evil -> some of my (messy) thoughts: [brain.louis030195.com](https://brain.louis030195.com).
 
