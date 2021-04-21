@@ -19,7 +19,11 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-      
+
+      - run: |
+        pip install requests beautifulsoup4
+        echo -e "### 👋\n\n$(python3 hack.py)\n\n$(cat README.md)" > README.md
+
       - uses: actions/upload-artifact@v1
         with:
           name: README.md

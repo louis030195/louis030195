@@ -1,8 +1,6 @@
-### 👋
 
-When I grow up I want to be a learning machine.
 
-Data privacy is the root of all evil -> some of my (messy) thoughts: [brain.louis030195.com](https://brain.louis030195.com).
+[brain.louis030195.com](https://brain.louis030195.com)
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
