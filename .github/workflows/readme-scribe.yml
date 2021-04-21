@@ -21,8 +21,9 @@ jobs:
           writeTo: "README.md"
 
       - run: |
-        pip install requests beautifulsoup4
-        echo -e "### 👋\n\n$(python3 hack.py)\n\n$(cat README.md)" > README.md
+          sudo pip install requests beautifulsoup4
+          sudo chmod 777 README.md
+          sudo echo -e "### 👋 Favourite daily quotes from readwise.io/@louis\n\n$(sudo python3 hack.py)\n\n$(sudo cat README.md)" > README.md
 
       - uses: actions/upload-artifact@v1
         with:
