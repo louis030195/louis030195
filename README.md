@@ -8,34 +8,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
+          There are only two types of people in the world. People who want to live comfortably—they are seeking death, they want a comfortable grave. And people who want to live—they choose to live dangerously, because life thrives only when there is risk.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">(Osho Insights for a New Way of Living) Osho - Courage_ the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2011</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you do not undertake a risk of real harm, reparable or even potentially irreparable, from an adventure, it is not an adventure.
+          The technique is marvelously described in the classic management text The One Minute Manager. The basic idea is that people open up to feedback far more if you start by complimenting them (slice of bread number one), then you give them the difficult message (the shit), then wrap up by reminding them how much you value their strengths (slice of bread number two).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Journalism isn’t Lindy compatible. Information transmits organically by word of mouth, which circulates in a two-way manner.
+          The old word “will” now connotes only a sort of result, an individual reaction, that follows inevitably upon a series of partly discordant and partly harmonious stimuli—the will no longer “acts,” or “moves.”...
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -77,7 +77,7 @@
 
 #### ⚡ My Latest Gists
 
-- [Stop wasting your time on Tinder, setup a bot.](https://gist.github.com/0c6cae268c53a0d4199249c85f7387a2) - Created: 1 week ago
+- [Stop wasting your time on Tinder, setup a bot.](https://gist.github.com/0c6cae268c53a0d4199249c85f7387a2) - Created: 2 weeks ago
 - [Realtime, authoritative server-based, game networking and how to fool Einstein](https://gist.github.com/4d00e88b138c8a592b8d61a533cbb813) - Created: 3 months ago
 - [Unity ECS Utility AI (reinforcement learning-like but hard-coded state action values &amp; greedy policy)](https://gist.github.com/035a69f9c1935b463e29c0b530735686) - Created: 3 months ago
 - [Simple try of OVHcloud new service AI training https://www.ovhcloud.com/en/public-cloud/ai-training](https://gist.github.com/4cb9b0a288d368884b636bcb4900b21e) - Created: 4 months ago
@@ -96,8 +96,8 @@
 - [louis030195/helm-charts](https://github.com/louis030195/helm-charts) ([nakama-0.1.3](https://github.com/louis030195/helm-charts/releases/tag/nakama-0.1.3), 3 weeks ago) - Cloud native Helm charts for Kubernetes, including Nakama game server
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) ([0.1.0](https://github.com/louis030195/niwrad/releases/tag/0.1.0), 4 months ago) - Distributed multiplayer sandbox evolution simulation
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 5 months ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
-- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 5 months ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
-- [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) ([v4.1](https://github.com/microsoft/CameraTraps/releases/tag/v4.1), 11 months ago) - Tools for training and running detectors and classifiers for wildlife images collected from motion-triggered cameras.
+- [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 6 months ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
+- [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) ([v4.1](https://github.com/microsoft/CameraTraps/releases/tag/v4.1), 1 year ago) - Tools for training and running detectors and classifiers for wildlife images collected from motion-triggered cameras.
 
 #### 🔗 Links
 
