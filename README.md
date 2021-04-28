@@ -8,40 +8,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          All human knowledge is either experience or mathematics.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Health frees your body.
-
-Wealth frees your time.
-
-Purpose frees your spirit.
-
-Wisdom frees your mind.
+          Intelligence is the ability to solve problems. Consciousness is the ability to feel things such as pain, joy, love and anger.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Tweets From Ascendant Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@AscendantPower on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To put it another way: if wealth is giving you fewer options instead of more (and more varied) options, you’re doing it wrong.
+          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -83,7 +77,7 @@ Wisdom frees your mind.
 
 #### ⚡ My Latest Gists
 
-- [Apple App Store Connect API in Python](https://gist.github.com/269f7ba8525d889efa98f109460e4884) - Created: today
+- [Apple App Store Connect API in Python](https://gist.github.com/269f7ba8525d889efa98f109460e4884) - Created: 1 day ago
 - [Stop wasting your time on Tinder, setup a bot.](https://gist.github.com/0c6cae268c53a0d4199249c85f7387a2) - Created: 2 weeks ago
 - [Realtime, authoritative server-based, game networking and how to fool Einstein](https://gist.github.com/4d00e88b138c8a592b8d61a533cbb813) - Created: 3 months ago
 - [Unity ECS Utility AI (reinforcement learning-like but hard-coded state action values &amp; greedy policy)](https://gist.github.com/035a69f9c1935b463e29c0b530735686) - Created: 3 months ago
@@ -99,7 +93,7 @@ Wisdom frees your mind.
 
 #### 🔭 Latest releases I've contributed to
 
-- [louis030195/helm-charts](https://github.com/louis030195/helm-charts) ([nakama-0.1.3](https://github.com/louis030195/helm-charts/releases/tag/nakama-0.1.3), 4 weeks ago) - Cloud native Helm charts for Kubernetes, including Nakama game server
+- [louis030195/helm-charts](https://github.com/louis030195/helm-charts) ([nakama-0.1.3](https://github.com/louis030195/helm-charts/releases/tag/nakama-0.1.3), 1 month ago) - Cloud native Helm charts for Kubernetes, including Nakama game server
 - [louis030195/niwrad](https://github.com/louis030195/niwrad) ([0.1.0](https://github.com/louis030195/niwrad/releases/tag/0.1.0), 4 months ago) - Distributed multiplayer sandbox evolution simulation
 - [muesli/markscribe](https://github.com/muesli/markscribe) ([v0.3.0](https://github.com/muesli/markscribe/releases/tag/v0.3.0), 5 months ago) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜
 - [PrismarineJS/flying-squid](https://github.com/PrismarineJS/flying-squid) ([1.3.2](https://github.com/PrismarineJS/flying-squid/releases/tag/1.3.2), 6 months ago) - Create Minecraft servers with a powerful, stable, and high level JavaScript API.
