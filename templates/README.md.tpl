@@ -1,4 +1,7 @@
-[brain.louis030195.com](https://brain.louis030195.com)
+General activities automatically updated - [louis030195.com](https://louis030195.com)
+Some thoughts - [brain.louis030195.com](https://brain.louis030195.com)
+
+Currently building <https://angel.co/company/langame>
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
