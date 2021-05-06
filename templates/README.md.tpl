@@ -1,9 +1,9 @@
 
 #### 🤔
 
-Hi, I'm Louis, I do a lot of software bricolage and book reading.
-I enjoy learning every day about philosophy, hard sciences and of course everything around software (2.0).
-I'm a practitioner of no/very low carb diet (since 2019)(and I'm still alive, are grains for humans?),
+Hi, I'm Louis, I do a lot of software bricolage and book reading.  
+I enjoy learning every day about philosophy, hard sciences and of course everything around software (2.0).  
+I'm a practitioner of no/very low carb diet (since 2019)(and I'm still alive, are grains for humans?),  
 hormesis and such natural stressors human evolved in (inverse, always inverse).
 
 
