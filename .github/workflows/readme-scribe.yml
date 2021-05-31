@@ -20,6 +20,14 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
+      - name: Latest brain outputs
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+        run: |
+          sudo pip install PyGithub
+          sudo chmod 777 README.md
+          sudo echo -e "### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)\n\n$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})\n\n$(sudo cat README.md)" > README.md
+
       - run: |
           sudo pip install requests beautifulsoup4
           sudo chmod 777 README.md
