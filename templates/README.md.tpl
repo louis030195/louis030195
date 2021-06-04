@@ -32,12 +32,10 @@ Tinkering on <https://langa.me>.
 - [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{- end}}
 
-#### ⭐ My Latest Stars
-{{range recentStars 3}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}})
-{{end}}
+#### ⚡ My Latest Gists
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) - Created: {{humanize .CreatedAt}}
+{{- end}}
 
 #### 🌱 My latest projects
 {{range recentRepos 5}}
