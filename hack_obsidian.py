@@ -3,7 +3,7 @@ import sys
 TOKEN = sys.argv[1]
 g = Github(TOKEN)
 repo = g.get_repo("louis030195/brain")
-excludeds = [".obsidian", "css", "Private", ".jpeg", ".png", ".jpg", "Images", ".gitignore", ".mp4"]
+excludeds = [".obsidian", "css", "Private", ".jpeg", ".png", ".jpg", "Images", ".gitignore", ".mp4", "Excallidraw"]
 includeds = [".md"]
 things = []
 """

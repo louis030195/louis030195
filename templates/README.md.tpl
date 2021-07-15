@@ -1,18 +1,21 @@
 
 #### 🤔
 
-Hi, I'm Louis, I do a lot of software bricolage and book reading.  
-I enjoy learning every day about philosophy, hard sciences and of course everything around software (2.0).  
+Hi, I'm Louis, I do a lot of software bricolage,
+[book reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
+writing and thinking.
+I enjoy learning every day about philosophy, fundamental sciences, compound knowledge and everything around software 2.0 and "AI".
 
-This page show general activities automatically updated - [louis030195.com](https://louis030195.com)
+- General activities automatically updated - [louis030195.com](https://louis030195.com)
+- My second brain - [brain.louis030195.com](https://brain.louis030195.com)
 
-Some (messy) thoughts - [brain.louis030195.com](https://brain.louis030195.com)
-
-Tinkering on <https://langa.me>.
+Now, I am founder/co-founder of:
+- [langa.me](https://langa.me)
+- Software 2.0, GPT3+, based marketing-area startup
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
-{{range goodReadsCurrentlyReading 5}}
+{{range goodReadsCurrentlyReading 10}}
 - {{ range $index, $author := .Book.Authors}} {{if $index}},{{end}} **{{$author.Name}}** {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{humanize .DateUpdated}}
 {{- end}}
 
@@ -30,11 +33,6 @@ Tinkering on <https://langa.me>.
 #### 🎬 Youtube Videos
 {{range rss "https://www.youtube.com/feeds/videos.xml?channel_id=UCQyHp-A6Y4hwRt7qmi_TYOQ" 5}}
 - [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
-{{- end}}
-
-#### ⚡ My Latest Gists
-{{range gists 5}}
-- [{{.Description}}]({{.URL}}) - Created: {{humanize .CreatedAt}}
 {{- end}}
 
 #### 🌱 My latest projects
