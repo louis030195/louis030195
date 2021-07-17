@@ -7,7 +7,7 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          As one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
+          His defence would be that what he calls the mystical can be shown,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -18,23 +18,23 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The technique is marvelously described in the classic management text The One Minute Manager. The basic idea is that people open up to feedback far more if you start by complimenting them (slice of bread number one), then you give them the difficult message (the shit), then wrap up by reminding them how much you value their strengths (slice of bread number two).
+          If you take a journey into yourself, empty all the content that you have collected and go very, very deeply, then there is that vast space, that so-called emptiness, that is full of energy. And in that state alone there is that which is most sacred, most holy.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are no essential links between consciousness and either organic biochemistry or high intelligence. Hence computers might develop consciousness – but not necessarily. They could become super-intelligent while still having zero consciousness.
+          Let us discuss this. Can we as individuals put an end in ourselves to the causes of war? One of the causes is obviously belief, the division of ourselves as Hindus,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
@@ -49,6 +49,23 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li>Philosophy/Brain food.md</li>
+                    <li>Philosophy/Epistemology/Hierarchy.md</li>
+                    <li>Philosophy/Mind/Wandering Thoughts/Types of information.md</li>
+                    <li>Philosophy/My Brain food.md</li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-07-17 08:46:06</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -164,72 +181,6 @@
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-07-08 08:27:18</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li>Biology/Evolution/Hunter gatherer.md</li>
-                    <li>Biology/Neuroscience/Brain.md</li>
-                    <li>Computing/Computing.md</li>
-                    <li>Computing/Machine Learning/Semantic search.md</li>
-                    <li>Computing/Recursivity.md</li>
-                    <li>Excalidraw/Drawing 2021-07-05 09.15.58.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-05 09.15.58.svg</li>
-                    <li>Excalidraw/Drawing 2021-07-05 13.23.56.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-05 13.23.56.svg</li>
-                    <li>Excalidraw/Drawing 2021-07-05 22.10.30.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-05 22.10.30.svg</li>
-                    <li>Excalidraw/Drawing 2021-07-05 22.12.05.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-05 22.12.05.svg</li>
-                    <li>Excalidraw/Drawing 2021-07-06 08.55.54.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-06 08.55.54.svg</li>
-                    <li>Excalidraw/Drawing 2021-07-06 09.04.49.excalidraw</li>
-                    <li>Excalidraw/Drawing 2021-07-06 09.04.49.svg</li>
-                    <li>Mathematic/Fragile.md</li>
-                    <li>Mathematic/Godel Theorem.md</li>
-                    <li>Mathematic/Logic/Logic.md</li>
-                    <li>Mathematic/Mathematic.md</li>
-                    <li>Mathematic/Poincare.md</li>
-                    <li>Mathematic/Probability/Bayes.md</li>
-                    <li>Mathematic/Probability/Concavity.md</li>
-                    <li>Mathematic/Probability/Convexity.md</li>
-                    <li>Mathematic/Tensor.md</li>
-                    <li>Meta.md</li>
-                    <li>Philosophy/Disjointed thinking.md</li>
-                    <li>Philosophy/Epistemology/Hierarchy.md</li>
-                    <li>Philosophy/Human Society/Anthill/Anthill.md</li>
-                    <li>Philosophy/Human Society/Conversation.md</li>
-                    <li>Philosophy/Human Society/Politic/Communist.md</li>
-                    <li>Philosophy/Language.md</li>
-                    <li>Philosophy/Mind/Determinism.md</li>
-                    <li>Philosophy/Mind/Homo Deus.md</li>
-                    <li>Philosophy/Mind/Mental Models/Action.md</li>
-                    <li>Philosophy/Mind/Mental Models/Antifragility.md</li>
-                    <li>Philosophy/Mind/Mental Models/Asymmetric actions.md</li>
-                    <li>Philosophy/Mind/Mental Models/Compound Knowledge.md</li>
-                    <li>Philosophy/Mind/Mental Models/Monkey Brain.md</li>
-                    <li>Philosophy/Mind/Mind.md</li>
-                    <li>Philosophy/Mind/Psychology/Freud.md</li>
-                    <li>Philosophy/Mind/Psychology/Psychology.md</li>
-                    <li>Philosophy/Mind/Wandering Thoughts/Animals states.md</li>
-                    <li>Philosophy/Mind/Wandering Thoughts/Anonymous communication channels as higher sources of knowledge.md</li>
-                    <li>Philosophy/Rationalism/Rationalism.md</li>
-                    <li>Philosophy/Scholasticism/Aquinas.md</li>
-                    <li>Physic/Hawking.md</li>
-                    <li>Physic/Penrose.md</li>
-                    <li>Physic/Physic.md</li>
-                    <li>Physic/Relativity.md</li>
-                    <li>Physic/Sagan.md</li>
-                    <li>README.md</li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-07-06 09:14:15</p>
             </div>
         </div>
     </div>
