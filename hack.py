@@ -7,4 +7,5 @@ html_text = requests.get(URL).text
 soup = BeautifulSoup(html_text, 'html.parser')
 # divs = soup.find_all("div", {"class": "highlight-text"})
 divs = soup.find_all("div", {"class": "some-highlights"})
-print(str(divs[0]).replace('span style="background-color: #fff2ac', 'span style="background-color: #000000'))
+print(str(divs[0]).replace('span style="background-color: #fff2ac', 'span style="background-color: #000000'))\
+                    .replace('<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">', '<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">')

@@ -3,7 +3,7 @@ import sys
 TOKEN = sys.argv[1]
 g = Github(TOKEN)
 repo = g.get_repo("louis030195/brain")
-excludeds = [".obsidian", "css", "Private", ".jpeg", ".png", ".jpg", "Images", ".gitignore", ".mp4", "Excallidraw"]
+excludeds = [".obsidian", "css", "Private", ".jpeg", ".png", ".jpg", "Images", ".gitignore", ".mp4", "Excallidraw", ".vault-stats"]
 includeds = [".md"]
 things = []
 """
@@ -11,7 +11,7 @@ mega hack
 """
 skipped = 0
 for a in repo.get_commits()[0:5+skipped]:
-    lis_list = [f"                    <li>{f.filename}</li>" for f in a.files if all([e not in f.filename for e in excludeds])]
+    lis_list = [f"                    <li><a href=brain.louis030195.com/{f.filename}>{f.filename}</a></li>" for f in a.files if all([e not in f.filename for e in excludeds])]
     if len(lis_list) == 0:
         skipped += 1
         continue
