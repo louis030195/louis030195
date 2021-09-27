@@ -11,11 +11,17 @@ I enjoy learning every day about philosophy, fundamental sciences, compound know
 
 Now, I am founder/co-founder of:
 - [langa.me](https://langa.me)
-- Superhuman quality AI automation of copywriting
+- A [start-up](https://www.linkedin.com/company/76167459/admin/) that help e-commerce resellers write unique and accurate product with the help of AI.
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/15min', text: 'Schedule time with me', color: '#006bff', textColor: '#ffffff', branding: true }); }</script>
+<!-- Calendly badge widget end -->
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
-{{range goodReadsCurrentlyReading 10}}
+{{range goodReadsCurrentlyReading 5}}
 - {{ range $index, $author := .Book.Authors}} {{if $index}},{{end}} **{{$author.Name}}** {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{humanize .DateUpdated}}
 {{- end}}
 
@@ -53,3 +59,4 @@ Now, I am founder/co-founder of:
 [<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://louis-beaumont.medium.com)
 [<img src="assets/Goodreads.png" alt="Goodreads" width="40" height="40">](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 [<img src="assets/Readwise.png" alt="Readwise" width="40" height="40">](https://readwise.io/@louis)
+[<img src="assets/Linkedin.png" alt="Linkedin" width="40" height="40">](https://www.linkedin.com/in/louis030195/)
