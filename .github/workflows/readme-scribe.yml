@@ -32,6 +32,7 @@ jobs:
           sudo pip install requests beautifulsoup4
           sudo chmod 777 README.md
           sudo echo -e "### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)\n$(sudo python3 hack.py)\n\n$(sudo cat README.md)" > README.md
+          sudo echo -e "# 🐒 louis030195.com" > README.md
 
       - uses: actions/upload-artifact@v1
         with:
