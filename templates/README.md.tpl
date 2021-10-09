@@ -11,7 +11,7 @@ I enjoy learning every day about philosophy, fundamental sciences, compound know
 
 Now, I am founder/co-founder of:
 - [langa.me](https://langa.me)
-- A [start-up](https://www.linkedin.com/company/76167459/admin/) that help e-commerce resellers write unique and accurate product with the help of AI.
+- [inkdrop.ai](https://www.linkedin.com/company/inkdrop-ai/)
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
