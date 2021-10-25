@@ -9,7 +9,18 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are no such things as "mind," reason, thought, consciousness, soul, will, or truth: they all belong to fiction,
+          Buddhism is the only genuinely positive religion to be encountered in history,
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -20,23 +31,12 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          Proof.—If this be denied, conceive, if possible, that God does not exist: then his essence does not involve existence. But this (Prop. vii.) is absurd. Therefore God necessarily exists.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
@@ -51,6 +51,45 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Eugenics.md">Biology/Eugenics.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Humans are pretty good at human games.md">Biology/Evolution/Humans are pretty good at human games.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/The Victory Of Man At Nature's Game.md">Biology/Evolution/The Victory Of Man At Nature's Game.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Matt Ridley.md">Biology/Matt Ridley.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Sex.md">Biology/Sex.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Transhumanism/Health/The Internet made doctors obsolete.md">Biology/Transhumanism/Health/The Internet made doctors obsolete.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Entrepreneurship.md">Business/Entrepreneurship/Entrepreneurship.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Management.md">Business/Entrepreneurship/Management.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Red Queen Effect.md">Business/Entrepreneurship/Red Queen Effect.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Humans are in a Red Queen competition with AI.md">Computing/Intelligence/Humans are in a Red Queen competition with AI.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Humans are in a Red Queen competition with artificial intelligence.md">Computing/Intelligence/Humans are in a Red Queen competition with artificial intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine Learning/Academy.md">Computing/Intelligence/Machine Learning/Academy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine Learning/Attention.md">Computing/Intelligence/Machine Learning/Attention.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine Learning/Red Queen.md">Computing/Intelligence/Machine Learning/Red Queen.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine Learning/Yann Lecun.md">Computing/Intelligence/Machine Learning/Yann Lecun.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Optimization daemon.md">Computing/Intelligence/Optimization daemon.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Logic/The dogma of absoluteness.md">Mathematic/Causality/Logic/The dogma of absoluteness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Einstein, Godel, and the relativity of truth.md">Philosophy/Epistemology/Einstein, Godel, and the relativity of truth.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Logic/Russell.md">Philosophy/Epistemology/Logic/Russell.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Freedom/Krishnamurti.md">Philosophy/Freedom/Krishnamurti.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human Society/Conversation.md">Philosophy/Human Society/Conversation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human Society/Money.md">Philosophy/Human Society/Money.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Language.md">Philosophy/Language.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti model/Monkey Brain.md">Philosophy/Mind/Anti model/Monkey Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering Thoughts/The Thousand Pieces Soul.md">Philosophy/Mind/Wandering Thoughts/The Thousand Pieces Soul.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Relativity.md">Physic/Relativity.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-25 19:50:47</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -95,20 +134,6 @@
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-23 07:01:40</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Fine tuning OpenAI vulgarized to non-technical.md">Computing/Intelligence/Fine tuning OpenAI vulgarized to non-technical.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-22 18:38:33</p>
             </div>
         </div>
     </div>
