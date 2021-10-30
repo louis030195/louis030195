@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In any orthodox theory the wavefunction is complete and hence must collapse, so we must consider whether collapses could be generated in a relativistically invariant way.
+          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Ten years ago, you needed $5 million to start a business. Today, you need $70 and some coding skills.”
+          Making things is a joy—immensely satisfying. J. R. R. Tolkien suggests that God gave us the gift of subcreation, as a gift, just for our joy.2 After all, “The cattle on a thousand hills are mine. … If I were hungry, I would not tell you.”3 Designing per se is fun.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Frederick P. Brooks - The Design of Design_ Essays From a Computer Scientist-Addison-Wesley Professional</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2010</p>
 </div>
 </div>
 </div>
@@ -152,7 +152,7 @@ Now, I am founder/co-founder of:
 #### 🗒 Medium posts
 
 - [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 1 month ago
-- [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 2 months ago
+- [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 3 months ago
 - [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 8 months ago
 - [The best breakfast is a delightful book](https://louis030195.medium.com/the-best-breakfast-is-a-delightful-book-fa7f6962b202?source=rss-f1c331c9f256------2) - 9 months ago
 - [A simulation of evolution — Two](https://louis030195.medium.com/a-simulation-of-evolution-two-b26664d159a5?source=rss-f1c331c9f256------2) - 1 year ago
