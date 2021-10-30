@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The role of graphs in probabilistic and statistical modeling is threefold: 1 . to provide convenient means of expressing substantive assumptions; 2. to facilitate economical representation ofjoint probability functions; and 3. to facilitate effcient inferences from observations.
+          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People at McDonald’s get trained for their positions, but people with far more complicated jobs don’t. It makes no sense. Would you want to stand on the line of the untrained person at McDonald’s? Would you want to use the software written by the engineer who was never told how the rest of the code worked?
+          If you take a journey into yourself, empty all the content that you have collected and go very, very deeply, then there is that vast space, that so-called emptiness, that is full of energy. And in that state alone there is that which is most sacred, most holy.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A probabilistic model is an encoding of information that permits us to compute the probability of every well-formed sentence S in accordance with the axioms of (1 .1)-(1.3).
+          If a man be lucky, there is no foretelling the possible extent of his good fortune. Pitch him into the Euphrates and like as not he will swim out with a pearl in his hand.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
@@ -51,6 +51,26 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Business/Langame 😛 on the metaverse.md">Business/Langame 😛 on the metaverse.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Langame 😛.md">Business/Langame 😛.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Halting problem.md">Computing/Halting problem.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/AIXI.md">Computing/Intelligence/AIXI.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Artificial universal intelligence.md">Computing/Intelligence/Artificial universal intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Meme-2.md">Readwise/Articles/Meme-2.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Meme.md">Readwise/Articles/Meme.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-30 09:43:35</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -89,20 +109,6 @@
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-27 13:22:32</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Deep work.md">Business/Entrepreneurship/Deep work.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-10-27 09:52:29</p>
             </div>
         </div>
     </div>
