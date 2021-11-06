@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+          Rather than just raising cash as they grow their businesses, the smartest entrepreneurs select venture capitalists who can deliver valuable services. The best venture capitalists have access to the best networks, which further amplifies their value.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          The rarest (and most valuable) thing on this planet: a clear mind.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Tweets From Nassim Nicholas Taleb</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@nntaleb on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He knows that he cannot reveal himself to anybody: he thinks it bad taste to become familiar; and as a rule he is not familiar when people think he is. When he is not talking to his soul, he wears a mask. He would rather lie than tell the truth, because lying requires more spirit and will.
+          Nevertheless he is capable of conveying his ethical opinions. His defence would be that what he calls the mystical can be shown,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -51,6 +51,33 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Transhumanism/Health/Fasting is non-linear.md">Biology/Transhumanism/Health/Fasting is non-linear.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Transhumanism/Health/Fasting.md">Biology/Transhumanism/Health/Fasting.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Software Engineering/Untitled.md">Computing/Software Engineering/Untitled.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.11.55.excalidraw.md">Excalidraw/Drawing 2021-11-05 12.11.55.excalidraw.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.11.55.excalidraw.svg">Excalidraw/Drawing 2021-11-05 12.11.55.excalidraw.svg</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.14.13.excalidraw.md">Excalidraw/Drawing 2021-11-05 12.14.13.excalidraw.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.14.13.excalidraw.svg">Excalidraw/Drawing 2021-11-05 12.14.13.excalidraw.svg</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.18.45.excalidraw.md">Excalidraw/Drawing 2021-11-05 12.18.45.excalidraw.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.18.45.excalidraw.svg">Excalidraw/Drawing 2021-11-05 12.18.45.excalidraw.svg</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.25.28.excalidraw.md">Excalidraw/Drawing 2021-11-05 12.25.28.excalidraw.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Excalidraw/Drawing 2021-11-05 12.25.28.excalidraw.svg">Excalidraw/Drawing 2021-11-05 12.25.28.excalidraw.svg</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Tradition of knowledge.md">Philosophy/Epistemology/Tradition of knowledge.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human Society/Groupism.md">Philosophy/Human Society/Groupism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Philosophaster.md">Philosophy/Philosophaster.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-06 08:26:26</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
