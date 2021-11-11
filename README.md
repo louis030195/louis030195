@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The old word “will” now connotes only a sort of result, an individual reaction, that follows inevitably upon a series of partly discordant and partly harmonious stimuli—the will no longer “acts,” or “moves.”...
+          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Antichrist</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Consider a more extreme example than the casino experiment. Assume a collection of people play Russian roulette a single time for a million dollars—this is the central story in Fooled by Randomness. About five out of six will make money. If someone used a standard cost-benefit analysis, he would have claimed that one has an 83.33 percent chance of gains, for an “expected” average return per shot of $833,333. But if you keep playing Russian roulette, you will end up in the cemetery. Your expected return is … not computable.
+          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All human knowledge is either experience or mathematics.
+          From this Anaximander concluded that human beings arose from other animals with more self-reliant newborns: He proposed the spontaneous origin of life in mud, the first animals being fish covered with spines. Some descendants of these fishes eventually abandoned the water and moved to dry land, where they evolved into other animals by the transmutation of one form into another.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Cosmos</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Carl Sagan</p>
 </div>
 </div>
 </div>
@@ -157,19 +157,18 @@ Now, I am founder/co-founder of:
 
 #### 📚 What I'm currently reading
 
+-   **Edwin Emery Slosson**  - [Easy Lessons in Einstein: A Discussion of the More Intelligible Features of the Theory of Relativity](https://www.goodreads.com/book/show/6398560-easy-lessons-in-einstein) - Thu Nov 11 09:44:49 -0800 2021
 -   **Karl Popper**  - [The Logic of Scientific Discovery](https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery) - Sun Oct 24 04:52:00 -0700 2021
--   **Adam Smith**  - [An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.goodreads.com/book/show/25698.An_Inquiry_into_the_Nature_and_Causes_of_the_Wealth_of_Nations) - Fri Oct 08 00:12:02 -0700 2021
--   **Immanuel Kant**  - [The Critique of Practical Reason](https://www.goodreads.com/book/show/18925384-the-critique-of-practical-reason) - Fri Sep 17 11:31:16 -0700 2021
 -   **Bertrand Russell**  - [The Principles of Mathematics](https://www.goodreads.com/book/show/51785.The_Principles_of_Mathematics) - Sat Sep 04 06:13:54 -0700 2021
 -   **Bertrand Russell**  - [Introduction to Mathematical Philosophy](https://www.goodreads.com/book/show/31886.Introduction_to_Mathematical_Philosophy) - Sat Sep 04 06:13:27 -0700 2021
 
 #### ✍ My latest Goodreads reviews
 
+-   **Adam Smith**  - [An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.goodreads.com/book/show/25698.An_Inquiry_into_the_Nature_and_Causes_of_the_Wealth_of_Nations) - 5/5 - Thu Nov 11 09:44:22 -0800 2021
+-   **Immanuel Kant**  - [The Critique of Practical Reason](https://www.goodreads.com/book/show/18925384-the-critique-of-practical-reason) - 4/5 - Thu Nov 11 09:44:41 -0800 2021
 -   **Walter Isaacson**  - [Einstein: His Life and Universe](https://www.goodreads.com/book/show/10884.Einstein) - 4/5 - Mon Oct 25 09:18:44 -0700 2021
 -   **Matt Ridley**  - [The Red Queen: Sex and the Evolution of Human Nature](https://www.goodreads.com/book/show/16176.The_Red_Queen) - 5/5 - Wed Oct 20 22:54:35 -0700 2021
 -   **Walter Isaacson**  - [Steve Jobs](https://www.goodreads.com/book/show/11084145-steve-jobs) - 5/5 - Wed Oct 20 00:57:43 -0700 2021
--   **Walter Isaacson**  - [Leonardo da Vinci](https://www.goodreads.com/book/show/34684622-leonardo-da-vinci) - 5/5 - Sat Oct 16 03:50:13 -0700 2021
--   **Plutarch**  - [Plutarch&#39;s Lives: Volume I](https://www.goodreads.com/book/show/415634.Plutarch_s_Lives) - 4/5 - Mon Sep 20 06:50:55 -0700 2021
 
 
 #### 🗒 Medium posts
