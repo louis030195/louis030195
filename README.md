@@ -9,18 +9,7 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are only two priorities for a startup: winning the market and not running out of cash. Running lean is not an end.”
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
+          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -31,7 +20,18 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          Those interested in the complexities involved in a counterfactual analysis of causation can do no better than David Lewis’ “Causation” (1986, pp. 159–213)
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          There is no such thing as a cause or an effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -175,7 +175,7 @@ Now, I am founder/co-founder of:
 
 #### 🗒 Medium posts
 
-- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 1 month ago
+- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 2 months ago
 - [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 3 months ago
 - [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 9 months ago
 - [The best breakfast is a delightful book](https://louis030195.medium.com/the-best-breakfast-is-a-delightful-book-fa7f6962b202?source=rss-f1c331c9f256------2) - 10 months ago
@@ -183,7 +183,7 @@ Now, I am founder/co-founder of:
 
 #### 🎬 Youtube Videos
 
-- [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 4 weeks ago
+- [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 1 month ago
 - [Quick programming language translation using OpenAI Codex](https://www.youtube.com/watch?v=RUCUxFHtJvw) - 1 month ago
 - [Langame - Baldwin Effect](https://www.youtube.com/watch?v=1FGdzDMfLBg) - 1 month ago
 - [Langame - Red Queen Effect](https://www.youtube.com/watch?v=wmwRHWftAj8) - 4 months ago
@@ -199,7 +199,7 @@ Now, I am founder/co-founder of:
 
 #### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.0](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.0), 2 days ago) - Langame Helm charts for Kubernetes deployments
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.0](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.0), 3 days ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 1 month ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.2](https://github.com/louis030195/firebase-data/releases/tag/v1.0.2), 1 month ago) - Easily manage data between Firebase projects.
 - [louis030195/codex-code-translation](https://github.com/louis030195/codex-code-translation) ([v1.0.3](https://github.com/louis030195/codex-code-translation/releases/tag/v1.0.3), 1 month ago) - Automatic code translation using OpenAI Codex
