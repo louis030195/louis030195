@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For each candidate for a given role, ask the same or similar interview questions. This will allow you to calibrate candidates across identical questions.
+          Rationality is risk management, period.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is no relationship between work done and money received; the individual should, according to his kind, be so placed as to perform the highest that is compatible with his powers.
+          Ten years ago, you needed $5 million to start a business. Today, you need $70 and some coding skills.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The man of knowledge must be able not only to love his enemies, but also to hate his friends.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Thus Spake Zarathustra</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To suppose that these are cases in which custom has conquered nature, so that the Indians no longer feel frost and fire, would be an erroneous conclusion because nature can never be overcome.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -51,6 +51,42 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Plato's allegory.md">Philosophy/Epistemology/Rationalism/Plato's allegory.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Everything we see is mostly air.md">Physic/Everything we see is mostly air.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/We are optimized for survival not for understanding physics.md">Physic/We are optimized for survival not for understanding physics.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-19 13:00:53</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Game Theory/Game Theory.md">Mathematic/Game Theory/Game Theory.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering Thoughts/The Matrix is reality.md">Philosophy/Mind/Wandering Thoughts/The Matrix is reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering Thoughts/Why The Matrix Is Not Worse Than Reality.md">Philosophy/Mind/Wandering Thoughts/Why The Matrix Is Not Worse Than Reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Artificial reality.md">Physic/Artificial reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Nuclear/The nuclear bomb - Disjointed thinking - Artificial intelligence bomb.md">Physic/Nuclear/The nuclear bomb - Disjointed thinking - Artificial intelligence bomb.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Nuclear/The nuclear bomb is a recursive function.md">Physic/Nuclear/The nuclear bomb is a recursive function.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Organic reality.md">Physic/Organic reality.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-19 12:30:56</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -93,41 +129,6 @@
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Cloud native vs high level cloud.md">Business/Entrepreneurship/Cloud native vs high level cloud.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/The mailbox is your worst enemy.md">Business/Entrepreneurship/The mailbox is your worst enemy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Do not vomit what you did not not digest well enough.md">Philosophy/Epistemology/Do not vomit what you did not not digest well enough.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic status.md">Philosophy/Epistemology/Epistemic status.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-18 15:16:13</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Do not vomit what you did not not digest well enough.md">Philosophy/Epistemology/Do not vomit what you did not not digest well enough.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic humility.md">Philosophy/Epistemology/Epistemic humility.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Knowledge.md">Philosophy/Epistemology/Knowledge.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/The learned necessarily holds higher ethics.md">Philosophy/Ethic/The learned necessarily holds higher ethics.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental Model/Action.md">Philosophy/Mind/Mental Model/Action.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-18 14:46:14</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
@@ -155,10 +156,9 @@ Now, I am founder/co-founder of:
 
 #### 📚 What I'm currently reading
 
+-   **Max  Tegmark**  - [Our Mathematical Universe: My Quest for the Ultimate Nature of Reality](https://www.goodreads.com/book/show/19395553-our-mathematical-universe) - Fri Nov 19 03:27:42 -0800 2021
 -   **Jared Diamond**  - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) - Sun Nov 14 12:31:17 -0800 2021
 -   **Karl Popper**  - [The Logic of Scientific Discovery](https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery) - Sun Oct 24 04:52:00 -0700 2021
--   **Bertrand Russell**  - [The Principles of Mathematics](https://www.goodreads.com/book/show/51785.The_Principles_of_Mathematics) - Sat Sep 04 06:13:54 -0700 2021
--   **Bertrand Russell**  - [Introduction to Mathematical Philosophy](https://www.goodreads.com/book/show/31886.Introduction_to_Mathematical_Philosophy) - Sat Sep 04 06:13:27 -0700 2021
 
 #### ✍ My latest Goodreads reviews
 
