@@ -9,18 +9,18 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
+          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Marcus Tullius Cicero - On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          That everything recurs, is the very nearest approach of a world of Becoming to a world of Being, the height of contemplation.
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -31,11 +31,11 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The ascertaining of "truth" and "untruth," the ascertaining of facts in general, is fundamentally different from the creative placing, forming, moulding, subduing, and willing which lies at the root of philosophy.
+          The old word “will” now connotes only a sort of result, an individual reaction, that follows inevitably upon a series of partly discordant and partly harmonious stimuli—the will no longer “acts,” or “moves.”...
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Antichrist</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
