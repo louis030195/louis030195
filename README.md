@@ -9,18 +9,7 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All human knowledge is either experience or mathematics.
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -31,12 +20,33 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sel-ontented a he is, ten, he doe need fend - ad wants as many of them a possible - but not to eable him to lead a happy life; t he will have even without fends. The spreme ideal does not cl for ay exter aids. It is home grow, wholly self-developed. Once it start looking outide itselfor any pat ofitselit i on the way to beig domated by fortne.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          For a few centuries man has tried to make himself like a machine.
+
+He's learned to arrive on time.
+
+He's learned to repeat after teacher.
+
+He's learned to do repetitious tasks reliably.
+
+Machines are now better at being machines than man is.
+
+Man must now relearn how to be man.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Tweets From the Stoic Emperor</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@TheStoicEmperor on Twitter</p>
 </div>
 </div>
 </div>
@@ -51,6 +61,81 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Entrepreneurship brain food.md">Business/Entrepreneurship/Entrepreneurship brain food.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Entrepreneurship.md">Business/Entrepreneurship/Entrepreneurship.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human Society/Resentment is compound social friction.md">Philosophy/Human Society/Resentment is compound social friction.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-24 12:50:09</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Air.md">Biology/Health/Air.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Alchohol.md">Biology/Health/Alchohol.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Antifragility.md">Biology/Health/Antifragility.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Bacopa monniera.md">Biology/Health/Bacopa monniera.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Barbell strategy.md">Biology/Health/Barbell strategy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Carbohydrates.md">Biology/Health/Carbohydrates.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Chocolate and the monkey brain.md">Biology/Health/Chocolate and the monkey brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Coffee.md">Biology/Health/Coffee.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Cold shower.md">Biology/Health/Cold shower.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Creatine.md">Biology/Health/Creatine.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Fasting is non-linear.md">Biology/Health/Fasting is non-linear.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Fasting.md">Biology/Health/Fasting.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Fermentation.md">Biology/Health/Fermentation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Fruitarianism.md">Biology/Health/Fruitarianism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Health.md">Biology/Health/Health.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Hormesis.md">Biology/Health/Hormesis.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/How to do Lindy-proof push-ups.md">Biology/Health/How to do Lindy-proof push-ups.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Hyperventilation.md">Biology/Health/Hyperventilation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Intellectual activity is nonlinear.md">Biology/Health/Intellectual activity is nonlinear.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Ketogenic.md">Biology/Health/Ketogenic.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/L-theanine.md">Biology/Health/L-theanine.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Lack of randomness.md">Biology/Health/Lack of randomness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Lindy Effect.md">Biology/Health/Lindy Effect.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Meat.md">Biology/Health/Meat.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Mithridatism.md">Biology/Health/Mithridatism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Modern nutrition.md">Biology/Health/Modern nutrition.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Nootropics.md">Biology/Health/Nootropics.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Physical activity is nonlinear.md">Biology/Health/Physical activity is nonlinear.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Polyphasic sleep.md">Biology/Health/Polyphasic sleep.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Probiotics.md">Biology/Health/Probiotics.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Protein.md">Biology/Health/Protein.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Refined oils.md">Biology/Health/Refined oils.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Resistance training.md">Biology/Health/Resistance training.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Rhodiola Rosea.md">Biology/Health/Rhodiola Rosea.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Salt.md">Biology/Health/Salt.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Social.md">Biology/Health/Social.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Taubes.md">Biology/Health/Taubes.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/The Internet made doctors obsolete.md">Biology/Health/The Internet made doctors obsolete.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/The stomach is the first brain.md">Biology/Health/The stomach is the first brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Thinking.md">Biology/Health/Thinking.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Veganism.md">Biology/Health/Veganism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Whey.md">Biology/Health/Whey.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Why I tend to only consume ugly food.md">Biology/Health/Why I tend to only consume ugly food.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Transhumanism/Health/Resistance training.md">Biology/Transhumanism/Health/Resistance training.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental Model/Barbell strategy.md">Philosophy/Mind/Mental Model/Barbell strategy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental Model/Lindy Effect.md">Philosophy/Mind/Mental Model/Lindy Effect.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-24 12:20:10</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -98,39 +183,6 @@
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-23 21:16:33</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Quantum/Human brain is a Quantum computer.md">Computing/Quantum/Human brain is a Quantum computer.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Quantum/Quantum computers are Quantum multiverses.md">Computing/Quantum/Quantum computers are Quantum multiverses.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Quantum/Quantum.md">Computing/Quantum/Quantum.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-23 16:38:43</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Our universe.md">Physic/Cosmos/Our universe.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Quantum multiverse.md">Physic/Cosmos/Quantum multiverse.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/The Universe is Lego.md">Physic/The Universe is Lego.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/We are optimized for survival not for understanding physics.md">Physic/We are optimized for survival not for understanding physics.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-11-23 15:30:13</p>
             </div>
         </div>
     </div>
