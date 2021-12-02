@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To combat determinism and teleology.—From the fact that something happens regularly, and that its occurrence may be reckoned upon, it does not follow that it happens necessarily. If a quantity of force determines and conducts itself in a certain way in every particular case, it does not prove that it has "no free will."
+          It is impossible to tell from the picture alone whether it 2.224 is true or false.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Genes are the primary policy-makers; brains are the executives. But as brains became more highly developed, they took over more and more of the actual policy decisions, using tricks like learning and simulation in doing so. The logical conclusion to this trend, not yet reached in any species, would be for the genes to give the survival machine a single overall policy instruction: do whatever you think best to keep us alive.
+          The best companies are almost always mission oriented.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Richard Dawkins - The Selfish Gene</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          His tendency is to explain Mozart's perfected being, just as a schoolmaster would, as a supreme and special gift rather than as the outcome of his immense powers of surrender and suffering, of his indifference to the ideals of the bourgeois, and of his patience under that last extremity of loneliness which rarefies the atmosphere of the bourgeois world to an ice-cold ether, around those who suffer to become men, that loneliness of the Garden of Gethsemane.
+          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Hermann Hesse - Steppenwolf_ a Novel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2002</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Matt Ridley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
 </div>
 </div>
 </div>
@@ -176,8 +176,8 @@ Now, I am founder/co-founder of:
 
 #### 🎬 Youtube Videos
 
-- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 4 days ago
-- [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 4 days ago
+- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 5 days ago
+- [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 5 days ago
 - [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 1 month ago
 - [Quick programming language translation using OpenAI Codex](https://www.youtube.com/watch?v=RUCUxFHtJvw) - 2 months ago
 - [Langame - Baldwin Effect](https://www.youtube.com/watch?v=1FGdzDMfLBg) - 2 months ago
@@ -192,7 +192,7 @@ Now, I am founder/co-founder of:
 
 #### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 1 day ago) - Langame Helm charts for Kubernetes deployments
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 2 days ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 1 month ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.2](https://github.com/louis030195/firebase-data/releases/tag/v1.0.2), 2 months ago) - Easily manage data between Firebase projects.
 - [louis030195/codex-code-translation](https://github.com/louis030195/codex-code-translation) ([v1.0.3](https://github.com/louis030195/codex-code-translation/releases/tag/v1.0.3), 2 months ago) - Automatic code translation using OpenAI Codex
