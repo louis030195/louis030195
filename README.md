@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He understands good, the state of goodness, as something which promotes health.
+          If your private actions do not generalize, then you cannot have general ideas.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Antichrist</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The uselessness of the mechanical theory—it gives the impression that there can be no purpose.
+          Making things is a joy—immensely satisfying. J. R. R. Tolkien suggests that God gave us the gift of subcreation, as a gift, just for our joy.2 After all, “The cattle on a thousand hills are mine. … If I were hungry, I would not tell you.”3 Designing per se is fun.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Frederick P. Brooks - The Design of Design_ Essays From a Computer Scientist-Addison-Wesley Professional</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2010</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is knowledge of the present only when there is a complete understanding of what the structure and the nature of the past is—and ending it.
+          Of all people only those are at leisure who make time for philosophy, only those are really alive.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Seneca - On the Shortness of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 2004</p>
 </div>
 </div>
 </div>
@@ -204,7 +204,7 @@ Now, I am founder/co-founder of:
 
 #### 🔭 Latest releases I've contributed to
 
-- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 5 days ago) - Built Docker images to make Gitpod boot faster
+- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 6 days ago) - Built Docker images to make Gitpod boot faster
 - [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 1 week ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 2 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.2](https://github.com/louis030195/firebase-data/releases/tag/v1.0.2), 2 months ago) - Easily manage data between Firebase projects.
