@@ -9,18 +9,18 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
+          Let us discuss this. Can we as individuals put an end in ourselves to the causes of war? One of the causes is obviously belief, the division of ourselves as Hindus,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best enemy is the one you own by putting skin in his game and letting him know the exact rules that come with it. You keep him alive, with the knowledge that he owes his life to your benevolence. The notion that an enemy you own is better than a dead one was perfected by the order of the Assassins, so we will do some digging into the work of that secret society.
+          Herb Simon, who pioneered artificial intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician, and decision theorist Ken Binmore, who spent his life formulating the logical foundations of rationality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -31,12 +31,12 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I'm still ting over the pages of Epicurus, and the followng sying, one I read today, comes fom him: 'To win tre freedom you must be a slave to phlosophy.' A person who surenders ad subjects himsel to her doesn't have his application deferred from day to day ; he's emancipated on te spot, the very service of phosophy being fe dom.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -201,7 +201,7 @@ Now, I am founder/co-founder of:
 
 #### 🔭 Latest releases I've contributed to
 
-- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 6 days ago) - Built Docker images to make Gitpod boot faster
+- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 1 week ago) - Built Docker images to make Gitpod boot faster
 - [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 1 week ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 2 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.2](https://github.com/louis030195/firebase-data/releases/tag/v1.0.2), 2 months ago) - Easily manage data between Firebase projects.
