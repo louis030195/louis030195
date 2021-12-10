@@ -19,6 +19,10 @@ Now, I am founder/co-founder of:
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/15min', text: 'Schedule time with me', color: '#90a959', textColor: '#000000', branding: true }); }</script>
 <!-- Calendly badge widget end -->
 
+#### 🎙 My recent podcast episodes
+{{range rss "https://anchor.fm/s/7871f944/podcast/rss" 5}}
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+{{- end}}
 
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 #### 📚 What I'm currently reading
