@@ -1,17 +1,14 @@
 
-#### 🤔
+#### [louis030195.com](https://louis030195.com) 🤔
 
 Hi, I'm Louis, I do a lot of software bricolage,
 [book reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
-writing and thinking.
+[writing and thinking](https://brain.louis030195.com).
 I enjoy learning every day about philosophy, fundamental sciences, compound knowledge, transhumanism and everything around software 2.0, "AI".
 
-- General activities automatically updated - [louis030195.com](https://louis030195.com)
-- My second brain - [brain.louis030195.com](https://brain.louis030195.com)
-
-Now, I am founder/co-founder of:
+I am co-founder of:
 - [langa.me](https://langa.me)
-- [inkdrop.ai](https://www.linkedin.com/company/inkdrop-ai/)
+- [inkdrop.ai](https://inkdrop.ai)
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
