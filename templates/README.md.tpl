@@ -1,7 +1,7 @@
 
 #### [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I do a lot of software bricolage,
+Hi, I'm Louis, I do a lot of [software bricolage](https://github.com/louis030195),
 [book reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing and thinking](https://brain.louis030195.com).
 I enjoy learning every day about philosophy, fundamental sciences, compound knowledge, transhumanism and everything around software 2.0, "AI".
@@ -52,13 +52,3 @@ I am co-founder of:
 {{range recentReleases 5}}
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
-
-#### 🔗 Links
-
-[<img src="assets/Website.png" alt="Website" width="40" height="40">](https://louis030195.com)
-[<img src="assets/Obsidian.png" alt="Obsidian" width="40" height="40">](https://brain.louis030195.com)
-[<img src="assets/GitHub.png" alt="GitHub" width="40" height="40">](https://github.com/louis030195)
-[<img src="assets/Medium.png" alt="Medium" width="40" height="40">](https://louis-beaumont.medium.com)
-[<img src="assets/Goodreads.png" alt="Goodreads" width="40" height="40">](https://www.goodreads.com/user/show/103091881-louis-beaumont)
-[<img src="assets/Readwise.png" alt="Readwise" width="40" height="40">](https://readwise.io/@louis)
-[<img src="assets/Linkedin.png" alt="Linkedin" width="40" height="40">](https://www.linkedin.com/in/louis030195/)
