@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best companies are almost always mission oriented.
+          His defence would be that what he calls the mystical can be shown,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In the past, it was a relatively safe bet to follow the adults, because they knew the world quite well, and the world changed slowly. But the twenty-first century is going to be different. Due to the growing pace of change you can never be certain whether what the adults are telling you is timeless wisdom or outdated bias.
+          Rationality is risk management, period.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          My observation was that once a person actually completed a play or a novel, he was well on his way to getting it produced or published, as opposed to a vast majority of people who tell me their ambition is to write, but who strike out on the very first level and indeed never write the play or book. In the midst of the conversation, as I’m now trying to recall, I did say that 80 percent of success is showing up.
+          Altered is Zarathustra; a child hath Zarathustra become; an awakened one is Zarathustra: what wilt thou do in the land of the sleepers?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -147,8 +147,8 @@ I am co-founder of:
 
 #### 🎙 My recent podcast episodes
 
-- [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (6 days ago)
-- [The centralised state is obsolete](https://anchor.fm/louis030195/episodes/The-centralised-state-is-obsolete-e1bh4n0) (6 days ago)
+- [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (1 week ago)
+- [The centralised state is obsolete](https://anchor.fm/louis030195/episodes/The-centralised-state-is-obsolete-e1bh4n0) (1 week ago)
 - [Our senses do not reflect reality](https://anchor.fm/louis030195/episodes/Our-senses-do-not-reflect-reality-e1bg9tg) (1 week ago)
 - [Artificial intelligence will not apply the Silver rule unto humans](https://anchor.fm/louis030195/episodes/Artificial-intelligence-will-not-apply-the-Silver-rule-unto-humans-e1bg94g) (1 week ago)
 
@@ -181,8 +181,8 @@ I am co-founder of:
 - [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 2 weeks ago
 - [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 2 weeks ago
 - [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 2 months ago
-- [Quick programming language translation using OpenAI Codex](https://www.youtube.com/watch?v=RUCUxFHtJvw) - 2 months ago
-- [Langame - Baldwin Effect](https://www.youtube.com/watch?v=1FGdzDMfLBg) - 2 months ago
+- [Quick programming language translation using OpenAI Codex](https://www.youtube.com/watch?v=RUCUxFHtJvw) - 3 months ago
+- [Langame - Baldwin Effect](https://www.youtube.com/watch?v=1FGdzDMfLBg) - 3 months ago
 
 #### 🌱 My latest projects
 
