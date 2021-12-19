@@ -9,18 +9,18 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In the past, it was a relatively safe bet to follow the adults, because they knew the world quite well, and the world changed slowly. But the twenty-first century is going to be different. Due to the growing pace of change you can never be certain whether what the adults are telling you is timeless wisdom or outdated bias.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          This chapter will ease us to the next section: a) rationality resides in what you do, not in what you think or in what you “believe” (skin in the game), and b) rationality is about survival.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -31,7 +31,7 @@
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
+          That everything recurs, is the very nearest approach of a world of Becoming to a world of Being, the height of contemplation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -51,6 +51,46 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Eat to feed the body, not the emotions.md">Biology/Health/Eat to feed the body, not the emotions.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Ideas/Poem to movie.md">Computing/Intelligence/Ideas/Poem to movie.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-12-19 13:28:14</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Humans are in a Red Queen competition with artificial intelligence.md">Computing/Intelligence/Humans are in a Red Queen competition with artificial intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Geometry/Lobachevsky geometry.md">Mathematic/Geometry/Lobachevsky geometry.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Geometry/Platonic solid.md">Mathematic/Geometry/Platonic solid.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Geometry/Tessellation.md">Mathematic/Geometry/Tessellation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Godel Theorem.md">Mathematic/Godel Theorem.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Abstract.md">Philosophy/Art/Abstract.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Art.md">Philosophy/Art/Art.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Creations.md">Philosophy/Art/Creations.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Escher.md">Philosophy/Art/Escher.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Impressionism.md">Philosophy/Art/Impressionism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering Thoughts/The Matrix is reality.md">Philosophy/Mind/Wandering Thoughts/The Matrix is reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/We are optimized for survival not for understanding physics.md">Physic/We are optimized for survival not for understanding physics.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-12-19 12:13:28</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -92,21 +132,6 @@
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-12-18 07:44:48</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Computers were created to automate man.md">Computing/Computers were created to automate man.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Independent thinking.md">Philosophy/Mind/Independent thinking.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-12-17 20:31:33</p>
             </div>
         </div>
     </div>
