@@ -9,29 +9,29 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
+          All human knowledge is either experience or mathematics.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Herb Simon, who pioneered artificial intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician, and decision theorist Ken Binmore, who spent his life formulating the logical foundations of rationality.
+          A great founding strategy is contrarian and right. That ensures that, at least for an important initial time, no one is coming after you. Eventually, people will come after you if you’re on to something good.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is no relationship between work done and money received; the individual should, according to his kind, be so placed as to perform the highest that is compatible with his powers.
+          The logical denial of the world and Nihilism is a consequence of the fact that we must oppose nonentity with Being, and that Becoming is denied.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -118,8 +118,8 @@ I am co-founder of:
 
 - [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (1 week ago)
 - [The centralised state is obsolete](https://anchor.fm/louis030195/episodes/The-centralised-state-is-obsolete-e1bh4n0) (1 week ago)
-- [Our senses do not reflect reality](https://anchor.fm/louis030195/episodes/Our-senses-do-not-reflect-reality-e1bg9tg) (1 week ago)
-- [Artificial intelligence will not apply the Silver rule unto humans](https://anchor.fm/louis030195/episodes/Artificial-intelligence-will-not-apply-the-Silver-rule-unto-humans-e1bg94g) (1 week ago)
+- [Our senses do not reflect reality](https://anchor.fm/louis030195/episodes/Our-senses-do-not-reflect-reality-e1bg9tg) (2 weeks ago)
+- [Artificial intelligence will not apply the Silver rule unto humans](https://anchor.fm/louis030195/episodes/Artificial-intelligence-will-not-apply-the-Silver-rule-unto-humans-e1bg94g) (2 weeks ago)
 
 
 #### 📚 What I'm currently reading
@@ -163,7 +163,7 @@ I am co-founder of:
 
 #### 🔭 Latest releases I've contributed to
 
-- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 2 weeks ago) - Built Docker images to make Gitpod boot faster
+- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 3 weeks ago) - Built Docker images to make Gitpod boot faster
 - [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 3 weeks ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 2 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.2](https://github.com/louis030195/firebase-data/releases/tag/v1.0.2), 2 months ago) - Easily manage data between Firebase projects.
