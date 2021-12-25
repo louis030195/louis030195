@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
+          It is more, verily, when out of one’s own burning cometh one’s own teaching!
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Art is the only superior counter-agent to all will to the denial of life; it is par excellence the anti-Christian, the anti-Buddhistic, the anti-Nihilistic force.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Thus Spake Zarathustra</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The logical denial of the world and Nihilism is a consequence of the fact that we must oppose nonentity with Being, and that Becoming is denied.
+          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          I am looking for unknowns, who are passionate and missionbased.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -51,6 +51,28 @@
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Business/Decentralised computing.md">Business/Decentralised computing.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Federated computing eco-system.md">Business/Federated computing eco-system.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Ideas/Minkowskian deep learning.md">Computing/Intelligence/Ideas/Minkowskian deep learning.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Why mining cryptocurrencies when you can mine intelligence.md">Computing/Intelligence/Why mining cryptocurrencies when you can mine intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Humanity's knowledge is worthless.md">Philosophy/Epistemology/Humanity's knowledge is worthless.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Marx.md">Philosophy/Marx.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Hack/Habit.md">Philosophy/Mind/Hack/Habit.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental Model/Barbell strategy.md">Philosophy/Mind/Mental Model/Barbell strategy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Poetic naturalism.md">Physic/Poetic naturalism.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2021-12-25 07:58:52</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
