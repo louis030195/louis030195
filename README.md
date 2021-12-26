@@ -9,34 +9,34 @@
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Here is the root of perspectivity, and it explains why a living organism is "egoistic" to the core.
+          Supposing, however, that there were something whose existence has in itself an absolute worth, something which, being an end in itself, could be a source of definite laws, then in this and this alone would lie the source of a possible categorical imperative, i. e. a practical law.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Critique of Practical Reason</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For a personality to be possible, timely isolation and the necessity for an existence of offence and defence, are prerequisites;
+          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is knowledge of the present only when there is a complete understanding of what the structure and the nature of the past is—and ending it.
+          ACHILLES: It goes like this: Two monks were arguing about a flag. One said, “The flag is moving. ” The other said, “The wind is moving. ” The sixth patriarch, Zeno, happened to be passing by. He told them, “Not the wind, not the flag, mind is moving. ”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: black">Douglas R. Hofstadter - Gödel, Escher, Bach_ an Eternal Golden Braid-Basic Books</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1994</p>
 </div>
 </div>
 </div>
@@ -174,11 +174,11 @@ I am co-founder of:
 
 #### ✍ My latest Goodreads reviews
 
+-   **Pierre Bottero**  - [Ellana (Le Pacte des MarchOmbres, #1)](https://www.goodreads.com/book/show/2096417.Ellana) - 5/5 - Sun Dec 26 13:20:45 -0800 2021
+-   **Pierre Bottero**  - [Ellana, l&#39;Envol (Le Pacte des MarchOmbres, #2)](https://www.goodreads.com/book/show/4610292-ellana-l-envol) - 5/5 - Sun Dec 26 13:21:19 -0800 2021
+-   **Pierre Bottero**  - [Ellana, la Prophétie (Le Pacte des MarchOmbres, #3)](https://www.goodreads.com/book/show/6113697-ellana-la-proph-tie) - 5/5 - Sun Dec 26 13:21:48 -0800 2021
 -   **V.S. Ramachandran**  - [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) - 5/5 - Sun Dec 05 12:19:59 -0800 2021
 -   **Max  Tegmark**  - [Our Mathematical Universe: My Quest for the Ultimate Nature of Reality](https://www.goodreads.com/book/show/19395553-our-mathematical-universe) - 5/5 - Sun Nov 28 02:44:34 -0800 2021
--   **Confucius**  - [The Analects](https://www.goodreads.com/book/show/27297.The_Analects) - 5/5 - Thu Nov 18 04:24:48 -0800 2021
--   **Edwin Emery Slosson**  - [Easy Lessons in Einstein: A Discussion of the More Intelligible Features of the Theory of Relativity](https://www.goodreads.com/book/show/6398560-easy-lessons-in-einstein) - 4/5 - Sun Nov 14 12:26:46 -0800 2021
--   **Adam Smith**  - [An Inquiry into the Nature and Causes of the Wealth of Nations](https://www.goodreads.com/book/show/25698.An_Inquiry_into_the_Nature_and_Causes_of_the_Wealth_of_Nations) - 5/5 - Thu Nov 11 09:44:22 -0800 2021
 
 
 #### 🗒 Medium posts
