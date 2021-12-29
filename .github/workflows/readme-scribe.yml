@@ -29,13 +29,13 @@ jobs:
           sudo echo -e 
           echo "MEMORY_STREAM=\"### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)\n$(sudo python3 hack.py)\n\n### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)\n$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})\"" >> $GITHUB_ENV
           sudo python3 - <<EOF
-            # Find [START] in README.md and replace it with MEMORY_STREAM
-            import re
-            import os
-            with open('README.md', 'w') as f:
-              content = f.read()
-              content = re.sub(r'\[START\]', os.environ['MEMORY_STREAM'], content)
-              f.write(content)
+              # Find [START] in README.md and replace it with MEMORY_STREAM
+              import re
+              import os
+              with open('README.md', 'w') as f:
+                content = f.read()
+                content = re.sub(r'\[START\]', os.environ['MEMORY_STREAM'], content)
+                f.write(content)
           EOF
       - uses: actions/upload-artifact@v1
         with:
