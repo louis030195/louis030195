@@ -24,6 +24,8 @@ I am co-founder of:
 
 **Here is a list of some of my inputs and outputs, my memory stream.**
 
+Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis030195/).
+
 [START]
 
 ### 🎙 My recent podcast episodes
