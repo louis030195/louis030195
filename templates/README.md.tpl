@@ -1,7 +1,7 @@
 
 # [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I do a lot of [software bricolage](https://github.com/louis030195),
+Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I do a lot of [software bricolage](https://github.com/louis030195),
 [book reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing and thinking](https://brain.louis030195.com).
 I enjoy learning every day about philosophy, fundamental sciences, compound knowledge, transhumanism and everything around software 2.0, "AI".
