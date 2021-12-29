@@ -3,7 +3,8 @@ import re
 import os
 import sys
 MEMORY_STREAM = sys.argv[1]
-with open('README.md', 'r+') as f:
+with open('README.md', 'r') as f:
     content = f.read()
     content = re.sub(r'\[START\]', MEMORY_STREAM, content)
+with open('README.md', 'w') as f:
     f.write(content)
