@@ -20,19 +20,23 @@ jobs:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: Latest brain outputs
+      - name: Memory stream
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
-          sudo pip install PyGithub
+          sudo pip install PyGithub requests beautifulsoup4
           sudo chmod 777 README.md
-          sudo echo -e "### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)\n$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})\n\n$(sudo cat README.md)" > README.md
-
-      - run: |
-          sudo pip install requests beautifulsoup4
-          sudo chmod 777 README.md
-          sudo echo -e "# 🐒 louis030195.com\n\n### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)\n$(sudo python3 hack.py)\n\n$(sudo cat README.md)" > README.md
-
+          sudo echo -e 
+          echo "MEMORY_STREAM=\"### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)\n$(sudo python3 hack.py)\n\n### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)\n$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})\"" >> $GITHUB_ENV
+          sudo python3 - <<EOF
+            # Find [START] in README.md and replace it with MEMORY_STREAM
+            import re
+            import os
+            with open('README.md', 'w') as f:
+              content = f.read()
+              content = re.sub(r'\[START\]', os.environ['MEMORY_STREAM'], content)
+              f.write(content)
+          EOF
       - uses: actions/upload-artifact@v1
         with:
           name: README.md

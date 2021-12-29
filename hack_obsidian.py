@@ -1,5 +1,6 @@
 from github import Github
 import sys
+import urllib.parse
 TOKEN = sys.argv[1]
 g = Github(TOKEN)
 repo = g.get_repo("louis030195/brain")
@@ -11,7 +12,7 @@ mega hack
 """
 skipped = 0
 for a in repo.get_commits()[0:5+skipped]:
-    lis_list = [f'                    <li><a href="https://brain.louis030195.com/{f.filename}">{f.filename}</a></li>' for f in a.files if all([e not in f.filename for e in excludeds])]
+    lis_list = [f'                    <li><a href="https://brain.louis030195.com/{urllib.parse.quote(f.filename)}">{f.filename}</a></li>' for f in a.files if all([e not in f.filename for e in excludeds])]
     if len(lis_list) == 0:
         skipped += 1
         continue

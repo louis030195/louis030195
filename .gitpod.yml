@@ -1,2 +1,11 @@
 image:
   file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - github.copilot
+    - toba.vsfire
+    - wix.vscode-import-cost
+    - aaron-bond.better-comments
+    - perkovec.emoji
+    - k--kato.intellij-idea-keybindings
