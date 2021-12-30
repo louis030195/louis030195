@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The quantum connection is faster than light (Instantaneous)
+          Is experience different from the experiencer? Give your brain to this, find out!
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What is good?—Whatever augments the feeling of power, the will to power, power itself, in man. What is evil?—Whatever springs from weakness. What is happiness?—The feeling that power increases—that resistance is overcome.
+          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The reason a dream is not reality is that when you suddenly wake up from falling from a Chinese skyscraper, life continues, and there is no absorbing barrier, the mathematical name for that irreversible state that we will discuss at length in Chapter 19, along with ergodicity, the most powerful concept I know.
+          The technique is marvelously described in the classic management text The One Minute Manager. The basic idea is that people open up to feedback far more if you start by complimenting them (slice of bread number one), then you give them the difficult message (the shit), then wrap up by reminding them how much you value their strengths (slice of bread number two).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
 </div>
 </div>
 </div>
