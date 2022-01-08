@@ -35,23 +35,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A persn who h lened how to die h uneed how to be a slave.
+          A great founding strategy is contrarian and right. That ensures that, at least for an important initial time, no one is coming after you. Eventually, people will come after you if you’re on to something good.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How is it that we have more slaves today than we did during Roman times?
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -66,6 +55,17 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 </div>
 </div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Nevertheless he is capable of conveying his ethical opinions. His defence would be that what he calls the mystical can be shown,
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+</div>
+</div>
+</div>
 </div>
 ### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)
 <div class="some-highlights" style="display: flex;
@@ -75,6 +75,36 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Health.md">Biology/Health/Health.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-08 09:42:29</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Game%20Theory.md">Mathematic/Game Theory/Game Theory.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Social%20expectations.md">Philosophy/Human Society/Social expectations.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Orphism/Orphism.md">Philosophy/Orphism/Orphism.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-08 09:12:31</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -119,37 +149,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/Conversation%20is%20organic%20programming.md">Philosophy/Epistemology/Information/Conversation is organic programming.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/Most%20people%20cannot%20read%20because%20of%20The%20Matrix%20dopamine%20virus.md">Philosophy/Epistemology/Information/Most people cannot read because of The Matrix dopamine virus.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Karl%20Popper.md">Philosophy/Epistemology/Karl Popper.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-06 09:18:51</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Cholesterol.md">Biology/Health/Cholesterol.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/Most%20people%20cannot%20read%20because%20of%20The%20Matrix%20dopamine%20virus.md">Philosophy/Epistemology/Information/Most people cannot read because of The Matrix dopamine virus.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-06 08:48:51</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 ### 🎙 My recent podcast episodes
@@ -163,17 +162,16 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
--   **Douglas Adams**  - [The Hitchhiker&#39;s Guide to the Galaxy (Hitchhiker&#39;s Guide to the Galaxy, #1)](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy) - Wed Jan 05 23:35:15 -0800 2022
 -   **Roger Penrose**  - [The Emperor&#39;s New Mind: Concerning Computers, Minds and the Laws of Physics](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind) - Tue Dec 07 22:21:50 -0800 2021
 -   **Jared Diamond**  - [Guns, Germs, and Steel: The Fates of Human Societies](https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel) - Sun Nov 14 12:31:17 -0800 2021
 
 ### ✍ My latest Goodreads reviews
 
+-   **Douglas Adams**  - [The Hitchhiker&#39;s Guide to the Galaxy (Hitchhiker&#39;s Guide to the Galaxy, #1)](https://www.goodreads.com/book/show/386162.The_Hitchhiker_s_Guide_to_the_Galaxy) - 5/5 - Sat Jan 08 00:32:19 -0800 2022
 -   **Karl Popper**  - [The Logic of Scientific Discovery](https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery) - 5/5 - Wed Jan 05 23:45:11 -0800 2022
 -   **Pierre Bottero**  - [Ellana (Le Pacte des MarchOmbres, #1)](https://www.goodreads.com/book/show/2096417.Ellana) - 5/5 - Sun Jan 02 23:15:11 -0800 2022
 -   **Pierre Bottero**  - [Ellana, l&#39;Envol (Le Pacte des MarchOmbres, #2)](https://www.goodreads.com/book/show/4610292-ellana-l-envol) - 5/5 - Sun Dec 26 13:21:19 -0800 2021
 -   **Pierre Bottero**  - [Ellana, la Prophétie (Le Pacte des MarchOmbres, #3)](https://www.goodreads.com/book/show/6113697-ellana-la-proph-tie) - 5/5 - Sun Dec 26 13:21:48 -0800 2021
--   **V.S. Ramachandran**  - [Phantoms in the Brain: Probing the Mysteries of the Human Mind](https://www.goodreads.com/book/show/31555.Phantoms_in_the_Brain) - 5/5 - Sun Dec 05 12:19:59 -0800 2021
 
 
 ### 🗒 Medium posts
