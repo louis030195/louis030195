@@ -35,44 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For each candidate for a given role, ask the same or similar interview questions. This will allow you to calibrate candidates across identical questions.
+          Woever h said 'I have lived• receive a wdal ee day he get up i the mor.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The technique is marvelously described in the classic management text The One Minute Manager. The basic idea is that people open up to feedback far more if you start by complimenting them (slice of bread number one), then you give them the difficult message (the shit), then wrap up by reminding them how much you value their strengths (slice of bread number two).
+          The reason a dream is not reality is that when you suddenly wake up from falling from a Chinese skyscraper, life continues, and there is no absorbing barrier, the mathematical name for that irreversible state that we will discuss at length in Chapter 19, along with ergodicity, the most powerful concept I know.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For a few centuries man has tried to make himself like a machine.
-
-He's learned to arrive on time.
-
-He's learned to repeat after teacher.
-
-He's learned to do repetitious tasks reliably.
-
-Machines are now better at being machines than man is.
-
-Man must now relearn how to be man.
+          Man has one terrible and fundamental wish; he desires power, and this impulse, which is called freedom, must be the longest restrained. Hence ethics has instinctively aimed at such an education as shall restrain the desire for power; thus our morality slanders the would-be tyrant, and glorifies charity, patriotism, and the ambition of the herd.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From the Stoic Emperor</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@TheStoicEmperor on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
