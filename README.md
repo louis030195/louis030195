@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
+          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
+          To put it another way: if wealth is giving you fewer options instead of more (and more varied) options, you’re doing it wrong.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
+          Do you think humanity will one day live in a post scarcity paradigm? What triggered the post scarcity revolution in modern times, and why do you think it has become impossible to have a true post scarcity society? And what if we could?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Meme</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,32 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Carbohydrates.md">Biology/Health/Carbohydrates.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Protein.md">Biology/Health/Protein.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Entrepreneurship%20not%20for%20wealth%20or%20status%20but%20for%20the%20sake%20of%20building%20the%20future.md">Business/Entrepreneurship/Entrepreneurship not for wealth or status but for the sake of building the future.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Money%20is%20the%20most%20harmful%20drug.md">Business/Entrepreneurship/Money is the most harmful drug.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Louis%20-%20Cheatsheet.md">Louis - Cheatsheet.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Complex%20numbers%20only%20live%20in%20objective%20reality%2C%20not%20in%20organic%20reality.md">Mathematic/Complex numbers only live in objective reality, not in organic reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/COVID%20is%20an%20insignificant%20risk%20compared%20to%20what%20is%20in%20your%20pocket.md">Philosophy/Epistemology/Information/COVID is an insignificant risk compared to what is in your pocket.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Politic/Free%20market.md">Philosophy/Human Society/Politic/Free market.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Death%20%20%F0%9F%92%80.md">Philosophy/Mind/Death  💀.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Intelligence.md">Philosophy/Mind/Intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Purpose.md">Philosophy/Purpose.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Langame.md">Readwise/Articles/Langame.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Books/Quick%20Passages.md">Readwise/Books/Quick Passages.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-14 09:54:33</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -138,28 +164,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-08 14:23:53</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/%28Library%20of%20Living%20Philosophers%20XIV.I%29%20Popper%2C%20Karl%20R._%20Schlipp%2C%20Paul%20-%20The%20Philosophy%20of%20Karl%20Popper.%201-Open%20Court.md">Readwise/Books/(Library of Living Philosophers XIV.I) Popper, Karl R._ Schlipp, Paul - The Philosophy of Karl Popper. 1-Open Court.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/A%20Selection%20From%20the%20Discourses%20of%20Epictetus%20With%20the%20Encheiridion.md">Readwise/Books/A Selection From the Discourses of Epictetus With the Encheiridion.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/An%20Inquiry%20Into%20the%20Nature%20and%20Causes%20of%20the%20Wealth%20of%20Nations.md">Readwise/Books/An Inquiry Into the Nature and Causes of the Wealth of Nations.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Epictetus.md">Readwise/Books/Epictetus.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Jared%20M.%20Diamond%20-%20Guns%2C%20Germs%20and%20Steel.md">Readwise/Books/Jared M. Diamond - Guns, Germs and Steel.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Shane%20Legg%20-%20Machine%20Super%20Intelligence.md">Readwise/Books/Shane Legg - Machine Super Intelligence.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/What%20Is%20Life.md">Readwise/Books/What Is Life.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/%5BLoeb%20Classical%20Library%2046%5D%20Plutarch_%20Bernadotte%20Perrin.md">Readwise/Books/[Loeb Classical Library 46] Plutarch_ Bernadotte Perrin.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/%5BRoutledge%20Classics%5D%20Karl%20Popper%20-%20The%20Logic%20of%20Scientific%20Discovery.md">Readwise/Books/[Routledge Classics] Karl Popper - The Logic of Scientific Discovery.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-08 11:31:44</p>
             </div>
         </div>
     </div>
