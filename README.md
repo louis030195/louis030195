@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When, however, ye have an enemy, then return him not good for evil: for that would abash him. But prove that he hath done something good to you.
+          The two fundamental questions of causality are: (1) What empirical evidence is required for legitimate inference of cause-eﬀect relationships? (2) Given that we are willing to accept causal information about a phenomenon, what inferences can we draw from such information, and how?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
+          Now it is far from obvious, from a logical point of view, that we are justifed in inferring universal statements from singular ones, no matter how numerous; for any conclusion drawn in this way may always turn out to be false: no matter how many instances of white swans we may have observed, this does not justify the conclusion that all swans are white.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But the implica¬ tion that something can be right without being expedient, "or expedient without being rigHt, is the most pernicious error thaFcould"possibly be introHut hTriruFTHaiTextremely reputable philosophers,
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
