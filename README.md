@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          As one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What are your unfair advantages?”
+          How would you compete against yourself?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
 <p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          And that," put in the Director sententiously, "that is the secret of happiness and virtue-liking what you've got to do. All conditioning aims at that: making people like their unescapable social destiny.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Aldous Huxley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Brave New World 2006</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          In Buddha’s teaching egoism is a duty.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/Information%20alignment.md">Philosophy/Epistemology/Information/Information alignment.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-30 12:49:02</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -128,30 +142,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-29 23:21:34</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Genetic%20diversity%20is%20good%20but%20genetic%20diversity%20is%20evil.md">Biology/Evolution/Monkey brain/Genetic diversity is good but genetic diversity is evil.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Play%20long%20term%20games%20with%20long%20term%20people.md">Business/Entrepreneurship/Play long term games with long term people.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Epistemocracy.md">Business/Epistemocracy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemocracy%20game.md">Philosophy/Epistemology/Epistemocracy game.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemocracy.md">Philosophy/Epistemology/Epistemocracy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemocrat.md">Philosophy/Epistemology/Epistemocrat.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Plato%27s%20allegory.md">Philosophy/Epistemology/Rationalism/Plato's allegory.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Freedom/Jed%20McKenna.md">Philosophy/Freedom/Jed McKenna.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Fuck%20you%20money.md">Philosophy/Human Society/Fuck you money.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Utopia.md">Philosophy/Human Society/Utopia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Langame.md">Readwise/Articles/Langame.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-29 22:51:35</p>
             </div>
         </div>
     </div>
