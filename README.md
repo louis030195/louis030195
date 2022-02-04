@@ -35,18 +35,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I'm still ting over the pages of Epicurus, and the followng sying, one I read today, comes fom him: 'To win tre freedom you must be a slave to phlosophy.' A person who surenders ad subjects himsel to her doesn't have his application deferred from day to day ; he's emancipated on te spot, the very service of phosophy being fe dom.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
+          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -57,12 +46,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The founders or one or two key senior people at any multimillion-dollar company should probably spend between 25 percent and 33 percent of their time identifying and attracting talent.
+          The reason a dream is not reality is that when you suddenly wake up from falling from a Chinese skyscraper, life continues, and there is no absorbing barrier, the mathematical name for that irreversible state that we will discuss at length in Chapter 19, along with ergodicity, the most powerful concept I know.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Because you think yourself but one among the many threads which make up the texture of the doublet. You should aim at being like men in generaljust as your thread has no ambition either to be anything distinguished compared with the other threads. But I desire to be the purplethat small and shining part which makes the rest seem fair and beautiful. Why then do you bid me become even as the multitude? Then were I no longer the purple.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Golden Sayings Of Epictetus</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,24 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Geometry/Calabi%E2%80%93Yau%20manifold.md">Mathematic/Geometry/Calabi–Yau manifold.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/God%20is%20dead%20and%20Bitcoin%20is%20born.md">Philosophy/Human Society/God is dead and Bitcoin is born.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Confirmation%20bias.md">Philosophy/Mind/Anti model/Confirmation bias.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Death%20%20%F0%9F%92%80.md">Philosophy/Mind/Death  💀.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Black%20holes%20information%20digestion.md">Physic/Cosmos/Black holes information digestion.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-04 18:33:30</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -126,21 +144,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-30 12:49:02</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Neuroscience/Auto%20hypnosis.md">Biology/Neuroscience/Auto hypnosis.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Fitness%20is%20not%20a%20zero%20sum%20game.md">Philosophy/Mind/Fitness is not a zero sum game.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-01-30 09:25:20</p>
             </div>
         </div>
     </div>
