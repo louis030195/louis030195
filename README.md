@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          Altered is Zarathustra; a child hath Zarathustra become; an awakened one is Zarathustra: what wilt thou do in the land of the sleepers?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How far can humans go within sight of restraining consequences of physics and biology for an extended biological lifespan, without having external motivation causing exceeding mortality? How far can we actually go, subconsciously avoiding external risks like ending-of-the-universe side effects, without creating some kind of Post-scarcity society free of need for money, trade agreements or extraction methods.
+          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Meme</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Retire into yourself as much as you can. Associate wth people who are likely to improve you. Welcome those whom you are capable of improving. The process is a mutual one : men learn as they teach.
+          If all the five strategies I have mentioned are turned loose upon one another in a computer simulation, only one of them, retaliator, emerges as evolutionarily stable.* Prober—retaliator is nearly stable. Dove is not stable,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Richard Dawkins - The Selfish Gene</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
 </div>
 </div>
 </div>
