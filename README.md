@@ -35,18 +35,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are no essential links between consciousness and either organic biochemistry or high intelligence. Hence computers might develop consciousness – but not necessarily. They could become super-intelligent while still having zero consciousness.
+          When you’re the CEO, you have the least freedom, because you can’t just quit.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The more lofty philosophical man who is surrounded by loneliness, not because he wishes to be alone, but because he is what he is, and cannot find his equal...
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -57,12 +57,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Finally, when young people who “want to help mankind” come to me asking, “What should I do? I want to reduce poverty, save the world,” and similar noble aspirations at the macro-level, my suggestion is: 1) Never engage in virtue signaling; 2) Never engage in rent-seeking; 3) You must start a business. Put yourself on the line, start a business. Yes, take risk, and if you get rich (which is optional), spend your money generously on others.
+          If all the five strategies I have mentioned are turned loose upon one another in a computer simulation, only one of them, retaliator, emerges as evolutionarily stable.* Prober—retaliator is nearly stable. Dove is not stable,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Richard Dawkins - The Selfish Gene</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
 </div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🎬 Youtube Videos
 
-- [Langame - Unique and translated conversation starters in seconds, as a service](https://www.youtube.com/watch?v=tcdt1UCF1wA) - 4 weeks ago
+- [Langame - Unique and translated conversation starters in seconds, as a service](https://www.youtube.com/watch?v=tcdt1UCF1wA) - 1 month ago
 - [Langame - Pitch YCombinator](https://www.youtube.com/watch?v=Zjz7WfH_KOk) - 1 month ago
 - [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 2 months ago
 - [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 2 months ago
@@ -211,8 +211,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🔭 Latest releases I've contributed to
 
-- [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.3](https://github.com/louis030195/firebase-data/releases/tag/v1.0.3), 1 week ago) - Easily manage data between Firebase projects.
+- [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.3](https://github.com/louis030195/firebase-data/releases/tag/v1.0.3), 2 weeks ago) - Easily manage data between Firebase projects.
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.1](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.1), 2 months ago) - Built Docker images to make Gitpod boot faster
 - [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-0.1.3](https://github.com/langa-me/helm-charts/releases/tag/parlai-0.1.3), 2 months ago) - Langame Helm charts for Kubernetes deployments
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 4 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
-- [louis030195/codex-code-translation](https://github.com/louis030195/codex-code-translation) ([v1.0.3](https://github.com/louis030195/codex-code-translation/releases/tag/v1.0.3), 4 months ago) - Automatic code translation using OpenAI Codex
+- [louis030195/codex-code-translation](https://github.com/louis030195/codex-code-translation) ([v1.0.3](https://github.com/louis030195/codex-code-translation/releases/tag/v1.0.3), 5 months ago) - Automatic code translation using OpenAI Codex
