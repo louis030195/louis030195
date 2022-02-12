@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In Buddha’s teaching egoism is a duty.
+          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But the implica¬ tion that something can be right without being expedient, "or expedient without being rigHt, is the most pernicious error thaFcould"possibly be introHut hTriruFTHaiTextremely reputable philosophers,
+          Sel-ontented a he is, ten, he doe need fend - ad wants as many of them a possible - but not to eable him to lead a happy life; t he will have even without fends. The spreme ideal does not cl for ay exter aids. It is home grow, wholly self-developed. Once it start looking outide itselfor any pat ofitselit i on the way to beig domated by fortne.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Cloning.md">Biology/Cloning.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Our%20instinct%20for%20food%20is%20obsolete%20in%20modern%20society.md">Biology/Health/Our instinct for food is obsolete in modern society.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Ambition-execution-fit.md">Business/Entrepreneurship/Ambition-execution-fit.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Distributed%20systems%20might%20not%20be%20the%20solution.md">Computing/Distributed systems might not be the solution.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Uploading%20the%20mind.md">Computing/Intelligence/Uploading the mind.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Rationalism%20is%20simulation.md">Philosophy/Epistemology/Rationalism/Rationalism is simulation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Politic/If%20nature%20learned%20that%20centralisation%20is%20optimal%20should%20we%20apply%20it%20to%20politics.md">Philosophy/Human Society/Politic/If nature learned that centralisation is optimal should we apply it to politics.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/The%20issue%20with%20short-lived%20communication.md">Philosophy/Human Society/The issue with short-lived communication.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/If%20you%20do%20not%20practice%20philosophy%2C%20you%20are%20merely%20a%20robot.md">Philosophy/If you do not practice philosophy, you are merely a robot.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Life.md">Philosophy/Life.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness%20emerges%20from%20game%20theoretical%20needs.md">Philosophy/Mind/Consciousness/Consciousness emerges from game theoretical needs.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness.md">Philosophy/Mind/Consciousness/Consciousness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Qualia.md">Philosophy/Qualia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Self%20awareness%20is%20infinite%20regress.md">Philosophy/Rationality/Self awareness is infinite regress.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Max%20Tegmark.md">Physic/Max Tegmark.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-11 21:29:11</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -128,21 +156,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-09 18:04:11</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/We%20will%20always%20play%20an%20incomplete%20information%20game.md">Philosophy/Epistemology/We will always play an incomplete information game.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Inflation.md">Physic/Cosmos/Inflation.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-08 20:02:32</p>
             </div>
         </div>
     </div>
