@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          ACHILLES: It goes like this: Two monks were arguing about a flag. One said, “The flag is moving. ” The other said, “The wind is moving. ” The sixth patriarch, Zeno, happened to be passing by. He told them, “Not the wind, not the flag, mind is moving. ”
+          Knowing means: "to place one's self in relation with something,"
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Douglas R. Hofstadter - Gödel, Escher, Bach_ an Eternal Golden Braid-Basic Books</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1994</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Can you tell though experience which choices you've made have been driven more by intrinsic/internal values or extrinsic/external?
+          Now it is far from obvious, from a logical point of view, that we are justifed in inferring universal statements from singular ones, no matter how numerous; for any conclusion drawn in this way may always turn out to be false: no matter how many instances of white swans we may have observed, this does not justify the conclusion that all swans are white.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Langame</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In the terminology of game theory, most interesting international conflicts are not “constant-sum games” but “variable-sum games”: the sum of the gains of the participants involved is not fixed so that more for one inexorably means less for the other.
+          There are the spiritually consumptive ones: hardly are they born when they begin to die, and long for doctrines of lassitude and renunciation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Strategy of Conflict</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Thomas C. Schelling</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,22 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Status%20game%20is%20all%20about%20getting%20females.md">Biology/Evolution/Monkey brain/Status game is all about getting females.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Why%20men%20lost%20their%20penis%20bone.md">Biology/Evolution/Why men lost their penis bone.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Sex%20is%20nonlinear.md">Philosophy/Human Society/Sex is nonlinear.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-13 21:40:46</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -99,27 +115,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-13 15:13:31</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Physic/Big%20bang.md">Physic/Big bang.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Inflation.md">Physic/Cosmos/Inflation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Our%20universe.md">Physic/Cosmos/Our universe.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Organic%20reality.md">Physic/Organic reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Particle%20physics.md">Physic/Particle physics.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Quantum/Quantum%20physic.md">Physic/Quantum/Quantum physic.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Quantum/Schrodinger.md">Physic/Quantum/Schrodinger.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Quantum/The%20cat%20thought%20experiment%20intend%20to%20show%20how%20Schrodinger%20equation%20generalise%20from%20the%20micro%20to%20the%20macro.md">Physic/Quantum/The cat thought experiment intend to show how Schrodinger equation generalise from the micro to the macro.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-13 09:54:41</p>
             </div>
         </div>
     </div>
