@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How far can humans go within sight of restraining consequences of physics and biology for an extended biological lifespan, without having external motivation causing exceeding mortality? How far can we actually go, subconsciously avoiding external risks like ending-of-the-universe side effects, without creating some kind of Post-scarcity society free of need for money, trade agreements or extraction methods.
+          If your private actions do not generalize, then you cannot have general ideas.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Meme</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
+          But this original state of things, in which the labourer enjoyed the whole produce of his own labour, could not last beyond the first introduction of the appropriation of land and the accumulation of stock.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          By selecting and growing those few species of plants and animals that we can eat, so that they constitute 90 percent rather than 0.1 percent of the biomass on an acre of land, we obtain far more edible calories per acre. As a result, one acre can feed many more herders and farmers— typically, 10 to 100 times more—than hunter-gatherers. That strength of brute numbers was the first of many military advantages that food-producing tribes gained over hunter-gatherer tribes.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
 <p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          First principles, bravery, patience, no "stepping-back," not too much ardour to get to the fore.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -120,34 +120,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-13 09:24:43</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Cloning.md">Biology/Cloning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Our%20instinct%20for%20food%20is%20obsolete%20in%20modern%20society.md">Biology/Health/Our instinct for food is obsolete in modern society.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Ambition-execution-fit.md">Business/Entrepreneurship/Ambition-execution-fit.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Distributed%20systems%20might%20not%20be%20the%20solution.md">Computing/Distributed systems might not be the solution.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Uploading%20the%20mind.md">Computing/Intelligence/Uploading the mind.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Rationalism%20is%20simulation.md">Philosophy/Epistemology/Rationalism/Rationalism is simulation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Politic/If%20nature%20learned%20that%20centralisation%20is%20optimal%20should%20we%20apply%20it%20to%20politics.md">Philosophy/Human Society/Politic/If nature learned that centralisation is optimal should we apply it to politics.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/The%20issue%20with%20short-lived%20communication.md">Philosophy/Human Society/The issue with short-lived communication.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/If%20you%20do%20not%20practice%20philosophy%2C%20you%20are%20merely%20a%20robot.md">Philosophy/If you do not practice philosophy, you are merely a robot.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Life.md">Philosophy/Life.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness%20emerges%20from%20game%20theoretical%20needs.md">Philosophy/Mind/Consciousness/Consciousness emerges from game theoretical needs.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness.md">Philosophy/Mind/Consciousness/Consciousness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Qualia.md">Philosophy/Qualia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Self%20awareness%20is%20infinite%20regress.md">Philosophy/Rationality/Self awareness is infinite regress.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Max%20Tegmark.md">Physic/Max Tegmark.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-11 21:29:11</p>
             </div>
         </div>
     </div>
