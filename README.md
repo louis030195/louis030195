@@ -35,29 +35,29 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He knows that he cannot reveal himself to anybody: he thinks it bad taste to become familiar; and as a rule he is not familiar when people think he is. When he is not talking to his soul, he wears a mask. He would rather lie than tell the truth, because lying requires more spirit and will.
+          But this original state of things, in which the labourer enjoyed the whole produce of his own labour, could not last beyond the first introduction of the appropriation of land and the accumulation of stock.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
+          The best enemy is the one you own by putting skin in his game and letting him know the exact rules that come with it. You keep him alive, with the knowledge that he owes his life to your benevolence. The notion that an enemy you own is better than a dead one was perfected by the order of the Assassins, so we will do some digging into the work of that secret society.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          The Internet is very efficiently arbitraged. Anything you can think of has been thought of and tried. The only way you’re going to find something is if you stick to it at an irrational level and try a whole bunch of things.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -75,6 +75,25 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Quantum/Quantum%20parallelism%20is%20map%20reduce.md">Computing/Quantum/Quantum parallelism is map reduce.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemology%20marathon/lesswrong.com/Day4.md">Philosophy/Epistemology/Epistemology marathon/lesswrong.com/Day4.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Objective%20knowledge%20can%20only%20be%20relative.md">Philosophy/Epistemology/Objective knowledge can only be relative.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Mathematical%20universe.md">Physic/Cosmos/Mathematical universe.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/The%20multiverse.md">Physic/Cosmos/The multiverse.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Quantum/Objective%20reality%20is%20a%20tensor%20not%20a%20scalar.md">Physic/Quantum/Objective reality is a tensor not a scalar.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-20 14:19:18</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -128,28 +147,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-19 17:13:14</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Anthropology%20is%20not%20scientific.md">Biology/Anthropology is not scientific.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Failure.md">Business/Entrepreneurship/Failure.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Founder%20tutorial.md">Business/Entrepreneurship/Founder tutorial.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Why%20most%20business%20books%20are%20complete%20garbage.md">Business/Entrepreneurship/Why most business books are complete garbage.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Memory%20stream%2C%20place%2C%20augmentation.md">Business/Memory stream, place, augmentation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Metaphors%20are%20data%20augmentation.md">Computing/Intelligence/Metaphors are data augmentation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Tools%20to%20transfer%20organic%20intelligence%20to%20artificial%20intelligence.md">Computing/Intelligence/Tools to transfer organic intelligence to artificial intelligence.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Memory%20palaces.md">Computing/Memory palaces.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Art.md">Philosophy/Art/Art.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-19 09:35:51</p>
             </div>
         </div>
     </div>
