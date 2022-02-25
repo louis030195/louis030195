@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          However, the inequality here was seen as the greatest in human history: inequality before death.
+          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Death's End</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Cixin Liu</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The mind that has no fixed aim loses itself, for, as they say, to be everywhere is to be nowhere.
+          The role of graphs in probabilistic and statistical modeling is threefold: 1 . to provide convenient means of expressing substantive assumptions; 2. to facilitate economical representation ofjoint probability functions; and 3. to facilitate effcient inferences from observations.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Michel De Montaigne, John M. Cohen, John M. Cohen - Montaigne_ Essays</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1993, Penguin Books - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are two possibilities. Either you close your eyes and become dogmatic, become a Christian or a Hindu or a Mohammedan … then you become like an ostrich. It doesn’t change life; it simply closes your eyes. It simply makes you stupid, it simply makes you unintelligent. In your unintelligence you feel secure—all idiots feel secure. In fact, only idiots feel secure. A really alive man will always feel insecure. What security can there be?
+          Whatever cannot obey itself, is commanded. Such is the nature of living things.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(Osho Insights for a New Way of Living) Osho - Courage_ the Joy of Living Dangerously</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,25 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Breaking%20free.md">Biology/Evolution/Monkey brain/Breaking free.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Obsidian%20brain%20matching.md">Business/Obsidian brain matching.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/BlenderBot2.md">Computing/Intelligence/Machine Learning/BlenderBot2.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemology.md">Philosophy/Epistemology/Epistemology.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/In%20physics%2C%20be%20very%20skeptical%20for%20theories%20that%20did%20not%20pass%20the%20test%20of%20time.md">Physic/In physics, be very skeptical for theories that did not pass the test of time.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Quantum/Quantum%20entanglement%2C%20quantum%20cryptography.md">Physic/Quantum/Quantum entanglement, quantum cryptography.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-25 10:21:12</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -153,25 +172,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-20 10:07:11</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Louis%20-%20Cheatsheet.md">Louis - Cheatsheet.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Death%20%20%F0%9F%92%80.md">Philosophy/Mind/Death  💀.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mind.md">Philosophy/Mind/Mind.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Objective%20reality.md">Physic/Objective reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Tags.md">Tags.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-19 21:29:20</p>
             </div>
         </div>
     </div>
