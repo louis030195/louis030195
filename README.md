@@ -35,7 +35,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Rent Seeking: trying to use protective regulations or “rights” to derive income without adding anything to economic activity, without increasing the wealth of others. As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection.
+          The reason a dream is not reality is that when you suddenly wake up from falling from a Chinese skyscraper, life continues, and there is no absorbing barrier, the mathematical name for that irreversible state that we will discuss at length in Chapter 19, along with ergodicity, the most powerful concept I know.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -46,23 +46,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How do you make sure that an agent gets enough experience to learn a high-performing policy, all the while not harming its environment, other agents, or itself (or more realistically, while keeping the probability of harm acceptably low)
+          Intelligence is part of the internal environment that shows through at the interface between person and external environment as a function of cognitive task demands.” R. E. Snow quoted in (Slatter, 2001)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">RLbook2020trimmed</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Shane Legg - Machine Super Intelligence</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2008</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sel-ontented a he is, ten, he doe need fend - ad wants as many of them a possible - but not to eable him to lead a happy life; t he will have even without fends. The spreme ideal does not cl for ay exter aids. It is home grow, wholly self-developed. Once it start looking outide itselfor any pat ofitselit i on the way to beig domated by fortne.
+          People at McDonald’s get trained for their positions, but people with far more complicated jobs don’t. It makes no sense. Would you want to stand on the line of the untrained person at McDonald’s? Would you want to use the software written by the engineer who was never told how the rest of the code worked?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -189,6 +189,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
+-   **Marcus Aurelius**  - [Meditations](https://www.goodreads.com/book/show/30659.Meditations) - Sat Feb 26 18:58:45 -0800 2022
 -   **David Deutsch**  - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - Wed Feb 16 07:04:30 -0800 2022
 -   **Richard Dawkins**  - [The Selfish Gene](https://www.goodreads.com/book/show/61535.The_Selfish_Gene) - Thu Feb 10 18:40:44 -0800 2022
 -   **Max  Tegmark**  - [Our Mathematical Universe: My Quest for the Ultimate Nature of Reality](https://www.goodreads.com/book/show/19395553-our-mathematical-universe) - Sat Feb 05 20:28:14 -0800 2022
