@@ -35,7 +35,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I remember how, after this discussion, I tried strongly to impress on myself that I must always remember the principle of never arguing about words and their meanings, because such arguments are specious and insignificant.
+          Flutists and harpists do not adjust their melody or rhythm according to the taste of the multitude, they base it on what suits themselves. Why, then, should the wise man, who is the practitioner of a far greater art, follow the pleasure of the crowd, instead of pursuing the truth without regard to popular pressures?
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Never let yourself be goaded into taking seriously problems about words and their meanings. What must be taken seriously are questions of fact, and assertions about facts: theories and hypotheses, the problems they solve and the problems they raise.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -46,23 +57,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are only two priorities for a startup: winning the market and not running out of cash. Running lean is not an end.”
+          There is no relationship between work done and money received; the individual should, according to his kind, be so placed as to perform the highest that is compatible with his powers.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Now this principle of induction cannot be a purely logical truth like a tautology or an analytic statement.Indeed, if there were such a thing as a purely logical principle of induction, there would be no problem of induction; for in this case, all inductive inferences would have to be regarded as purely logical or tautological transformations, just like inferences in deductive logic.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,36 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Web3/Gas%20fee%20are%20government%20taxes.md">Computing/Web3/Gas fee are government taxes.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Flip%20a%20coin.md">Philosophy/Mind/Mental Model/Flip a coin.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-28 16:37:04</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Eating%20the%20mammoth%20and%20then%20running%20after%20it.md">Biology/Health/Eating the mammoth and then running after it.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Digesting%20conversations.md">Philosophy/Rationality/Digesting conversations.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-28 16:07:07</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -115,91 +145,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-27 19:57:41</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Hunter%20gatherer.md">Biology/Evolution/Hunter gatherer.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Protein.md">Biology/Health/Protein.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Decentralized%20organization.md">Business/Entrepreneurship/Decentralized organization.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Google%20search%20vs%20human%20search.md">Computing/Google search vs human search.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Ideas/Dating%20bot%20using%20conversational%20AI%20and%20Langame%20API.md">Computing/Intelligence/Ideas/Dating bot using conversational AI and Langame API.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Fiction.md">Philosophy/Art/Fiction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Art/Human%20imagination%20can%20not%20exceed%20the%20law%20of%20physics.md">Philosophy/Art/Human imagination can not exceed the law of physics.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Art/The%20dream%20of%20Episteme.md">Philosophy/Art/The dream of Episteme.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Book%20podium.md">Philosophy/Epistemology/Book podium.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Book.md">Philosophy/Epistemology/Book.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Brain%20nutrition.md">Philosophy/Epistemology/Brain nutrition.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Curiosity.md">Philosophy/Epistemology/Curiosity.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Determinism.md">Philosophy/Epistemology/Determinism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Information/Types%20of%20information.md">Philosophy/Epistemology/Information/Types of information.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Movies%20are%20to%20books%20what%20prostitutes%20are%20to%20love.md">Philosophy/Epistemology/Movies are to books what prostitutes are to love.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Optimizing%20brain-to-text%20bandwidth.md">Philosophy/Epistemology/Optimizing brain-to-text bandwidth.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Truth%20is%20a%20Pathless%20Land.md">Philosophy/Epistemology/Truth is a Pathless Land.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Do%20not%20abuse%20human%20search.md">Philosophy/Ethic/Do not abuse human search.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Do%20not%20impose%20your%20beliefs%20on%20the%20ignorant.md">Philosophy/Ethic/Do not impose your beliefs on the ignorant.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Effective%20Altruism.md">Philosophy/Ethic/Effective Altruism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/That%20which%20is%20not%20good%20for%20the%20swarm%2C%20neither%20is%20it%20good%20for%20the%20bee..md">Philosophy/Ethic/That which is not good for the swarm, neither is it good for the bee..md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Wealth/Time%20is%20the%20currency%20of%20life.md">Philosophy/Human Society/Wealth/Time is the currency of life.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Wealth/Trade%20money%20for%20time%2C%20not%20time%20for%20money%2C%20time%20is%20finite.md">Philosophy/Human Society/Wealth/Trade money for time, not time for money, time is finite.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Wealth/Warren%20Buffett.md">Philosophy/Human Society/Wealth/Warren Buffett.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Wealth/Wealth.md">Philosophy/Human Society/Wealth/Wealth.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Hack/Bending%20organic%20reality.md">Philosophy/Mind/Hack/Bending organic reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/The%20Thousand%20Pieces%20Soul.md">Philosophy/Mind/The Thousand Pieces Soul.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Thousands%20Masks.md">Philosophy/Mind/Thousands Masks.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Transhumanism/Conquering%20the%20mind%2C%20overcoming%20the%20animal%2C%20freedom%20from%20the%20known.md">Philosophy/Mind/Transhumanism/Conquering the mind, overcoming the animal, freedom from the known.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Traveling.md">Philosophy/Mind/Traveling.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/18-06-2021%20Farnam%20Street%20Learning%20community.md">Philosophy/Mind/Wandering Thoughts/18-06-2021 Farnam Street Learning community.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/Everything%20or%20nothing.md">Philosophy/Mind/Wandering Thoughts/Everything or nothing.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/How%20to%20break%20free%20from%20the%20Zoo.md">Philosophy/Mind/Wandering Thoughts/How to break free from the Zoo.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/Meiosis.md">Philosophy/Mind/Wandering Thoughts/Meiosis.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/Slavery%20had%20never%20been%20abolished.md">Philosophy/Mind/Wandering Thoughts/Slavery had never been abolished.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/The%20Best%20Breakfast%20is%20a%20Delightful%20Book.md">Philosophy/Mind/Wandering Thoughts/The Best Breakfast is a Delightful Book.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/The%20beginning%20of%20the%20dark%20ages.md">Philosophy/Mind/Wandering Thoughts/The beginning of the dark ages.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Wandering%20Thoughts/Unwash%20your%20brain.md">Philosophy/Mind/Wandering Thoughts/Unwash your brain.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Charlie%20Munger%20background%20process.md">Philosophy/Rationality/Charlie Munger background process.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Confidence.md">Philosophy/Rationality/Confidence.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Death%20%20%F0%9F%92%80.md">Philosophy/Rationality/Death  💀.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Ego.md">Philosophy/Rationality/Ego.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Fashion.md">Philosophy/Rationality/Fashion.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Fear.md">Philosophy/Rationality/Fear.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/How%20to%20live%20in%20a%20Zoo.md">Philosophy/Rationality/How to live in a Zoo.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Life%20is%20continuous%2C%20not%20discreet.md">Philosophy/Rationality/Life is continuous, not discreet.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Maxims/Man%20cannot%20lose%20what%20he%20does%20not%20have.md">Philosophy/Rationality/Maxims/Man cannot lose what he does not have.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/My%20time%20has%20no%20price.md">Philosophy/Rationality/My time has no price.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Opacity%20versus%20transparency.md">Philosophy/Rationality/Opacity versus transparency.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/The%20Matrix%20is%20reality.md">Philosophy/Rationality/The Matrix is reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/The%20Walking%20Dead%20Is%20Not%20A%20Fiction.md">Philosophy/Rationality/The Walking Dead Is Not A Fiction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Why%20The%20Matrix%20Is%20Not%20Worse%20Than%20Reality.md">Philosophy/Rationality/Why The Matrix Is Not Worse Than Reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Relativity%20and%20language.md">Philosophy/Relativity and language.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Orchestrated%20Objective%20Reduction.md">Physic/Orchestrated Objective Reduction.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-27 19:27:45</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Complexity.md">Computing/Complexity.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/How%20to%20build%20a%20consciousness%20classifier.md">Computing/Intelligence/Machine Learning/How to build a consciousness classifier.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversations%20are%20incomplete%20information%20games.md">Philosophy/Human Society/Conversations are incomplete information games.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness.md">Philosophy/Mind/Consciousness/Consciousness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Rationality.md">Philosophy/Rationality/Rationality.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-02-27 11:38:58</p>
             </div>
         </div>
     </div>
