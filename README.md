@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Those interested in the complexities involved in a counterfactual analysis of causation can do no better than David Lewis’ “Causation” (1986, pp. 159–213)
+          The attempt has often been made to describe theories as being neither true nor false, but instead more or less probable. Inductive logic, more especially, has been developed as a logic which may ascribe not only the two values ‘true’ and ‘false’ to statements, but also degrees of probability; a type of logic which will here be called ‘probability logic’.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
+          He grows stronger under the misfortunes which threaten to annihilate him.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Never let yourself be goaded into taking seriously problems about words and their meanings. What must be taken seriously are questions of fact, and assertions about facts: theories and hypotheses, the problems they solve and the problems they raise.
+          Is experience different from the experiencer? Give your brain to this, find out!
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(Library of Living Philosophers XIV.I) Popper, Karl R._ Schlipp, Paul - The Philosophy of Karl Popper. 1-Open Court</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1974</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,21 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Existential%20risk.md">Philosophy/Human Society/Existential risk.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Mathematical%20universe.md">Physic/Cosmos/Mathematical universe.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-06 10:19:32</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -128,50 +143,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-04 08:14:28</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Godel%20Theorem.md">Mathematic/Godel Theorem.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Politic/Decentralized%20organisations%2C%20Marx%20dream.md">Philosophy/Human Society/Politic/Decentralized organisations, Marx dream.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Politic/Web3%20is%20Marx%20utopia.md">Philosophy/Human Society/Politic/Web3 is Marx utopia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Kin%20augmentation.md">Philosophy/Rationality/Kin augmentation.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-04 07:44:32</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Convolutions%20are%20maps.md">Computing/Intelligence/Machine Learning/Convolutions are maps.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Geometric%20deep%20learning/Geometric%20deep%20learning.md">Computing/Intelligence/Machine Learning/Geometric deep learning/Geometric deep learning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Machine%20Learning.md">Computing/Intelligence/Machine Learning/Machine Learning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Mathematical%20structure.md">Mathematic/Mathematical structure.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Symmetry.md">Philosophy/Epistemology/Symmetry.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Digesting%20conversations.md">Philosophy/Ethic/Digesting conversations.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Do%20not%20harm%20the%20fool.md">Philosophy/Ethic/Do not harm the fool.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Do%20not%20let%20anybody%20depend%20on%20you.md">Philosophy/Ethic/Do not let anybody depend on you.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/The%20wise%20man%20know%20what%20is%20good.md">Philosophy/Ethic/The wise man know what is good.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Hack/Seeking%20discomfort.md">Philosophy/Mind/Hack/Seeking discomfort.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Black%20Holes.md">Physic/Black Holes.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Mathematical%20universe.md">Physic/Cosmos/Mathematical universe.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/Quantum%20level%20three%20multiverse.md">Physic/Cosmos/Quantum level three multiverse.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Cosmos/The%20multiverse.md">Physic/Cosmos/The multiverse.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-02 15:31:26</p>
             </div>
         </div>
     </div>
