@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Supposing, however, that there were something whose existence has in itself an absolute worth, something which, being an end in itself, could be a source of definite laws, then in this and this alone would lie the source of a possible categorical imperative, i. e. a practical law.
+          If you take a journey into yourself, empty all the content that you have collected and go very, very deeply, then there is that vast space, that so-called emptiness, that is full of energy. And in that state alone there is that which is most sacred, most holy.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Critique of Practical Reason</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          My observation was that once a person actually completed a play or a novel, he was well on his way to getting it produced or published, as opposed to a vast majority of people who tell me their ambition is to write, but who strike out on the very first level and indeed never write the play or book. In the midst of the conversation, as I’m now trying to recall, I did say that 80 percent of success is showing up.
+          His tendency is to explain Mozart's perfected being, just as a schoolmaster would, as a supreme and special gift rather than as the outcome of his immense powers of surrender and suffering, of his indifference to the ideals of the bourgeois, and of his patience under that last extremity of loneliness which rarefies the atmosphere of the bourgeois world to an ice-cold ether, around those who suffer to become men, that loneliness of the Garden of Gethsemane.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hermann Hesse - Steppenwolf_ a Novel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          There are only two priorities for a startup: winning the market and not running out of cash. Running lean is not an end.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
 <p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making things is a joy—immensely satisfying. J. R. R. Tolkien suggests that God gave us the gift of subcreation, as a gift, just for our joy.2 After all, “The cattle on a thousand hills are mine. … If I were hungry, I would not tell you.”3 Designing per se is fun.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Frederick P. Brooks - The Design of Design_ Essays From a Computer Scientist-Addison-Wesley Professional</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2010</p>
 </div>
 </div>
 </div>
