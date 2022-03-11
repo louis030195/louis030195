@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
+          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Where most entrepreneurs fail is on the things they don’t know they don’t know.
+          I'm still ting over the pages of Epicurus, and the followng sying, one I read today, comes fom him: 'To win tre freedom you must be a slave to phlosophy.' A person who surenders ad subjects himsel to her doesn't have his application deferred from day to day ; he's emancipated on te spot, the very service of phosophy being fe dom.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How do you make sure that an agent gets enough experience to learn a high-performing policy, all the while not harming its environment, other agents, or itself (or more realistically, while keeping the probability of harm acceptably low)
+          People at McDonald’s get trained for their positions, but people with far more complicated jobs don’t. It makes no sense. Would you want to stand on the line of the untrained person at McDonald’s? Would you want to use the software written by the engineer who was never told how the rest of the code worked?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">RLbook2020trimmed</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -150,8 +150,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🎙 My recent podcast episodes
 
-- [Objective knowledge can only be relative](https://anchor.fm/louis030195/episodes/Objective-knowledge-can-only-be-relative-e1fgtmb) (today)
-- [Bending Organic Reality](https://anchor.fm/louis030195/episodes/Bending-Organic-Reality-e1cpbm5) (1 month ago)
+- [Objective knowledge can only be relative](https://anchor.fm/louis030195/episodes/Objective-knowledge-can-only-be-relative-e1fgtmb) (1 day ago)
+- [Bending Organic Reality](https://anchor.fm/louis030195/episodes/Bending-Organic-Reality-e1cpbm5) (2 months ago)
 - [Emotions: understanding is all you need](https://anchor.fm/louis030195/episodes/Emotions-understanding-is-all-you-need-e1ccpet) (2 months ago)
 - [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (3 months ago)
 - [The centralised state is obsolete](https://anchor.fm/louis030195/episodes/The-centralised-state-is-obsolete-e1bh4n0) (3 months ago)
