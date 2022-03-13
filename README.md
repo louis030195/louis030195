@@ -35,29 +35,29 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
+          Then monopolies can keep innovating because profits enable them to make the long-term plans and to finance the ambitious research projects that firms locked in competition can’t dream of.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Is experience different from the experiencer? Give your brain to this, find out!
+          Rent Seeking: trying to use protective regulations or “rights” to derive income without adding anything to economic activity, without increasing the wealth of others. As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are no such things as "mind," reason, thought, consciousness, soul, will, or truth: they all belong to fiction,
+          There are many kinds of eyes. Even the Sphinx has eyes—therefore there must be many kinds of "truths," and consequently there can be no truth.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
