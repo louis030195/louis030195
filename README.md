@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+          He grows stronger under the misfortunes which threaten to annihilate him.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But this original state of things, in which the labourer enjoyed the whole produce of his own labour, could not last beyond the first introduction of the appropriation of land and the accumulation of stock.
+          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A great founding strategy is contrarian and right. That ensures that, at least for an important initial time, no one is coming after you. Eventually, people will come after you if you’re on to something good.
+          That’s called consequentialism, by the way, it means that whether an act is right or wrong isn’t determined by whether it looks bad, or mean, or anything like that, the only question is how it will turn out in the end—what are the consequences.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -78,6 +78,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Neuroscience/Thoughts%20representation.md">Biology/Neuroscience/Thoughts representation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Autonomous%20intelligence.md">Computing/Intelligence/Autonomous intelligence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Joint%20embedding.md">Computing/Intelligence/Joint embedding.md</a></li>
+                    <li><a href="https://brain.louis030195.com/citations.tex">citations.tex</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-26 17:02:24</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
                     <li><a href="https://brain.louis030195.com/Biology/Ecology/Ecology.md">Biology/Ecology/Ecology.md</a></li>
                     <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Mission-product%20alignment.md">Business/Entrepreneurship/Mission-product alignment.md</a></li>
                     <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Confirmation%20bias.md">Philosophy/Mind/Anti model/Confirmation bias.md</a></li>
@@ -89,22 +106,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-26 07:55:14</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20impact%20of%20death%20on%20human%20knowledge.md">Philosophy/Epistemology/The impact of death on human knowledge.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Decision%20making/Anecdotes.md">Philosophy/Mind/Decision making/Anecdotes.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Death%20%20%F0%9F%92%80.md">Philosophy/Rationality/Death  💀.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-23 09:43:11</p>
             </div>
         </div>
     </div>
