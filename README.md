@@ -35,34 +35,44 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          Fast, lift, sprint, stretch, and meditate.
+
+Build, sell, write, create, invest, and own.
+
+Read, reflect, love, seek truth, and ignore society.
+
+Make these habits. Say no to everything else.
+
+Avoid debt, jail, addiction, disgrace, shortcuts, and media.
+
+Relax. Victory is assured.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
+          In that original state of things which precedes both the appropriation of land and the accumulation of stock, the whole produce of labour belongs to the labourer. He has neither landlord nor master to share with him.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Nevertheless he is capable of conveying his ethical opinions. His defence would be that what he calls the mystical can be shown,
+          First principles, bravery, patience, no "stepping-back," not too much ardour to get to the fore.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -78,14 +88,17 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20impact%20of%20death%20on%20human%20knowledge.md">Philosophy/Epistemology/The impact of death on human knowledge.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Decision%20making/Anecdotes.md">Philosophy/Mind/Decision making/Anecdotes.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Death%20%20%F0%9F%92%80.md">Philosophy/Rationality/Death  💀.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Ecology/Ecology.md">Biology/Ecology/Ecology.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Mission-product%20alignment.md">Business/Entrepreneurship/Mission-product alignment.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Confirmation%20bias.md">Philosophy/Mind/Anti model/Confirmation bias.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Emotion/Desire.md">Philosophy/Mind/Emotion/Desire.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Equal%20belief%20decision%20making%20heuristic.md">Philosophy/Rationality/Equal belief decision making heuristic.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/You%20cannot%20rely%20on%20luck.md">Philosophy/Rationality/You cannot rely on luck.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-23 09:43:11</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-26 07:55:14</p>
             </div>
         </div>
     </div>
@@ -94,15 +107,14 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Geometric%20deep%20learning/Geometric%20deep%20learning.md">Computing/Intelligence/Machine Learning/Geometric deep learning/Geometric deep learning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/A%20superior%20alternative%20to%20veganism.md">Philosophy/Ethic/A superior alternative to veganism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Why.md">Philosophy/Ethic/Why.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20impact%20of%20death%20on%20human%20knowledge.md">Philosophy/Epistemology/The impact of death on human knowledge.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Decision%20making/Anecdotes.md">Philosophy/Mind/Decision making/Anecdotes.md</a></li>
                     <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Death%20%20%F0%9F%92%80.md">Philosophy/Rationality/Death  💀.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-22 08:20:44</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-23 09:43:11</p>
             </div>
         </div>
     </div>
