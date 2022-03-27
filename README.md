@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A lot of the entrepreneurs I work with, I encourage to get rid of the PowerPoint. A typical board meeting will have thirty to sixty PowerPoint slides. So, I ask entrepreneurs I work with to think about that as a Word document, and can you reduce it down to something we can read before the board meeting, so we don’t sit there looking at slides for three hours.
+          The more lofty philosophical man who is surrounded by loneliness, not because he wishes to be alone, but because he is what he is, and cannot find his equal...
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The mind that has no fixed aim loses itself, for, as they say, to be everywhere is to be nowhere.
+          Empedocles, who flourished around 450 B.C. Some accounts claim he identified himself as a god. But perhaps it was only that he was so clever that others thought him a god. He believed that light travels very fast, but not infinitely fast. He taught that there was once a much greater variety of living things on the Earth, but that many races of beings must have been unable to beget and continue their kind. ..., Empedocles, like Anaximander Democritus, clearly anticipated some aspects of Darwin's great idea of evolution by natural selection.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Michel De Montaigne, John M. Cohen, John M. Cohen - Montaigne_ Essays</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1993, Penguin Books - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Cosmos</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Carl Sagan</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
+          The problem of fnding a criterion which would enable us to distinguish between the empirical sciences on the one hand, and mathematics and logic as well as ‘metaphysical’ systems on the other, I call the problem of demarcation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Music%20reduces%20intelligence.md">Philosophy/Rationality/Music reduces intelligence.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-27 14:20:21</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -117,33 +131,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-27 09:00:43</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Meat.md">Biology/Health/Meat.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/PUFA.md">Biology/Health/PUFA.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Refined%20oils.md">Biology/Health/Refined oils.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Veganism.md">Biology/Health/Veganism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Logic/Induction.md">Mathematic/Causality/Logic/Induction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Confirmation.md">Philosophy/Epistemology/Confirmation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Falsifiability.md">Philosophy/Epistemology/Falsifiability.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20criterion%20of%20demarcation.md">Philosophy/Epistemology/The criterion of demarcation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20value%20of%20metaphysical%20statements.md">Philosophy/Epistemology/The value of metaphysical statements.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Bias.md">Philosophy/Mind/Anti model/Bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Confirmation%20bias.md">Philosophy/Mind/Anti model/Confirmation bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Positive%20bias.md">Philosophy/Mind/Anti model/Positive bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Via%20Negativa.md">Philosophy/Mind/Mental Model/Via Negativa.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Rationality.md">Philosophy/Rationality/Rationality.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-03-27 08:29:17</p>
             </div>
         </div>
     </div>
