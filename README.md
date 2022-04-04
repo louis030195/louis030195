@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The logical denial of the world and Nihilism is a consequence of the fact that we must oppose nonentity with Being, and that Becoming is denied.
+          If a statement p is more easy to falsify than a statement q, because it is of a higher level of universality or precision, then the class of the basic statements permitted by p is a proper subclass of the class of the basic statements permitted by q.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
+          There are two kinds of secrets: secrets of nature and secrets about people. Natural secrets exist all around us; to find them, one must study some undiscovered aspect of the physical world. Secrets about people are different: they are things that people don’t know about themselves or things they hide because they don’t want others to know. So when thinking about what kind of company to build, there are two distinct questions to ask: What secrets is nature not telling you? What secrets are people not telling you?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We shall use the term ‘intelligence’ to mean the ability of an organism to solve new problems . . . ” Bingham (1937)
+          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Shane Legg - Machine Super Intelligence</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2008</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
 </div>
 </div>
 </div>
