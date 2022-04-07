@@ -35,6 +35,17 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
           Have you seen those zombies who roam the streets with their faces glued to their smartphones?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -46,18 +57,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Where most entrepreneurs fail is on the things they don’t know they don’t know.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          This chapter will ease us to the next section: a) rationality resides in what you do, not in what you think or in what you “believe” (skin in the game), and b) rationality is about survival.
+          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -145,6 +145,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
+-   **David Deutsch**  - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - Thu Apr 07 00:08:03 -0700 2022
 -   **Ray Kurzweil**  - [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) - Mon Mar 07 17:25:44 -0800 2022
 -   **Karl Marx**  - [Das Kapital](https://www.goodreads.com/book/show/238953.Das_Kapital) - Tue Mar 01 20:15:37 -0800 2022
 -   **Karl Popper**  - [The Logic of Scientific Discovery](https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery) - Mon Feb 28 19:59:28 -0800 2022
