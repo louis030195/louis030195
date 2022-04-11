@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The workings of the sensory systems are particularly baffling, because they can achieve far more sophisticated feats of pattern-recognition than the best and most expensive man-made machines; if this were not so, all typists would be redundant, superseded by speech-recognizing machines, or machines for reading handwriting. Human typistswill be needed for many decades yet.
+          A good product manager knows the context going in (the company, our revenue funding, competition, etc.), and they take responsibility for devising and executing a winning plan (no excuses).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Richard Dawkins - The Selfish Gene</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          His tendency is to explain Mozart's perfected being, just as a schoolmaster would, as a supreme and special gift rather than as the outcome of his immense powers of surrender and suffering, of his indifference to the ideals of the bourgeois, and of his patience under that last extremity of loneliness which rarefies the atmosphere of the bourgeois world to an ice-cold ether, around those who suffer to become men, that loneliness of the Garden of Gethsemane.
+          The problem of finding a criterion which would enable us to distinguish between the empirical sciences on the one hand, and mathematics and logic as well as ‘metaphysical’ systems on the other, I call the problem of demarcation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hermann Hesse - Steppenwolf_ a Novel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2002</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All human knowledge is either experience or mathematics.
+          ACHILLES: It goes like this: Two monks were arguing about a flag. One said, “The flag is moving. ” The other said, “The wind is moving. ” The sixth patriarch, Zeno, happened to be passing by. He told them, “Not the wind, not the flag, mind is moving. ”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Douglas R. Hofstadter - Gödel, Escher, Bach_ an Eternal Golden Braid-Basic Books</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1994</p>
 </div>
 </div>
 </div>
@@ -171,7 +171,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🗒 Medium posts
 
-- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 6 months ago
+- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 7 months ago
 - [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 8 months ago
 - [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 1 year ago
 - [The best breakfast is a delightful book](https://louis030195.medium.com/the-best-breakfast-is-a-delightful-book-fa7f6962b202?source=rss-f1c331c9f256------2) - 1 year ago
@@ -183,7 +183,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 - [Langame - Pitch YCombinator](https://www.youtube.com/watch?v=Zjz7WfH_KOk) - 3 months ago
 - [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 4 months ago
 - [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 4 months ago
-- [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 5 months ago
+- [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 6 months ago
 
 ### 🌱 My latest projects
 
@@ -195,7 +195,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.0](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.0), 5 days ago) - Langame Helm charts for Kubernetes deployments
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.0](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.0), 6 days ago) - Langame Helm charts for Kubernetes deployments
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 1 week ago) - Built Docker images to make Gitpod boot faster
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.5](https://github.com/louis030195/firebase-data/releases/tag/v1.0.5), 1 month ago) - Easily manage data between Firebase projects.
 - [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 2 months ago) - Machine conversations for human conversations
