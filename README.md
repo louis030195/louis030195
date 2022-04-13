@@ -35,29 +35,29 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Do you think humanity will one day live in a post scarcity paradigm? What triggered the post scarcity revolution in modern times, and why do you think it has become impossible to have a true post scarcity society? And what if we could?
+          People, after all, are universally interested in beauty. Lipstick, jewelry, eye shadow, perfume, hair dyes, high heels-people are just as willing to exaggerate or lie about their sexually alluring traits as any peacock or bowerbird. And as the list above makes clear, it seems as if men seek female beauty rather more than women seek male beauty.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Meme</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          TRUTH IS AN EXPERIENCE, NOT A BELIEF. Truth never comes by studying about it; truth has to be encountered, truth has to be faced. The person who studies about love is like the person who studies about the Himalayas by looking at the map of the mountains. The map is not the mountain! And if you start believing in the map, you will go on missing the mountain. If you become too much obsessed with the map, the mountain may be there just in front of you, but still you will not be able to see it.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(Osho Insights for a New Way of Living) Osho - Courage_ the Joy of Living Dangerously</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          It was simply a rule of how scientists operated that you had to try to disprove your own theories, and if you made an honest effort and failed, that was victory.
+          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
