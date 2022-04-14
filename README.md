@@ -35,33 +35,33 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          So you have to learn how to admit you’re wrong, over and over and over again. It doesn’t sound like much, but it’s so hard that most people can’t do science. Always questioning yourself, always taking another look at things you’ve always taken for granted.
+          Rent Seeking: trying to use protective regulations or “rights” to derive income without adding anything to economic activity, without increasing the wealth of others. As Fat Tony would define it, it is like being forced to pay protection money to the Mafia without getting the economic benefits of protection.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Never let yourself be goaded into taking seriously problems about words and their meanings. What must be taken seriously are questions of fact, and assertions about facts: theories and hypotheses, the problems they solve and the problems they raise.
+          When a company goes astray, you talk to employees, and they say, ‘We have no strategy. We don’t know where we’re going.’ The strategy is the story. They’re not different. The strategy is the story you tell. It’s the why. If you can’t tell that in a massively compelling way, who’s going to follow you? That’s what makes people get up in the morning and do stuff.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(Library of Living Philosophers XIV.I) Popper, Karl R._ Schlipp, Paul - The Philosophy of Karl Popper. 1-Open Court</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1974</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is no such thing as a cause or an effect.
+          Everything in woman is a riddle, and everything in woman hath one solution—it is called pregnancy.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
@@ -75,6 +75,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Lindy%20Effect%20falsification.md">Philosophy/Epistemology/Lindy Effect falsification.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Simplicity.md">Philosophy/Epistemology/Simplicity.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Egoism.md">Philosophy/Mind/Mental Model/Egoism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Occam%20razor.md">Philosophy/Mind/Mental Model/Occam razor.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-14 22:16:54</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -118,24 +135,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-12 08:00:00</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/The%20Turing%20test%20is%20wrong.md">Computing/Intelligence/The Turing test is wrong.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Probability/Nonpsychological%20probability.md">Mathematic/Causality/Probability/Nonpsychological probability.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Falsifiability.md">Philosophy/Epistemology/Falsifiability.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Induction.md">Philosophy/Epistemology/Induction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Occam%20razor.md">Philosophy/Mind/Mental Model/Occam razor.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-11 13:45:20</p>
             </div>
         </div>
     </div>
