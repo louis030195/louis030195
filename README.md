@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Of all people only those are at leisure who make time for philosophy, only those are really alive.
+          What is something that you are really good at, but most people don’t appreciate or notice?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - On the Shortness of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 2004</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Langame</p>
+<p style="margin-bottom: 0; color: #9f8e7d">None</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People form close friendships by knowing private things about each other, and the reason most people don’t make close friends is because they’re too embarrassed to share anything really important about themselves.
+          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Intelligence is the ability to solve problems. Consciousness is the ability to feel things such as pain, joy, love and anger.
+          There are only two priorities for a startup: winning the market and not running out of cash. Running lean is not an end.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -164,7 +164,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🎙 My recent podcast episodes
 
-- [What is good for the bee is good for the swarm, and then, what is good for the swarm is good for the bee](https://anchor.fm/louis030195/episodes/What-is-good-for-the-bee-is-good-for-the-swarm--and-then--what-is-good-for-the-swarm-is-good-for-the-bee-e1h69la) (2 days ago)
+- [What is good for the bee is good for the swarm, and then, what is good for the swarm is good for the bee](https://anchor.fm/louis030195/episodes/What-is-good-for-the-bee-is-good-for-the-swarm--and-then--what-is-good-for-the-swarm-is-good-for-the-bee-e1h69la) (3 days ago)
 - [Objective knowledge can only be relative](https://anchor.fm/louis030195/episodes/Objective-knowledge-can-only-be-relative-e1fgtmb) (1 month ago)
 - [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (4 months ago)
 - [Our senses do not reflect reality](https://anchor.fm/louis030195/episodes/Our-senses-do-not-reflect-reality-e1bg9tg) (4 months ago)
@@ -187,7 +187,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🗒 Medium posts
 
-- [Deploy Seeker search augmented conversational AI on Kubernetes in 5 minutes](https://louis030195.medium.com/deploy-seeker-search-augmented-conversational-ai-on-kubernetes-in-5-minutes-81a61aa4e749?source=rss-f1c331c9f256------2) - 2 days ago
+- [Deploy Seeker search augmented conversational AI on Kubernetes in 5 minutes](https://louis030195.medium.com/deploy-seeker-search-augmented-conversational-ai-on-kubernetes-in-5-minutes-81a61aa4e749?source=rss-f1c331c9f256------2) - 3 days ago
 - [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 7 months ago
 - [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 8 months ago
 - [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 1 year ago
