@@ -35,12 +35,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Let us discuss this. Can we as individuals put an end in ourselves to the causes of war? One of the causes is obviously belief, the division of ourselves as Hindus,
+          A persn who h lened how to die h uneed how to be a slave.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
 </div>
 </div>
 </div>
@@ -57,12 +57,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But actually, since more than half the students didn’t finish by the time they were 99% sure they’d be done, reality usually delivers results a little worse than the ‘worst-case scenario’. It’s called the planning fallacy, and the best way to fix it is to ask how long things took the last time you tried them.
+          As one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
