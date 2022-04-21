@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In that original state of things which precedes both the appropriation of land and the accumulation of stock, the whole produce of labour belongs to the labourer. He has neither landlord nor master to share with him.
+          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Let us discuss this. Can we as individuals put an end in ourselves to the causes of war? One of the causes is obviously belief, the division of ourselves as Hindus,
+          Ten years ago, you needed $5 million to start a business. Today, you need $70 and some coding skills.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jiddu Krishnamurti - Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperCollins e-Books</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In a given frame, then, as the velocity of a particle increases so does its mass.Furthermore, as the velocity approaches the speed of light, the mass approaches infinity, and hence it requires unbounded amounts of energy to get the particle to go faster. Given that only finite amounts of energy are available, it would follow that no particle which travels below the speed of light can ever be accelerated to, or beyond, that speed. So the speed of light does serve as a limit on the velocities of particles which start out traveling at sublight speeds.
+          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,40 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Historicism.md">Philosophy/Epistemology/Historicism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Availability%20bias.md">Philosophy/Mind/Anti model/Availability bias.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model.md">Philosophy/Mind/Mental Model/Mental model.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Immortality%20reluctance%20under%20the%20availability%20bias.md">Philosophy/Rationality/Immortality reluctance under the availability bias.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-21 18:59:02</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/OpenAI%20CLIP.md">Computing/Intelligence/Machine Learning/OpenAI CLIP.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Seeker%20multimodal%20CLIP%20memory.md">Computing/Intelligence/Machine Learning/Seeker multimodal CLIP memory.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Goodhart%27s%20law.md">Philosophy/Rationality/Goodhart's law.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Maxims/Turn%20negativity%20into%20action.md">Philosophy/Rationality/Maxims/Turn negativity into action.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-21 18:29:06</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -114,49 +148,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-18 20:41:37</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Ideas.md">Business/Ideas.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Multimodal.md">Computing/Intelligence/Machine Learning/Multimodal.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Self%20supervised%20reinforcement%20learning.md">Computing/Intelligence/Machine Learning/Self supervised reinforcement learning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic%20humility.md">Philosophy/Epistemology/Epistemic humility.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Induction%20is%20wrong.md">Philosophy/Epistemology/Induction is wrong.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Becoming%20a%20learning%20machine.md">Philosophy/Rationality/Becoming a learning machine.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Choiceless%20awareness.md">Philosophy/Rationality/Choiceless awareness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Ego.md">Philosophy/Rationality/Ego.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-18 08:42:08</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Quantum/Quantum%20programming%20%26%20assumption%20that%20Copenhagen%20interpretation%20is%20valid.md">Computing/Quantum/Quantum programming & assumption that Copenhagen interpretation is valid.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Counterfactual.md">Philosophy/Epistemology/Counterfactual.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Determining%20the%20priors.md">Philosophy/Epistemology/Determining the priors.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Induction.md">Philosophy/Epistemology/Induction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Kolmogorov%20complexity.md">Philosophy/Epistemology/Kolmogorov complexity.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Black%20Swan.md">Philosophy/Mind/Mental Model/Black Swan.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Becoming%20a%20learning%20machine.md">Philosophy/Rationality/Becoming a learning machine.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Probability%20is%20an%20useful%20illusion.md">Philosophy/Rationality/Probability is an useful illusion.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Quantum/Copenhagen%20interpretation.md">Physic/Quantum/Copenhagen interpretation.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-04-15 08:44:22</p>
             </div>
         </div>
     </div>
