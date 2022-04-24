@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The mind that has no fixed aim loses itself, for, as they say, to be everywhere is to be nowhere.
+          A product is viral if its core functionality encourages users to invite their friends to become users too.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Michel De Montaigne, John M. Cohen, John M. Cohen - Montaigne_ Essays</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1993, Penguin Books - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A good product manager knows the context going in (the company, our revenue funding, competition, etc.), and they take responsibility for devising and executing a winning plan (no excuses).
+          Perspectivity is only a complex form, of specificness. My idea is that every specific body strives to become master of all space, and to extend its power (its will to power), and to thrust back everything that resists it. But inasmuch as it is continually meeting the same endeavours on the part of other bodies, it concludes by coming to terms with those (by "combining" with those) which are sufficiently related to it—and thus they conspire together for power. And the process continues.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ben Horowitz - The Hard Thing About Hard Things_ Building a Business When There Are No Easy Answers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, HarperBusiness - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Gold slippeth away front the man who invests it in businesses or purposes with which he is not familiar or which are not approved by those skilled in its keep.
+          A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself. A good teacher is merely a catalyst.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Striking Thoughts</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Bruce Lee's Wisdom</p>
 </div>
 </div>
 </div>
