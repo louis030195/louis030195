@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If by ‘free will’ you mean the freedom to do what you desire – then yes, humans have free will. But if by ‘free will’ you mean the freedom to choose what to desire – then no, humans have no free will.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Then monopolies can keep innovating because profits enable them to make the long-term plans and to finance the ambitious research projects that firms locked in competition can’t dream of.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
@@ -165,8 +165,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 - [Langame - Unique and translated conversation starters in seconds, as a service](https://www.youtube.com/watch?v=tcdt1UCF1wA) - 3 months ago
 - [Langame - Pitch YCombinator](https://www.youtube.com/watch?v=Zjz7WfH_KOk) - 3 months ago
-- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 4 months ago
-- [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 4 months ago
+- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 5 months ago
+- [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 5 months ago
 - [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 6 months ago
 
 ### 🌱 My latest projects
@@ -179,7 +179,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 2 days ago) - Langame Helm charts for Kubernetes deployments
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 3 days ago) - Langame Helm charts for Kubernetes deployments
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 3 weeks ago) - Built Docker images to make Gitpod boot faster
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.5](https://github.com/louis030195/firebase-data/releases/tag/v1.0.5), 2 months ago) - Easily manage data between Firebase projects.
 - [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 3 months ago) - Machine conversations for human conversations
