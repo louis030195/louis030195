@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All human knowledge is either experience or mathematics.
+          Retire into yourself as much as you can. Associate wth people who are likely to improve you. Welcome those whom you are capable of improving. The process is a mutual one : men learn as they teach.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Proof.—If this be denied, conceive, if possible, that God does not exist: then his essence does not involve existence. But this (Prop. vii.) is absurd. Therefore God necessarily exists.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Knowing means: "to place one's self in relation with something,"
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are two kinds of secrets: secrets of nature and secrets about people. Natural secrets exist all around us; to find them, one must study some undiscovered aspect of the physical world. Secrets about people are different: they are things that people don’t know about themselves or things they hide because they don’t want others to know. So when thinking about what kind of company to build, there are two distinct questions to ask: What secrets is nature not telling you? What secrets are people not telling you?
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Peter Thiel, Blake Masters - Peter Thiel, Blake Masters-Zero to One_ Notes on Startups, or How to Build the Future-Crown Business</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2014, Crown Business</p>
 </div>
 </div>
 </div>
@@ -139,18 +139,16 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 ### 📚 What I'm currently reading
 
 -   **William Gibson**  - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/book/show/6088007-neuromancer) - Sun Apr 24 18:30:31 -0700 2022
--   **Roger Penrose**  - [The Emperor&#39;s New Mind: Concerning Computers, Minds and the Laws of Physics](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind) - Sat Apr 23 08:01:53 -0700 2022
 -   **Andrew Hodges**  - [Alan Turing: The Enigma](https://www.goodreads.com/book/show/150731.Alan_Turing) - Tue Apr 19 08:23:02 -0700 2022
--   **Marcus Hutter**  - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability](https://www.goodreads.com/book/show/388005.Universal_Artificial_Intelligence) - Mon Apr 18 23:42:44 -0700 2022
 -   **Bruce Lee**  - [Striking Thoughts: Bruce Lee&#39;s Wisdom for Daily Living](https://www.goodreads.com/book/show/259311.Striking_Thoughts) - Mon Apr 18 23:41:09 -0700 2022
 
 ### ✍ My latest Goodreads reviews
 
+-   **Marcus Hutter**  - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability](https://www.goodreads.com/book/show/388005.Universal_Artificial_Intelligence) - 3/5 - Tue Apr 26 06:27:17 -0700 2022
+-   **Roger Penrose**  - [The Emperor&#39;s New Mind: Concerning Computers, Minds and the Laws of Physics](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind) - 5/5 - Tue Apr 26 06:27:31 -0700 2022
 -   **Ray Kurzweil**  - [The Singularity is Near: When Humans Transcend Biology](https://www.goodreads.com/book/show/83518.The_Singularity_is_Near) - 3/5 - Tue Apr 19 08:24:07 -0700 2022
 -   **Karl Popper**  - [The Logic of Scientific Discovery](https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery) - 5/5 - Wed Apr 13 07:17:39 -0700 2022
 -   **David Deutsch**  - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - 4/5 - Wed Apr 13 07:18:03 -0700 2022
--   **Michael F. Barnsley**  - [Fractals Everywhere](https://www.goodreads.com/book/show/558070.Fractals_Everywhere) - 4/5 - Fri Apr 01 01:07:34 -0700 2022
--   **Sun Tzu**  - [The Art of War](https://www.goodreads.com/book/show/10534.The_Art_of_War) - 2/5 - Fri Apr 01 01:07:11 -0700 2022
 
 
 ### 🗒 Medium posts
