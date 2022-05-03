@@ -35,18 +35,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Where is innocence? Where there is will to procreation. And he who seeketh to create beyond himself, hath for me the purest will.
+          Wisdom is an attempt to overcome the perspective valuations (i.e. the "will to power"): it is a principle which is both unfriendly to Life, and also decadent; a symptom in the case of the Indians, etc.; weakness of the power of appropriation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
+          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -57,12 +57,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
+          But the implica¬ tion that something can be right without being expedient, "or expedient without being rigHt, is the most pernicious error thaFcould"possibly be introHut hTriruFTHaiTextremely reputable philosophers,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
 </div>
 </div>
 </div>
