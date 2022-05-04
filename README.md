@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Where most entrepreneurs fail is on the things they don’t know they don’t know.
+          It is impossible to tell from the picture alone whether it 2.224 is true or false.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Columbia Business School Publishing] Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men look for sources that are mobile, distant, and unpredictable (usually meat), while women, burdened with children, look for sources that are static, close, and predictable (usually plants)
+          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
+<p style="margin-bottom: 0; color: #9f8e7d">None</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are no essential links between consciousness and either organic biochemistry or high intelligence. Hence computers might develop consciousness – but not necessarily. They could become super-intelligent while still having zero consciousness.
+          That's just how Ted Kaczynski puts it: we're going to become pets. That's our destiny, to become contented pets but certainly not free men.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ray Kurzweil - The Singularity Is Near_ When Humans Transcend Biology-Viking Adult</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2005</p>
 </div>
 </div>
 </div>
@@ -119,55 +119,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-03 07:40:30</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Cloud%20cheat%20sheet.md">Computing/Software Engineering/Cloud cheat sheet.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Observability.md">Computing/Software Engineering/Observability.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Anti%20model/Bias.md">Philosophy/Mind/Anti model/Bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Bulverism.md">Philosophy/Rationality/Bulverism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Scientific%20discovery%20in%20the%20real%20world.md">Philosophy/Rationality/Scientific discovery in the real world.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-02 11:23:36</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Seeking%20immortality%20but%20living%20an%20insane%20life.md">Biology/Health/Seeking immortality but living an insane life.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Competition%20is%20for%20losers.md">Business/Entrepreneurship/Competition is for losers.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Execution%20is%20more%20important%20than%20ideas.md">Business/Entrepreneurship/Execution is more important than ideas.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/AI%20from%20scratch%20rather%20than%20based%20in%20human%20map%20of%20the%20territory.md">Computing/Intelligence/AI from scratch rather than based in human map of the territory.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Machine%20Learning/Language%20models%20direction.md">Computing/Intelligence/Machine Learning/Language models direction.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Probability/Frequency.md">Mathematic/Causality/Probability/Frequency.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Conway.md">Mathematic/Conway.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Untitled%201.md">Mathematic/Untitled 1.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Diverging%20from%20Epistemic%20consensus.md">Philosophy/Epistemology/Diverging from Epistemic consensus.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Maximum%20entropy.md">Philosophy/Epistemology/Maximum entropy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Plato%27s%20allegory.md">Philosophy/Epistemology/Rationalism/Plato's allegory.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Do%20not%20waste%20energy.md">Philosophy/Ethic/Do not waste energy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Morality.md">Philosophy/Ethic/Morality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Efficient%20market.md">Philosophy/Human Society/Efficient market.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Consciousness/Consciousness%20through%20imitation.md">Philosophy/Mind/Consciousness/Consciousness through imitation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/The%20Map%20is%20not%20the%20Territory.md">Philosophy/Mind/Mental Model/The Map is not the Territory.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Music%20is%20not%20worthwhile%20in%20a%20single%20player%20game.md">Philosophy/Rationality/Music is not worthwhile in a single player game.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Principle%20of%20least%20action.md">Physic/Principle of least action.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-01 11:58:35</p>
             </div>
         </div>
     </div>
