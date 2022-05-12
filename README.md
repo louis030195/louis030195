@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Knowing means: "to place one's self in relation with something,"
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          To combat determinism and teleology.—From the fact that something happens regularly, and that its occurrence may be reckoned upon, it does not follow that it happens necessarily. If a quantity of force determines and conducts itself in a certain way in every particular case, it does not prove that it has "no free will."
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
           If by ‘free will’ you mean the freedom to do what you desire – then yes, humans have free will. But if by ‘free will’ you mean the freedom to choose what to desire – then no, humans have no free will.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A probabilistic model is an encoding of information that permits us to compute the probability of every well-formed sentence S in accordance with the axioms of (1 .1)-(1.3).
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Can you tell though experience which choices you've made have been driven more by intrinsic/internal values or extrinsic/external?
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Langame</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Langame</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,22 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Money.md">Philosophy/Human Society/Money.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Think%20aloud.md">Philosophy/Rationality/Think aloud.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-12 22:24:31</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -136,35 +152,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-12 18:02:23</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Anabolism%20-%20Wikipedia.md">Anabolism - Wikipedia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Refined%20oils.md">Biology/Health/Refined oils.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Alignment/Humanity%27s%20purpose.md">Computing/Intelligence/Alignment/Humanity's purpose.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Louis%20-%20Cheatsheet.md">Louis - Cheatsheet.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Meta.md">Meta.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Reductio%20ad%20absurdum.md">Philosophy/Epistemology/Reductio ad absurdum.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/The%20internet%20is%2099.99%25%20noise.md">Philosophy/Epistemology/The internet is 99.99% noise.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Untitled.md">Philosophy/Epistemology/Untitled.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Existential%20risk.md">Philosophy/Human Society/Existential risk.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Eliezer%20Yudkowsky.md">Philosophy/Rationality/Eliezer Yudkowsky.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Confirmation%20bias.md">Philosophy/Rationality/Models/Confirmation bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Anabolism%20-%20Wikipedia.md">Readwise/Articles/Anabolism - Wikipedia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/The%204%20Maxwell%20Equations.%20Get%20the%20Deepest%20Intuition%21%20-%20YouTube.md">Readwise/Articles/The 4 Maxwell Equations. Get the Deepest Intuition! - YouTube.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Transcript%20The%204%20Maxwell%20Equations.%20Get%20the%20Deepest%20Intuition%21.md">Readwise/Articles/Transcript The 4 Maxwell Equations. Get the Deepest Intuition!.md</a></li>
-                    <li><a href="https://brain.louis030195.com/The%204%20Maxwell%20Equations.%20Get%20the%20Deepest%20Intuition%21%20-%20YouTube.md">The 4 Maxwell Equations. Get the Deepest Intuition! - YouTube.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-12 13:42:47</p>
             </div>
         </div>
     </div>
