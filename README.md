@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          Herb Simon, who pioneered artificial intelligence; the psychologist Gerd Gigerenzer; and the mathematician, logician, and decision theorist Ken Binmore, who spent his life formulating the logical foundations of rationality.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          People, after all, are universally interested in beauty. Lipstick, jewelry, eye shadow, perfume, hair dyes, high heels-people are just as willing to exaggerate or lie about their sexually alluring traits as any peacock or bowerbird. And as the list above makes clear, it seems as if men seek female beauty rather more than women seek male beauty.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Wisdom is an attempt to overcome the perspective valuations (i.e. the "will to power"): it is a principle which is both unfriendly to Life, and also decadent; a symptom in the case of the Indians, etc.; weakness of the power of appropriation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A great founding strategy is contrarian and right. That ensures that, at least for an important initial time, no one is coming after you. Eventually, people will come after you if you’re on to something good.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We shall never have more time. We have, and have always had, all the time there is.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Live on 24 Hours a Day: Arnold Bennett on Living a Meaningful Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">fs.blog</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,35 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Books%20yield%20more%20wealth%20than%20Bitcoin.md">Philosophy/Human Society/Books yield more wealth than Bitcoin.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Brain%20dissection.md">Philosophy/Human Society/Brain dissection.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Compound%20relationship.md">Philosophy/Human Society/Compound relationship.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversations%20are%20incomplete%20information%20games.md">Philosophy/Human Society/Conversations are incomplete information games.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversations%20do%20not%20scale.md">Philosophy/Human Society/Conversations do not scale.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Courtship.md">Philosophy/Human Society/Courtship.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Racism.md">Philosophy/Human Society/Racism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Social%20games.md">Philosophy/Human Society/Social games.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Specialist%20are%20slaves.md">Philosophy/Human Society/Specialist are slaves.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Truth%20or%20dare.md">Philosophy/Human Society/Truth or dare.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Ego.md">Philosophy/Rationality/Ego.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Adding%20shocks.md">Philosophy/Rationality/Hack/Adding shocks.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Personality%20test%20boxing.md">Philosophy/Rationality/Hack/Personality test boxing.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Seeking%20discomfort.md">Philosophy/Rationality/Hack/Seeking discomfort.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Iatrogenic.md">Philosophy/Rationality/Models/Iatrogenic.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-17 22:33:51</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -139,21 +168,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-17 07:29:25</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Ai.md">Readwise/Articles/Ai.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Rethinking%20Human-In-The-Loop%20for%20Artificial%20Augmented%20Intelligence%20%E2%80%93%20The%20Berkeley%20Artificial%20Intelligence%20Research%20Blog.md">Readwise/Articles/Rethinking Human-In-The-Loop for Artificial Augmented Intelligence – The Berkeley Artificial Intelligence Research Blog.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-16 19:42:17</p>
             </div>
         </div>
     </div>
