@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We shall never have more time. We have, and have always had, all the time there is.
+          Now this principle of induction cannot be a purely logical truth like a tautology or an analytic statement.Indeed, if there were such a thing as a purely logical principle of induction, there would be no problem of induction; for in this case, all inductive inferences would have to be regarded as purely logical or tautological transformations, just like inferences in deductive logic.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Live on 24 Hours a Day: Arnold Bennett on Living a Meaningful Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">fs.blog</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If a man be lucky, there is no foretelling the possible extent of his good fortune. Pitch him into the Euphrates and like as not he will swim out with a pearl in his hand.
+          In that original state of things which precedes both the appropriation of land and the accumulation of stock, the whole produce of labour belongs to the labourer. He has neither landlord nor master to share with him.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you shape your lie accordng to nte, you wl never be poor; i according to people's opion, you wil never be rch.'
+          If you want to add response time percentiles to the monitoring dashboards for your services, you need to efficiently calculate them on an ongoing basis. For example, you may want to keep a rolling window of response times of requests in the last 10 minutes. Every minute, you calculate the median and various percentiles over the values in that window and plot those metrics on a graph.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seneca - Letters From a Stoic</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Penguin, 1969</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Martin Kleppmann Designing Data-Intensive Applications</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017</p>
 </div>
 </div>
 </div>
@@ -209,7 +209,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 3 weeks ago) - Langame Helm charts for Kubernetes deployments
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 4 weeks ago) - Langame Helm charts for Kubernetes deployments
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 1 month ago) - Built Docker images to make Gitpod boot faster
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.5](https://github.com/louis030195/firebase-data/releases/tag/v1.0.5), 3 months ago) - Easily manage data between Firebase projects.
 - [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 3 months ago) - Machine conversations for human conversations
