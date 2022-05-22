@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What a lot of trouble one avoids if one refuses to have anything to do with the common herd! To have no job, to devote one’s time to literature, is the most wonderful thing in the world.
+          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He grows stronger under the misfortunes which threaten to annihilate him.
+          Store data so that they, or another application, can find it again later (databases) Remember the result of an expensive operation, to speed up reads (caches) Allow users to search data by keyword or filter it in various ways (search indexes) Send a message to another process, to be handled asynchronously (stream processing) Periodically crunch a large amount of accumulated data (batch processing)
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Martin Kleppmann Designing Data-Intensive Applications</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          We should substitute morality by the will to our own ends, and consequently to the means to them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If all the five strategies I have mentioned are turned loose upon one another in a computer simulation, only one of them, retaliator, emerges as evolutionarily stable.* Prober—retaliator is nearly stable. Dove is not stable,
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Richard Dawkins - The Selfish Gene</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,38 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/You%20can%27t%20build%20the%20future%20alone.md">Business/Entrepreneurship/You can't build the future alone.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Humans%20tend%20to%20do%20stupid%20things%20at%20night.md">Philosophy/Rationality/Humans tend to do stupid things at night.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Long%20lived%20vs%20short%20lived%20conversations.md">Philosophy/Rationality/Long lived vs short lived conversations.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/The%20invisible%20magic%20of%20words.md">Philosophy/Rationality/The invisible magic of words.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-22 19:30:32</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Distributed%20strategies%20in%20nature%20are%20the%20laws%20of%20physics.md">Computing/Distributed strategies in nature are the laws of physics.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-21 17:39:50</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -107,55 +139,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Ego.md">Philosophy/Rationality/Ego.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/A%20Selection%20From%20the%20Discourses%20of%20Epictetus%20With%20the%20Encheiridion.md">Readwise/Books/A Selection From the Discourses of Epictetus With the Encheiridion.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Eliezer%20Yudkowsky%20-%20Rationality_%20From%20AI%20to%20Zombies-Machine%20Intelligence%20Research%20Institute.md">Readwise/Books/Eliezer Yudkowsky - Rationality_ From AI to Zombies-Machine Intelligence Research Institute.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Harry%20Potter%20and%20the%20Methods%20of%20Rationality.md">Readwise/Books/Harry Potter and the Methods of Rationality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Ray%20Kurzweil%20-%20The%20Singularity%20Is%20Near_%20When%20Humans%20Transcend%20Biology-Viking%20Adult.md">Readwise/Books/Ray Kurzweil - The Singularity Is Near_ When Humans Transcend Biology-Viking Adult.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/%5BRoutledge%20Classics%5D%20Karl%20Popper%20-%20The%20Logic%20of%20Scientific%20Discovery.md">Readwise/Books/[Routledge Classics] Karl Popper - The Logic of Scientific Discovery.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-19 07:00:08</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Books%20yield%20more%20wealth%20than%20Bitcoin.md">Philosophy/Human Society/Books yield more wealth than Bitcoin.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Brain%20dissection.md">Philosophy/Human Society/Brain dissection.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Compound%20relationship.md">Philosophy/Human Society/Compound relationship.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversations%20are%20incomplete%20information%20games.md">Philosophy/Human Society/Conversations are incomplete information games.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversations%20do%20not%20scale.md">Philosophy/Human Society/Conversations do not scale.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Courtship.md">Philosophy/Human Society/Courtship.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Racism.md">Philosophy/Human Society/Racism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Social%20games.md">Philosophy/Human Society/Social games.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Specialist%20are%20slaves.md">Philosophy/Human Society/Specialist are slaves.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Truth%20or%20dare.md">Philosophy/Human Society/Truth or dare.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Ego.md">Philosophy/Rationality/Ego.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Adding%20shocks.md">Philosophy/Rationality/Hack/Adding shocks.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Personality%20test%20boxing.md">Philosophy/Rationality/Hack/Personality test boxing.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hack/Seeking%20discomfort.md">Philosophy/Rationality/Hack/Seeking discomfort.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Iatrogenic.md">Philosophy/Rationality/Models/Iatrogenic.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-17 22:33:51</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 ### 🎙 My recent podcast episodes
@@ -169,18 +152,17 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
--   **Simon Singh**  - [Fermat&#39;s Enigma](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma) - Wed May 11 16:11:56 -0700 2022
+-   **George Orwell**  - [1984](https://www.goodreads.com/book/show/40961427-1984) - Sun May 22 10:32:37 -0700 2022
 -   **Eliezer Yudkowsky**  - [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality) - Fri Apr 29 07:40:33 -0700 2022
--   **Ming Li**  - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.goodreads.com/book/show/1105208.An_Introduction_to_Kolmogorov_Complexity_and_Its_Applications) - Thu Apr 28 16:48:39 -0700 2022
 -   **Bruce Lee**  - [Striking Thoughts: Bruce Lee&#39;s Wisdom for Daily Living](https://www.goodreads.com/book/show/259311.Striking_Thoughts) - Mon Apr 18 23:41:09 -0700 2022
 
 ### ✍ My latest Goodreads reviews
 
+-   **Simon Singh**  - [Fermat&#39;s Enigma](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma) - 4/5 - Sun May 22 10:31:54 -0700 2022
+-   **Ming Li**  - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.goodreads.com/book/show/1105208.An_Introduction_to_Kolmogorov_Complexity_and_Its_Applications) - 3/5 - Sun May 22 10:31:44 -0700 2022
 -   **William Gibson**  - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/book/show/6088007-neuromancer) - 4/5 - Wed May 11 16:13:10 -0700 2022
 -   **Andrew Hodges**  - [Alan Turing: The Enigma](https://www.goodreads.com/book/show/150731.Alan_Turing) - 5/5 - Wed May 04 06:27:11 -0700 2022
 -   **Eliezer Yudkowsky**  - [Inadequate Equilibria: Where and How Civilizations Get Stuck](https://www.goodreads.com/book/show/36515223-inadequate-equilibria) - 3/5 - Fri Apr 29 07:39:40 -0700 2022
--   **Marcus Hutter**  - [Universal Artificial Intelligence: Sequential Decisions Based on Algorithmic Probability](https://www.goodreads.com/book/show/388005.Universal_Artificial_Intelligence) - 3/5 - Tue Apr 26 06:27:17 -0700 2022
--   **Roger Penrose**  - [The Emperor&#39;s New Mind: Concerning Computers, Minds and the Laws of Physics](https://www.goodreads.com/book/show/179744.The_Emperor_s_New_Mind) - 5/5 - Tue Apr 26 06:27:31 -0700 2022
 
 
 ### 🗒 Medium posts
