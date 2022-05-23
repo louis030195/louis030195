@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you do not undertake a risk of real harm, reparable or even potentially irreparable, from an adventure, it is not an adventure.
+          The workings of the sensory systems are particularly baffling, because they can achieve far more sophisticated feats of pattern-recognition than the best and most expensive man-made machines; if this were not so, all typists would be redundant, superseded by speech-recognizing machines, or machines for reading handwriting. Human typistswill be needed for many decades yet.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Richard Dawkins - The Selfish Gene</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2006, Oxford University Press, USA</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making things is a joy—immensely satisfying. J. R. R. Tolkien suggests that God gave us the gift of subcreation, as a gift, just for our joy.2 After all, “The cattle on a thousand hills are mine. … If I were hungry, I would not tell you.”3 Designing per se is fun.
+          People form close friendships by knowing private things about each other, and the reason most people don’t make close friends is because they’re too embarrassed to share anything really important about themselves.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Frederick P. Brooks - The Design of Design_ Essays From a Computer Scientist-Addison-Wesley Professional</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2010</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Finally, when young people who “want to help mankind” come to me asking, “What should I do? I want to reduce poverty, save the world,” and similar noble aspirations at the macro-level, my suggestion is: 1) Never engage in virtue signaling; 2) Never engage in rent-seeking; 3) You must start a business. Put yourself on the line, start a business. Yes, take risk, and if you get rich (which is optional), spend your money generously on others.
+          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,21 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Insulin%20-%20Wikipedia.md">Readwise/Articles/Insulin - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Radioactive%20Decay%20-%20Wikipedia.md">Readwise/Articles/Radioactive Decay - Wikipedia.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-23 20:50:40</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -136,35 +151,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-23 08:31:36</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Durian%20vs%20doggo.md">Biology/Evolution/Durian vs doggo.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/Dealing%20with%20forecasted%20circadian%20rhythm%20changes.md">Biology/Health/Dealing with forecasted circadian rhythm changes.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/A-B-fit.md">Business/Entrepreneurship/A-B-fit.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Achieve%20product%20market%20fit%20with%20a%20small%20audience%20first.md">Business/Entrepreneurship/Achieve product market fit with a small audience first.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Common%20knowledge%20in%20startups.md">Business/Entrepreneurship/Common knowledge in startups.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Open%20source%20is%20not%20compatible%20with%20monopoly.md">Business/Entrepreneurship/Open source is not compatible with monopoly.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Evidence%20disproves%20authority.md">Philosophy/Epistemology/Evidence disproves authority.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Knowledge.md">Philosophy/Epistemology/Knowledge.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Seeking%20epistemic%20discomfort.md">Philosophy/Epistemology/Seeking epistemic discomfort.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Silver%20Rule.md">Philosophy/Ethic/Silver Rule.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Physical%20social%20interactions%20are%20obsolete.md">Philosophy/Human Society/Physical social interactions are obsolete.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Decision%20making/Decision%20making.md">Philosophy/Rationality/Decision making/Decision making.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Life%20starts%20as%20a%20single%20player%20game%20and%20finish%20a%20multiplayer%20game.md">Philosophy/Rationality/Life starts as a single player game and finish a multiplayer game.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Bias.md">Philosophy/Rationality/Models/Bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Rationalization.md">Philosophy/Rationality/Models/Rationalization.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-23 08:01:37</p>
             </div>
         </div>
     </div>
