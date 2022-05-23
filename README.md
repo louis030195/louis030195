@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Consciousness is somehow linked to organic biochemistry in such a way that it will never be possible to create consciousness in non-organic systems. Consciousness is not linked to organic biochemistry, but it is linked to intelligence in such a way that computers could develop consciousness, and computers will have to develop consciousness if they are to pass a certain threshold of intelligence.
+          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The problem of finding a criterion which would enable us to distinguish between the empirical sciences on the one hand, and mathematics and logic as well as ‘metaphysical’ systems on the other, I call the problem of demarcation.
+          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Te Sophisticate: “Te world isn’t black and white. No one does pure good or pure bad. It’s all gray. Terefore, no one is better than anyone else.” Te Zetet: “Knowing only gray, you conclude that all grays are the same shade. You mock the simplicity of the two-color view, yet you replace it with a one-color view . . .
+          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Eliezer Yudkowsky - Rationality_ From AI to Zombies-Machine Intelligence Research Institute</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2015</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
@@ -75,6 +75,35 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Durian%20vs%20doggo.md">Biology/Evolution/Durian vs doggo.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/Dealing%20with%20forecasted%20circadian%20rhythm%20changes.md">Biology/Health/Dealing with forecasted circadian rhythm changes.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/A-B-fit.md">Business/Entrepreneurship/A-B-fit.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Achieve%20product%20market%20fit%20with%20a%20small%20audience%20first.md">Business/Entrepreneurship/Achieve product market fit with a small audience first.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Common%20knowledge%20in%20startups.md">Business/Entrepreneurship/Common knowledge in startups.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Open%20source%20is%20not%20compatible%20with%20monopoly.md">Business/Entrepreneurship/Open source is not compatible with monopoly.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Evidence%20disproves%20authority.md">Philosophy/Epistemology/Evidence disproves authority.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Knowledge.md">Philosophy/Epistemology/Knowledge.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Seeking%20epistemic%20discomfort.md">Philosophy/Epistemology/Seeking epistemic discomfort.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Ethic/Silver%20Rule.md">Philosophy/Ethic/Silver Rule.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Physical%20social%20interactions%20are%20obsolete.md">Philosophy/Human Society/Physical social interactions are obsolete.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Decision%20making/Decision%20making.md">Philosophy/Rationality/Decision making/Decision making.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Life%20starts%20as%20a%20single%20player%20game%20and%20finish%20a%20multiplayer%20game.md">Philosophy/Rationality/Life starts as a single player game and finish a multiplayer game.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Bias.md">Philosophy/Rationality/Models/Bias.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Rationalization.md">Philosophy/Rationality/Models/Rationalization.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-23 08:01:37</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -118,23 +147,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-20 22:44:22</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Anti%20model/Availability%20bias.md">Philosophy/Rationality/Anti model/Availability bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Availability%20bias.md">Philosophy/Rationality/Models/Availability bias.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Exploration%20vs%20exploitation.md">Philosophy/Rationality/Models/Exploration vs exploitation.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-19 08:00:01</p>
             </div>
         </div>
     </div>
