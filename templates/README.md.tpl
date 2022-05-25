@@ -1,14 +1,13 @@
 
 # [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I do a lot of [software bricolage](https://github.com/louis030195),
-[book reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
-[writing and thinking](https://brain.louis030195.com).
-I enjoy learning every day about philosophy, fundamental sciences, compound knowledge, transhumanism and everything around software 2.0, "AI".
+Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195)(machines or humans),
+[reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
+[writing, and thinking](https://brain.louis030195.com).
+I'm trying to be less wrong every day, I'm delighted by artificial intelligence, fundamental sciences, epistemology, rationality and transhumanism.
 
-I am co-founder of:
-- [langa.me](https://langa.me)
-- [inkdrop.ai](https://inkdrop.ai)
+I am co-founder and CTO of [inkdrop.ai](https://inkdrop.ai), [join us 🥰](https://www.linkedin.com/company/inkdrop-ai).
+I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
