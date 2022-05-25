@@ -35,34 +35,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is no such thing as a cause or an effect.
+          And that," put in the Director sententiously, "that is the secret of happiness and virtue-liking what you've got to do. All conditioning aims at that: making people like their unescapable social destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Aldous Huxley</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Brave New World 2006</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men look for sources that are mobile, distant, and unpredictable (usually meat), while women, burdened with children, look for sources that are static, close, and predictable (usually plants)
+          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The task of the calculus of probability consists, according to von Mises, simply and solely in this: to infer certain ‘derived collectives’ with ‘derived distributions’ from certain given ‘initial collectives’ with certain given ‘initial distributions’;
+          So you have to learn how to admit you’re wrong, over and over and over again. It doesn’t sound like much, but it’s so hard that most people can’t do science. Always questioning yourself, always taking another look at things you’ve always taken for granted.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Karl Popper - The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2002, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -227,5 +227,5 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 - [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 1 month ago) - Langame Helm charts for Kubernetes deployments
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 1 month ago) - Built Docker images to make Gitpod boot faster
 - [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.5](https://github.com/louis030195/firebase-data/releases/tag/v1.0.5), 3 months ago) - Easily manage data between Firebase projects.
-- [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 3 months ago) - Machine conversations for human conversations
+- [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 4 months ago) - Machine conversations for human conversations
 - [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 7 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
