@@ -34,34 +34,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Nature isn’t a person, you can’t trick them into believing something else, if you try to tell the Moon it’s made of cheese you can argue for days and it won’t change the Moon! What you’re talking about is rationalization,
+          In any orthodox theory the wavefunction is complete and hence must collapse, so we must consider whether collapses could be generated in a relativistically invariant way.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tim Maudlin - Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2011, Wiley-Blackwell - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But the implica¬ tion that something can be right without being expedient, "or expedient without being rigHt, is the most pernicious error thaFcould"possibly be introHut hTriruFTHaiTextremely reputable philosophers,
+          For example, if A stands for the statement "Ted Kennedy will seek the nomination for president in year 2000," then peA I K) stands for a person's subjective beliefin the event described by A given a body ofknow1- edge K, which might include that person's assumptions about American politics, specific proclamations made by Kennedy, and an assessment of Kennedy's past and personality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marcus Tullius Cicero - On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1971, Penguin Classics - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The uselessness of the mechanical theory—it gives the impression that there can be no purpose.
+          In dynamical system theory, a phase space is a space in which all possible states of a system are represented, with each possible state corresponding to one unique point in the phase space. For mechanical systems, the phase space usually consists of all possible values of position and momentum variables. It is the outer product of direct space and reciprocal space. The concept of phase space was developed in the late 19th century by Ludwig Boltzmann, Henri Poincaré, and Josiah Willard Gibbs.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phase Space - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
