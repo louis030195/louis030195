@@ -1,7 +1,7 @@
 
 # [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195)(machines or humans),
+Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195) (machines or humans),
 [reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing, and thinking](https://brain.louis030195.com).
 I'm trying to be less wrong every day, I'm delighted by artificial intelligence, fundamental sciences, epistemology, rationality and transhumanism.
