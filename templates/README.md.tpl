@@ -27,6 +27,10 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 [START]
 
+## 📝 [Napkin](https://napkin.one)
+
+[My Napkin](https://app.napkin.one/public/XgQC29r1reVhS53v8P3aM49Ea6k2)
+
 ### 🎙 My recent podcast episodes
 {{range rss "https://anchor.fm/s/7871f944/podcast/rss" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
