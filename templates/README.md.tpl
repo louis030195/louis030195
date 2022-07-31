@@ -12,8 +12,7 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/15min', text: 'Schedule time with me', color: '#90a959', textColor: '#000000', branding: true }); }</script>
-<!-- Calendly badge widget end -->
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#ffffff', branding: true }); }</script>
 
 ## 🔗 Links
 
