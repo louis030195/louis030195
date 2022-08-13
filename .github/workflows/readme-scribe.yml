@@ -26,7 +26,7 @@ jobs:
         run: |
           sudo pip install PyGithub requests beautifulsoup4
           sudo chmod 777 README.md
-          sudo python3 merge_hacks_into_README.py "### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis) - [More readwise.io brain food](https://louis030195.notion.site/Readwise-2fe6d4d2af674de1884dc66185f3a631)\n$(sudo python3 hack.py)\n### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})"
+          sudo python3 merge_hacks_into_README.py "### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis) - [More readwise.io brain food](https://louis030195.notion.site/Readwise-9ba0d6289ae748c59f76bec591548c66)\n$(sudo python3 hack.py)\n### 🧠 Latest changes on [brain.louis030195.com](https://brain.louis030195.com)$(sudo python3 hack_obsidian.py ${GITHUB_TOKEN})"
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
