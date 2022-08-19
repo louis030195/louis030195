@@ -12,7 +12,7 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#ffffff', branding: true }); }</script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#151515', branding: true }); }</script>
 
 ## 🔗 Links
 
@@ -26,7 +26,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ## 🗒 My [Raindrop](https://raindrop.io) brain food
 
-<iframe style="background-color: #151515; border: 0; width: 100%; height: 500px;" allowfullscreen frameborder="0" src="https://raindrop.io/louis-beaumont/public-26885635/embed/sort=-created&theme=dark&perpage=5&hide=header%2C+add"></iframe>
+<iframe style="border: 0; width: 100%; height: 500px; background-color: transparent;" allowfullscreen frameborder="0" src="https://raindrop.io/louis-beaumont/public-26885635/embed/sort=-created&theme=dark&perpage=5&hide=header%2C+add"></iframe>
 
 ## 📝 [My Napkin brain food](https://app.napkin.one/public/XgQC29r1reVhS53v8P3aM49Ea6k2) 
 
