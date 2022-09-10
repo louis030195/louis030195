@@ -6,15 +6,16 @@ import requests
 MEMORY_STREAM = sys.argv[1]
 with open('README.md', 'r') as f:
     content = f.read()
-    content = re.sub(r'\[START\]', MEMORY_STREAM, content)
     # query my ouraring api and write my health status after my obsidian outputs
     response = requests.post(
         "https://europe-west1-louis030195-256110.cloudfunctions.net/ega_public",
     )
     response_json = response.json()
-    content += "\n\n"
-    content += "### My Health Status (ouraring.com) - " + str(response_json["day"]) + "\n"
-    content += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
+    MEMORY_STREAM += "\n\n"
+    MEMORY_STREAM += "### ❤️‍🩹 My Health Status (ouraring.com) - " + str(response_json["day"]) + "\n"
+    MEMORY_STREAM += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
+    content = re.sub(r'\[START\]', MEMORY_STREAM, content)
+
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
