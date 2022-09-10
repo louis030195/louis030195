@@ -16,6 +16,7 @@ things = []
 mega hack
 """
 skipped = 0
+# TODO: filter out files containing "publish: false"
 for a in repo.get_commits()[0:5+skipped]:
     a: Commit = a
     lis_list = [f'                    <li><a href="https://brain.louis030195.com/{urllib.parse.quote(f.filename)}">{f.filename}</a></li>' for f in a.files
