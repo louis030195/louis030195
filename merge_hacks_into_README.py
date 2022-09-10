@@ -13,8 +13,8 @@ with open('README.md', 'r') as f:
     )
     response_json = response.json()
     content += "\n\n"
-    content += "### My Health Status (ouraring.com) - " + response_json["day"] + "\n"
-    content += "Today's overall readiness score: " + response_json["daily_readiness_score"] + "\n"
+    content += "### My Health Status (ouraring.com) - " + str(response_json["day"]) + "\n"
+    content += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
