@@ -15,9 +15,10 @@ with open('README.md', 'r') as f:
         MEMORY_STREAM += "\n\n"
         MEMORY_STREAM += "### ❤️‍🩹 My Health Status (ouraring.com) - " + str(response_json["day"]) + "\n"
         MEMORY_STREAM += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
-        content = re.sub(r'\[START\]', MEMORY_STREAM, content)
     except:
         print("🙈fail ouraring 🙈: " + str(response))
+    content = re.sub(r'\[START\]', MEMORY_STREAM, content)
+    
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
