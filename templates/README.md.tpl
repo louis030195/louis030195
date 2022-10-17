@@ -13,10 +13,9 @@ I have specific interests in:
 - Philosophy of science, science, compound knowledge, structured and deep conversations
 - Entrepreneur/researcher houses / shared living / ecosystem
 
-I'm currently about to change what I spend most of my days on, please read:
-https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future
+I'm currently about to change what I spend most of my days on, please read [this](https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future).
 
-Additionally, if you want to know more about my personality: https://brain.louis030195.com/Louis/Louis+-+Cheatsheet.
+Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
 
