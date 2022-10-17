@@ -4,9 +4,20 @@
 Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195) (machines or humans),
 [reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing, and thinking](https://brain.louis030195.com).
-I'm trying to be less wrong every day, I'm delighted by artificial intelligence, fundamental sciences, epistemology, rationality and transhumanism.
 
-I am co-founder and CTO of [inkdrop.ai](https://inkdrop.ai), [join us 🥰](https://www.linkedin.com/company/inkdrop-ai).
+I like to build products that are most effectively valuable to humans.
+
+I have specific interests in:
+- Artificial intelligence (language models, multi-modal, cross-modal, unsupervised, alignment, private computation)
+- Using tech to augment the human condition: BCI, memory streams, second-brains, AI assistants, solving aging, suffering, and death
+- Philosophy of science, science, compound knowledge, structured and deep conversations
+- Entrepreneur/researcher houses / shared living / ecosystem
+
+I'm currently about to change what I spend most of my days on, please read:
+https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future
+
+Additionally, if you want to know more about my personality: https://brain.louis030195.com/Louis/Louis+-+Cheatsheet.
+
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
 
 <!-- Calendly badge widget begin -->
