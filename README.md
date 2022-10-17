@@ -1,19 +1,28 @@
-
+<link rel="shortcut icon" href="/favicon.ico">
 # [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195)(machines or humans),
+Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195) (machines or humans),
 [reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing, and thinking](https://brain.louis030195.com).
-I'm trying to be less wrong every day, I'm delighted by artificial intelligence, fundamental sciences, epistemology, rationality and transhumanism.
 
-I am co-founder and CTO of [inkdrop.ai](https://inkdrop.ai), [join us 🥰](https://www.linkedin.com/company/inkdrop-ai).
+I like to build products that are most effectively valuable to humans.
+
+I have specific interests in:
+- Artificial intelligence (language models, multi-modal, cross-modal, unsupervised, alignment, private computation)
+- Using tech to augment the human condition: BCI, memory streams, second-brains, AI assistants, solving aging, suffering, and death
+- Philosophy of science, science, compound knowledge, structured and deep conversations
+- Entrepreneur/researcher houses / shared living / ecosystem
+
+I'm currently about to change what I spend most of my days on, please read [this](https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future).
+
+Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
+
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
 
-<!-- Calendly badge widget begin -->
+
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#ffffff', branding: true }); }</script>
-
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#151515', branding: true }); }</script>
 
 ## 🔗 Links
 
@@ -25,7 +34,11 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 
 Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis030195/).
 
-### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)
+## 🗒 My [Raindrop](https://raindrop.io) brain food
+
+<iframe style="border: 0; width: 100%; height: 450px; background-color: transparent;" allowfullscreen frameborder="0" src="https://raindrop.io/louis030195/public-26885635/embed/sort=-created&theme=dark&hide=header%2Cadd"></iframe>
+
+### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis) - [More readwise.io brain food](https://louis030195.notion.site/Readwise-9ba0d6289ae748c59f76bec591548c66)
 <div class="some-highlights" style="display: flex;
   margin-left: -50vw;
   left: 50%;
@@ -33,8 +46,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   width: 100vw;
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          World domination is such an ugly phrase. I prefer to call it world optimisation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -44,24 +57,24 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Citing experimental results about keeping a gratitude journal as a strategy for improving life happiness didn’t seem like it would be taken well.
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Common knowledge is the name for the epistemic state we’re collectively in, when we know we can all start choosing action B - and trust everyone else to do the same.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Costly Coordination Mechanism of Common Knowledge - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Ben Pace</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Supposing, however, that there were something whose existence has in itself an absolute worth, something which, being an end in itself, could be a source of definite laws, then in this and this alone would lie the source of a possible categorical imperative, i. e. a practical law.
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The main difference between integrability in the sense of Lebesgue and Riemann is the way we measure 'the area under the curve'.  The Riemann integral asks the question what's the 'height' of 𝑓f above a given part of the domain of the function. The Lebesgue integral on the other hand asks, for a given part of the range of 𝑓f, what's the measure of the 𝑥x's which contribute to this 'height'.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Critique of Practical Reason</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Integration - ELI5: Riemann-Integrable vs Lebesgue-Integrable - Mathematics Stack Exchange</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Cookie Policy</p>
 </div>
 </div>
 </div>
@@ -77,24 +90,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Attention%20has%20always%20been%20a%20huge%20market.md">Biology/Evolution/Monkey brain/Attention has always been a huge market.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Breaking%20free.md">Biology/Evolution/Monkey brain/Breaking free.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Not%20getting%20fooled%20by%20appearance.md">Biology/Evolution/Monkey brain/Not getting fooled by appearance.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Objective%20beauty%20is%20about%20how%20able%20she%20is%20to%20breed%20healthy%20children.md">Biology/Evolution/Monkey brain/Objective beauty is about how able she is to breed healthy children.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Romanticism.md">Biology/Evolution/Monkey brain/Romanticism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Should%20we%20face%20our%20nature%3F.md">Biology/Evolution/Monkey brain/Should we face our nature?.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Untitled.md">Biology/Evolution/Monkey brain/Untitled.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Why%20women%20care%20more%20for%20prettiness.md">Biology/Evolution/Monkey brain/Why women care more for prettiness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Sex.md">Biology/Sex.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Rationalism/Plato.md">Philosophy/Epistemology/Rationalism/Plato.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Freedom/Freedom.md">Philosophy/Freedom/Freedom.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Human%20Society/Conversation.md">Philosophy/Human Society/Conversation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Louis/Louis%20-%20Cheatsheet.md">Louis/Louis - Cheatsheet.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Life%20variables.md">Personal growth/Life variables.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-06-01 12:51:01</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-10-17 11:24:09</p>
             </div>
         </div>
     </div>
@@ -103,13 +105,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Book.md">Philosophy/Epistemology/Book.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Experiments/Max%20one%20daily%20coffee.md">Personal growth/Experiments/Max one daily coffee.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Monday%20commitment.md">Templates/Monday commitment.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-31 10:00:05</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-10-17 10:54:08</p>
             </div>
         </div>
     </div>
@@ -118,73 +120,97 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Changelog.md">Changelog.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Book.md">Philosophy/Epistemology/Book.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/arxiv.org%20-%20MAGMA%20--%20Multimodal%20Augmentation%20of%20Generative%20Models%20Through%20Adapter-Based%20Finetuning.md">Readwise/Articles/arxiv.org - MAGMA -- Multimodal Augmentation of Generative Models Through Adapter-Based Finetuning.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Automatic%20Differentiation%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Automatic Differentiation - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/medium.com%20-%20Effect%20of%20Regularization%20in%20Neural%20Net%20Training.md">Readwise/Articles/medium.com - Effect of Regularization in Neural Net Training.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-05-31 09:30:04</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-10-16 21:09:15</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Poetry/Descriptive.md">Philosophy/Poetry/Descriptive.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Lex%20Fridman%20Podcast%20-%20329%20%E2%80%93%20Kate%20Darling%20%E2%80%94%20%20Social%20Robots%2C%20Ethics%2C%20Privacy%20and%20the%20Future%20of%20MIT.md">Readwise/Podcasts/Lex Fridman Podcast - 329 – Kate Darling —  Social Robots, Ethics, Privacy and the Future of MIT.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20TWIML%20AI%20Podcast%20%28formerly%20This%20Week%20in%20Machine%20Learning%20%26%20Artificial%20Intelligence%29%20-%20Multimodal%2C%20Multi-Lingual%20NLP%20at%20Hugging%20Face%20With%20John%20Bohannon%20and%20Douwe%20Kiela%20-%20589.md">Readwise/Podcasts/The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) - Multimodal, Multi-Lingual NLP at Hugging Face With John Bohannon and Douwe Kiela - 589.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2022-10-16 19:38:23</p>
             </div>
         </div>
     </div>
     
 </div>
 
+### ❤️‍🩹 My Health Status (ouraring.com) - 2022-10-17
+Today's overall readiness score: 68
+
+
 ### 🎙 My recent podcast episodes
 
-- [Confirmation bias - Seek epistemic discomfort](https://anchor.fm/louis030195/episodes/Confirmation-bias---Seek-epistemic-discomfort-e1ieh10) (2 weeks ago)
-- [What is good for the bee is good for the swarm, and then, what is good for the swarm is good for the bee](https://anchor.fm/louis030195/episodes/What-is-good-for-the-bee-is-good-for-the-swarm--and-then--what-is-good-for-the-swarm-is-good-for-the-bee-e1h69la) (1 month ago)
-- [Objective knowledge can only be relative](https://anchor.fm/louis030195/episodes/Objective-knowledge-can-only-be-relative-e1fgtmb) (2 months ago)
-- [Do not vomit what you did not digest well enough](https://anchor.fm/louis030195/episodes/Do-not-vomit-what-you-did-not-digest-well-enough-e1bhq3u) (5 months ago)
-- [Our senses do not reflect reality](https://anchor.fm/louis030195/episodes/Our-senses-do-not-reflect-reality-e1bg9tg) (5 months ago)
+- [The flowers of Quantum Calabi-Yau-String-Godel-Manifold](https://anchor.fm/louis030195/episodes/The-flowers-of-Quantum-Calabi-Yau-String-Godel-Manifold-e1oblt9) (3 weeks ago)
+- [The fantasy of eternal spring](https://anchor.fm/louis030195/episodes/The-fantasy-of-eternal-spring-e1l6g16) (3 months ago)
+- [Rationality](https://anchor.fm/louis030195/episodes/Rationality-e1l4sb8) (3 months ago)
+- [A bright tomorrow](https://anchor.fm/louis030195/episodes/A-bright-tomorrow-e1l4fao) (3 months ago)
+- [Confirmation bias - Seek epistemic discomfort](https://anchor.fm/louis030195/episodes/Confirmation-bias---Seek-epistemic-discomfort-e1ieh10) (5 months ago)
 
 
 ### 📚 What I'm currently reading
 
--   **Roger Penrose**  - [Cycles of Time: An Extraordinary New View of the Universe](https://www.goodreads.com/book/show/7947434-cycles-of-time) - Sat May 28 09:03:43 -0700 2022
--   **Vaclav Smil**  - [How the World Really Works: A Scientist’s Guide to Our Past, Present and Future](https://www.goodreads.com/book/show/56587388-how-the-world-really-works) - Fri May 27 09:05:03 -0700 2022
--   **Malcolm Kendrick**  - [The Clot Thickens](https://www.goodreads.com/book/show/59541735-the-clot-thickens) - Wed May 25 12:04:55 -0700 2022
--   **Eliezer Yudkowsky**  - [Rationality: From AI to Zombies](https://www.goodreads.com/book/show/25131230-rationality) - Fri Apr 29 07:40:33 -0700 2022
--   **Bruce Lee**  - [Striking Thoughts: Bruce Lee&#39;s Wisdom for Daily Living](https://www.goodreads.com/book/show/259311.Striking_Thoughts) - Mon Apr 18 23:41:09 -0700 2022
+-   **William N. Thorndike Jr.**  - [The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success](https://www.goodreads.com/book/show/13586932-the-outsiders) - Wed Oct 12 09:29:19 -0700 2022
+-   **Steven Pressfield**  - [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/book/show/1319.The_War_of_Art) - Wed Oct 12 09:28:35 -0700 2022
+-   **Edsger W. Dijkstra**  - [A Discipline of Programming](https://www.goodreads.com/book/show/2276288.A_Discipline_of_Programming) - Wed Oct 12 09:25:01 -0700 2022
+-   **Alain de Botton**  - [The Course of Love](https://www.goodreads.com/book/show/27845690-the-course-of-love) - Wed Oct 05 06:51:18 -0700 2022
+-   **Eric Ries**  - [The Lean Startup: How Today&#39;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup) - Wed Oct 05 04:59:10 -0700 2022
+-   **David  Farley**  - [Continuous Delivery Pipelines - How to Build Better Software Faster](https://www.goodreads.com/book/show/56771495-continuous-delivery-pipelines---how-to-build-better-software-faster) - Wed Sep 21 08:19:28 -0700 2022
+-   **Jez Humble**  - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) - Wed Sep 21 08:19:24 -0700 2022
+-   **David  Farley**  - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering) - Wed Sep 21 08:19:22 -0700 2022
 
 ### ✍ My latest Goodreads reviews
 
--   **James Clear**  - [Atomic Habits: An Easy &amp; Proven Way to Build Good Habits &amp; Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) - 4/5 - Fri May 27 02:03:32 -0700 2022
--   **George Orwell**  - [1984](https://www.goodreads.com/book/show/40961427-1984) - 5/5 - Wed May 25 12:43:30 -0700 2022
--   **Simon Singh**  - [Fermat&#39;s Enigma](https://www.goodreads.com/book/show/38412.Fermat_s_Enigma) - 4/5 - Sun May 22 10:31:54 -0700 2022
--   **Ming Li**  - [An Introduction to Kolmogorov Complexity and Its Applications](https://www.goodreads.com/book/show/1105208.An_Introduction_to_Kolmogorov_Complexity_and_Its_Applications) - 3/5 - Sun May 22 10:31:44 -0700 2022
--   **William Gibson**  - [Neuromancer (Sprawl, #1)](https://www.goodreads.com/book/show/6088007-neuromancer) - 4/5 - Wed May 11 16:13:10 -0700 2022
+-   **Tom Rath**  - [Strengths Finder 2.0](https://www.goodreads.com/book/show/56454.Strengths_Finder_2_0) - 2/5 - Sun Oct 16 08:11:34 -0700 2022
+-   **Richard Nelson Bolles**  - [What Color Is Your Parachute? A Practical Manual for Job-Hunters and Career-Changers](https://www.goodreads.com/book/show/6932.What_Color_Is_Your_Parachute_A_Practical_Manual_for_Job_Hunters_and_Career_Changers) - 2/5 - Sun Oct 16 08:12:17 -0700 2022
+-   **Kahlil Gibran**  - [The Prophet](https://www.goodreads.com/book/show/2547.The_Prophet) - 5/5 - Sun Oct 16 08:11:55 -0700 2022
+-   **Josh Kaufman**  - [The Personal MBA: Master the Art of Business](https://www.goodreads.com/book/show/9512985-the-personal-mba) - 5/5 - Sun Oct 16 08:11:58 -0700 2022
+-   **Kahlil Gibran**  - [The Madman](https://www.goodreads.com/book/show/2544.The_Madman) - 4/5 - Wed Oct 12 09:25:53 -0700 2022
 
 
 ### 🗒 Medium posts
 
-- [Deploy Seeker search augmented conversational AI on Kubernetes in 5 minutes](https://louis030195.medium.com/deploy-seeker-search-augmented-conversational-ai-on-kubernetes-in-5-minutes-81a61aa4e749?source=rss-f1c331c9f256------2) - 1 month ago
-- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 8 months ago
-- [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 10 months ago
-- [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 1 year ago
-- [The best breakfast is a delightful book](https://louis030195.medium.com/the-best-breakfast-is-a-delightful-book-fa7f6962b202?source=rss-f1c331c9f256------2) - 1 year ago
+- [Deploy Seeker search augmented conversational AI on Kubernetes in 5 minutes](https://louis030195.medium.com/deploy-seeker-search-augmented-conversational-ai-on-kubernetes-in-5-minutes-81a61aa4e749?source=rss-f1c331c9f256------2) - 6 months ago
+- [OpenAI Codex, Rust, TypeScript, Google Cloud, automatic code translation](https://louis030195.medium.com/openai-codex-rust-typescript-google-cloud-automatic-code-translation-8ed723ac1bc3?source=rss-f1c331c9f256------2) - 1 year ago
+- [Fine-tuning OpenAI API (GPT3) on your second brain (Obsidian)](https://louis030195.medium.com/fine-tuning-openai-api-gpt3-on-your-second-brain-obsidian-b082afaaeba7?source=rss-f1c331c9f256------2) - 1 year ago
+- [What you do not learn at school: how to learn](https://louis030195.medium.com/what-you-do-not-learn-at-school-how-to-learn-d6809922cac?source=rss-f1c331c9f256------2) - 2 years ago
+- [The best breakfast is a delightful book](https://louis030195.medium.com/the-best-breakfast-is-a-delightful-book-fa7f6962b202?source=rss-f1c331c9f256------2) - 2 years ago
 
 ### 🎬 Youtube Videos
 
-- [Langame - Unique and translated conversation starters in seconds, as a service](https://www.youtube.com/watch?v=tcdt1UCF1wA) - 4 months ago
-- [Langame - Pitch YCombinator](https://www.youtube.com/watch?v=Zjz7WfH_KOk) - 5 months ago
-- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 6 months ago
-- [Langame - The Multiverse](https://www.youtube.com/watch?v=G85GFQDWR_o) - 6 months ago
-- [Langame - Squaring the circle](https://www.youtube.com/watch?v=rzfxgOy4x3c) - 7 months ago
+- [Semantic search in Obsidian](https://www.youtube.com/watch?v=SZRk7LU2-wk) - 2 months ago
+- [Obsidian semantic search](https://www.youtube.com/watch?v=368S6xYTpZM) - 2 months ago
+- [Langame - Unique and translated conversation starters in seconds, as a service](https://www.youtube.com/watch?v=tcdt1UCF1wA) - 9 months ago
+- [Langame - Pitch YCombinator](https://www.youtube.com/watch?v=Zjz7WfH_KOk) - 9 months ago
+- [Langame 😛  - Turing Test](https://www.youtube.com/watch?v=dHykGp8G8g8) - 10 months ago
 
 ### 🌱 My latest projects
 
-- [louis030195/ega](https://github.com/louis030195/ega) - Augmenting human memory
+- [louis030195/hacks](https://github.com/louis030195/hacks) - 
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - AI-enhanced reflection in Obsidian https://obsidian.md
+- [louis030195/obsidian-search](https://github.com/louis030195/obsidian-search) - Semantic search in Obsidian
+- [louis030195/ega](https://github.com/louis030195/ega) - 
 - [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) - Built Docker images to make Gitpod boot faster
-- [louis030195/codex-code-translation](https://github.com/louis030195/codex-code-translation) - Automatic code translation using OpenAI Codex
-- [louis030195/firebase-data](https://github.com/louis030195/firebase-data) - Easily manage data between Firebase projects.
-- [louis030195/book2audiobook](https://github.com/louis030195/book2audiobook) - text to speech public domain / free audio books
 
 ### 🔭 Latest releases I've contributed to
 
-- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 1 month ago) - Langame Helm charts for Kubernetes deployments
-- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 2 months ago) - Built Docker images to make Gitpod boot faster
-- [louis030195/firebase-data](https://github.com/louis030195/firebase-data) ([v1.0.5](https://github.com/louis030195/firebase-data/releases/tag/v1.0.5), 3 months ago) - Easily manage data between Firebase projects.
-- [langa-me/api](https://github.com/langa-me/api) ([v1.0.3](https://github.com/langa-me/api/releases/tag/v1.0.3), 4 months ago) - Machine conversations for human conversations
-- [EleutherAI/gpt-neo](https://github.com/EleutherAI/gpt-neo) ([v1.1.1](https://github.com/EleutherAI/gpt-neo/releases/tag/v1.1.1), 7 months ago) - An implementation of model parallel GPT-2 and GPT-3-style models using the mesh-tensorflow library.
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([1.0.4](https://github.com/louis030195/obsidian-ava/releases/tag/1.0.4), 1 week ago) - AI-enhanced reflection in Obsidian https://obsidian.md
+- [louis030195/obsidian-search](https://github.com/louis030195/obsidian-search) ([v1.0.6](https://github.com/louis030195/obsidian-search/releases/tag/v1.0.6), 2 months ago) - Semantic search in Obsidian
+- [louis030195/languagetool-chart](https://github.com/louis030195/languagetool-chart) ([languagetool-0.1.2](https://github.com/louis030195/languagetool-chart/releases/tag/languagetool-0.1.2), 4 months ago) - Helm chart for https://languagetool.org
+- [langa-me/helm-charts](https://github.com/langa-me/helm-charts) ([parlai-search-0.1.2](https://github.com/langa-me/helm-charts/releases/tag/parlai-search-0.1.2), 5 months ago) - Langame Helm charts for Kubernetes deployments
+- [louis030195/gitpod-docker](https://github.com/louis030195/gitpod-docker) ([v1.0.2](https://github.com/louis030195/gitpod-docker/releases/tag/v1.0.2), 6 months ago) - Built Docker images to make Gitpod boot faster
