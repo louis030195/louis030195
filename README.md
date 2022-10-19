@@ -47,34 +47,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you’re not working hard, you’re probably wasting your time.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money. If you had a magic machine that could on command make you a car or cook you dinner or do your laundry, or do anything else you wanted, you wouldn’t need money. Whereas if you were in the middle of Antarctica, where there is nothing to buy, it wouldn’t matter how much money you had.
+          There are many kinds of eyes. Even the Sphinx has eyes—therefore there must be many kinds of "truths," and consequently there can be no truth.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Many have stood their ground and faced the darkness when it comes for them. Fewer come for the darkness and force it to face them. It is a hard life, sometimes lonely, often short. I have told none to refuse that calling, but neither would I wish to increase their number.”
+          “The difference between successful people and really successful people is that really successful people say no to almost everything
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
@@ -165,14 +165,16 @@ Today's overall readiness score: 75
 
 ### 📚 What I'm currently reading
 
--   **William N. Thorndike Jr.**  - [The Outsiders: Eight Unconventional CEOs and Their Radically Rational Blueprint for Success](https://www.goodreads.com/book/show/13586932-the-outsiders) - Wed Oct 12 09:29:19 -0700 2022
--   **Steven Pressfield**  - [The War of Art: Winning the Inner Creative Battle](https://www.goodreads.com/book/show/1319.The_War_of_Art) - Wed Oct 12 09:28:35 -0700 2022
--   **Edsger W. Dijkstra**  - [A Discipline of Programming](https://www.goodreads.com/book/show/2276288.A_Discipline_of_Programming) - Wed Oct 12 09:25:01 -0700 2022
--   **Alain de Botton**  - [The Course of Love](https://www.goodreads.com/book/show/27845690-the-course-of-love) - Wed Oct 05 06:51:18 -0700 2022
--   **Eric Ries**  - [The Lean Startup: How Today&#39;s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses](https://www.goodreads.com/book/show/10127019-the-lean-startup) - Wed Oct 05 04:59:10 -0700 2022
--   **David  Farley**  - [Continuous Delivery Pipelines - How to Build Better Software Faster](https://www.goodreads.com/book/show/56771495-continuous-delivery-pipelines---how-to-build-better-software-faster) - Wed Sep 21 08:19:28 -0700 2022
--   **Jez Humble**  - [Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation](https://www.goodreads.com/book/show/8686650-continuous-delivery) - Wed Sep 21 08:19:24 -0700 2022
--   **David  Farley**  - [Modern Software Engineering: Doing What Works to Build Better Software Faster](https://www.goodreads.com/book/show/57345270-modern-software-engineering) - Wed Sep 21 08:19:22 -0700 2022
+-   **Matt    Parker**  - [Humble Pi: A Comedy of Maths Errors](https://www.goodreads.com/book/show/39074550-humble-pi) - Wed Oct 19 02:56:43 -0700 2022
+-   **Jordan Ellenberg**  - [How Not to Be Wrong: The Power of Mathematical Thinking](https://www.goodreads.com/book/show/18693884-how-not-to-be-wrong) - Wed Oct 19 02:53:45 -0700 2022
+-   **Ian Stewart**  - [Do Dice Play God?: The Mathematics of Uncertainty](https://www.goodreads.com/book/show/43522601-do-dice-play-god) - Wed Oct 19 02:53:35 -0700 2022
+-   **Cathy O&#39;Neil**  - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.goodreads.com/book/show/28186015-weapons-of-math-destruction) - Wed Oct 19 02:53:25 -0700 2022
+-   **Ivan Gridin**  - [Practical Deep Reinforcement Learning with Python: Concise Implementation of Algorithms, Simplified Maths, and Effective Use of TensorFlow and PyTorch](https://www.goodreads.com/book/show/62088941-practical-deep-reinforcement-learning-with-python) - Wed Oct 19 02:50:02 -0700 2022
+-   **Nikhil Ketkar**  - [Deep Learning with Python: A Hands-on Introduction](https://www.goodreads.com/book/show/34909918-deep-learning-with-python) - Wed Oct 19 02:49:27 -0700 2022
+-   **Tariq Rashid**  - [Make Your Own Neural Network](https://www.goodreads.com/book/show/29746976-make-your-own-neural-network) - Wed Oct 19 02:49:01 -0700 2022
+-   **S. Deviant**  - [The Practically Cheating Calculus Handbook](https://www.goodreads.com/book/show/20807847-the-practically-cheating-calculus-handbook) - Wed Oct 19 02:48:48 -0700 2022
+-   **Antonio Gulli**  - [Deep Learning with TensorFlow 2 and Keras: Regression, ConvNets, GANs, RNNs, NLP, and more with TensorFlow 2 and the Keras API, 2nd Edition](https://www.goodreads.com/book/show/50214042-deep-learning-with-tensorflow-2-and-keras) - Wed Oct 19 02:48:30 -0700 2022
+-   **James Gleick**  - [Chaos: Making a New Science](https://www.goodreads.com/book/show/64582.Chaos) - Wed Oct 19 02:47:55 -0700 2022
 
 ### ✍ My latest Goodreads reviews
 
