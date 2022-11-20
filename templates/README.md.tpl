@@ -1,17 +1,16 @@
 <link rel="shortcut icon" href="/favicon.ico">
 # [louis030195.com](https://louis030195.com) 🤔
 
-Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195) (machines or humans),
-[reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
+Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒. I like [programming](https://github.com/louis030195) (machines or humans), [building the future](https://linkedin.com/in/louis030195),
+ [reading](https://www.goodreads.com/user/show/103091881-louis-beaumont),
 [writing, and thinking](https://brain.louis030195.com).
 
-I like to build products that are most effectively valuable to humans.
 
 I have specific interests in:
-- Artificial intelligence (language models, multi-modal, cross-modal, unsupervised, alignment, private computation)
+- [Artificial intelligence](https://brain.louis030195.com/Computing/Intelligence/Artificial+intelligence) (language models, multi-modal, cross-modal, unsupervised, alignment, private computation)
 - Using tech to augment the human condition: BCI, memory streams, second-brains, AI assistants, solving aging, suffering, and death
-- Philosophy of science, science, compound knowledge, structured and deep conversations
-- Entrepreneur/researcher houses / shared living / ecosystem
+- [Philosophy of science, science, compound knowledge](https://brain.louis030195.com/Philosophy/Epistemology/Compound+Knowledge), structured and deep [conversations](https://brain.louis030195.com/Philosophy/Humans/Conversation)
+- [Environment design & personal growth](https://brain.louis030195.com/Personal+growth/Personal+growth)
 
 I'm currently about to change what I spend most of my days on, please read [this](https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future).
 
@@ -24,9 +23,20 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#151515', branding: true }); }</script>
 
-## 🔗 Links
+## 🔗 [Links](https://brain.louis030195.com/Links)
 
-[brain.louis030195.com/Links](https://brain.louis030195.com/Links)
+- [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
+- [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
+- [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
+- [**lesswrong.com**: Thoughts on philosophy, transhumanism, rationality](https://www.lesswrong.com/users/louis-beaumont)
+- [**youtube.com**: My Youtube channel](https://www.youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
+- [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
+- [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
+- [**angel.co**: Business networking 2](https://angel.co/u/louis-beaumont)
+- [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
+
+**GPG**:   A54CC13427042583
+**ETH**: 0x0Cf3e9A82D2FCa4bE60577085a56df2c0Bb1F637
 
 ## 🌊 My memory stream
 
