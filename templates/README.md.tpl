@@ -16,7 +16,7 @@ I'm currently about to change what I spend most of my days on, please read [this
 
 Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
 
-I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
+I'm crazy about big questions, love [prompting humans and machines](https://brain.louis030195.com/Computing/Prompt) and don't like weather-conversations so I created [langa.me](https://langa.me).
 
 <!-- Calendly badge widget begin -->
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
