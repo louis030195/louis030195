@@ -22,7 +22,7 @@ with open('README.md', 'r+') as f:
         f.write(content)
     except:
         print("🙈fail regex 🙈")
-    
+
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
