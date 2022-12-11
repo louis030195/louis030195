@@ -4,7 +4,7 @@ import os
 import sys
 import requests
 MEMORY_STREAM = sys.argv[1]
-with open('README.md', 'r+') as f:
+with open('README.md', 'r') as f:
     content = f.read()
     # query my ouraring api and write my health status after my obsidian outputs
     response = requests.post(
@@ -17,10 +17,21 @@ with open('README.md', 'r+') as f:
         MEMORY_STREAM += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
     except:
         print("🙈fail ouraring 🙈: " + str(response))
-    try:
-        content = re.sub(r'\[START\]', MEMORY_STREAM, content)
-        f.write(content)
-    except:
-        print("🙈fail regex 🙈")
-
-
+    content = re.sub(r'\[START\]', MEMORY_STREAM, content)
+    
+#     {'day': '2022-09-10',
+#  'daily_readiness_score': 75,
+#  'temperature_deviation': -0.1,
+#  'temperature_trend_deviation': 0.17,
+#  'timestamp': '2022-09-10T00:00:00+00:00',
+#  'daily_readiness_activity_balance': 34.0,
+#  'daily_readiness_body_temperature': 100,
+#  'daily_readiness_hrv_balance': 86.0,
+#  'daily_readiness_previous_day_activity': 82,
+#  'daily_readiness_previous_night': 76,
+#  'daily_readiness_recovery_index': 100,
+#  'daily_readiness_resting_heart_rate': 100,
+#  'daily_readiness_sleep_balance': 58.0}
+        
+with open('README.md', 'w') as f:
+    f.write(content)
