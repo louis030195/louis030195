@@ -4,7 +4,7 @@ import os
 import sys
 import requests
 MEMORY_STREAM = sys.argv[1]
-with open('README.md', 'rw') as f:
+with open('README.md', 'r+') as f:
     content = f.read()
     # query my ouraring api and write my health status after my obsidian outputs
     response = requests.post(
