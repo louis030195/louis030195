@@ -15,6 +15,10 @@ I have specific interests in:
 
 I'm currently about to change what I spend most of my days on, please read [this](https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future).
 
+## 🪞 Ikigai
+
+<iframe src="https://app.excalidraw.com/l/5MKXLddifTr/65ATHDtXEJE" width="100%" height="600px"/>
+
 Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me).
