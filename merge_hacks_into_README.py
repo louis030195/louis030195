@@ -30,7 +30,7 @@ with open('README.md', 'r') as f:
             "https://api.langa.me/v1/conversation/starter",
             headers={
                 "Content-Type": "application/json",
-                "X-Api-Key": os.environ["LANGA_API_KEY"],
+                "X-Api-Key": LANGA_API_KEY,
             },
             json={
                 "topics": ["big talk", "personal"],
@@ -40,8 +40,8 @@ with open('README.md', 'r') as f:
         request_json = r.json()
         cs = "- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
         content = re.sub(r'\[LANGA\]', cs, content)
-    except:
-        print("🙈fail langa 🙈: " + str(r))
+    except Exception as e:
+        print("🙈fail langa 🙈: " + str(e))
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
