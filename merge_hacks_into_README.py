@@ -26,7 +26,7 @@ with open('README.md', 'r') as f:
 
     
     try:
-        request = requests.post(
+        r = requests.post(
             "https://api.langa.me/v1/conversation/starter",
             headers={
                 "Content-Type": "application/json",
@@ -37,11 +37,11 @@ with open('README.md', 'r') as f:
                 "limit": 4,
             },
         )
-        request_json = request.json()
+        request_json = r.json()
         cs = "- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
         content = re.sub(r'\[LANGA\]', cs, content)
     except:
-        print("🙈fail langa 🙈: " + str(request))
+        print("🙈fail langa 🙈: " + str(r))
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
