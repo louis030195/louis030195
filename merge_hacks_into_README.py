@@ -3,7 +3,8 @@ import re
 import os
 import sys
 import requests
-MEMORY_STREAM = sys.argv[1]
+LANGA_API_KEY = sys.argv[1]
+MEMORY_STREAM = sys.argv[2]
 with open('README.md', 'r') as f:
     content = f.read()
     # query my ouraring api and write my health status after my obsidian outputs
@@ -23,18 +24,19 @@ with open('README.md', 'r') as f:
     except:
         print("🙈fail merge 🙈")
 
-    request = requests.post(
-        "https://api.langa.me/v1/conversation/starter",
-        headers={
-            "Content-Type": "application/json",
-            "X-Api-Key": os.environ["LANGA_API_KEY"],
-        },
-        json={
-            "topics": ["big talk", "personal"],
-            "limit": 4,
-        },
-    )
+    
     try:
+        request = requests.post(
+            "https://api.langa.me/v1/conversation/starter",
+            headers={
+                "Content-Type": "application/json",
+                "X-Api-Key": os.environ["LANGA_API_KEY"],
+            },
+            json={
+                "topics": ["big talk", "personal"],
+                "limit": 4,
+            },
+        )
         request_json = request.json()
         cs = "- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
         content = re.sub(r'\[LANGA\]', cs, content)
