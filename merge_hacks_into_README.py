@@ -17,8 +17,12 @@ with open('README.md', 'r') as f:
         MEMORY_STREAM += "Today's overall readiness score: " + str(response_json["daily_readiness_score"]) + "\n"
     except:
         print("🙈fail ouraring 🙈: " + str(response))
-    content = re.sub(r'\[START\]', MEMORY_STREAM, content)
     
+    try:
+        content = re.sub(r'\[START\]', MEMORY_STREAM, content)
+    except:
+        print("🙈fail merge 🙈")
+
     request = requests.post(
         "https://api.langa.me/v1/conversation/starter",
         headers={
