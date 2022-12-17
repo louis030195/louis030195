@@ -19,6 +19,23 @@ with open('README.md', 'r') as f:
         print("🙈fail ouraring 🙈: " + str(response))
     content = re.sub(r'\[START\]', MEMORY_STREAM, content)
     
+    request = requests.post(
+        "https://api.langa.me/v1/conversation/starter",
+        headers={
+            "Content-Type": "application/json",
+            "X-Api-Key": os.environ["LANGA_API_KEY"],
+        },
+        json={
+            "topics": ["big talk", "personal"],
+            "limit": 4,
+        },
+    )
+    try:
+        request_json = request.json()
+        cs = "- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
+        content = re.sub(r'\[LANGA\]', cs, content)
+    except:
+        print("🙈fail langa 🙈: " + str(request))
 #     {'day': '2022-09-10',
 #  'daily_readiness_score': 75,
 #  'temperature_deviation': -0.1,
