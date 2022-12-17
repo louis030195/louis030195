@@ -38,7 +38,7 @@ with open('README.md', 'r') as f:
             },
         )
         request_json = r.json()
-        cs = "- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
+        cs = "\n- ".join([e["conversation_starter"]["en"] for e in request_json["results"]])
         content = re.sub(r'\[LANGA\]', cs, content)
     except Exception as e:
         print("🙈fail langa 🙈: " + str(e))
