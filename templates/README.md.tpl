@@ -31,14 +31,12 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
-- [**lesswrong.com**: Thoughts on philosophy, transhumanism, rationality](https://www.lesswrong.com/users/louis-beaumont)
+- [**twitter.com**: Brain dumps](https://twitter.com/@louis030195)
 - [**youtube.com**: My Youtube channel](https://www.youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
-- [**angel.co**: Business networking 2](https://angel.co/u/louis-beaumont)
 - [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
 
-**GPG**:   A54CC13427042583
 **ETH**: 0x0Cf3e9A82D2FCa4bE60577085a56df2c0Bb1F637
 
 ## 🌊 My memory stream
@@ -53,11 +51,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 [START]
 
-### 🎙 My recent podcast episodes
-{{range rss "https://anchor.fm/s/7871f944/podcast/rss" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 ### 📚 What I'm currently reading
 {{range goodReadsCurrentlyReading 10}}
@@ -67,12 +60,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 ### ✍ My latest Goodreads reviews
 {{range goodReadsReviews 5}}
 - {{ range $index, $author := .Book.Authors}} {{if $index}},{{end}} **{{$author.Name}}** {{end}} - [{{.Book.Title}}]({{.Book.Link}}) - {{.Rating}}/5 - {{humanize .DateUpdated}}
-{{- end}}
-
-
-### 🗒 Medium posts
-{{range rss "https://medium.com/feed/@@louis030195" 5}}
-- [{{.Title}}]({{.URL}}) - {{humanize .PublishedAt}}
 {{- end}}
 
 ### 🎬 Youtube Videos
