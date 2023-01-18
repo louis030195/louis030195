@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What do you find deeply meaningful in life, beyond the desire to prolong it?
- - Write down your top five life priorities
- - What is the most difficult part about finding your place in the world?
+ - What are the most persistent memories you have?
+ - What make a relationship last? What makes a couple divorce?
+ - Who are the most influential people in your life, and why?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,18 +58,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In evolutionary biology, reciprocal altruism is a behaviour whereby an organism acts in a manner that temporarily reduces its fitness while increasing another organism's fitness, with the expectation that the other organism will act in a similar manner at a later time.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Altruism - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Users are only ever in three states: they’ve never heard about it; they’ve tried it; and they use it. What you’re managing is state change. So the framework is, what causes these changes? The answer should be rooted more in preference, choice, and psychology than in some quantitative thing.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -80,12 +69,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you could get all the people in an organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time.
+          The rarest (and most valuable) thing on this planet: a clear mind.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Five Dysfunctions of a Team - A Leadership Fable</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Patrick Lencioni</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Nassim Nicholas Taleb</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@nntaleb on Twitter</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Monopoly is the condition of every successful business
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
@@ -215,7 +215,7 @@ Today's overall readiness score: 75
 
 ### 🔭 Latest releases I've contributed to
 
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.13.9](https://github.com/louis030195/obsidian-ava/releases/tag/2.13.9), today) - Quickly format your notes with ChatGPT in Obsidian
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.14.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.14.0), today) - Quickly format your notes with ChatGPT in Obsidian
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.1.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.9), 3 weeks ago) - Community plugins list, theme list, and releases of Obsidian.
 - [langa-me/socialis](https://github.com/langa-me/socialis) ([v1.1.5](https://github.com/langa-me/socialis/releases/tag/v1.1.5), 1 month ago) - New mediums of human conversation - Discord integration
 - [langa-me/api](https://github.com/langa-me/api) ([1.0.9](https://github.com/langa-me/api/releases/tag/1.0.9), 1 month ago) - Machine conversations for human conversations
