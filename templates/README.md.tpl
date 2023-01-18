@@ -2,18 +2,16 @@
 # [louis030195.com](https://louis030195.com) 🤔
 
 Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
-This year I [made 3000 contributions on GitHub](https://github.com/louis030195), 
-[read 50 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
-and [written 500,000 words on a public Obsidian](https://brain.louis030195.com).
+In 2022 I [made 4000 contributions on GitHub](https://github.com/louis030195), 
+[read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
+and [written 700,000 words on a public Obsidian](https://brain.louis030195.com).
 I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch.
 
 I have specific interests in:
-- [Artificial intelligence](https://brain.louis030195.com/Computing/Intelligence/Artificial+intelligence) (language models, multi-modal, cross-modal, unsupervised, alignment, private computation)
-- Using tech to augment the human condition: BCI, memory streams, second-brains, AI assistants, solving aging, suffering, and death
+- [Artificial intelligence](https://brain.louis030195.com/Computing/Intelligence/Artificial+intelligence) (language models, multi-modal, unsupervised, alignment, private computation)
+- [Transhumanism](https://brain.louis030195.com/Philosophy/Humans/Transhumanism/Transhumanism): BCI, memory streams, second brains, AI assistants, & ways of reducing the friction between our digital and physical mind
 - [Philosophy of science, science, compound knowledge](https://brain.louis030195.com/Philosophy/Epistemology/Compound+Knowledge), [prompting humans and machines](https://brain.louis030195.com/Computing/Prompt), structured and deep [conversations](https://brain.louis030195.com/Philosophy/Humans/Conversation)
 - [Environment design & personal growth](https://brain.louis030195.com/Personal+growth/Personal+growth)
-
-I'm currently about to change what I spend most of my days on, please read [this](https://brain.louis030195.com/Business/Looking+for+co-founders+to+build+the+future).
 
 Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
 
