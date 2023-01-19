@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What is the meaning of "life" to you?
- - What's one thing you learned since becoming a adult?
+ - What are the most amazing things you have done in your life so far?
  - What core-beliefs do you struggle with?
+ - What are some big questions you have about your life's purpose or meaning?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +58,45 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you ever do find yourself working for a startup, here’s a handy tip for evaluating competitors. Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they’ll get the wrong candidates.
+          Obvious ideas will always be executed by big companies 
+
+Summary:
+Most of the obviously good ideas are bad ideas for a startup, right? And the reason is because they're already getting done by big companies. What's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there.
+
+Transcript:
+Speaker 1
+So the big thing is, most of the obviously good ideas are bad ideas for a startup, right? And the reason is because most of the obviously good ideas, if they're obviously good ideas, they're already getting done by big companies. So what are big companies really good at? Like, just take all the big, the top 50, whatever tech companies, what are they really good at? They're really good at doing the next obviously good idea, right? They're like, what's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there. And so like, you know, we always say kind of by definition, like if it's a good startup idea, it basically, it can't be a good idea that looks like a good idea because a big company's already doing that.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
+          The so-called educated people in the world, who have been to college, to university, have good jobs, fit into a place and stay there and advance there, have their own troubles, their own adversities. One may pass some exam and get a job, or one may have been educated technologically. But psychologically, one doesn’t know anything about oneself. One is unhappy, miserable because one can’t get this or that. One quarrels with one’s husband or wife. And they are all very educated people who read books but disregard the whole field of life. And uneducated people do the same.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But actually, since more than half the students didn’t finish by the time they were 99% sure they’d be done, reality usually delivers results a little worse than the ‘worst-case scenario’. It’s called the planning fallacy, and the best way to fix it is to ask how long things took the last time you tried them.
+          The Matthew Effect
+
+Transcript:
+Speaker 1
+The square root of the number of people in a company accomplish half of the output, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -169,10 +180,10 @@ Today's overall readiness score: 75
 
 ### 🎬 Youtube Videos
 
-- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - today
-- [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - today
-- [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 2 days ago
-- [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 2 days ago
+- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 1 day ago
+- [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - 1 day ago
+- [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 3 days ago
+- [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 3 days ago
 - [Obsidian Ava - Assembling messy ideas into a start-up template](https://www.youtube.com/watch?v=fVaul4v2hn0) - 1 week ago
 
 ### 🌱 My latest projects
@@ -185,7 +196,7 @@ Today's overall readiness score: 75
 
 ### 🔭 Latest releases I've contributed to
 
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.14.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.14.0), today) - Quickly format your notes with ChatGPT in Obsidian
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.14.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.14.0), 1 day ago) - Quickly format your notes with ChatGPT in Obsidian
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.1.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.9), 3 weeks ago) - Community plugins list, theme list, and releases of Obsidian.
 - [langa-me/socialis](https://github.com/langa-me/socialis) ([v1.1.5](https://github.com/langa-me/socialis/releases/tag/v1.1.5), 1 month ago) - New mediums of human conversation - Discord integration
 - [langa-me/api](https://github.com/langa-me/api) ([1.0.9](https://github.com/langa-me/api/releases/tag/1.0.9), 1 month ago) - Machine conversations for human conversations
