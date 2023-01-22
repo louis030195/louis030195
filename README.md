@@ -18,8 +18,8 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
  - How do you define your personal values?
- - What is the most rare and unique conversation you have ever had?
- - Draw a river with all the milestones of your life so far.
+ - What make a relationship last? What makes a couple divorce?
+ - Are you optimistic about your own personal future? Why? Why not?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +58,48 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We should substitute morality by the will to our own ends, and consequently to the means to them.
+          The IDMA
+
+Summary:
+"You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do," he says. "What I find is it's almost always five years plus."
+
+Transcript:
+Speaker 1
+So the concept of the IDMA is to really be the master of a domain. You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Living never flowers in security; it flowers only in insecurity.
+          Great founders thought five years or more about the problem beforehand
+
+Summary:
+The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years or longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more andmore specific, that's really good. "By the way, OK, by the way, you're also trying to pull one on yourself," he adds.
+
+Transcript:
+Speaker 1
+You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus. This is not like a short term thing. It's almost always somebody. The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years, up and 10 years, up and longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more and more specific, that's really good. If the answers get more and more in general and more and more fuzz, then it's like, OK. And by the way, OK, you're trying to pull one on us. OK, by the way, you're also trying to pull one on yourself. Yeah, right.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist.
+          Judgmental. Although Architects are generally open-minded, they have little patience for things they consider illogical—e.g., emotional outbursts, reluctance to accept data and evidence, or decisions based on feelings.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Bed of Procrustes</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Nassim Nicholas Taleb</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Architect</p>
+<p style="margin-bottom: 0; color: #9f8e7d">16Personalities</p>
 </div>
 </div>
 </div>
@@ -98,6 +112,35 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Freedom/Osho.md">Philosophy/Freedom/Osho.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 14:47:28</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/I%20am%20so%20logical%20-%20said%20every%20human%20beings.md">Philosophy/Rationality/I am so logical - said every human beings.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 14:31:28</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -146,38 +189,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mithridatism.md">Philosophy/Mind/Mental Model/Mithridatism.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/When%20objectives%20are%20the%20bottleneck.md">Philosophy/Rationality/When objectives are the bottleneck.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 11:44:18</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Do%20not%20overload%20your%20RAM.md">Business/Entrepreneurship/Do not overload your RAM.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Time%20optimisation.md">Business/Entrepreneurship/Time optimisation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Opportunity%20mapping.md">Philosophy/Rationality/Opportunity mapping.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Penrose%20singularity%20theorem.md">Physic/Penrose singularity theorem.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 11:29:18</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 ### ❤️‍🩹 My Health Status (ouraring.com) - 2023-01-22
@@ -187,8 +198,7 @@ Today's overall readiness score: 80
 
 ### 📚 What I'm currently reading
 
--   **Eckhart Tolle**  - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now) - Sun Jan 22 04:24:41 -0800 2023
--   **Osho**  - [Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa&#39;s Song of Mahamudra](https://www.goodreads.com/book/show/131390.Tantra) - Wed Jan 18 12:04:27 -0800 2023
+-   **Eckhart Tolle**  - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now) - Sun Jan 22 05:30:20 -0800 2023
 -   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
 -   **Eric R. Kandel**  - [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science) - Wed Jan 18 11:41:43 -0800 2023
 -   **Mark F. Bear**  - [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience) - Wed Jan 18 11:37:48 -0800 2023
@@ -197,14 +207,15 @@ Today's overall readiness score: 80
 -   **Ryan Breslow**  - [Fundraising](https://www.goodreads.com/book/show/58794322-fundraising) - Tue Jan 17 12:29:24 -0800 2023
 -   **Susan Blackmore**  - [The Meme Machine](https://www.goodreads.com/book/show/254502.The_Meme_Machine) - Mon Jan 16 00:36:11 -0800 2023
 -   **Douglas R. Hofstadter**  - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Fri Jan 06 22:15:00 -0800 2023
+-   **Richard Dawkins**  - [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) - Tue Jan 03 12:29:06 -0800 2023
 
 ### ✍ My latest Goodreads reviews
 
+-   **Osho**  - [Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa&#39;s Song of Mahamudra](https://www.goodreads.com/book/show/131390.Tantra) - 5/5 - Sun Jan 22 05:35:14 -0800 2023
 -   **Nick  Gray**  - [The 2-Hour Cocktail Party: How to Build Big Relationships with Small Gatherings](https://www.goodreads.com/book/show/61212264-the-2-hour-cocktail-party) - 2/5 - Thu Jan 19 11:40:08 -0800 2023
 -   **Jared Diamond**  - [Why Is Sex Fun? The Evolution of Human Sexuality](https://www.goodreads.com/book/show/1991.Why_Is_Sex_Fun_The_Evolution_of_Human_Sexuality) - 3/5 - Wed Jan 18 11:33:18 -0800 2023
 -   **Peter Singer**  - [Animal Liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation) - 3/5 - Thu Jan 19 11:39:42 -0800 2023
 -   **Douglas R. Hofstadter**  - [I Am a Strange Loop](https://www.goodreads.com/book/show/123471.I_Am_a_Strange_Loop) - 5/5 - Thu Jan 19 11:39:32 -0800 2023
--   **Chris Voss**  - [Never Split the Difference: Negotiating As If Your Life Depended On It](https://www.goodreads.com/book/show/26156469-never-split-the-difference) - 5/5 - Sun Jan 08 11:58:08 -0800 2023
 
 ### 🎬 Youtube Videos
 
