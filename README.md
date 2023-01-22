@@ -17,9 +17,7 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What is the biggest thing that you wish you would have done differently in your life so far?
- - What do you want to be remembered for?
- - What would prompt you to make a dramatic change in your life. Is it worth it?
+[LANGA]
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +56,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          as soon as a superior power prevails over an inferior power, and the latter proceeds to work as a function of the former, an order of rank is established,
+          Take what you hear with a grain of salt. Even the most discouraging Feedback contains crucial pieces of information that can help you make your offering better. The worst response you can get when asking for Feedback isn’t emphatic dislike: it’s total apathy. If no one seems to care about what you’ve created, you don’t have a viable business idea.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Personal MBA</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kaufman, Josh</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          use Warren Buffett’s criteria for assessing the team: Intelligence, Integrity and Energy. You want someone who is really smart, very hardworking, and trustworthy. A lot of people forget the integrity part, but if you don’t have that, then you have a really hardworking crook, and they will find a way to cheat you.”
+          His assertion that entropy increases almost always, rather than always, was indeed very hard to swallow for those who did not believe in molecular reality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Subtle Is the Lord</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Abraham Pais</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How do and should we form and change opinions? Logic tells us to avoid inconsistencies and incoherences. Language tells us to attend to how meaning is inferred from ambiguous language. Decision theory says to distinguish values from fact opinion, and says exactly how decisions should respond to these. Regarding fact opinion, Bayesian theory says to distinguish priors from likelihoods, and says exactly how fact opinion should respond to evidence.
+          For the will stands between its à priori principle, which is formal, and its à posteriori spring, which is material
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Overcoming Bias : Standard Biases</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Robin Hanson</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Critique of Practical Reason</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
 </div>
 </div>
 </div>
@@ -98,6 +96,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Documentaries.md">Philosophy/Humans/Documentaries.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 18:21:11</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -122,37 +134,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 17:20:15</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Supabase%20for%20semantic%20objects.md">Supabase for semantic objects.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 17:05:08</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Product%20design.md">Business/Entrepreneurship/Product design.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Book.md">Philosophy/Book.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Lex%20Fridman%20Podcast%20-%20353%20%E2%80%93%20Dennis%20Whyte%20%E2%80%94%20%20Nuclear%20Fusion%20and%20the%20Future%20of%20Energy.md">Readwise/Podcasts/Lex Fridman Podcast - 353 – Dennis Whyte —  Nuclear Fusion and the Future of Energy.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 16:01:12</p>
             </div>
         </div>
     </div>
