@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What is the most dangerous dream you have had? Did you have any particular factors behind the dream or just a general feeling?
- - What is the biggest mistake you made while living your life so far?
- - What would be the three greatest moments of your life, the three most intense experiences, in terms of combined mental and physical action/emotionality?
+ - What’s the most memorable gift you ever received?
+ - If a crystal ball could tell you the truth about yourself and the future, what would you want to know?
+ - What do you find deeply meaningful in life, beyond the desire to prolong it?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,41 +58,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There is knowledge of the present only when there is a complete understanding of what the structure and the nature of the past is—and ending it.
+          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making Decisions Fast and Well
+          How Does Technology Impact Society?
 
 Summary:
-We go through life making decisions. Should we date person extra wy or get married to them? Should we stay here, or should we move? What jobs should we
+Yeah, so there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's the name Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines, and Modern Times. It's this topic. It's basically okay. What exactly is the process by which you do technology, and how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
 
 Transcript:
 Speaker 1
-Go through life-making decisions. Should we date person X or Y or get married to them? Should we stay here or should we move? What job should we choose?
+Yeah, so there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's the name Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines, and Modern Times. It's this topic. It's basically okay. What exactly is the process by which you do technology, and how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#147 Reid Hoffman —  Better Decisions, Fewer Mistakes</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          What a lot of trouble one avoids if one refuses to have anything to do with the common herd! To have no job, to devote one’s time to literature, is the most wonderful thing in the world.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
 </div>
 </div>
 </div>
