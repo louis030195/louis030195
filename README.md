@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What are you searching for?
- - What would be the three greatest moments of your life, the three most intense experiences, in terms of combined mental and physical action/emotionality?
- - What moments in your life seemed especially significant?
+ - How do you define your personal values?
+ - What is the most rare and unique conversation you have ever had?
+ - Draw a river with all the milestones of your life so far.
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +58,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called educated people in the world, who have been to college, to university, have good jobs, fit into a place and stay there and advance there, have their own troubles, their own adversities. One may pass some exam and get a job, or one may have been educated technologically. But psychologically, one doesn’t know anything about oneself. One is unhappy, miserable because one can’t get this or that. One quarrels with one’s husband or wife. And they are all very educated people who read books but disregard the whole field of life. And uneducated people do the same.
+          We should substitute morality by the will to our own ends, and consequently to the means to them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Women's bodies evolved to suit the demands of bearing and rearing children and of gathering plant food. Men's bodies evolved to suit the demands of rising in a male hierarchy, fighting over women, and providing meat to a family
+          Living never flowers in security; it flowers only in insecurity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you’re not working hard, you’re probably wasting your time.
+          The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Bed of Procrustes</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Nassim Nicholas Taleb</p>
 </div>
 </div>
 </div>
@@ -98,6 +98,25 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Logic/Logistic/Logistic.md">Mathematic/Causality/Logic/Logistic/Logistic.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Probability/Cromwell%20rule.md">Mathematic/Causality/Probability/Cromwell rule.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Causality/Probability/Mediocristan.md">Mathematic/Causality/Probability/Mediocristan.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Maximum%20entropy.md">Philosophy/Epistemology/Maximum entropy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Probability%20theory.md">Philosophy/Rationality/Probability theory.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 13:14:29</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -159,20 +178,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Physic/Horizons.md">Physic/Horizons.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 11:14:16</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 ### ❤️‍🩹 My Health Status (ouraring.com) - 2023-01-22
@@ -182,6 +187,7 @@ Today's overall readiness score: 80
 
 ### 📚 What I'm currently reading
 
+-   **Eckhart Tolle**  - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now) - Sun Jan 22 04:24:41 -0800 2023
 -   **Osho**  - [Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa&#39;s Song of Mahamudra](https://www.goodreads.com/book/show/131390.Tantra) - Wed Jan 18 12:04:27 -0800 2023
 -   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
 -   **Eric R. Kandel**  - [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science) - Wed Jan 18 11:41:43 -0800 2023
@@ -191,7 +197,6 @@ Today's overall readiness score: 80
 -   **Ryan Breslow**  - [Fundraising](https://www.goodreads.com/book/show/58794322-fundraising) - Tue Jan 17 12:29:24 -0800 2023
 -   **Susan Blackmore**  - [The Meme Machine](https://www.goodreads.com/book/show/254502.The_Meme_Machine) - Mon Jan 16 00:36:11 -0800 2023
 -   **Douglas R. Hofstadter**  - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Fri Jan 06 22:15:00 -0800 2023
--   **Richard Dawkins**  - [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) - Tue Jan 03 12:29:06 -0800 2023
 
 ### ✍ My latest Goodreads reviews
 
@@ -203,11 +208,11 @@ Today's overall readiness score: 80
 
 ### 🎬 Youtube Videos
 
-- [Creating an AI clone of Osho with memory](https://www.youtube.com/watch?v=RbLYggwwsoE) - 1 day ago
 - [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 4 days ago
 - [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - 4 days ago
 - [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 6 days ago
 - [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 6 days ago
+- [Obsidian Ava - Assembling messy ideas into a start-up template](https://www.youtube.com/watch?v=fVaul4v2hn0) - 1 week ago
 
 ### 🌱 My latest projects
 
