@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What is and isn't a burden for you?
- - What do you find deeply meaningful in life, beyond the desire to prolong it?
- - What would be the three greatest moments of your life, the three most intense experiences, in terms of combined mental and physical action/emotionality?
+ - What would you change about your current life if you could?
+ - What is the most rare and unique conversation you have ever had?
+ - What do you want to be remembered for?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +58,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          as soon as a superior power prevails over an inferior power, and the latter proceeds to work as a function of the former, an order of rank is established,
+          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Becoming is inventing, willing, self-denying, self-overcoming; no subject but an action, it places things, it is creative, no "causes and effects."
+          A relationship of peace is a relationship that is more parallel than perpendicular. It is two individuals that move side by side. Rather than two individuals that intersect. A maintenance of individuality and freedom results in the prevalence of peace.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          company culture is one in which people have something in common that distinguishes them quite sharply from the rest of the world. If everybody likes ice cream, that probably doesn’t matter … you also need to strike the right balance between athletes (competitive people) and nerds (creators) no matter what.
+          For each candidate for a given role, ask the same or similar interview questions. This will allow you to calibrate candidates across identical questions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -158,8 +158,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     
 </div>
 
-### ❤️‍🩹 My Health Status (ouraring.com) - 2023-01-22
-Today's overall readiness score: 80
+### ❤️‍🩹 My Health Status (ouraring.com) - 2023-01-23
+Today's overall readiness score: 87
 
 
 
