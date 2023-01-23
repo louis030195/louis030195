@@ -17,9 +17,7 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What is the most rare and unique conversation you have ever had?
- - Do you think we are living our life the way it should be lived and no longer need to keep searching for the meaning of "life"?
- - What is the most difficult part about finding your place in the world?
+[LANGA]
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +56,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The two fundamental questions of causality are: (1) What empirical evidence is required for legitimate inference of cause-eﬀect relationships? (2) Given that we are willing to accept causal information about a phenomenon, what inferences can we draw from such information, and how?
+          A popular belief about “rationality” is that rationality opposes all emotion—that all our sadness and all our joy are automatically anti-logical by virtue of being feelings. Yet strangely enough, I can’t find any theorem of probability theory which proves that I should appear ice-cold and expressionless.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Feeling Rational - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">lesswrong.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
+          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.
+          “I have a dream,” said Harry’s voice, “that one day sentient beings will be judged by the patterns of their minds, and not their colour or their shape or the stuff they’re made of, or who their parents were.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -185,10 +183,10 @@ Today's overall readiness score: 80
 
 ### 🎬 Youtube Videos
 
-- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 4 days ago
-- [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - 4 days ago
-- [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 6 days ago
-- [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 6 days ago
+- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 5 days ago
+- [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - 5 days ago
+- [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 1 week ago
+- [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 1 week ago
 - [Obsidian Ava - Assembling messy ideas into a start-up template](https://www.youtube.com/watch?v=fVaul4v2hn0) - 1 week ago
 
 ### 🌱 My latest projects
@@ -201,7 +199,7 @@ Today's overall readiness score: 80
 
 ### 🔭 Latest releases I've contributed to
 
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.15.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.15.0), 1 day ago) - Quickly format your notes with ChatGPT in Obsidian
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.15.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.15.0), 2 days ago) - Quickly format your notes with ChatGPT in Obsidian
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.1.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.9), 1 month ago) - Community plugins list, theme list, and releases of Obsidian.
 - [langa-me/socialis](https://github.com/langa-me/socialis) ([v1.1.5](https://github.com/langa-me/socialis/releases/tag/v1.1.5), 1 month ago) - New mediums of human conversation - Discord integration
 - [langa-me/api](https://github.com/langa-me/api) ([1.0.9](https://github.com/langa-me/api/releases/tag/1.0.9), 1 month ago) - Machine conversations for human conversations
