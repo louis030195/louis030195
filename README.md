@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What physical pain can't be eased?
- - What would you jump out of a plane for?
- - Do you have any big dreams or visions for the future? What are they?
+ - What was the saddest moment in your life?
+ - What have been the best/worst experiences of your life?
+ - What are you grateful for?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,39 +58,29 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How Do You Assess the Judgment of Founders?
-
-Summary:
-How do you assess the judgment of founders not assessing the idea? So i see there's two categories of, two categories of founders, two, two ways to do this. You can look at the work that they've done, and again, on this, it's not that you're necessarily looking for the track recordf like, the level of success per se,. Although, you know, is is napole, was it napoleon?You'd rather have a lucky genetle than a smart general. Ah, the reality is, the kids that make new things from scratch, it actually turns out that they actually have been deep in domain for a long time. In almost every case
-
-Transcript:
-Speaker 2
-How do you assess the judgment of founders not assessing the idea, how do you assess the judgment? Yes.
-
-Speaker 1
-So i see there's two categories of, two categories of founders, two, two ways to do this. So they're sort of, you know, they're sort of, there's the ones who done it before, right? Ah, and so the ones, youknow, the ones that weare, this is their second or third or fourth time starting a company. Ah, you know, with them you have this just obviously enormous advantage, which as you can basically look at the work that they've done, youkno's like anybody else i's done, you now, who now has its recrecord. You can look at the work that they've done, and again, on this, it's not that you're necessarily looking for the track recordf like, the level of success per se, right? Although, you know, is is napole, was it napoleon? Youd ratht youa, you'd rather have a lucky genetle than a smart general. So, like, you know, somebody who's had a highly successful company once, right? As has, youknow, people has an enormous benefit of the doubt when they walk in the door, for for obvious reasons. Ah, but, you know, but even people who haven't had a big success before, it's like, hoket. You can look at kind of how they did the work, right? And so you can look it like, you know, you know, how did they prosecute the opportunity? You know, a the previous time? You know, you can talk to the people riht tho, they worked with syc. You know, how were they under pressure? How were they in terms of like, inventiveness? How were they in terms of, you know, presino persistence? You know, how did, how did they make the decision about when to give up, right? You know, er wen, something simply wasn't ging to work, and so forth. An se you can kind of, youknow, youcan, you can kind of learn from their experience. You know, the harder one is somebody brand new, right? The harder one is somebody shows up, you no, right? At a college or something, or, you know, you don't these days, right? The ultimate golden credential as they got admitted to a topp at school thand dropped out after one day, aso so a, you know, it sort of the kid, right? And of course, you now, i say kid because you don't part, i think it myself, cause, o know that this was me at one point. And look, a lot of the real breakthrough companies that lot of the big franchises, you know, mark eckerberg had not had a job before he started facebook, right? Like, you know, theg guys came straght out to stamford, andb youno stamford, the pt programme, and so forth, and so on. The bilgaesta bot the collegeah, and so, you know, a af lot of times these these big breakthrough companies are people at, you know, they have n't recorecord, like, their track record. Let you know, you could ask for their hist quilt, you knowche p something, but, likee there's no track record, right? Ah, and so the're, you're kind of, you know, evaluating, you know, genovo. And i think they're what we do. The clache is basically, right that it's, youknow, some kid with some crazy idea, and that some crazy musique is wit om money, and, you know, some miracle happens, and, oh, my god, you know, what a weird, ou know, non reproducible thing, or whatever. Ah, the reality is, the kids that make new things work from scratch, it actually turns out that they actually have been deep in the domain for a long time. In almost every case, they've been thinking hard about the problem that they're trying to solve, shi, in a lot of cases, for many years. Ah, and whe that actually means, you no, tat, this is actually really kind of interesting. And maybe soffrs kind of this, you be kind of ario like this. But, you know, as a consequence, you like n soffer, you can have a 21 year old whos specially been a professional level programe for ten years, right? Because, you know, you can trace it back. Andtis like, well, n we hear the story all the time. It's like, well, the specific story hereall the time. You know, i really loved video games, right? And so therefore, right when i was, you know, 11 or 12, i now learned how to code so that i could figure out how to, ike, make my own video games. Based on that, i found it really interesting how, you know, for example, clans or tribes form inside games. And so when i was in high school, i built this ap that, you know, did people matching for whatever world o work aft, you know, guilds or whatever it is. Um. And then, you know, in college, i got into recomputer science, and then i did this project, which is to do this new kind of social networking ap um. And now i've been thinking about that, a building that for the last five years, and now here i am. And now, you know, after ten years of thinking about this, now year's my new social notworking idea, right? Like that. This is not a rare thing, literally, they've been thinking about this now, for you now, tha, we tink about the specific thing for five years, andr the general kind of pattern or category forli ten years. And of course, you know, for things, you know, this, of course, is heavily biased ors domains in which kids get to participate, right? And so that this is less true. And, you know, anything in, you know, there's lots of areas, you know, there's lots of various in technology, wherea 11 year old are not working on it, but they're errieris increasingly where they are. Ah, and so and so basically, it's basid what we call the idea mas esbacialy, the back story. Ah, it's what have they done in the past to really kind of reason their way through? And often, and often, you littre at people who have been, like, writing prototypes and allow tht time ou aseully people who have running code at that point, right? And then it's like, ok, now you're dealing with somebody where, yes, theyre, on the surface, the're 21. In reality, there re aready five or ten years end of the journey. Ah, ten. You're like, ok, now i get it. Now i have somebody whois like a primal creative force who's actualy liketaly thought deeply about this. And so it's a son sots, it's a, it's a much safer bet than it looks.
+          Whenever an entrepreneur asks me to invest in his company, I ask him how much he intends to pay himself. A company does better the less it pays the CEO-that's one of the single clearest patterns I've noticed
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#129 Marc Andreessen —  Interview With an Icon</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
+          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He grows stronger under the misfortunes which threaten to annihilate him.
+          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -211,7 +201,7 @@ Today's overall readiness score: 87
 
 ### 🔭 Latest releases I've contributed to
 
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.15.0](https://github.com/louis030195/obsidian-ava/releases/tag/2.15.0), 2 days ago) - Quickly format your notes with ChatGPT in Obsidian
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.15.2](https://github.com/louis030195/obsidian-ava/releases/tag/2.15.2), today) - Quickly format your notes with ChatGPT in Obsidian
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.1.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.9), 1 month ago) - Community plugins list, theme list, and releases of Obsidian.
 - [langa-me/socialis](https://github.com/langa-me/socialis) ([v1.1.5](https://github.com/langa-me/socialis/releases/tag/v1.1.5), 1 month ago) - New mediums of human conversation - Discord integration
 - [langa-me/api](https://github.com/langa-me/api) ([1.0.9](https://github.com/langa-me/api/releases/tag/1.0.9), 1 month ago) - Machine conversations for human conversations
