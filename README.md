@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What do you think my greatest weakness may be?
- - Do you have dreamy things you'd like to accomplish with your life? If so, what are they and why haven't you done anything about them yet?
- - What is the most elegant or perfect way to deal with one’s inner pain or anguish?
+ - Did any event or action make your life take a different path?
+ - What single thing do you believe is the most important thing to do with one's life?
+ - What do you want to be remembered for?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,40 +58,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
+          How to Debug Your Own Brain
+
+Summary:
+The business side of things is relatively fluid. It doesn't take a whole lot of mental effort or energy to keep those things in mind right now. You are the instrument that you use to get things done in the world. There's still a tremendous amount of effort and skill that's valuable in that domaind.
+
+Transcript:
+Speaker 1
+Like when you're trying to get yourself to do something you know you should b be doing, but somehow there's some sort of barrier that's keeping you from doing that. I think at this point i've, i've worked in enough businesses and started enough of my own businesses, the business side of things is relatively fluid. It doesn take a whole lot of mental effort or energy to keep those things in mind right now. But you are the instrument that you use to get things done in the world. And so the the debugging your own mind and help and trying to anticipate how others are thinking and feeling and trying to optimize around that, there's still a tremendous amount of effort and skill that's valuable in that domaind and i find myself thinking about tho sorts of things quite often.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Health frees your body.
-
-Wealth frees your time.
-
-Purpose frees your spirit.
-
-Wisdom frees your mind.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Ascendant Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@AscendantPower on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Whatever cannot obey itself, is commanded. Such is the nature of living things.
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -104,6 +105,55 @@ Wisdom frees your mind.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Health/My%20diet%20is%20the%20best%20-%20said%20every%20human%20being.md">Biology/Health/My diet is the best - said every human being.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Phenotype.md">Biology/Phenotype.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Failure.md">Business/Entrepreneurship/Failure.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Ideas/Ideas.md">Business/Ideas/Ideas.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Ideas/Supabase%20for%20semantic%20objects.md">Business/Ideas/Supabase for semantic objects.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Dont%20repeat%20yourself%20-%20REPEAT%20YOURSELF.md">Computing/Dont repeat yourself - REPEAT YOURSELF.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Ideas/Idea%20-%20Google%20history%20graph%20visualisation.md">Computing/Ideas/Idea - Google history graph visualisation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Coordination.md">Mathematic/Game Theory/Coordination.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Reciprocation.md">Mathematic/Game Theory/Reciprocation.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/230123.md">Personal growth/Daily/230123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/240123.md">Personal growth/Daily/240123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Persistence.md">Personal growth/Persistence.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Retrospective.md">Personal growth/Retrospective.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Subjective%20reality.md">Philosophy/Epistemology/Subjective reality.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Legitimacy.md">Philosophy/Humans/Legitimacy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Life.md">Philosophy/Humans/Life.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Process%20-%20The%20Most%20Important%20Scarce%20Resource%20is%20Legitimacy.md">Philosophy/Humans/Process - The Most Important Scarce Resource is Legitimacy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Sexiness.md">Philosophy/Humans/Sexiness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20hacks/Social%20hacks.md">Philosophy/Humans/Social hacks/Social hacks.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Awareness.md">Philosophy/Mind/Awareness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Observe%20but%20do%20not%20analyse.md">Philosophy/Mind/Observe but do not analyse.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/The%20observer%20is%20the%20observed.md">Philosophy/Mind/The observer is the observed.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Thoughts%20-%20Neocortex%20-%20Monkey%20Brain%20-%20Queries.md">Philosophy/Mind/Thoughts - Neocortex - Monkey Brain - Queries.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Transhumanism/Reducing%20the%20friction%20between%20our%20physical%20and%20digital%20mind.md">Philosophy/Mind/Transhumanism/Reducing the friction between our physical and digital mind.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Choiceless%20awareness.md">Philosophy/Rationality/Choiceless awareness.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Books/Sebastian%20Mallaby%20-%20The%20Power%20Law.md">Readwise/Books/Sebastian Mallaby - The Power Law.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Google%20Maps.md">Readwise/Podcasts/Acquired - Google Maps.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Twitter.md">Readwise/Podcasts/Acquired - Twitter.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20WhatsApp.md">Readwise/Podcasts/Acquired - WhatsApp.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20157%20Carolyn%20Coughlin%20%E2%80%94%20%20Become%20a%20Better%20Listener.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 157 Carolyn Coughlin —  Become a Better Listener.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Tweets/%40louis030195%20on%20Twitter%20-%20Tweets%20From%20Louis030195.md">Readwise/Tweets/@louis030195 on Twitter - Tweets From Louis030195.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Daily%20tracking%20template.md">Templates/Core/Daily tracking template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Forecasting%20template.md">Templates/Core/Forecasting template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Tech%20idea%20template.md">Templates/Core/Tech idea template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Templater/ouraring.md">Templates/Templater/ouraring.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-24 19:35:31</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -144,20 +194,6 @@ Wisdom frees your mind.
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 18:21:11</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 17:50:15</p>
             </div>
         </div>
     </div>
