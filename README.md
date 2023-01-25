@@ -17,9 +17,9 @@ Additionally, if you want to know more about my personality, here is a [cheatshe
 
 I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
 
- - What make a relationship last? What makes a couple divorce?
- - What do you think is the most important thing that exists in the universe?
- - Are we our jobs? Or is there more to life than just a series of progressively automated tasks?
+ - What is the biggest thing that you wish you would have done differently in your life so far?
+ - What is the most difficult part about finding your place in the world?
+ - What would you give up for a once-in-a-lifetime experience? Why?
 
 
 <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
@@ -58,34 +58,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Wealth can be created without being sold. Scientists, till recently at least, effectively donated the wealth they created. We are all richer for knowing about penicillin, because we’re less likely to die from infections. Wealth is whatever people want, and not dying is certainly something we want. Hackers often donate their work by writing open source software that anyone can use for free. I am much the richer for the operating system FreeBSD, which I’m running on the computer I’m using now, and so is Yahoo, which runs it on all their servers.
+          The Einstein field equations relate the Einstein tensor to the stress–energy tensor, which represents the distribution of energy, momentum and stress in the spacetime manifold. The Einstein tensor is built up from the metric tensor and its partial derivatives; thus, given the stress–energy tensor, the Einstein field equations are a system of ten partial differential equations in which the metric tensor can be solved for.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Solutions of the Einstein Field Equations - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">closed form</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
+          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Of all people only those are at leisure who make time for philosophy, only those are really alive.
+          From this Anaximander concluded that human beings arose from other animals with more self-reliant newborns: He proposed the spontaneous origin of life in mud, the first animals being fish covered with spines. Some descendants of these fishes eventually abandoned the water and moved to dry land, where they evolved into other animals by the transmutation of one form into another.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Shortness of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Seneca</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Cosmos</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Carl Sagan</p>
 </div>
 </div>
 </div>
@@ -98,6 +98,55 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Biology/Evolution/Monkey%20brain/Monkey%20Brain.md">Biology/Evolution/Monkey brain/Monkey Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Biology/Sex.md">Biology/Sex.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/250123.md">Personal growth/Daily/250123.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Mentorship.md">Personal growth/Mentorship.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic%20status.md">Philosophy/Epistemology/Epistemic status.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic%20warning%20-%20Large%20language%20model.md">Philosophy/Epistemology/Epistemic warning - Large language model.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Epistemic%20warning%20-%20Politically%20correct.md">Philosophy/Epistemology/Epistemic warning - Politically correct.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Feminism.md">Philosophy/Humans/Feminism.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Psychology/Sex.md">Philosophy/Psychology/Sex.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Arrow%27s%20Impossibility%20Theorem%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Arrow's Impossibility Theorem - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Bondareva%E2%80%93Shapley%20Theorem%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Bondareva–Shapley Theorem - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Legitimacy%20%28Political%29%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Legitimacy (Political) - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Nash%20Equilibrium%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Nash Equilibrium - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/vitalik.ca%20-%20The%20Most%20Important%20Scarce%20Resource%20Is%20Legitimacy.md">Readwise/Articles/vitalik.ca - The Most Important Scarce Resource Is Legitimacy.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Books/Sebastian%20Mallaby%20-%20The%20Power%20Law.md">Readwise/Books/Sebastian Mallaby - The Power Law.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20157%20Carolyn%20Coughlin%20%E2%80%94%20%20Become%20a%20Better%20Listener.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 157 Carolyn Coughlin —  Become a Better Listener.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20TWIML%20AI%20Podcast%20%28formerly%20This%20Week%20in%20Machine%20Learning%20%26%20Artificial%20Intelligence%29%20-%20AI%20Trends%202023%20%E2%80%94%20%20Natural%20Language%20Proc%20-%20ChatGPT%20-%20%20GPT-4%20and%20Cutting%20Edge%20Research%20With%20Sameer%20Singh%20-%20613.md">Readwise/Podcasts/The TWIML AI Podcast (formerly This Week in Machine Learning & Artificial Intelligence) - AI Trends 2023 —  Natural Language Proc - ChatGPT -  GPT-4 and Cutting Edge Research With Sameer Singh - 613.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Startup%20School%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat.md">Readwise/Podcasts/Y Combinator - Startup School - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 250123</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/240123%20evening.md">240123 evening.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Ideas/Supabase%20for%20semantic%20objects.md">Business/Ideas/Supabase for semantic objects.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Dont%20repeat%20yourself%20-%20REPEAT%20YOURSELF.md">Computing/Dont repeat yourself - REPEAT YOURSELF.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Sovereignty.md">Philosophy/Humans/Sovereignty.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Daily%20journal%20evening%20template.md">Templates/Core/Daily journal evening template.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 250123</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -145,70 +194,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240123</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Biology/Health/My%20diet%20is%20the%20best%20-%20said%20every%20human%20being.md">Biology/Health/My diet is the best - said every human being.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Biology/Phenotype.md">Biology/Phenotype.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Failure.md">Business/Entrepreneurship/Failure.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Ideas/Ideas.md">Business/Ideas/Ideas.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Business/Ideas/Supabase%20for%20semantic%20objects.md">Business/Ideas/Supabase for semantic objects.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Dont%20repeat%20yourself%20-%20REPEAT%20YOURSELF.md">Computing/Dont repeat yourself - REPEAT YOURSELF.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Ideas/Idea%20-%20Google%20history%20graph%20visualisation.md">Computing/Ideas/Idea - Google history graph visualisation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Coordination.md">Mathematic/Game Theory/Coordination.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Reciprocation.md">Mathematic/Game Theory/Reciprocation.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/230123.md">Personal growth/Daily/230123.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/240123.md">Personal growth/Daily/240123.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Persistence.md">Personal growth/Persistence.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Retrospective.md">Personal growth/Retrospective.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/Subjective%20reality.md">Philosophy/Epistemology/Subjective reality.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Legitimacy.md">Philosophy/Humans/Legitimacy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Life.md">Philosophy/Humans/Life.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Process%20-%20The%20Most%20Important%20Scarce%20Resource%20is%20Legitimacy.md">Philosophy/Humans/Process - The Most Important Scarce Resource is Legitimacy.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Sexiness.md">Philosophy/Humans/Sexiness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20hacks/Social%20hacks.md">Philosophy/Humans/Social hacks/Social hacks.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Awareness.md">Philosophy/Mind/Awareness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Observe%20but%20do%20not%20analyse.md">Philosophy/Mind/Observe but do not analyse.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/The%20observer%20is%20the%20observed.md">Philosophy/Mind/The observer is the observed.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Thoughts%20-%20Neocortex%20-%20Monkey%20Brain%20-%20Queries.md">Philosophy/Mind/Thoughts - Neocortex - Monkey Brain - Queries.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Transhumanism/Reducing%20the%20friction%20between%20our%20physical%20and%20digital%20mind.md">Philosophy/Mind/Transhumanism/Reducing the friction between our physical and digital mind.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Choiceless%20awareness.md">Philosophy/Rationality/Choiceless awareness.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Sebastian%20Mallaby%20-%20The%20Power%20Law.md">Readwise/Books/Sebastian Mallaby - The Power Law.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Google%20Maps.md">Readwise/Podcasts/Acquired - Google Maps.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Twitter.md">Readwise/Podcasts/Acquired - Twitter.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20WhatsApp.md">Readwise/Podcasts/Acquired - WhatsApp.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20157%20Carolyn%20Coughlin%20%E2%80%94%20%20Become%20a%20Better%20Listener.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 157 Carolyn Coughlin —  Become a Better Listener.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Tweets/%40louis030195%20on%20Twitter%20-%20Tweets%20From%20Louis030195.md">Readwise/Tweets/@louis030195 on Twitter - Tweets From Louis030195.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Daily%20tracking%20template.md">Templates/Core/Daily tracking template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Forecasting%20template.md">Templates/Core/Forecasting template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Tech%20idea%20template.md">Templates/Core/Tech idea template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Templater/ouraring.md">Templates/Templater/ouraring.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-24 19:35:31</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Observe%20but%20do%20not%20analyse.md">Observe but do not analyse.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/220123.md">Personal growth/Daily/220123.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 2023-01-22 19:38:13</p>
             </div>
         </div>
     </div>
