@@ -9,6 +9,8 @@ excludeds = [
     ".obsidian", "css", "Private", ".jpeg", ".png", 
     ".jpg", "Images", ".gitignore", ".mp4", "Excallidraw",
     ".vault-stats", "Readwise Syncs",
+    # rnd stuff
+    "Louis"
     # Human management folder
     "CRM"
 ]
