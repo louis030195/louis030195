@@ -12,7 +12,8 @@ excludeds = [
     # rnd stuff
     "Louis"
     # Human management folder
-    "CRM"
+    "CRM",
+    "Philosophy/Humans/CRM/talks",
 ]
 includeds = [".md"]
 things = []
