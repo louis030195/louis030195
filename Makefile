@@ -2,6 +2,18 @@
 GCLOUD_PROJECT := $(shell gcloud config list --format 'value(core.project)' 2>/dev/null)
 REGION := us-central1
 
+-include .env
+
+hack:
+	python3 hack_obsidian.py $(shell cat token)
+
+install: ## [DEVELOPMENT] Install the API dependencies
+	virtualenv env; \
+	source env/bin/activate; \
+	pip install -r requirements.txt; \
+	pip install -r requirements-test.txt
+	@echo "Done, run '\033[0;31msource env/bin/activate\033[0m' to activate the virtual environment"
+
 push:
 	git add .
 	git commit -m "🙈 $(shell date +%Y-%m-%d_%H:%M:%S) 🙈"

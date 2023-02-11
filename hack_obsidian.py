@@ -14,15 +14,17 @@ excludeds = [
     # Human management folder
     "CRM",
     "Philosophy/Humans/CRM/talks",
+    "Philosophy/Humans/CRM",
 ]
 includeds = [".md"]
-things = []
+things = set()
 """
 mega hack
 """
 skipped = 0
+m = 10
 # TODO: filter out files containing "publish: false"
-for a in repo.get_commits()[0:5+skipped]:
+for a in repo.get_commits()[0:m+skipped]:
     a: Commit = a
     lis_list = [f'                    <li><a href="https://brain.louis030195.com/{urllib.parse.quote(f.filename)}">{f.filename}</a></li>' for f in a.files
         if all([e not in f.filename for e in excludeds]) and
@@ -47,8 +49,8 @@ for a in repo.get_commits()[0:5+skipped]:
         </div>
     </div>
     """
-    things.append(output)
-
+    things.add(output)
+things = list(things)
 things_as_str = "\n".join(things)
 div = f"""
 <div class="some-highlights" style="display: flex;
