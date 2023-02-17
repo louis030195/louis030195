@@ -5,27 +5,11 @@ Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 In 2022 I [made 4000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
 and [written 700,000 words on a public Obsidian](https://brain.louis030195.com).
-I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch.
-
-I have specific interests in:
-- [Artificial intelligence](https://brain.louis030195.com/Computing/Intelligence/Artificial+intelligence) (language models, multi-modal, unsupervised, alignment, private computation)
-- [Transhumanism](https://brain.louis030195.com/Philosophy/Humans/Transhumanism/Transhumanism): BCI, memory streams, second brains, AI assistants, & ways of reducing the friction between our digital and physical mind
-- [Philosophy of science, science, compound knowledge](https://brain.louis030195.com/Philosophy/Epistemology/Compound+Knowledge), [prompting humans and machines](https://brain.louis030195.com/Computing/Prompt), structured and deep [conversations](https://brain.louis030195.com/Philosophy/Humans/Conversation)
-- [Environment design & personal growth](https://brain.louis030195.com/Personal+growth/Personal+growth)
-
-Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
-
-I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
-
-[LANGA]
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#151515', branding: true }); }</script>
+I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch. I am currently building [Embedbase, the open-source API to easily create, store, and retrieve embeddings](https://embedbase.xyz).
 
 ## 🔗 [Links](https://brain.louis030195.com/Links)
 
+- [Cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet)
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
@@ -34,8 +18,6 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
 - [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
-
-**ETH**: 0x0Cf3e9A82D2FCa4bE60577085a56df2c0Bb1F637
 
 ## 🌊 My memory stream
 
