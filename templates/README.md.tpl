@@ -18,6 +18,7 @@ I also [founded](https://linkedin.com/in/louis030195) an AI startup that got inc
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
 - [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
+- [Opensea](https://opensea.io/louis030195) - 0x0Fa497B3ebFD52978168737650Ba832d19Dcb2be
 
 ## 🌊 My memory stream
 
