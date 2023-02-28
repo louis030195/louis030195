@@ -15,6 +15,9 @@ excludeds = [
     "CRM",
     "Philosophy/Humans/CRM/talks",
     "Philosophy/Humans/CRM",
+    # journal
+    "Daily",
+    "Personal growth/Daily"
 ]
 includeds = [".md"]
 things = set()
