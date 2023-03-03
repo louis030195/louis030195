@@ -5,7 +5,8 @@ Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 In 2022 I [made 4000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
 and [written 700,000 words on a public Obsidian](https://brain.louis030195.com).
-I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch. I am currently building [Embedbase, the open-source API to easily create, store, and retrieve embeddings](https://embedbase.xyz).
+I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch.
+I am currently building [Embedbase, the open-source API to easily create, store, and retrieve embeddings](https://embedbase.xyz) as part of [OrangeDAO](https://orangedao.xyz) F1 fellowship.
 
 ## 🔗 [Links](https://brain.louis030195.com/Links)
 
