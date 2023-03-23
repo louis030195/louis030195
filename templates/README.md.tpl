@@ -5,7 +5,7 @@ Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 In 2022 I [made 4000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
 and [written 700,000 words on a public Obsidian](https://brain.louis030195.com).
-- I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch.
+- I also founded an AI startup that went from 0 to $40k ARR in a few months and got into in the latest [Techstars](https://techstars.com) batch.
 - In 2023, I built [An AI assistant for Obsidian](https//github.com/louis030195/obsidian-ava), aligned with my desire to reduce the friction between our physical and digital mind. This was part of [Buildspace n&ws2](https://buildspace.so).
 - I also built [Embedbase](https://embedbase.xyz), [Getpilot](https://getpilot.differentai.xyz/), and now focusing on [Solpilot, copilot for smart contracts](https://solpilot.xyz), as part of [OrangeDAO](https://orangedao.xyz) F1 fellowship.
 
