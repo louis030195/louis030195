@@ -5,29 +5,13 @@ Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 In 2022 I [made 4000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
 and [written 700,000 words on a public Obsidian](https://brain.louis030195.com).
-I also [founded](https://linkedin.com/in/louis030195) an AI startup that got incubated in the latest [Techstars](https://techstars.com) batch.
-
-I have specific interests in:
-- [Artificial intelligence](https://brain.louis030195.com/Computing/Intelligence/Artificial+intelligence) (language models, multi-modal, unsupervised, alignment, private computation)
-- [Transhumanism](https://brain.louis030195.com/Philosophy/Humans/Transhumanism/Transhumanism): BCI, memory streams, second brains, AI assistants, & ways of reducing the friction between our digital and physical mind
-- [Philosophy of science, science, compound knowledge](https://brain.louis030195.com/Philosophy/Epistemology/Compound+Knowledge), [prompting humans and machines](https://brain.louis030195.com/Computing/Prompt), structured and deep [conversations](https://brain.louis030195.com/Philosophy/Humans/Conversation)
-- [Environment design & personal growth](https://brain.louis030195.com/Personal+growth/Personal+growth)
-
-Additionally, if you want to know more about my personality, here is a [cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet).
-
-I'm crazy about big questions, and don't like weather-conversations so I created [langa.me](https://langa.me), here are some prompts for you:
-
- - What is your favorite story/quote to encapsulate who you are?
- - If you could bring back one lost relationship - dead or alive - to the present, who would it be and why? Is this a difficult choice for you?
- - What are you grateful for?
-
-
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/louis030195/rand?hide_gdpr_banner=1', text: 'Have a random talk with me', color: '#90a959', textColor: '#151515', branding: true }); }</script>
+- I also founded an AI startup that became a 5 figure business in only a few months and got into in the latest [Techstars](https://techstars.com) batch.
+- In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava), aligned with my desire to reduce the friction between our physical and digital mind. This was part of [Buildspace n&ws2](https://buildspace.so).
+- I also built [Solpilot](https://solpilot.xyz), [Getpilot](https://getpilot.differentai.xyz/), and now focusing on [Embedbase, which adds memory to AI with embeddings](https://github.com/different-ai/embedbase), as part of [OrangeDAO](https://orangedao.xyz) F1 fellowship.
 
 ## 🔗 [Links](https://brain.louis030195.com/Links)
 
+- [Cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet)
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
@@ -36,8 +20,7 @@ I'm crazy about big questions, and don't like weather-conversations so I created
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
 - [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
-
-**ETH**: 0x0Cf3e9A82D2FCa4bE60577085a56df2c0Bb1F637
+- [Opensea](https://opensea.io/louis030195) - 0x0Fa497B3ebFD52978168737650Ba832d19Dcb2be
 
 ## 🌊 My memory stream
 
@@ -58,41 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Personality Traits for entrepreneurs 
-
-Summary:
-Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
-
-Transcript:
-Speaker 1
-It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
+          the genome is a book that wrote itself
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley - Genome the Autobiography of a Species in 23 Chapters-HarperCollins</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your body is a small-scale mine of radioactive particles. You receive an annual 40-millirem dose from the natural radioactivity originating inside of you. That’s the same amount of radiation you’d be exposed to from having four chest X-rays. Your radiation dose level can go up by one or two millirem for every eight hours you spend sleeping next to your similarly radioactive loved one.
+          In Buddha’s teaching egoism is a duty.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Particle Physics of You</p>
-<p style="margin-bottom: 0; color: #9f8e7d">symmetrymagazine.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          “I have a dream,” said Harry’s voice, “that one day sentient beings will be judged by the patterns of their minds, and not their colour or their shape or the stuff they’re made of, or who their parents were.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -108,17 +84,14 @@ It's like they're nervous system is not wired that way. And so you kind of need 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Mathematic/Game%20Theory/Anchoring%20effect%20in%20forgetful%20tit%20for%20tat.md">Mathematic/Game Theory/Anchoring effect in forgetful tit for tat.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Superrationality%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Superrationality - Wikipedia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Sebastian%20Mallaby%20-%20The%20Power%20Law.md">Readwise/Books/Sebastian Mallaby - The Power Law.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Season%203%20-%20%20Episode%201%20%E2%80%94%20%20Tesla.md">Readwise/Podcasts/Acquired - Season 3 -  Episode 1 —  Tesla.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Season%203%20-%20%20Episode%202%20%E2%80%94%20%20the%20Xiaomi%20IPO.md">Readwise/Podcasts/Acquired - Season 3 -  Episode 2 —  the Xiaomi IPO.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/All-In%20with%20Chamath%2C%20Jason%2C%20Sacks%20%26%20Friedberg%20-%20E113%20%E2%80%94%20%20DOJ%20Tries%20to%20Break%20Up%20Google%20-%20%20Vaccine%20Questions%20-%20%20Ukraine%20Escalation%20%26%20More.md">Readwise/Podcasts/All-In with Chamath, Jason, Sacks & Friedberg - E113 —  DOJ Tries to Break Up Google -  Vaccine Questions -  Ukraine Escalation & More.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Cognitive%20interview%20LLM%20agent.md">Cognitive interview LLM agent.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/readwise.io - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 280123</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220423</p>
             </div>
         </div>
     </div>
@@ -127,96 +100,71 @@ It's like they're nervous system is not wired that way. And so you kind of need 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Daily/280123.md">Personal growth/Daily/280123.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Hunger.md">Philosophy/Rationality/Hunger.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Feynman%20-%20Six%20Easy%20Pieces.md">Readwise/Books/Richard Feynman - Six Easy Pieces.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Lex%20Fridman%20Podcast%20-%20373%20%E2%80%93%20Manolis%20Kellis%20%E2%80%94%20%20Evolution%20of%20Human%20Civilization%20and%20Superintelligent%20AI.md">Readwise/Podcasts/Lex Fridman Podcast - 373 – Manolis Kellis —  Evolution of Human Civilization and Superintelligent AI.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 280123</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Big%20Talks.md">Philosophy/Humans/Social games/Big Talks.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Brutally%20honest%20questions.md">Philosophy/Humans/Social games/Brutally honest questions.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Hamming%20questions.md">Philosophy/Humans/Social games/Hamming questions.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270123</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Brutally%20honest%20questions.md">Brutally honest questions.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Forecast%20-%20Will%20OpenAI%20offer%20a%20ChatGPT%20subscription%20for%20less%20than%20%2425%20month%20before%20July%201%20%202023.md">Computing/Intelligence/Forecast - Will OpenAI offer a ChatGPT subscription for less than $25 month before July 1  2023.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Weekly%20retrospective%20template.md">Templates/Core/Weekly retrospective template.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270123</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230423</p>
             </div>
         </div>
     </div>
     
 </div>
 
-### ❤️‍🩹 My Health Status (ouraring.com) - 2023-01-28
-Today's overall readiness score: 57
-
-
 
 ### 📚 What I'm currently reading
 
+-   **Emily Nagoski**  - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/book/show/22609341-come-as-you-are) - Fri Apr 21 11:13:47 -0700 2023
+-   **Thad A. Polk**  - [The Learning Brain](https://www.goodreads.com/book/show/40775319-the-learning-brain) - Fri Apr 21 11:13:28 -0700 2023
+-   **António R. Damásio**  - [Descartes&#39; Error: Emotion, Reason and the Human Brain](https://www.goodreads.com/book/show/103867.Descartes_Error) - Sun Mar 26 23:01:46 -0700 2023
+-   **Donald A. Norman**  - [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Sun Mar 26 22:59:30 -0700 2023
+-   **Eric Evans**  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - Sun Mar 26 22:59:20 -0700 2023
+-   **Milan Kundera**  - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being) - Sun Feb 26 21:39:04 -0800 2023
+-   **Robert M. Sapolsky**  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) - Tue Feb 21 23:49:20 -0800 2023
 -   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
 -   **Eric R. Kandel**  - [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science) - Wed Jan 18 11:41:43 -0800 2023
--   **Mark F. Bear**  - [Neuroscience: Exploring the Brain, 3rd Edition](https://www.goodreads.com/book/show/170011.Neuroscience) - Wed Jan 18 11:37:48 -0800 2023
--   **Sebastian Mallaby**  - [The Power Law: Inside Silicon Valley&#39;s Venture Capital Machine](https://www.goodreads.com/book/show/58009109-the-power-law) - Wed Jan 18 11:36:12 -0800 2023
--   **Eric Schmidt**  - [How Google Works](https://www.goodreads.com/book/show/23158207-how-google-works) - Wed Jan 18 02:08:05 -0800 2023
--   **Ryan Breslow**  - [Fundraising](https://www.goodreads.com/book/show/58794322-fundraising) - Tue Jan 17 12:29:24 -0800 2023
--   **Susan Blackmore**  - [The Meme Machine](https://www.goodreads.com/book/show/254502.The_Meme_Machine) - Mon Jan 16 00:36:11 -0800 2023
--   **Douglas R. Hofstadter**  - [Gödel, Escher, Bach: An Eternal Golden Braid](https://www.goodreads.com/book/show/24113.G_del_Escher_Bach) - Fri Jan 06 22:15:00 -0800 2023
--   **Richard Dawkins**  - [The Extended Phenotype: The Long Reach of the Gene](https://www.goodreads.com/book/show/61538.The_Extended_Phenotype) - Tue Jan 03 12:29:06 -0800 2023
+-   **Mark F. Bear**  - [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience) - Wed Jan 18 11:37:48 -0800 2023
 
 ### ✍ My latest Goodreads reviews
 
--   **Osho**  - [Tantra: The Supreme Understanding - Discourses on the Tantric Way of Tilopa&#39;s Song of Mahamudra](https://www.goodreads.com/book/show/131390.Tantra) - 5/5 - Sun Jan 22 05:35:14 -0800 2023
--   **Eckhart Tolle**  - [The Power of Now: A Guide to Spiritual Enlightenment](https://www.goodreads.com/book/show/6708.The_Power_of_Now) - 1/5 - Sun Jan 22 06:06:53 -0800 2023
--   **Nick  Gray**  - [The 2-Hour Cocktail Party: How to Build Big Relationships with Small Gatherings](https://www.goodreads.com/book/show/61212264-the-2-hour-cocktail-party) - 2/5 - Thu Jan 19 11:40:08 -0800 2023
--   **Jared Diamond**  - [Why Is Sex Fun? The Evolution of Human Sexuality](https://www.goodreads.com/book/show/1991.Why_Is_Sex_Fun_The_Evolution_of_Human_Sexuality) - 3/5 - Wed Jan 18 11:33:18 -0800 2023
--   **Peter Singer**  - [Animal Liberation](https://www.goodreads.com/book/show/29380.Animal_Liberation) - 3/5 - Thu Jan 19 11:39:42 -0800 2023
+-   **Laurence Gonzales**  - [Deep Survival: Who Lives, Who Dies, and Why](https://www.goodreads.com/book/show/30231750-deep-survival) - 3/5 - Fri Apr 21 11:14:44 -0700 2023
+-   **Susan Blackmore**  - [The Meme Machine](https://www.goodreads.com/book/show/254502.The_Meme_Machine) - 4/5 - Sun Apr 02 10:14:00 -0700 2023
+-   **Jessica Livingston**  - [Founders at Work: Stories of Startups&#39; Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - 0/5 - Sun Mar 26 22:59:05 -0700 2023
+-   **Karl Sigmund**  - [Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science](https://www.goodreads.com/book/show/34848865-exact-thinking-in-demented-times) - 5/5 - Sun Mar 26 22:58:40 -0700 2023
+-   **Dana Morningstar**  - [Out of the Fog: Moving From Confusion to Clarity After Narcissistic Abuse](https://www.goodreads.com/book/show/36683560-out-of-the-fog) - 2/5 - Sun Mar 26 22:59:55 -0700 2023
+
+#### 👷 Check out what I'm currently working on
+
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Add memory to AI with embeddings (today)
+- [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (6 days ago)
+- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (1 week ago)
+- [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (1 week ago)
+- [different-ai/embedbase-docs](https://github.com/different-ai/embedbase-docs) - moved https://github.com/different-ai/embedbase/tree/main/docs (1 week ago)
+
+#### 📓 Gists I wrote
+
+- [](https://gist.github.com/61eeb3ab51ec37e6f8caf8fa66c96a2c) (2 days ago)
+- [](https://gist.github.com/e663a76cf7c37affc4fd30392cf928a7) (1 week ago)
+- [](https://gist.github.com/278e8acca44933742377f2ce0e537eed) (1 week ago)
+- [wip multimodal embedbase](https://gist.github.com/b7a440cf73a9b09e7b9f305eea6bd94f) (2 weeks ago)
+- [](https://gist.github.com/acd9479b7a127368d2d30d0a90734bc4) (1 month ago)
+
+#### ⭐ Recent Stars
+
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence (today)
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (today)
+- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - One Embedder, Any Task: Instruction-Finetuned Text Embeddings (2 days ago)
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models (2 days ago)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 days ago)
 
 ### 🎬 Youtube Videos
 
-- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 1 week ago
-- [Obsidian Ava - Clarifying and expanding your thoughts](https://www.youtube.com/watch?v=miFGyR0fgBY) - 1 week ago
-- [Obsidian Ava - Leveraging your intelligence and creativity](https://www.youtube.com/watch?v=c7aHTss-9h0) - 1 week ago
-- [Obsidian Ava - Generating new Obsidian template in your style](https://www.youtube.com/watch?v=VaBBioHndmM) - 1 week ago
-- [Obsidian Ava - Assembling messy ideas into a start-up template](https://www.youtube.com/watch?v=fVaul4v2hn0) - 2 weeks ago
+- [ChatGPT-powered documentation 3](https://www.youtube.com/watch?v=0UZEly9C7NY) - 1 month ago
+- [ChatGPT-powered documentation 2](https://www.youtube.com/watch?v=yv3jtwePXeM) - 1 month ago
+- [ChatGPT-powered documentation 1](https://www.youtube.com/watch?v=-9jL9r9QQm0) - 1 month ago
+- [ChatGPT &#43; Siri &#43; Embedbase](https://www.youtube.com/watch?v=qH0Zugo0UCo) - 1 month ago
+- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 3 months ago
 
-### 🌱 My latest projects
 
-- [louis030195/paul-graham-clone](https://github.com/louis030195/paul-graham-clone) - An AI clone of Paul Graham
-- [louis030195/krishnamurti-clone](https://github.com/louis030195/krishnamurti-clone) - An AI clone with memory of Jiddu Krishnamurti https://en.wikipedia.org/wiki/Jiddu_Krishnamurti
-- [louis030195/awesome-memory-streams](https://github.com/louis030195/awesome-memory-streams) - List of software that allows you to collect and aggregate data about your life
-- [louis030195/obsidian-ouraring](https://github.com/louis030195/obsidian-ouraring) - Plugin that implements ouraring API
-- [louis030195/universal-decompiler](https://github.com/louis030195/universal-decompiler) - Using Transformers to decompile ByteCode into code
-
-### 🔭 Latest releases I've contributed to
-
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) ([2.16.8](https://github.com/louis030195/obsidian-ava/releases/tag/2.16.8), 1 day ago) - Quickly format your notes with ChatGPT in Obsidian
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ([v1.1.9](https://github.com/obsidianmd/obsidian-releases/releases/tag/v1.1.9), 1 month ago) - Community plugins list, theme list, and releases of Obsidian.
-- [langa-me/socialis](https://github.com/langa-me/socialis) ([v1.1.5](https://github.com/langa-me/socialis/releases/tag/v1.1.5), 1 month ago) - New mediums of human conversation - Discord integration
-- [langa-me/api](https://github.com/langa-me/api) ([1.0.9](https://github.com/langa-me/api/releases/tag/1.0.9), 1 month ago) - Machine conversations for human conversations
-- [langa-me/cerche](https://github.com/langa-me/cerche) ([0.2.4](https://github.com/langa-me/cerche/releases/tag/0.2.4), 1 month ago) - Experimental search engine for conversational AI such as parl.ai, large language models such as OpenAI GPT3, and humans (maybe).
