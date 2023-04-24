@@ -41,7 +41,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          So you have to learn how to admit you’re wrong, over and over and over again. It doesn’t sound like much, but it’s so hard that most people can’t do science. Always questioning yourself, always taking another look at things you’ve always taken for granted.
+          to hear the inferior and the poor in spirit having their say is a terrible ear-splitting torment for him who knows and trembles at the thought,
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          “What you’ve just discovered is called ‘positive bias’,” said the boy. “You had a rule in your mind, and you kept on thinking of triplets that should make the rule say ‘Yes’. But you didn’t try to test any triplets that should make the rule say ‘No’. In fact you didn’t get a single ‘No’, so ‘any three numbers’ could have just as easily been the rule. It’s sort of like how people imagine experiments that could confirm their hypotheses instead of trying to imagine experiments that could falsify them—that’s not quite exactly the same mistake but it’s close.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -52,23 +63,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Occam's razor (appropriately interpreted and in compromise with Epicurus' principle of indifference) tells us to assign high/low a priori plausibility to simple/complex strings x.
+          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d"></p>
-<p style="margin-bottom: 0; color: #9f8e7d">Texts in Theoretical Computer Science. An EATCS Series Marcus Hutter - Universal Artificial Intellig...</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="432f2c362a306d212622362e2c2d3703242e222a2f6d202c2e" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
 </div>
 </div>
 </div>
@@ -81,24 +81,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Attention%20and%20conciousness%20in%20the%20mind%20vs%20in%20LLMs.md">Computing/Intelligence/Attention and conciousness in the mind vs in LLMs.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Forward-forward%20algorithm.md">Computing/Intelligence/Forward-forward algorithm.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/NIPS%202022.md">Computing/NIPS 2022.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Raindrop/Hidden/The%20Forward-Forward%20Algorithm%20Some%20Preliminary%20Investigations.md">Raindrop/Hidden/The Forward-Forward Algorithm Some Preliminary Investigations.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240423</p>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -117,13 +99,30 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Feynman%20-%20Six%20Easy%20Pieces.md">Readwise/Books/Richard Feynman - Six Easy Pieces.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Lex%20Fridman%20Podcast%20-%20373%20%E2%80%93%20Manolis%20Kellis%20%E2%80%94%20%20Evolution%20of%20Human%20Civilization%20and%20Superintelligent%20AI.md">Readwise/Podcasts/Lex Fridman Podcast - 373 – Manolis Kellis —  Evolution of Human Civilization and Superintelligent AI.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230423</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Attention%20and%20conciousness%20in%20the%20mind%20vs%20in%20LLMs.md">Computing/Intelligence/Attention and conciousness in the mind vs in LLMs.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Forward-forward%20algorithm.md">Computing/Intelligence/Forward-forward algorithm.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/NIPS%202022.md">Computing/NIPS 2022.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Raindrop/Hidden/The%20Forward-Forward%20Algorithm%20Some%20Preliminary%20Investigations.md">Raindrop/Hidden/The Forward-Forward Algorithm Some Preliminary Investigations.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240423</p>
             </div>
         </div>
     </div>
