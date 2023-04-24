@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
+          The Lax–Friedrichs method, named after Peter Lax and Kurt O. Friedrichs, is a numerical method for the solution of hyperbolic partial differential equations based on finite differences. The method can be described as the FTCS (forward in time, centered in space) scheme with a numerical dissipation term of 1/2. One can view the Lax–Friedrichs method as an alternative to Godunov's scheme, where one avoids solving a Riemann problem at each cell interface, at the expense of adding artificial viscosity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Lax–Friedrichs Method - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          as soon as a superior power prevails over an inferior power, and the latter proceeds to work as a function of the former, an order of rank is established,
+          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
+          Why has that man fallen in love with that woman? Because she's pretty. Why does pretty matter? Because human beings are a mainly monogamous species and so males are choosy about their mates (as male chimpanzees are not); prettiness is an indication of youth and health, which are indications of fertility: Why does that man care about fertility in his mate? Because if he did not, his genes would be eclipsed by those of men who did. Why does he care about that? He does not, but his genes act as if they do. Those who choose infertile mates leave no descendants. Therefore, everybody is descended from men who preferred fertile women, and every person inherits from those ancestors the same preference.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
