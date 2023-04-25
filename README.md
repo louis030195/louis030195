@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In quantum mechanics, the Hamiltonian of a system is an operator corresponding to the total energy of that system, including both kinetic energy and potential energy. Its spectrum, the system's energy spectrum or its set of energy eigenvalues, is the set of possible outcomes obtainable from a measurement of the system's total energy. Due to its close relation to the energy spectrum and time-evolution of a system, it is of fundamental importance in most formulations of quantum theory.
+          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hamiltonian (Quantum Mechanics) - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Confirmation bias was the technical term; it meant, among other things, that when you chose your information sources, there was a notable tendency to choose information sources that agreed with your current opinions.
+          In companies, you have a dictator at the top, a CEO, or the founders. Then all of a sudden it turns back into a butterfly network, and now you report to a board, a bunch of people. And inherently, the founder-dictators tend to be very risk-prone. They have a lot of vision, they have a lot of drive, they know where they want to take the thing. They like to make risky moves and bets and pivots and turns. But boards don’t like that. Boards don’t like to be dragged along. It’s a group of people. It’s groupthink, it’s committee-think. No committee ever built anything great. So related to that, no board ever built anything great. Boards can be helpful; they can be sounding boards. But you do not want the board to be running the company. And the larger the board, the more you’re going to find yourself spending time just keeping them up-to-date and in sync.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
+          A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself. A good teacher is merely a catalyst.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Striking Thoughts</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Bruce Lee's Wisdom</p>
 </div>
 </div>
 </div>
@@ -85,6 +85,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
                     <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Cognitive%20interview%20LLM%20agent.md">Computing/Intelligence/Cognitive interview LLM agent.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -123,20 +137,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Cognitive%20interview%20LLM%20agent.md">Computing/Intelligence/Cognitive interview LLM agent.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 240423</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
@@ -163,15 +163,15 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (today)
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (today)
-- [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (today)
+- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (1 day ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (1 day ago)
+- [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (1 day ago)
 - [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (1 week ago)
 - [different-ai/embedbase-js](https://github.com/different-ai/embedbase-js) - moved https://github.com/different-ai/embedbase/tree/main/sdk/embedbase-js (1 week ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/61eeb3ab51ec37e6f8caf8fa66c96a2c) (3 days ago)
+- [](https://gist.github.com/61eeb3ab51ec37e6f8caf8fa66c96a2c) (4 days ago)
 - [](https://gist.github.com/e663a76cf7c37affc4fd30392cf928a7) (1 week ago)
 - [](https://gist.github.com/278e8acca44933742377f2ce0e537eed) (1 week ago)
 - [wip multimodal embedbase](https://gist.github.com/b7a440cf73a9b09e7b9f305eea6bd94f) (2 weeks ago)
@@ -179,11 +179,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### ⭐ Recent Stars
 
-- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence (1 day ago)
-- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (1 day ago)
-- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - One Embedder, Any Task: Instruction-Finetuned Text Embeddings (3 days ago)
-- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models (3 days ago)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (3 days ago)
+- [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence (2 days ago)
+- [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (2 days ago)
+- [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - One Embedder, Any Task: Instruction-Finetuned Text Embeddings (4 days ago)
+- [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models (4 days ago)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (4 days ago)
 
 ### 🎬 Youtube Videos
 
