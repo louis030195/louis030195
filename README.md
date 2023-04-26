@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Judgmental. Although Architects are generally open-minded, they have little patience for things they consider illogical—e.g., emotional outbursts, reluctance to accept data and evidence, or decisions based on feelings.
+          Simply stated, the value of a business today is the sum of all the money it will make in the future
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Architect</p>
-<p style="margin-bottom: 0; color: #9f8e7d">16Personalities</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your instinctive willingness to believe something will change along with your willingness to afliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to afliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
+          Nature isn’t a person, you can’t trick them into believing something else, if you try to tell the Moon it’s made of cheese you can argue for days and it won’t change the Moon! What you’re talking about is rationalization,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People, after all, are universally interested in beauty. Lipstick, jewelry, eye shadow, perfume, hair dyes, high heels-people are just as willing to exaggerate or lie about their sexually alluring traits as any peacock or bowerbird. And as the list above makes clear, it seems as if men seek female beauty rather more than women seek male beauty.
+          The stationary-action principle – also known as the principle of least action – is a variational principle that, when applied to the action of a mechanical system, yields the equations of motion for that system. The principle states that the trajectories (i.e. the solutions of the equations of motion) are stationary points of the system's action functional. The term "least action" is a historical misnomer since the principle has no minimality requirement: the value of the action functional need not be minimal (even locally) on the trajectories.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Stationary-Action Principle - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">configuration space</p>
 </div>
 </div>
 </div>
@@ -84,9 +84,9 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/250423%20evening.md">250423 evening.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Recording%2020230425224535.webm">Recording 20230425224535.webm</a></li>
-                    <li><a href="https://brain.louis030195.com/Recording%2020230425224736.webm">Recording 20230425224736.webm</a></li>
+                    <li><a href="https://brain.louis030195.com/240423_195412.md">240423_195412.md</a></li>
+                    <li><a href="https://brain.louis030195.com/240423_195438.md">240423_195438.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Llm%20input%20size%20limit%20vs%20human%20input%20size%20limit.md">Llm input size limit vs human input size limit.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -114,9 +114,9 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/240423_195412.md">240423_195412.md</a></li>
-                    <li><a href="https://brain.louis030195.com/240423_195438.md">240423_195438.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Llm%20input%20size%20limit%20vs%20human%20input%20size%20limit.md">Llm input size limit vs human input size limit.md</a></li>
+                    <li><a href="https://brain.louis030195.com/250423%20evening.md">250423 evening.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Recording%2020230425224535.webm">Recording 20230425224535.webm</a></li>
+                    <li><a href="https://brain.louis030195.com/Recording%2020230425224736.webm">Recording 20230425224736.webm</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
