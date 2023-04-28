@@ -41,29 +41,36 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Of all people only those are at leisure who make time for philosophy, only those are really alive.
+          Cryptocurrency Blockchain Web Three Is Following This Exact Trajectories
+
+Summary:
+"I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything," he says. "This is literally what happens with every new technology."
+
+Transcript:
+Speaker 1
+And so Morrison basically derives, he goes through this example, and he derives basically this three part process that he says applies to any new technology. Basically, as it is as it is greeted and fought by the status quo by the powers it be. And he says basically, it's a three step process. The step one is just completely ignore it. Like, so just pretend it doesn't exist, refuse to acknowledge it, don't talk about it, don't even engage in conversations like we're just not going to do this. At some point though, at some point, these things become too obvious and they have to engage. She said step two is rational counter argument, right? So, and rational counter argument is this can't possibly work because, you know, it's going to be too expensive. It's not going to be fast enough. It's not going to scale. People don't know how to use it. All the different kind of rational arguments that you can come up with to oppose something. And then ultimately, when those don't work anymore, because people are still watching this and being like, okay, this still seems like a good idea. Then he says stage three is when the name calling begins. And so stage three is basically just like a full out power status political fight where all of a sudden basically it's like, okay, these are these people who are bringing this technology, they're bad people, they have bad morals, they have bad intent, they're going to ruin everything. And if you think about it, it's so funny because it's like basically the internet followed this exact trajectory. Like, you know, crypto cryptocurrency blockchain web three is following this exact same trajectory social networking follows this exact same trajectory. Like, I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything. Right. And it is this is literally what happens with every new technology and I become convinced that basically how this unfolds.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Shortness of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Seneca</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          NEO: I’ve kept quiet for as long as I could, but I feel a certain need to speak up at this point. The human body is the most inefficient source of energy you could possibly imagine. The efficiency of a power plant at converting thermal energy into electricity decreases as you run the turbines at lower temperatures. If you had any sort of food humans could eat, it would be more efficient to burn it in a furnace than feed it to humans. And now you’re telling me that their food is the bodies of the dead, fed to the living? Haven’t you ever heard of the laws of thermodynamics?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="3a56554f534914585f5b4f5755544e7a5d575b535614595557" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Users are only ever in three states: they’ve never heard about it; they’ve tried it; and they use it. What you’re managing is state change. So the framework is, what causes these changes? The answer should be rooted more in preference, choice, and psychology than in some quantitative thing.
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -84,9 +91,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/270423%20evening.md">270423 evening.md</a></li>
-                    <li><a href="https://brain.louis030195.com/David%20Deutsch.md">David Deutsch.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Universal%20constructor.md">Physic/Universal constructor.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Epistemological%20simplicity%20and%20software%20abstractions.md">Epistemological simplicity and software abstractions.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -100,7 +105,9 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Epistemological%20simplicity%20and%20software%20abstractions.md">Epistemological simplicity and software abstractions.md</a></li>
+                    <li><a href="https://brain.louis030195.com/270423%20evening.md">270423 evening.md</a></li>
+                    <li><a href="https://brain.louis030195.com/David%20Deutsch.md">David Deutsch.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Universal%20constructor.md">Physic/Universal constructor.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -168,11 +175,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### ⭐ Recent Stars
 
+- [burggraf/supabase-mailer](https://github.com/burggraf/supabase-mailer) - Send and track email from Supabase / PostgreSQL using a Transactional Email Provider (today)
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence (5 days ago)
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (5 days ago)
 - [HKUNLP/instructor-embedding](https://github.com/HKUNLP/instructor-embedding) - One Embedder, Any Task: Instruction-Finetuned Text Embeddings (1 week ago)
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models (1 week ago)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (1 week ago)
 
 ### 🎬 Youtube Videos
 
