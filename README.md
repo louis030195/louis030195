@@ -41,34 +41,73 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
+          Obvious ideas will always be executed by big companies
+
+So the big thing is, most of the obviously good ideas are bad ideas for a startup, right? And the reason is because most of the obviously good ideas, if they're obviously good ideas, they're already getting done by big companies. So what are big companies really good at? Like, just take all the big, the top 50, whatever tech companies, what are they really good at? They're really good at doing the next obviously good idea, right? They're like, what's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there. And so like, you know, we always say kind of by definition, like if it's a good startup idea, it basically, it can't be a good idea that looks like a good idea because a big company's already doing that.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          That was the point of Epicurus’s bold assertion that good always predominates in the wise man because he never has any lack of pleasures. And that, again, is how Epicurus, like the rest, reaches the conclusion we are after, that the wise man is always happy
+          There are only two types of people in the world. People who want to live comfortably—they are seeking death, they want a comfortable grave. And people who want to live—they choose to live dangerously, because life thrives only when there is risk.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.
+          Books
+
+Summary:
+The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
+
+Transcript:
+Speaker 1
+Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
+
+Speaker 2
+Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
+
+Speaker 1
+You're in it.
+
+Speaker 3
+Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
+
+Speaker 1
+Of course it requires a price. All religious requires a sacrifice.
+
+Speaker 2
+Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
+
+Speaker 1
+No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
+
+Speaker 2
+Yeah, she only has listened to Mark's podcast.
+
+Speaker 1
+But appropriately so. There we go. OK. Booktube.
+
+Speaker 2
+Booktube. The Machiavellian's by a burner. Yeah.
+
+Speaker 1
+So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -84,25 +123,9 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/270423%20evening.md">270423 evening.md</a></li>
-                    <li><a href="https://brain.louis030195.com/David%20Deutsch.md">David Deutsch.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Physic/Universal%20constructor.md">Physic/Universal constructor.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270423</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Abstraction%20in%20computer%20science.md">Abstraction in computer science.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Startup%20School%20by%20Y%20Combinator%20-%20Design%20for%20Startups%20%28Part%201%29%20by%20Garry%20Tan.md">Readwise/Podcasts/Startup School by Y Combinator - Design for Startups (Part 1) by Garry Tan.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Epistemological%20simplicity%20and%20software%20abstractions.md">Computing/Epistemological simplicity and software abstractions.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Llm%20input%20size%20limit%20vs%20human%20input%20size%20limit.md">Computing/Llm input size limit vs human input size limit.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/David%20Deutsch.md">Philosophy/Epistemology/David Deutsch.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -130,6 +153,22 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/270423%20evening.md">270423 evening.md</a></li>
+                    <li><a href="https://brain.louis030195.com/David%20Deutsch.md">David Deutsch.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Physic/Universal%20constructor.md">Physic/Universal constructor.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
                     <li><a href="https://brain.louis030195.com/Business/Due%20diligence%20AI%20startup.md">Business/Due diligence AI startup.md</a></li>
             </ul>
         </span>
@@ -144,9 +183,9 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Epistemological%20simplicity%20and%20software%20abstractions.md">Computing/Epistemological simplicity and software abstractions.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Computing/Llm%20input%20size%20limit%20vs%20human%20input%20size%20limit.md">Computing/Llm input size limit vs human input size limit.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Epistemology/David%20Deutsch.md">Philosophy/Epistemology/David Deutsch.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Abstraction%20in%20computer%20science.md">Abstraction in computer science.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Startup%20School%20by%20Y%20Combinator%20-%20Design%20for%20Startups%20%28Part%201%29%20by%20Garry%20Tan.md">Readwise/Podcasts/Startup School by Y Combinator - Design for Startups (Part 1) by Garry Tan.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
