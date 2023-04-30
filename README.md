@@ -41,34 +41,46 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People form close friendships by knowing private things about each other, and the reason most people don’t make close friends is because they’re too embarrassed to share anything really important about themselves.
+          Is My To Do List Done Yet?
+
+Summary:
+It's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Because our memories aren't very good at keeping track of what we really do. All of us ar involved in something, hopefully that we care about, that is important to us. Ah, it's just good practiceto be able to track how you're actually spending your time and energy, or investing your time andEnergy instead of just relying on your memory to do that.
+
+Transcript:
+Speaker 1
+Tei it's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Ah, it's just good practiceto to track how you're actually spending your time and energy, or investing your time and energy, instead of just relying on your memory to do that. Because our memories aren't very good at keeping track of what we really do. I think there's there's another cognitive and em a benefit to doing this, which is all of us ar involved in something, hopefully that we care about, that's important to us.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best companies are almost always mission oriented.
+          Your beliefs become your thoughts, 
+Your thoughts become your words, 
+Your words become your actions, 
+Your actions become your habits, 
+Your habits become your values, 
+Your values become your destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mohandas K. Gandhi, Mahadev Desai, and  Mahadev Desai</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
+          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
 </div>
 </div>
 </div>
@@ -98,13 +110,16 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
+                    <li><a href="https://brain.louis030195.com/290423_190359.md">290423_190359.md</a></li>
+                    <li><a href="https://brain.louis030195.com/290423_190438.md">290423_190438.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Abstraction%20in%20computer%20science.md">Abstraction in computer science.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Backpropagation%20Through%20Time%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Backpropagation Through Time - Wikipedia.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Untitled.md">Untitled.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
             </div>
         </div>
     </div>
@@ -115,6 +130,23 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
             <ul>
                     <li><a href="https://brain.louis030195.com/Sexual%20Cues%20Assessment.md">Sexual Cues Assessment.md</a></li>
                     <li><a href="https://brain.louis030195.com/Templates/Core/Sexual%20Temperament%20Questionnaire%20template.md">Templates/Core/Sexual Temperament Questionnaire template.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Stress%20Worksheet%20template.md">Stress Worksheet template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Sexual%20Cues%20Assessment%20template.md">Templates/Core/Sexual Cues Assessment template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Sexy%20Contexts%20template.md">Templates/Core/Sexy Contexts template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Turning%20Off%20the%20Offs%20template.md">Templates/Core/Turning Off the Offs template.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -142,24 +174,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/290423_190359.md">290423_190359.md</a></li>
-                    <li><a href="https://brain.louis030195.com/290423_190438.md">290423_190438.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Abstraction%20in%20computer%20science.md">Abstraction in computer science.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/en.wikipedia.org%20-%20Backpropagation%20Through%20Time%20-%20Wikipedia.md">Readwise/Articles/en.wikipedia.org - Backpropagation Through Time - Wikipedia.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Untitled.md">Untitled.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
                     <li><a href="https://brain.louis030195.com/Templates/Core/Stress%20Worksheet%20template.md">Templates/Core/Stress Worksheet template.md</a></li>
             </ul>
         </span>
@@ -174,15 +188,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Stress%20Worksheet%20template.md">Stress Worksheet template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Sexual%20Cues%20Assessment%20template.md">Templates/Core/Sexual Cues Assessment template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Sexy%20Contexts%20template.md">Templates/Core/Sexy Contexts template.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Turning%20Off%20the%20Offs%20template.md">Templates/Core/Turning Off the Offs template.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
             </div>
         </div>
     </div>
