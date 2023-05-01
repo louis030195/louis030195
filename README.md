@@ -41,34 +41,43 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          That was the point of Epicurus’s bold assertion that good always predominates in the wise man because he never has any lack of pleasures. And that, again, is how Epicurus, like the rest, reaches the conclusion we are after, that the wise man is always happy
+          Obvious ideas will always be executed by big companies
+
+So the big thing is, most of the obviously good ideas are bad ideas for a startup, right? And the reason is because most of the obviously good ideas, if they're obviously good ideas, they're already getting done by big companies. So what are big companies really good at? Like, just take all the big, the top 50, whatever tech companies, what are they really good at? They're really good at doing the next obviously good idea, right? They're like, what's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there. And so like, you know, we always say kind of by definition, like if it's a good startup idea, it basically, it can't be a good idea that looks like a good idea because a big company's already doing that.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          20th-century philosophy saw the development of a number of new philosophical schools—including logical positivism, analytic philosophy, phenomenology, existentialism, and poststructuralism. In terms of the eras of philosophy, it is usually labelled as contemporary philosophy (succeeding modern philosophy, which runs roughly from the time of René Descartes until the late 19th to early 20th centuries).
+          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">20th-Century Philosophy - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edmund Gettier</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Not every kind of hard is good. There is good pain and bad pain. You want the kind of pain you get from going running, not the kind you get from stepping on a nail.
+          Founder divorce 
+
+Summary:
+This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
+
+Transcript:
+Speaker 1
+This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -84,13 +93,15 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Louis/300423%20Sexual%20Temperament%20Questionnaire.md">Louis/300423 Sexual Temperament Questionnaire.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213443.md">Philosophy/Humans/Social games/Prompts/300423_213443.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213551.md">Philosophy/Humans/Social games/Prompts/300423_213551.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
             </div>
         </div>
     </div>
@@ -113,15 +124,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Louis/300423%20Sexual%20Temperament%20Questionnaire.md">Louis/300423 Sexual Temperament Questionnaire.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213443.md">Philosophy/Humans/Social games/Prompts/300423_213443.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213551.md">Philosophy/Humans/Social games/Prompts/300423_213551.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
             </div>
         </div>
     </div>
