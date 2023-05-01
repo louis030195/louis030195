@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          The so-called educated people in the world, who have been to college, to university, have good jobs, fit into a place and stay there and advance there, have their own troubles, their own adversities. One may pass some exam and get a job, or one may have been educated technologically. But psychologically, one doesn’t know anything about oneself. One is unhappy, miserable because one can’t get this or that. One quarrels with one’s husband or wife. And they are all very educated people who read books but disregard the whole field of life. And uneducated people do the same.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="9df1f2e8f4eeb3fff8fce8f0f2f3e9ddfaf0fcf4f1b3fef2f0" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I am looking for unknowns, who are passionate and missionbased.
+          If you’re not working hard, you’re probably wasting your time.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Art is the only superior counter-agent to all will to the denial of life; it is par excellence the anti-Christian, the anti-Buddhistic, the anti-Nihilistic force.
+          The framing effect is a cognitive bias where people decide on options based on whether the options are presented with positive or negative connotations; e.g. as a loss or as a gain. People tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. Gain and loss are defined in the scenario as descriptions of outcomes (e.g., lives lost or saved, disease patients treated and not treated, etc.).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Framing Effect (Psychology) - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
 </div>
 </div>
 </div>
@@ -85,6 +85,21 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
                     <li><a href="https://brain.louis030195.com/Philosophy/Innovation.md">Philosophy/Innovation.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -131,6 +146,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/Templates/Core/Stress%20Worksheet%20template.md">Templates/Core/Stress Worksheet template.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
                     <li><a href="https://brain.louis030195.com/Stress%20Worksheet%20template.md">Stress Worksheet template.md</a></li>
                     <li><a href="https://brain.louis030195.com/Templates/Core/Sexual%20Cues%20Assessment%20template.md">Templates/Core/Sexual Cues Assessment template.md</a></li>
                     <li><a href="https://brain.louis030195.com/Templates/Core/Sexy%20Contexts%20template.md">Templates/Core/Sexy Contexts template.md</a></li>
@@ -154,35 +183,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Templates/Core/Stress%20Worksheet%20template.md">Templates/Core/Stress Worksheet template.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290423</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
             </div>
         </div>
     </div>
