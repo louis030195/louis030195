@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Not every kind of hard is good. There is good pain and bad pain. You want the kind of pain you get from going running, not the kind you get from stepping on a nail.
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
+          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For the will stands between its à priori principle, which is formal, and its à posteriori spring, which is material
+          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Critique of Practical Reason</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
@@ -84,13 +84,15 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Louis/300423%20Sexual%20Temperament%20Questionnaire.md">Louis/300423 Sexual Temperament Questionnaire.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213443.md">Philosophy/Humans/Social games/Prompts/300423_213443.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213551.md">Philosophy/Humans/Social games/Prompts/300423_213551.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
             </div>
         </div>
     </div>
@@ -127,15 +129,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Louis/300423%20Sexual%20Temperament%20Questionnaire.md">Louis/300423 Sexual Temperament Questionnaire.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213443.md">Philosophy/Humans/Social games/Prompts/300423_213443.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/300423_213551.md">Philosophy/Humans/Social games/Prompts/300423_213551.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Talking%20to%20users.md">Business/Talking to users.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Humans/Social%20games/Prompts/290423_190438.md">Philosophy/Humans/Social games/Prompts/290423_190438.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300423</p>
             </div>
         </div>
     </div>
@@ -166,25 +166,25 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (today)
-- [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (today)
-- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (6 days ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (1 day ago)
+- [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (1 day ago)
+- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (1 week ago)
 - [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (2 weeks ago)
 - [different-ai/embedbase-js](https://github.com/different-ai/embedbase-js) - moved https://github.com/different-ai/embedbase/tree/main/sdk/embedbase-js (2 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (2 days ago)
-- [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (2 days ago)
-- [](https://gist.github.com/cbd02483cab681f66140066bb8041694) (5 days ago)
-- [](https://gist.github.com/1729b5be27c62790b2b9f0a689e730b2) (5 days ago)
-- [](https://gist.github.com/d2fd14e77250a81d20263454c8831bdd) (5 days ago)
+- [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (3 days ago)
+- [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (3 days ago)
+- [](https://gist.github.com/cbd02483cab681f66140066bb8041694) (6 days ago)
+- [](https://gist.github.com/1729b5be27c62790b2b9f0a689e730b2) (6 days ago)
+- [](https://gist.github.com/d2fd14e77250a81d20263454c8831bdd) (6 days ago)
 
 #### ⭐ Recent Stars
 
-- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (1 day ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
-- [burggraf/supabase-mailer](https://github.com/burggraf/supabase-mailer) - Send and track email from Supabase / PostgreSQL using a Transactional Email Provider (3 days ago)
+- [postgresml/postgresml](https://github.com/postgresml/postgresml) - PostgresML is an end-to-end machine learning system. It enables you to train models and make online predictions using only SQL, without your data ever leaving your favorite database. (2 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (3 days ago)
+- [burggraf/supabase-mailer](https://github.com/burggraf/supabase-mailer) - Send and track email from Supabase / PostgreSQL using a Transactional Email Provider (4 days ago)
 - [salesforce/LAVIS](https://github.com/salesforce/LAVIS) - LAVIS - A One-stop Library for Language-Vision Intelligence (1 week ago)
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models (1 week ago)
 
