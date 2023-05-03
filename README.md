@@ -41,34 +41,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
+          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="a3cfccd6cad08dc1c6c2d6cecccdd7e3c4cec2cacf8dc0ccce" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Common knowledge is the name for the epistemic state we’re collectively in, when we know we can all start choosing action B - and trust everyone else to do the same.
+          Great founders thought five years or more about the problem beforehand
+
+Summary:
+The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years or longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more andmore specific, that's really good. "By the way, OK, by the way, you're also trying to pull one on yourself," he adds.
+
+Transcript:
+Speaker 1
+You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus. This is not like a short term thing. It's almost always somebody. The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years, up and 10 years, up and longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more and more specific, that's really good. If the answers get more and more in general and more and more fuzz, then it's like, OK. And by the way, OK, you're trying to pull one on us. OK, by the way, you're also trying to pull one on yourself. Yeah, right.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Costly Coordination Mechanism of Common Knowledge - LessWrong</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Ben Pace</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
@@ -84,12 +91,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Raindrop/Unsorted/Quantization%20-%20Qdrant.md">Raindrop/Unsorted/Quantization - Qdrant.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/qdrant.tech%20-%20Quantization%20-%20Qdrant.md">Readwise/Articles/qdrant.tech - Quantization - Qdrant.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020523</p>
             </div>
         </div>
     </div>
@@ -98,13 +106,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/qdrant.tech%20-%20Quantization%20-%20Qdrant.md">Readwise/Articles/qdrant.tech - Quantization - Qdrant.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Raindrop/Unsorted/Quantization%20-%20Qdrant.md">Raindrop/Unsorted/Quantization - Qdrant.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010523</p>
             </div>
         </div>
     </div>
