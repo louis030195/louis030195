@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Stuart Chase and others have come near to claiming that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. Since you don’t know what Fascism is, how can you struggle against Fascism?
+          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          if you came from somewhere that no-one had ever even heard of death, and I suggested to you that it would be an amazing wonderful great idea for people to get wrinkled and old and eventually cease to exist, why, you’d have me hauled right off to a lunatic asylum! So why would anyone possibly think any thought so silly as that death is a good thing? Because you’re afraid of it, because you don’t really want to die, and that thought hurts so much inside you that you have to rationalize it away, do something to numb the pain, so you won’t have to think about it—”
+          That isn’t how I mean it at all. When I say ‘want,’ I am not speaking of preference or passing desire. I am speaking of a life-and-death sort of want.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
+          We should substitute morality by the will to our own ends, and consequently to the means to them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="117d7e6478623f737470647c7e7f6551767c70787d3f727e7c" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -84,13 +84,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Readwise/Articles/qdrant.tech%20-%20Quantization%20-%20Qdrant.md">Readwise/Articles/qdrant.tech - Quantization - Qdrant.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Funnel%20in%20open%20source.md">Funnel in open source.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Funnel.md">Funnel.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030523</p>
             </div>
         </div>
     </div>
@@ -99,13 +99,13 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Funnel%20in%20open%20source.md">Funnel in open source.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Funnel.md">Funnel.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/Antonio%20Damasio%20-%20Descartes%27%20Error%20Emotion%20-%20%20Reason%20and%20the%20Human%20Brain.md">Readwise/Articles/Antonio Damasio - Descartes' Error Emotion -  Reason and the Human Brain.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Readwise/Articles/qdrant.tech%20-%20Quantization%20-%20Qdrant.md">Readwise/Articles/qdrant.tech - Quantization - Qdrant.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020523</p>
             </div>
         </div>
     </div>
