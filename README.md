@@ -41,34 +41,44 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
+          We distinguish ourselves, the agents, from the action, and everywhere we make use of this scheme—we try to discover an agent behind every phenomenon.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
+          The framing effect is a cognitive bias where people decide on options based on whether the options are presented with positive or negative connotations; e.g. as a loss or as a gain. People tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. Gain and loss are defined in the scenario as descriptions of outcomes (e.g., lives lost or saved, disease patients treated and not treated, etc.).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Framing Effect (Psychology) - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Simply stated, the value of a business today is the sum of all the money it will make in the future
+          Fast, lift, sprint, stretch, and meditate.
+
+Build, sell, write, create, invest, and own.
+
+Read, reflect, love, seek truth, and ignore society.
+
+Make these habits. Say no to everything else.
+
+Avoid debt, jail, addiction, disgrace, shortcuts, and media.
+
+Relax. Victory is assured.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
 </div>
 </div>
 </div>
@@ -84,8 +94,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Funnel%20in%20open%20source.md">Computing/Funnel in open source.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Funnel.md">Philosophy/Mind/Mental Model/Funnel.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Funnel%20in%20open%20source.md">Funnel in open source.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Funnel.md">Funnel.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -113,8 +123,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Funnel%20in%20open%20source.md">Funnel in open source.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Funnel.md">Funnel.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Funnel%20in%20open%20source.md">Computing/Funnel in open source.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Funnel.md">Philosophy/Mind/Mental Model/Funnel.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -129,24 +139,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
+-   **Karl Popper**  - [The Open Society and Its Enemies](https://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies) - Thu May 04 12:50:59 -0700 2023
 -   **Emily Nagoski**  - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/book/show/22609341-come-as-you-are) - Fri Apr 21 11:13:47 -0700 2023
--   **Thad A. Polk**  - [The Learning Brain](https://www.goodreads.com/book/show/40775319-the-learning-brain) - Fri Apr 21 11:13:28 -0700 2023
 -   **António R. Damásio**  - [Descartes&#39; Error: Emotion, Reason and the Human Brain](https://www.goodreads.com/book/show/103867.Descartes_Error) - Sun Mar 26 23:01:46 -0700 2023
--   **Donald A. Norman**  - [The Design of Everyday Things](https://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) - Sun Mar 26 22:59:30 -0700 2023
--   **Eric Evans**  - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.goodreads.com/book/show/179133.Domain_Driven_Design) - Sun Mar 26 22:59:20 -0700 2023
--   **Milan Kundera**  - [The Unbearable Lightness of Being](https://www.goodreads.com/book/show/9717.The_Unbearable_Lightness_of_Being) - Sun Feb 26 21:39:04 -0800 2023
--   **Robert M. Sapolsky**  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) - Tue Feb 21 23:49:20 -0800 2023
 -   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
 -   **Eric R. Kandel**  - [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science) - Wed Jan 18 11:41:43 -0800 2023
 -   **Mark F. Bear**  - [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience) - Wed Jan 18 11:37:48 -0800 2023
 
 ### ✍ My latest Goodreads reviews
 
+-   **Robert M. Sapolsky**  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) - 0/5 - Thu May 04 12:52:21 -0700 2023
+-   **Thad A. Polk**  - [The Learning Brain](https://www.goodreads.com/book/show/40775319-the-learning-brain) - 2/5 - Thu May 04 12:51:20 -0700 2023
 -   **Laurence Gonzales**  - [Deep Survival: Who Lives, Who Dies, and Why](https://www.goodreads.com/book/show/30231750-deep-survival) - 3/5 - Fri Apr 21 11:14:44 -0700 2023
 -   **Susan Blackmore**  - [The Meme Machine](https://www.goodreads.com/book/show/254502.The_Meme_Machine) - 4/5 - Sun Apr 02 10:14:00 -0700 2023
 -   **Jessica Livingston**  - [Founders at Work: Stories of Startups&#39; Early Days](https://www.goodreads.com/book/show/98233.Founders_at_Work) - 0/5 - Sun Mar 26 22:59:05 -0700 2023
--   **Karl Sigmund**  - [Exact Thinking in Demented Times: The Vienna Circle and the Epic Quest for the Foundations of Science](https://www.goodreads.com/book/show/34848865-exact-thinking-in-demented-times) - 5/5 - Sun Mar 26 22:58:40 -0700 2023
--   **Dana Morningstar**  - [Out of the Fog: Moving From Confusion to Clarity After Narcissistic Abuse](https://www.goodreads.com/book/show/36683560-out-of-the-fog) - 2/5 - Sun Mar 26 22:59:55 -0700 2023
 
 #### 👷 Check out what I'm currently working on
 
