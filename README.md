@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Whenever an entrepreneur asks me to invest in his company, I ask him how much he intends to pay himself. A company does better the less it pays the CEO-that's one of the single clearest patterns I've noticed
+          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We delighted in forcing bigger, slower competitors to follow us over difficult ground. Like guerillas, startups prefer the difficult terrain of the mountains, where the troops of the central government can’t follow. I can remember times when we were just exhausted after wrestling all day with some horrible technical problem. And I’d be delighted, because something that was hard for us would be impossible for our competitors.
+          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
+          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
 </div>
 </div>
 </div>
@@ -84,12 +84,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Tricks%20using%20LLMs%20for%20self%20education.md">Personal growth/Tricks using LLMs for self education.md</a></li>
+                    <li><a href="https://brain.louis030195.com/API%20testing%20cheatsheet.md">API testing cheatsheet.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 050523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 060523</p>
             </div>
         </div>
     </div>
@@ -98,8 +98,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/Life%20pruning.md">Life pruning.md</a></li>
                     <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Contribution.md">Philosophy/Mind/Mental Model/Contribution.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Status%20game.md">Philosophy/Rationality/Models/Status game.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -143,13 +143,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Life%20pruning.md">Life pruning.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Contribution.md">Philosophy/Mind/Mental Model/Contribution.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Tricks%20using%20LLMs%20for%20self%20education.md">Personal growth/Tricks using LLMs for self education.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 060523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 050523</p>
             </div>
         </div>
     </div>
@@ -158,7 +157,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/API%20testing%20cheatsheet.md">API testing cheatsheet.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Contribution.md">Philosophy/Mind/Mental Model/Contribution.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Philosophy/Rationality/Models/Status%20game.md">Philosophy/Rationality/Models/Status game.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
