@@ -41,34 +41,48 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          One of the biggest determinants of candidate conversion is how quickly you interview them and how quickly you can make an offer.
+          Founder Market Fit
+
+Summary:
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
+
+Transcript:
+Speaker 1
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          “The difference between successful people and really successful people is that really successful people say no to almost everything
+          Consistency Over Intensity
+
+Summary:
+CNN's John Sutter talks about the concept of habit stacking. He says meditation can be tied to a well-established, daily routine. One woman who wanted to meditate couldn't find time for 20 minutes every day. She was frustrated with herself and decided to give it up completely.
+
+Transcript:
+Speaker 1
+There is one somebody i was working with who wanted to implement meditation, and for some reason he, or it was she, she couldn't find 20 minutes to do itike, she i just can't do 20, 20 minutes. And she's like, let me try ten minutes. And she couldn't do ten minutes. Now this woman was very startn to get frustrated with herself, because she was breaking promises to herself. And she was in give it up completely. Moka, i guess i can't meditate. And then we started talking about this concept of habit stacking, where maybe you could tie meditation to a habit that's already well established. And as she combed over her routine in the morning, she said, you knowha, i'm wan to do, i'm going to meditate while i brush my teeth.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d"><a class="__cf_email__" data-cfemail="503c3f2539237e323531253d3f3e2410373d31393c7e333f3d" href="/cdn-cgi/l/email-protection">[email protected]</a></p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
+          if you came from somewhere that no-one had ever even heard of death, and I suggested to you that it would be an amazing wonderful great idea for people to get wrinkled and old and eventually cease to exist, why, you’d have me hauled right off to a lunatic asylum! So why would anyone possibly think any thought so silly as that death is a good thing? Because you’re afraid of it, because you don’t really want to die, and that thought hurts so much inside you that you have to rationalize it away, do something to numb the pain, so you won’t have to think about it—”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -81,6 +95,21 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Mental%20model%20cheatsheet.md">Mental model cheatsheet.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Personal%20growth/Life%20pruning.md">Personal growth/Life pruning.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 060523</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -139,21 +168,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Mental%20model%20cheatsheet.md">Mental model cheatsheet.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Personal%20growth/Life%20pruning.md">Personal growth/Life pruning.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 060523</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
@@ -176,8 +190,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (1 day ago)
-- [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (1 day ago)
+- [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (today)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (today)
 - [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (3 days ago)
 - [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (1 week ago)
 - [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (3 weeks ago)
@@ -200,10 +214,10 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 🎬 Youtube Videos
 
+- [Create a mental model ChatGPT in a few minutes with no code](https://www.youtube.com/watch?v=hBJAOIsZLlE) - today
 - [ChatGPT-powered documentation 3](https://www.youtube.com/watch?v=0UZEly9C7NY) - 2 months ago
 - [ChatGPT-powered documentation 2](https://www.youtube.com/watch?v=yv3jtwePXeM) - 2 months ago
 - [ChatGPT-powered documentation 1](https://www.youtube.com/watch?v=-9jL9r9QQm0) - 2 months ago
 - [ChatGPT &#43; Siri &#43; Embedbase](https://www.youtube.com/watch?v=qH0Zugo0UCo) - 2 months ago
-- [Obsidian Ava - Leveraging &amp; Connecting your ideas](https://www.youtube.com/watch?v=KnaN7kU-vgw) - 3 months ago
 
 
