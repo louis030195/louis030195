@@ -41,8 +41,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          While top-line bookings growth is super important, investors want to understand how profitable that revenue stream is. Gross profit provides that measure.
-What’s included in gross profit may vary by company, but in general all costs associated with the manufacturing, delivery, and support of a product/service should be included.
+          A good proxy to measure the growth — and ultimately the health — of a SaaS company is to look at billings, which is calculated by taking the revenue in one quarter and adding the change in deferred revenue from the prior quarter to the current quarter. If a SaaS company is growing its bookings (whether through new business or upsells/renewals to existing customers), billings will increase.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -53,37 +52,23 @@ What’s included in gross profit may vary by company, but in general all costs 
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Consistency Over Intensity
-
-Summary:
-CNN's John Sutter talks about the concept of habit stacking. He says meditation can be tied to a well-established, daily routine. One woman who wanted to meditate couldn't find time for 20 minutes every day. She was frustrated with herself and decided to give it up completely.
-
-Transcript:
-Speaker 1
-There is one somebody i was working with who wanted to implement meditation, and for some reason he, or it was she, she couldn't find 20 minutes to do itike, she i just can't do 20, 20 minutes. And she's like, let me try ten minutes. And she couldn't do ten minutes. Now this woman was very startn to get frustrated with herself, because she was breaking promises to herself. And she was in give it up completely. Moka, i guess i can't meditate. And then we started talking about this concept of habit stacking, where maybe you could tie meditation to a habit that's already well established. And as she combed over her routine in the morning, she said, you knowha, i'm wan to do, i'm going to meditate while i brush my teeth.
+          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The IDMA
-
-Summary:
-"You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do," he says. "What I find is it's almost always five years plus."
-
-Transcript:
-Speaker 1
-So the concept of the IDMA is to really be the master of a domain. You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus.
+          “I thought of my absolute rejection of death as the natural order.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -99,7 +84,7 @@ So the concept of the IDMA is to really be the master of a domain. You have to r
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/140523%20evening.md">140523 evening.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Untitled.md">Untitled.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -113,7 +98,7 @@ So the concept of the IDMA is to really be the master of a domain. You have to r
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Untitled.md">Untitled.md</a></li>
+                    <li><a href="https://brain.louis030195.com/140523%20evening.md">140523 evening.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
