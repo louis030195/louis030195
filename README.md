@@ -41,44 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          (There is nothing over which a free man ponders less than death; his wisdom is, to meditate not on death but on life.)
+          In companies, you have a dictator at the top, a CEO, or the founders. Then all of a sudden it turns back into a butterfly network, and now you report to a board, a bunch of people. And inherently, the founder-dictators tend to be very risk-prone. They have a lot of vision, they have a lot of drive, they know where they want to take the thing. They like to make risky moves and bets and pivots and turns. But boards don’t like that. Boards don’t like to be dragged along. It’s a group of people. It’s groupthink, it’s committee-think. No committee ever built anything great. So related to that, no board ever built anything great. Boards can be helpful; they can be sounding boards. But you do not want the board to be running the company. And the larger the board, the more you’re going to find yourself spending time just keeping them up-to-date and in sync.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">What Is Life?</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Erwin Schrodinger</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          You’ll never stumble upon the unexpected if you stick only to the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Continuous Discovery Habits_ Discover Products That Create Customer Value and Business Value</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Teresa Torres</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Fast, lift, sprint, stretch, and meditate.
-
-Build, sell, write, create, invest, and own.
-
-Read, reflect, love, seek truth, and ignore society.
-
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
+          There are many kinds of eyes. Even the Sphinx has eyes—therefore there must be many kinds of "truths," and consequently there can be no truth.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -96,6 +86,20 @@ Relax. Victory is assured.
             <ul>
                     <li><a href="https://brain.louis030195.com/Philosophy/Poetry/poem%20130523.md">Philosophy/Poetry/poem 130523.md</a></li>
                     <li><a href="https://brain.louis030195.com/Raindrop/Public/Browser%20Extension%20Getting%20Started%20%20Bitwarden.md">Raindrop/Public/Browser Extension Getting Started  Bitwarden.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150523</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Untitled.md">Untitled.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
