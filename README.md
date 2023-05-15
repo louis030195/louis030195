@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          if you came from somewhere that no-one had ever even heard of death, and I suggested to you that it would be an amazing wonderful great idea for people to get wrinkled and old and eventually cease to exist, why, you’d have me hauled right off to a lunatic asylum! So why would anyone possibly think any thought so silly as that death is a good thing? Because you’re afraid of it, because you don’t really want to die, and that thought hurts so much inside you that you have to rationalize it away, do something to numb the pain, so you won’t have to think about it—”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
+          “I thought of my absolute rejection of death as the natural order.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
+          company culture is one in which people have something in common that distinguishes them quite sharply from the rest of the world. If everybody likes ice cream, that probably doesn’t matter … you also need to strike the right balance between athletes (competitive people) and nerds (creators) no matter what.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -116,15 +116,15 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (today)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (1 day ago)
 - [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (1 week ago)
 - [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (1 week ago)
 - [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (2 weeks ago)
-- [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (4 weeks ago)
+- [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (1 day ago)
+- [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (2 days ago)
 - [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (2 weeks ago)
 - [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (2 weeks ago)
 - [](https://gist.github.com/cbd02483cab681f66140066bb8041694) (2 weeks ago)
@@ -132,11 +132,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### ⭐ Recent Stars
 
-- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (today)
-- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images (3 days ago)
-- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (4 days ago)
-- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All (4 days ago)
-- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference (5 days ago)
+- [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper (1 day ago)
+- [openai/shap-e](https://github.com/openai/shap-e) - Generate 3D objects conditioned on text or images (4 days ago)
+- [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model. (5 days ago)
+- [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All (5 days ago)
+- [huggingface/text-generation-inference](https://github.com/huggingface/text-generation-inference) - Large Language Model Text Generation Inference (6 days ago)
 
 ### 🎬 Youtube Videos
 
