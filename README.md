@@ -41,41 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Benjamin abraham horrowitz
-
-Summary:
-"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
-
-Transcript:
-Speaker 1
-We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
+          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In multicellular organisms, stem cells are undifferentiated or partially differentiated cells that can differentiate into various types of cells and proliferate indefinitely to produce more of the same stem cell. They are the earliest type of cell in a cell lineage. They are found in both embryonic and adult organisms, but they have slightly different properties in each. They are usually distinguished from progenitor cells, which cannot divide indefinitely, and precursor or blast cells, which are usually committed to differentiating into one cell type.
+          One of the biggest determinants of candidate conversion is how quickly you interview them and how quickly you can make an offer.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Stem Cell - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
+          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -88,6 +81,20 @@ We are talking about ben who was born in 19 66 in london, england. I did not kno
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/Raindrop/Public/MEGABYTE%20Predicting%20Million-byte%20Sequences%20with%20Multiscale%20Transformers.md">Raindrop/Public/MEGABYTE Predicting Million-byte Sequences with Multiscale Transformers.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150523</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -121,20 +128,6 @@ We are talking about ben who was born in 19 66 in london, england. I did not kno
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
                     <li><a href="https://brain.louis030195.com/140523%20evening.md">140523 evening.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150523</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/Raindrop/Public/MEGABYTE%20Predicting%20Million-byte%20Sequences%20with%20Multiscale%20Transformers.md">Raindrop/Public/MEGABYTE Predicting Million-byte Sequences with Multiscale Transformers.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
