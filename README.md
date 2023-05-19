@@ -41,7 +41,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
+          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -52,7 +52,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People form close friendships by knowing private things about each other, and the reason most people don’t make close friends is because they’re too embarrassed to share anything really important about themselves.
+          “I have a dream,” said Harry’s voice, “that one day sentient beings will be judged by the patterns of their minds, and not their colour or their shape or the stuff they’re made of, or who their parents were.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -63,12 +63,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          This  adaptive  rationale  leads  to  differential  fitness  and relative survival. All in all, adaptivity involves finding a balance between coherence and diversity, robustness and dynamics, and order and chaos. This balance is called ‘fitness’ or ‘resilience’.
+          Our task today is to find singular ways to create the new things that will make the future not just different, but better to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(PDF) Complexity and Planning: Systems, Assemblages and Simulations</p>
-<p style="margin-bottom: 0; color: #9f8e7d">researchgate.net</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
 </div>
 </div>
 </div>
@@ -98,6 +98,20 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20166%20Kevin%20Kelly%20%E2%80%94%20%20Excellent%20Advice%20for%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 166 Kevin Kelly —  Excellent Advice for Living.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 180523</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
                     <li><a href="https://brain.louis030195.com/Computing/Intelligence/Just%20as%20the%20Deer%20is%20in%20a%20Red%20Queen%20competition%20with%20the%20Wolf%20-%20Humans%20are%20in%20a%20Red%20Queen%20competition%20with%20AI.md">Computing/Intelligence/Just as the Deer is in a Red Queen competition with the Wolf - Humans are in a Red Queen competition with AI.md</a></li>
             </ul>
         </span>
@@ -112,12 +126,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20166%20Kevin%20Kelly%20%E2%80%94%20%20Excellent%20Advice%20for%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 166 Kevin Kelly —  Excellent Advice for Living.md</a></li>
+                    <li><a href="https://brain.louis030195.com/190523.md">190523.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 180523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190523</p>
             </div>
         </div>
     </div>
