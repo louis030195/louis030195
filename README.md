@@ -41,7 +41,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          That isn’t how I mean it at all. When I say ‘want,’ I am not speaking of preference or passing desire. I am speaking of a life-and-death sort of want.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -52,23 +63,49 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
+          Books
+
+Summary:
+The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
+
+Transcript:
+Speaker 1
+Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
+
+Speaker 2
+Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
+
+Speaker 1
+You're in it.
+
+Speaker 3
+Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
+
+Speaker 1
+Of course it requires a price. All religious requires a sacrifice.
+
+Speaker 2
+Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
+
+Speaker 1
+No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
+
+Speaker 2
+Yeah, she only has listened to Mark's podcast.
+
+Speaker 1
+But appropriately so. There we go. OK. Booktube.
+
+Speaker 2
+Booktube. The Machiavellian's by a burner. Yeah.
+
+Speaker 1
+So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          At times we toyed with the idea of a new service called Viaweb Gold. It would have exactly the same features as our regular service, but would cost ten times as much would be sold in person by a man in a suit. We never got around to offering this variant, but I’m sure we could have signed up a few merchants for it.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -99,34 +136,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Louis/Psychologist/260523.md">Louis/Psychologist/260523.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210523</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-                    <li><a href="https://brain.louis030195.com/260523.md">260523.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210523</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
                     <li><a href="https://brain.louis030195.com/Louis/Psychologist/120523.md">Louis/Psychologist/120523.md</a></li>
                     <li><a href="https://brain.louis030195.com/Louis/Psychologist/190523.md">Louis/Psychologist/190523.md</a></li>
                     <li><a href="https://brain.louis030195.com/Louis/Psychologist/260523.md">Louis/Psychologist/260523.md</a></li>
@@ -144,7 +153,35 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+                    <li><a href="https://brain.louis030195.com/Louis/Psychologist/260523.md">Louis/Psychologist/260523.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210523</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
                     <li><a href="https://brain.louis030195.com/Readwise/Books/Eric%20Evans%20-%20Domain-Driven%20Design%20Tackling%20Complexity%20in%20the%20Heart%20of%20Software.md">Readwise/Books/Eric Evans - Domain-Driven Design Tackling Complexity in the Heart of Software.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210523</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+                    <li><a href="https://brain.louis030195.com/260523.md">260523.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
