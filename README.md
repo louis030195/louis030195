@@ -41,29 +41,29 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Stuart Chase and others have come near to claiming that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. Since you don’t know what Fascism is, how can you struggle against Fascism?
+          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          the genome is a book that wrote itself
+          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley - Genome the Autobiography of a Species in 23 Chapters-HarperCollins</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
+          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -84,20 +84,6 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Raindrop/Public/Tree%20of%20Thoughts%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.md">Raindrop/Public/Tree of Thoughts Deliberate Problem Solving with Large Language Models.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230523</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
                     <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Vicarious%20learning%20-%20Software%20Engineering.md">Computing/Software Engineering/Vicarious learning - Software Engineering.md</a></li>
             </ul>
         </span>
@@ -112,12 +98,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Ideas/Git%20for%20AI.md">Business/Ideas/Git for AI.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Raindrop/Public/Tree%20of%20Thoughts%20Deliberate%20Problem%20Solving%20with%20Large%20Language%20Models.md">Raindrop/Public/Tree of Thoughts Deliberate Problem Solving with Large Language Models.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230523</p>
             </div>
         </div>
     </div>
