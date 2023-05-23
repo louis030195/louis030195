@@ -41,34 +41,39 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Your beliefs become your thoughts,
+Your thoughts become your words,
+Your words become your actions,
+Your actions become your habits,
+Your habits become your values,
+Your values become your destiny.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Gandhi: An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mahatma Gandhi</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
           In physics and chemistry, the law of conservation of mass or principle of mass conservation states that for any system closed to all transfers of matter and energy, the mass of the system must remain constant over time, as the system's mass cannot change, so quantity can neither be added nor be removed. Therefore, the quantity of mass is conserved over time.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Conservation of Mass - Wikipedia</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Mikhail Lomonosov</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For those interested in the fundamental structure of the physical world, the experimental verification of violations of Bell’s inequality constitutes the most significant event of the past half-century
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Tim Maudlin</p>
 </div>
 </div>
 </div>
@@ -84,7 +89,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Ideas/Git%20for%20AI.md">Business/Ideas/Git for AI.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Vicarious%20learning%20-%20Software%20Engineering.md">Computing/Software Engineering/Vicarious learning - Software Engineering.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -98,7 +103,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Vicarious%20learning%20-%20Software%20Engineering.md">Computing/Software Engineering/Vicarious learning - Software Engineering.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Ideas/Git%20for%20AI.md">Business/Ideas/Git for AI.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -130,10 +135,10 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (today)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - Hook LLMs to your data (1 day ago)
 - [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (2 weeks ago)
 - [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (2 weeks ago)
-- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (3 weeks ago)
+- [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (4 weeks ago)
 - [different-ai/embedbase-recommendation-engine-example](https://github.com/different-ai/embedbase-recommendation-engine-example) -  (1 month ago)
 
 #### 📓 Gists I wrote
@@ -146,11 +151,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### ⭐ Recent Stars
 
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄 (today)
-- [pykeen/pykeen](https://github.com/pykeen/pykeen) - 🤖 A Python library for learning and evaluating knowledge graph embeddings  (1 day ago)
-- [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native. (5 days ago)
-- [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) - An easy-to-use federated learning platform (5 days ago)
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! (5 days ago)
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄 (1 day ago)
+- [pykeen/pykeen](https://github.com/pykeen/pykeen) - 🤖 A Python library for learning and evaluating knowledge graph embeddings  (2 days ago)
+- [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native. (6 days ago)
+- [alibaba/FederatedScope](https://github.com/alibaba/FederatedScope) - An easy-to-use federated learning platform (6 days ago)
+- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! (6 days ago)
 
 ### 🎬 Youtube Videos
 
