@@ -41,34 +41,39 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Why has that man fallen in love with that woman? Because she's pretty. Why does pretty matter? Because human beings are a mainly monogamous species and so males are choosy about their mates (as male chimpanzees are not); prettiness is an indication of youth and health, which are indications of fertility: Why does that man care about fertility in his mate? Because if he did not, his genes would be eclipsed by those of men who did. Why does he care about that? He does not, but his genes act as if they do. Those who choose infertile mates leave no descendants. Therefore, everybody is descended from men who preferred fertile women, and every person inherits from those ancestors the same preference.
+          In Buddha’s teaching egoism is a duty.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          His assertion that entropy increases almost always, rather than always, was indeed very hard to swallow for those who did not believe in molecular reality.
+          Your body is a small-scale mine of radioactive particles. You receive an annual 40-millirem dose from the natural radioactivity originating inside of you. That’s the same amount of radiation you’d be exposed to from having four chest X-rays. Your radiation dose level can go up by one or two millirem for every eight hours you spend sleeping next to your similarly radioactive loved one.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Subtle Is the Lord</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Abraham Pais</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Particle Physics of You</p>
+<p style="margin-bottom: 0; color: #9f8e7d">symmetrymagazine.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+          Your beliefs become your thoughts,
+Your thoughts become your words,
+Your words become your actions,
+Your actions become your habits,
+Your habits become your values,
+Your values become your destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Gandhi: An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mahatma Gandhi</p>
 </div>
 </div>
 </div>
