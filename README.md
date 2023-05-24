@@ -41,34 +41,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the accuracy with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions.
+          Common knowledge is the name for the epistemic state we’re collectively in, when we know we can all start choosing action B - and trust everyone else to do the same.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Uncertainty Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Costly Coordination Mechanism of Common Knowledge - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Ben Pace</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For the will stands between its à priori principle, which is formal, and its à posteriori spring, which is material
+          What is Success for You?
+
+Summary:
+Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
+
+Transcript:
+Speaker 1
+Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Critique of Practical Reason</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Immanual Kant</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
@@ -84,7 +91,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Foundation%20models%20cheatsheet.md">Computing/Intelligence/Foundation models cheatsheet.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/How%20talking%20to%20your%20users%20is%20related%20to%20evolution.md">Business/Entrepreneurship/How talking to your users is related to evolution.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -112,7 +119,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Business/Entrepreneurship/How%20talking%20to%20your%20users%20is%20related%20to%20evolution.md">Business/Entrepreneurship/How talking to your users is related to evolution.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Intelligence/Foundation%20models%20cheatsheet.md">Computing/Intelligence/Foundation models cheatsheet.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
