@@ -41,41 +41,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Personality Traits for entrepreneurs 
+          A company that could pay all its employees so straightforwardly would be enormously successful. Many employees would work harder if they could get paid for it. More importantly, such a company would attract people who wanted to work especially hard. It would crush its competitors.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Cryptocurrency Blockchain Web Three Is Following This Exact Trajectories
 
 Summary:
-Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
+"I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything," he says. "This is literally what happens with every new technology."
 
 Transcript:
 Speaker 1
-It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
+And so Morrison basically derives, he goes through this example, and he derives basically this three part process that he says applies to any new technology. Basically, as it is as it is greeted and fought by the status quo by the powers it be. And he says basically, it's a three step process. The step one is just completely ignore it. Like, so just pretend it doesn't exist, refuse to acknowledge it, don't talk about it, don't even engage in conversations like we're just not going to do this. At some point though, at some point, these things become too obvious and they have to engage. She said step two is rational counter argument, right? So, and rational counter argument is this can't possibly work because, you know, it's going to be too expensive. It's not going to be fast enough. It's not going to scale. People don't know how to use it. All the different kind of rational arguments that you can come up with to oppose something. And then ultimately, when those don't work anymore, because people are still watching this and being like, okay, this still seems like a good idea. Then he says stage three is when the name calling begins. And so stage three is basically just like a full out power status political fight where all of a sudden basically it's like, okay, these are these people who are bringing this technology, they're bad people, they have bad morals, they have bad intent, they're going to ruin everything. And if you think about it, it's so funny because it's like basically the internet followed this exact trajectory. Like, you know, crypto cryptocurrency blockchain web three is following this exact same trajectory social networking follows this exact same trajectory. Like, I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything. Right. And it is this is literally what happens with every new technology and I become convinced that basically how this unfolds.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
 </div>
 </div>
 </div>
@@ -91,13 +91,12 @@ It's like they're nervous system is not wired that way. And so you kind of need 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Abstractions.md">Abstractions.md</a></li>
-                    <li><a href="https://brain.louis030195.com/Layers%20of%20knowledge%20in%20computer%20science.md">Layers of knowledge in computer science.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Vicarious%20learning%20-%20Software%20Engineering.md">Computing/Software Engineering/Vicarious learning - Software Engineering.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 260523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 250523</p>
             </div>
         </div>
     </div>
@@ -106,12 +105,13 @@ It's like they're nervous system is not wired that way. And so you kind of need 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-                    <li><a href="https://brain.louis030195.com/Computing/Software%20Engineering/Vicarious%20learning%20-%20Software%20Engineering.md">Computing/Software Engineering/Vicarious learning - Software Engineering.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Abstractions.md">Abstractions.md</a></li>
+                    <li><a href="https://brain.louis030195.com/Layers%20of%20knowledge%20in%20computer%20science.md">Layers of knowledge in computer science.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 250523</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 260523</p>
             </div>
         </div>
     </div>
