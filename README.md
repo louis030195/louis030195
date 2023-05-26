@@ -41,34 +41,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what’s happening when you do this. A job means doing something people want, averaged together with everyone else in that company.
+          as soon as a superior power prevails over an inferior power, and the latter proceeds to work as a function of the former, an order of rank is established,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The stationary-action principle – also known as the principle of least action – is a variational principle that, when applied to the action of a mechanical system, yields the equations of motion for that system. The principle states that the trajectories (i.e. the solutions of the equations of motion) are stationary points of the system's action functional. The term "least action" is a historical misnomer since the principle has no minimality requirement: the value of the action functional need not be minimal (even locally) on the trajectories.
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Stationary-Action Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">configuration space</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -130,26 +130,26 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase-internet-search](https://github.com/different-ai/embedbase-internet-search) - An internet search extension for Embedbase (today)
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (today)
+- [different-ai/embedbase-internet-search](https://github.com/different-ai/embedbase-internet-search) - An internet search extension for Embedbase (1 day ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
 - [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (2 weeks ago)
 - [different-ai/embedbase-hosted](https://github.com/different-ai/embedbase-hosted) - Embedbase Cloud instance (3 weeks ago)
 - [different-ai/embedbase-render](https://github.com/different-ai/embedbase-render) - Self host Embedbase on Render.com in 5 minutes (1 month ago)
 
 #### 📓 Gists I wrote
 
-- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (1 day ago)
+- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (2 days ago)
 - [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (1 week ago)
 - [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (3 weeks ago)
 - [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (3 weeks ago)
-- [](https://gist.github.com/cbd02483cab681f66140066bb8041694) (4 weeks ago)
+- [](https://gist.github.com/cbd02483cab681f66140066bb8041694) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (1 day ago)
-- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Tree of Thoughts: Deliberate Problem Solving with Large Language Models (2 days ago)
-- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄 (3 days ago)
-- [pykeen/pykeen](https://github.com/pykeen/pykeen) - 🤖 A Python library for learning and evaluating knowledge graph embeddings  (4 days ago)
+- [kyegomez/tree-of-thoughts](https://github.com/kyegomez/tree-of-thoughts) - Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%  (2 days ago)
+- [ysymyth/tree-of-thought-llm](https://github.com/ysymyth/tree-of-thought-llm) - Tree of Thoughts: Deliberate Problem Solving with Large Language Models (3 days ago)
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄 (4 days ago)
+- [pykeen/pykeen](https://github.com/pykeen/pykeen) - 🤖 A Python library for learning and evaluating knowledge graph embeddings  (5 days ago)
 - [lquixada/cross-fetch](https://github.com/lquixada/cross-fetch) - Universal WHATWG Fetch API for Node, Browsers and React Native. (1 week ago)
 
 ### 🎬 Youtube Videos
