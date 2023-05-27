@@ -11,16 +11,13 @@ and [written 1.000,000 words on a public Obsidian](https://brain.louis030195.com
 
 ## 🔗 [Links](https://brain.louis030195.com/Links)
 
-- [Cheatsheet](https://brain.louis030195.com/Louis/Louis+-+Cheatsheet)
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
-- [**twitter.com**: Brain dumps](https://twitter.com/@louis030195)
+- [**twitter.com**: Twitter](https://twitter.com/@louis030195)
 - [**youtube.com**: My Youtube channel](https://www.youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
-- [**linkedin.com**: Business networking](https://www.linkedin.com/in/louis030195)
-- [**last.fm**: Audio memory stream](https://www.last.fm/user/louis030195)
-- [Opensea](https://opensea.io/louis030195) - 0x0Fa497B3ebFD52978168737650Ba832d19Dcb2be
+- [**linkedin.com**: LinkedIn](https://www.linkedin.com/in/louis030195)
 
 ## 🌊 My memory stream
 

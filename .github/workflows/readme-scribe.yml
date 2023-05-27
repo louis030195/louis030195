@@ -26,7 +26,7 @@ jobs:
         run: |
           sudo pip install PyGithub requests beautifulsoup4
           sudo chmod 777 README.md
-          sudo python3 merge_hacks_into_README.py "${{ secrets.LANGA_API_KEY }}" "### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis) - [More readwise.io brain food](https://louis030195.notion.site/Readwise-9ba0d6289ae748c59f76bec591548c66)\n$(sudo python3 hack.py)"
+          sudo python3 merge_hacks_into_README.py "### 👋 Favourite daily quotes from [readwise.io/@louis](https://readwise.io/@louis)\n$(sudo python3 hack.py)"
       - uses: actions/upload-artifact@v1
         with:
           name: README.md
