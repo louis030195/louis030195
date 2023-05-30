@@ -38,34 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A company that could pay all its employees so straightforwardly would be enormously successful. Many employees would work harder if they could get paid for it. More importantly, such a company would attract people who wanted to work especially hard. It would crush its competitors.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He who desires or avoids the things which are not in his power can neither be faithful nor free, but of necessity he must change with them and be tossed about with them as in a tempest, and of necessity must subject himself to others who have the power to procure or prevent what lie desires or would avoid;
+          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
