@@ -38,34 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
+<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          Logical positivism, later called logical empiricism, and both of which together are also known as neopositivism, was a movement in Western philosophy whose central thesis was the verification principle (also known as the verifiability criterion of meaning). This theory of knowledge asserted that only statements verifiable through direct observation or logical proof are meaningful in terms of conveying truth value, information or factual content. Starting in the late 1920s, groups of philosophers, scientists, and mathematicians formed the Berlin Circle and the Vienna Circle, which, in these two cities, would propound the ideas of logical positivism.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Logical Positivism - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">empirical sciences</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You’ll never stumble upon the unexpected if you stick only to the familiar.
+          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Continuous Discovery Habits_ Discover Products That Create Customer Value and Business Value</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Teresa Torres</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
 </div>
 </div>
 </div>
