@@ -38,9 +38,14 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Obvious ideas will always be executed by big companies
+          Personality Traits for entrepreneurs 
 
-So the big thing is, most of the obviously good ideas are bad ideas for a startup, right? And the reason is because most of the obviously good ideas, if they're obviously good ideas, they're already getting done by big companies. So what are big companies really good at? Like, just take all the big, the top 50, whatever tech companies, what are they really good at? They're really good at doing the next obviously good idea, right? They're like, what's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there. And so like, you know, we always say kind of by definition, like if it's a good startup idea, it basically, it can't be a good idea that looks like a good idea because a big company's already doing that.
+Summary:
+Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
+
+Transcript:
+Speaker 1
+It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -51,30 +56,23 @@ So the big thing is, most of the obviously good ideas are bad ideas for a startu
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Cryptocurrency Blockchain Web Three Is Following This Exact Trajectories
-
-Summary:
-"I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything," he says. "This is literally what happens with every new technology."
-
-Transcript:
-Speaker 1
-And so Morrison basically derives, he goes through this example, and he derives basically this three part process that he says applies to any new technology. Basically, as it is as it is greeted and fought by the status quo by the powers it be. And he says basically, it's a three step process. The step one is just completely ignore it. Like, so just pretend it doesn't exist, refuse to acknowledge it, don't talk about it, don't even engage in conversations like we're just not going to do this. At some point though, at some point, these things become too obvious and they have to engage. She said step two is rational counter argument, right? So, and rational counter argument is this can't possibly work because, you know, it's going to be too expensive. It's not going to be fast enough. It's not going to scale. People don't know how to use it. All the different kind of rational arguments that you can come up with to oppose something. And then ultimately, when those don't work anymore, because people are still watching this and being like, okay, this still seems like a good idea. Then he says stage three is when the name calling begins. And so stage three is basically just like a full out power status political fight where all of a sudden basically it's like, okay, these are these people who are bringing this technology, they're bad people, they have bad morals, they have bad intent, they're going to ruin everything. And if you think about it, it's so funny because it's like basically the internet followed this exact trajectory. Like, you know, crypto cryptocurrency blockchain web three is following this exact same trajectory social networking follows this exact same trajectory. Like, I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything. Right. And it is this is literally what happens with every new technology and I become convinced that basically how this unfolds.
+          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To men immersed day and night in these meditations comes understanding of the truth pronounced by the god at Delphi, that the mind should know itself; and there comes also the perception of its union with the divine mind, the source of its inexhaustible joy
+          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
