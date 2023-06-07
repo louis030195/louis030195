@@ -38,34 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If a man be lucky, there is no foretelling the possible extent of his good fortune. Pitch him into the Euphrates and like as not he will swim out with a pearl in his hand.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your body is a small-scale mine of radioactive particles. You receive an annual 40-millirem dose from the natural radioactivity originating inside of you. That’s the same amount of radiation you’d be exposed to from having four chest X-rays. Your radiation dose level can go up by one or two millirem for every eight hours you spend sleeping next to your similarly radioactive loved one.
+          To put it another way: if wealth is giving you fewer options instead of more (and more varied) options, you’re doing it wrong.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Particle Physics of You</p>
-<p style="margin-bottom: 0; color: #9f8e7d">symmetrymagazine.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          It is far more fruitful to evaluate the desires for achievement, than it is to force discipline. If one’s desire for achievement is pure, he will be sufficiently motivated to do all that needs to be done in order to achieve. If it is not, he will play clever and ineffective games such as discipline.
+          NEO: I’ve kept quiet for as long as I could, but I feel a certain need to speak up at this point. The human body is the most inefficient source of energy you could possibly imagine. The efficiency of a power plant at converting thermal energy into electricity decreases as you run the turbines at lower temperatures. If you had any sort of food humans could eat, it would be more efficient to burn it in a furnace than feed it to humans. And now you’re telling me that their food is the bodies of the dead, fed to the living? Haven’t you ever heard of the laws of thermodynamics?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -92,8 +92,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (3 days ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (2 days ago)
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (4 days ago)
 - [louis030195/qbind](https://github.com/louis030195/qbind) - Qbind is a new language designed to allow humans to intuitively process and embed data across different modalities. By using qbind, users can define relationships between various modalities by specifying simple operations and transformations on the data. (1 week ago)
 - [different-ai/embedbase-internet-search](https://github.com/different-ai/embedbase-internet-search) - An internet search extension for Embedbase (1 week ago)
 - [different-ai/embedbase-qdrant](https://github.com/different-ai/embedbase-qdrant) - Embedbase &#43; Qdrant - Advanced and high-performant vector similarity search technology in your AI applications (1 month ago)
@@ -101,15 +101,15 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/f273458e82b346f09ee4f1dfb83388d6) (1 week ago)
-- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (1 week ago)
+- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (2 weeks ago)
 - [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (3 weeks ago)
 - [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (1 month ago)
 - [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Index all casts, profiles, and verifications on the Farcaster protocol (today)
-- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech. (3 days ago)
+- [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Index all casts, profiles, and verifications on the Farcaster protocol (1 day ago)
+- [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech. (4 days ago)
 - [allenai/mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text. (1 week ago)
 - [artidoro/qlora](https://github.com/artidoro/qlora) - QLoRA: Efficient Finetuning of Quantized LLMs (1 week ago)
 - [different-ai/embedbase-internet-search](https://github.com/different-ai/embedbase-internet-search) - An internet search extension for Embedbase (1 week ago)
