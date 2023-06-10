@@ -38,34 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          “What you’ve just discovered is called ‘positive bias’,” said the boy. “You had a rule in your mind, and you kept on thinking of triplets that should make the rule say ‘Yes’. But you didn’t try to test any triplets that should make the rule say ‘No’. In fact you didn’t get a single ‘No’, so ‘any three numbers’ could have just as easily been the rule. It’s sort of like how people imagine experiments that could confirm their hypotheses instead of trying to imagine experiments that could falsify them—that’s not quite exactly the same mistake but it’s close.
+          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
+          Finding the right balance between cooperation and competition has been the goal and bane of Western politics for centuries
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
@@ -75,7 +75,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### 📚 What I'm currently reading
 
--   **David Deutsch**  - [The Fabric of Reality: The Science of Parallel Universes--and Its Implications](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality) - Sun May 21 05:28:49 -0700 2023
+-   **Karl Popper**  - [Conjectures and Refutations: The Growth of Scientific Knowledge](https://www.goodreads.com/book/show/61554.Conjectures_and_Refutations) - Sat Jun 10 14:00:44 -0700 2023
 -   **David Deutsch**  - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - Sun May 21 05:28:33 -0700 2023
 -   **Emily Nagoski**  - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/book/show/22609341-come-as-you-are) - Fri Apr 21 11:13:47 -0700 2023
 -   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
@@ -84,11 +84,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 ### ✍ My latest Goodreads reviews
 
+-   **David Deutsch**  - [The Fabric of Reality: The Science of Parallel Universes--and Its Implications](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality) - 5/5 - Sat Jun 10 14:00:19 -0700 2023
 -   **António R. Damásio**  - [Descartes&#39; Error: Emotion, Reason and the Human Brain](https://www.goodreads.com/book/show/103867.Descartes_Error) - 4/5 - Sun May 21 05:29:36 -0700 2023
 -   **Karl Popper**  - [The Open Society and Its Enemies](https://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies) - 4/5 - Sun May 21 05:29:20 -0700 2023
 -   **Robert M. Sapolsky**  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) - 0/5 - Thu May 04 12:52:21 -0700 2023
 -   **Thad A. Polk**  - [The Learning Brain](https://www.goodreads.com/book/show/40775319-the-learning-brain) - 2/5 - Thu May 04 12:51:20 -0700 2023
--   **Laurence Gonzales**  - [Deep Survival: Who Lives, Who Dies, and Why](https://www.goodreads.com/book/show/30231750-deep-survival) - 3/5 - Fri Apr 21 11:14:44 -0700 2023
 
 #### 👷 Check out what I'm currently working on
 
