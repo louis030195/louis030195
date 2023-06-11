@@ -38,48 +38,41 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making Decisions Fast and Well
+          Benjamin abraham horrowitz
 
 Summary:
-We go through life making decisions. Should we date person extra wy or get married to them? Should we stay here, or should we move? What jobs should we
+"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
 
 Transcript:
 Speaker 1
-Go through life-making decisions. Should we date person X or Y or get married to them? Should we stay here or should we move? What job should we choose?
+We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#147 Reid Hoffman —  Better Decisions, Fewer Mistakes</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Founder Market Fit
-
-Summary:
-It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
-
-Transcript:
-Speaker 1
-It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
+          People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their ideas as they developed them. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Founders at Work</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jessica Livingston</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
+          He who desires or avoids the things which are not in his power can neither be faithful nor free, but of necessity he must change with them and be tossed about with them as in a tempest, and of necessity must subject himself to others who have the power to procure or prevent what lie desires or would avoid;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
@@ -91,18 +84,14 @@ It's what you work on nights and weekends. Like it's the thing that's just inher
 
 -   **Karl Popper**  - [Conjectures and Refutations: The Growth of Scientific Knowledge](https://www.goodreads.com/book/show/61554.Conjectures_and_Refutations) - Sat Jun 10 14:00:44 -0700 2023
 -   **David Deutsch**  - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity) - Sun May 21 05:28:33 -0700 2023
--   **Emily Nagoski**  - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/book/show/22609341-come-as-you-are) - Fri Apr 21 11:13:47 -0700 2023
--   **Dale Purves**  - [Principles of Cognitive Neuroscience](https://www.goodreads.com/book/show/2339767.Principles_of_Cognitive_Neuroscience) - Wed Jan 18 11:42:28 -0800 2023
--   **Eric R. Kandel**  - [Principles of Neural Science](https://www.goodreads.com/book/show/826396.Principles_of_Neural_Science) - Wed Jan 18 11:41:43 -0800 2023
--   **Mark F. Bear**  - [Neuroscience: Exploring the Brain](https://www.goodreads.com/book/show/170011.Neuroscience) - Wed Jan 18 11:37:48 -0800 2023
 
 ### ✍ My latest Goodreads reviews
 
 -   **David Deutsch**  - [The Fabric of Reality: The Science of Parallel Universes--and Its Implications](https://www.goodreads.com/book/show/177068.The_Fabric_of_Reality) - 5/5 - Sat Jun 10 14:00:19 -0700 2023
+-   **Emily Nagoski**  - [Come as You Are: The Surprising New Science that Will Transform Your Sex Life](https://www.goodreads.com/book/show/22609341-come-as-you-are) - 4/5 - Sat Jun 10 19:22:36 -0700 2023
 -   **António R. Damásio**  - [Descartes&#39; Error: Emotion, Reason and the Human Brain](https://www.goodreads.com/book/show/103867.Descartes_Error) - 4/5 - Sun May 21 05:29:36 -0700 2023
 -   **Karl Popper**  - [The Open Society and Its Enemies](https://www.goodreads.com/book/show/240592.The_Open_Society_and_Its_Enemies) - 4/5 - Sun May 21 05:29:20 -0700 2023
 -   **Robert M. Sapolsky**  - [Behave: The Biology of Humans at Our Best and Worst](https://www.goodreads.com/book/show/31170723-behave) - 0/5 - Thu May 04 12:52:21 -0700 2023
--   **Thad A. Polk**  - [The Learning Brain](https://www.goodreads.com/book/show/40775319-the-learning-brain) - 2/5 - Thu May 04 12:51:20 -0700 2023
 
 #### 👷 Check out what I'm currently working on
 
