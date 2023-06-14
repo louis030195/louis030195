@@ -38,18 +38,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You’ll never stumble upon the unexpected if you stick only to the familiar.
+          Conformal cyclic cosmology (CCC) is a cosmological model in the framework of general relativity and proposed by theoretical physicist Roger Penrose. In CCC, the universe iterates through infinite cycles, with the future timelike infinity (i.e. the latest end of any possible timescale evaluated for any point in space) of each previous iteration being identified with the Big Bang singularity of the next. Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinary New View of the Universe.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Continuous Discovery Habits_ Discover Products That Create Customer Value and Business Value</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Teresa Torres</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Conformal Cyclic Cosmology - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
+          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -60,12 +60,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
+          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -89,8 +89,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (today)
-- [louis030195/nano-database](https://github.com/louis030195/nano-database) -  (1 day ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
+- [louis030195/nano-database](https://github.com/louis030195/nano-database) -  (2 days ago)
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (1 week ago)
 - [louis030195/qbind](https://github.com/louis030195/qbind) - Qbind is a new language designed to allow humans to intuitively process and embed data across different modalities. By using qbind, users can define relationships between various modalities by specifying simple operations and transformations on the data. (2 weeks ago)
 - [different-ai/embedbase-internet-search](https://github.com/different-ai/embedbase-internet-search) - An internet search extension for Embedbase (2 weeks ago)
@@ -98,14 +98,14 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/f273458e82b346f09ee4f1dfb83388d6) (2 weeks ago)
-- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (2 weeks ago)
+- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (3 weeks ago)
 - [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (1 month ago)
 - [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (1 month ago)
 - [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset (5 days ago)
+- [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset (6 days ago)
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Index all casts, profiles, and verifications on the Farcaster protocol (1 week ago)
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech. (1 week ago)
 - [allenai/mmc4](https://github.com/allenai/mmc4) - MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text. (2 weeks ago)
