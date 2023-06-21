@@ -38,71 +38,51 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Books
+          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Now this principle of induction cannot be a purely logical truth like a tautology or an analytic statement.Indeed, if there were such a thing as a purely logical principle of induction, there would be no problem of induction; for in this case, all inductive inferences would have to be regarded as purely logical or tautological transformations, just like inferences in deductive logic.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Karl Popper</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          You are the average of the five people around you 
 
-Summary:
-The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
+Key takeaways:
+- Creative success not only depends on individual effort but also on one's social network
+- One becomes the average of the five people they spend the most time with
 
 Transcript:
 Speaker 1
-Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
-
-Speaker 2
-Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
-
-Speaker 1
-You're in it.
+Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
 
 Speaker 3
-Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
-
-Speaker 1
-Of course it requires a price. All religious requires a sacrifice.
+I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
 
 Speaker 2
-Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
+Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
 
 Speaker 1
-No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
-
-Speaker 2
-Yeah, she only has listened to Mark's podcast.
-
-Speaker 1
-But appropriately so. There we go. OK. Booktube.
-
-Speaker 2
-Booktube. The Machiavellian's by a burner. Yeah.
-
-Speaker 1
-So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
+So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Monopoly is the condition of every successful business
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Confirmation bias was the technical term; it meant, among other things, that when you chose your information sources, there was a notable tendency to choose information sources that agreed with your current opinions.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
 </div>
 </div>
 </div>
