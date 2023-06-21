@@ -38,71 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Books
-
-Summary:
-The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
-
-Transcript:
-Speaker 1
-Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
-
-Speaker 2
-Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
-
-Speaker 1
-You're in it.
-
-Speaker 3
-Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
-
-Speaker 1
-Of course it requires a price. All religious requires a sacrifice.
-
-Speaker 2
-Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
-
-Speaker 1
-No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
-
-Speaker 2
-Yeah, she only has listened to Mark's podcast.
-
-Speaker 1
-But appropriately so. There we go. OK. Booktube.
-
-Speaker 2
-Booktube. The Machiavellian's by a burner. Yeah.
-
-Speaker 1
-So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
+          He is always in his own company, whether his intercourse be with books, with men, or with Nature.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          wanted to know about it right away so we could reproduce the error and release a fix. So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The Einstein field equations relate the Einstein tensor to the stress–energy tensor, which represents the distribution of energy, momentum and stress in the spacetime manifold. The Einstein tensor is built up from the metric tensor and its partial derivatives; thus, given the stress–energy tensor, the Einstein field equations are a system of ten partial differential equations in which the metric tensor can be solved for.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Solutions of the Einstein Field Equations - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">closed form</p>
 </div>
 </div>
 </div>
@@ -126,8 +89,8 @@ So actually, there's two books by Burnham. I referenced the Machiavellian's is a
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (today)
-- [louis030195/awesome-obsidian-templates](https://github.com/louis030195/awesome-obsidian-templates) - a collection of obsidian templates (2 days ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
+- [louis030195/awesome-obsidian-templates](https://github.com/louis030195/awesome-obsidian-templates) - a collection of obsidian templates (3 days ago)
 - [louis030195/nano-database](https://github.com/louis030195/nano-database) -  (1 week ago)
 - [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (2 weeks ago)
 - [louis030195/qbind](https://github.com/louis030195/qbind) - Qbind is a new language designed to allow humans to intuitively process and embed data across different modalities. By using qbind, users can define relationships between various modalities by specifying simple operations and transformations on the data. (3 weeks ago)
@@ -135,15 +98,15 @@ So actually, there's two books by Burnham. I referenced the Machiavellian's is a
 #### 📓 Gists I wrote
 
 - [](https://gist.github.com/f273458e82b346f09ee4f1dfb83388d6) (3 weeks ago)
-- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (3 weeks ago)
+- [](https://gist.github.com/0cf0444bed6d19341a24613970bf0a14) (4 weeks ago)
 - [](https://gist.github.com/1b73be72ed59040b84d9f058e55b42d6) (1 month ago)
 - [Run semantic search across multiple datasets](https://gist.github.com/5d5137c9b7c8fa587c11f373116b2fa3) (1 month ago)
 - [A 100% local and typescript LLM in Apple Shortcut to be used everywhere on your computer in &lt;1 second  ](https://gist.github.com/6ab76036e6a6abdf2b0a0072725739e7) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create digital souls (3 days ago)
-- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, &#34;Self-supervised learning from images with a joint-embedding predictive architecture.&#34; (5 days ago)
+- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - Create digital souls (4 days ago)
+- [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa) - Official codebase for I-JEPA, the Image-based Joint-Embedding Predictive Architecture. First outlined in the CVPR paper, &#34;Self-supervised learning from images with a joint-embedding predictive architecture.&#34; (6 days ago)
 - [openlm-research/open_llama](https://github.com/openlm-research/open_llama) - OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset (1 week ago)
 - [gskril/farcaster-indexer](https://github.com/gskril/farcaster-indexer) - Index all casts, profiles, and verifications on the Farcaster protocol (2 weeks ago)
 - [elevenlabs/elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python) - The official Python API for ElevenLabs text-to-speech. (2 weeks ago)
