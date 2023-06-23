@@ -38,28 +38,7 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Fast, lift, sprint, stretch, and meditate.
-
-Build, sell, write, create, invest, and own.
-
-Read, reflect, love, seek truth, and ignore society.
-
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+          Venture capitalists have a list of danger signs to watch out for. Near the top is the company run by techno-weenies who are obsessed with solving interesting technical problems, instead of making users happy. In a startup, you’re not just trying to solve problems. You’re trying to solve problems that users care about. So I think you should make users the test, just as acquirers do. Treat a startup as an optimization problem in which performance is measured by number of users. As anyone who has tried to optimize software knows, the key is measurement. When you try to guess where your program is slow, and what would make it faster, you almost always guess wrong.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -70,12 +49,23 @@ Relax. Victory is assured.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Lax–Friedrichs method, named after Peter Lax and Kurt O. Friedrichs, is a numerical method for the solution of hyperbolic partial differential equations based on finite differences. The method can be described as the FTCS (forward in time, centered in space) scheme with a numerical dissipation term of 1/2. One can view the Lax–Friedrichs method as an alternative to Godunov's scheme, where one avoids solving a Riemann problem at each cell interface, at the expense of adding artificial viscosity.
+          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Lax–Friedrichs Method - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Finding the right balance between cooperation and competition has been the goal and bane of Western politics for centuries
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
@@ -91,12 +81,12 @@ Relax. Victory is assured.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Cofounder%20interview.md">Business/Entrepreneurship/Cofounder interview.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/%C3%BE%C3%BFMarshall%20B.%20Rosenberg%20-%20%C3%BE%C3%BFNonviolent%20Communication%20A%20Language%20of%20Life%20-%20%203rd%20Edition%20Life-Changing%20Tools%20for%20Healthy%20Relationships.md">Readwise/Articles/þÿMarshall B. Rosenberg - þÿNonviolent Communication A Language of Life -  3rd Edition Life-Changing Tools for Healthy Relationships.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210623</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220623</p>
             </div>
         </div>
     </div>
@@ -119,12 +109,12 @@ Relax. Victory is assured.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Philosophy/Humans/Philo%20cafe%20cheatsheet.md">Philosophy/Humans/Philo cafe cheatsheet.md</a></li>
+<li><a href="https://brain.louis030195.com/Business/Entrepreneurship/Cofounder%20interview.md">Business/Entrepreneurship/Cofounder interview.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220623</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 210623</p>
             </div>
         </div>
     </div>
@@ -147,7 +137,7 @@ Relax. Victory is assured.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/%C3%BE%C3%BFMarshall%20B.%20Rosenberg%20-%20%C3%BE%C3%BFNonviolent%20Communication%20A%20Language%20of%20Life%20-%20%203rd%20Edition%20Life-Changing%20Tools%20for%20Healthy%20Relationships.md">Readwise/Articles/þÿMarshall B. Rosenberg - þÿNonviolent Communication A Language of Life -  3rd Edition Life-Changing Tools for Healthy Relationships.md</a></li>
+<li><a href="https://brain.louis030195.com/Philosophy/Humans/Philo%20cafe%20cheatsheet.md">Philosophy/Humans/Philo cafe cheatsheet.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
