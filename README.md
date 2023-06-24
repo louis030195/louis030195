@@ -38,35 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          While top-line bookings growth is super important, investors want to understand how profitable that revenue stream is. Gross profit provides that measure.
-What’s included in gross profit may vary by company, but in general all costs associated with the manufacturing, delivery, and support of a product/service should be included.
+          In theoretical physics, twistor theory was proposed by Roger Penrose in 1967 as a possible path to quantum gravity and has evolved into a branch of theoretical and mathematical physics. Penrose proposed that twistor space should be the basic arena for physics from which space-time itself should emerge. It leads to a powerful set of mathematical tools that have applications to differential and integral geometry, nonlinear differential equations and representation theory and in physics to general relativity and quantum field theory, in particular to scattering amplitudes.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">16 Startup Metrics | Andreessen Horowitz</p>
-<p style="margin-bottom: 0; color: #9f8e7d">a16z.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Twistor Theory - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In quantum mechanics, the Hamiltonian of a system is an operator corresponding to the total energy of that system, including both kinetic energy and potential energy. Its spectrum, the system's energy spectrum or its set of energy eigenvalues, is the set of possible outcomes obtainable from a measurement of the system's total energy. Due to its close relation to the energy spectrum and time-evolution of a system, it is of fundamental importance in most formulations of quantum theory.
+          Wealth can be created without being sold. Scientists, till recently at least, effectively donated the wealth they created. We are all richer for knowing about penicillin, because we’re less likely to die from infections. Wealth is whatever people want, and not dying is certainly something we want. Hackers often donate their work by writing open source software that anyone can use for free. I am much the richer for the operating system FreeBSD, which I’m running on the computer I’m using now, and so is Yahoo, which runs it on all their servers.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hamiltonian (Quantum Mechanics) - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
+          Women's bodies evolved to suit the demands of bearing and rearing children and of gathering plant food. Men's bodies evolved to suit the demands of rising in a male hierarchy, fighting over women, and providing meat to a family
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
@@ -82,12 +81,12 @@ What’s included in gross profit may vary by company, but in general all costs 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Philosophy/Poetry/The%20Enigma.md">Philosophy/Poetry/The Enigma.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/%C3%BE%C3%BFMarshall%20B.%20Rosenberg%20-%20%C3%BE%C3%BFNonviolent%20Communication%20A%20Language%20of%20Life%20-%20%203rd%20Edition%20Life-Changing%20Tools%20for%20Healthy%20Relationships.md">Readwise/Articles/þÿMarshall B. Rosenberg - þÿNonviolent Communication A Language of Life -  3rd Edition Life-Changing Tools for Healthy Relationships.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230623</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220623</p>
             </div>
         </div>
     </div>
@@ -110,12 +109,12 @@ What’s included in gross profit may vary by company, but in general all costs 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/%C3%BE%C3%BFMarshall%20B.%20Rosenberg%20-%20%C3%BE%C3%BFNonviolent%20Communication%20A%20Language%20of%20Life%20-%20%203rd%20Edition%20Life-Changing%20Tools%20for%20Healthy%20Relationships.md">Readwise/Articles/þÿMarshall B. Rosenberg - þÿNonviolent Communication A Language of Life -  3rd Edition Life-Changing Tools for Healthy Relationships.md</a></li>
+<li><a href="https://brain.louis030195.com/Philosophy/Poetry/The%20Enigma.md">Philosophy/Poetry/The Enigma.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220623</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230623</p>
             </div>
         </div>
     </div>
