@@ -38,34 +38,34 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you ever do find yourself working for a startup, here’s a handy tip for evaluating competitors. Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they’ll get the wrong candidates.
+          Our task today is to find singular ways to create the new things that will make the future not just different, but better to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
+          We distinguish ourselves, the agents, from the action, and everywhere we make use of this scheme—we try to discover an agent behind every phenomenon.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Money is a side effect of specialization. In a specialized society, most of the things you need, you can’t make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
+          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -127,11 +127,11 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### ⭐ Recent Stars
 
+- [iMADi-ARCH/embedbase-experimentation](https://github.com/iMADi-ARCH/embedbase-experimentation) -  (today)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (today)
 - [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API (2 days ago)
 - [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR&#39;22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space” (3 days ago)
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust (1 week ago)
-- [opensouls/SocialAGI](https://github.com/opensouls/SocialAGI) - The library for creating AI souls (1 week ago)
 
 ### 🎬 Youtube Videos
 
