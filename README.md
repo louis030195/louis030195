@@ -38,18 +38,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
+          The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -60,19 +60,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Great founders thought five years or more about the problem beforehand
-
-Summary:
-The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years or longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more andmore specific, that's really good. "By the way, OK, by the way, you're also trying to pull one on yourself," he adds.
-
-Transcript:
-Speaker 1
-You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus. This is not like a short term thing. It's almost always somebody. The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years, up and 10 years, up and longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more and more specific, that's really good. If the answers get more and more in general and more and more fuzz, then it's like, OK. And by the way, OK, you're trying to pull one on us. OK, by the way, you're also trying to pull one on yourself. Yeah, right.
+          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
@@ -118,7 +111,7 @@ You have to really understand all of the twists and turns that require getting f
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (today)
 - [louis030195/text-generation-inference-helm](https://github.com/louis030195/text-generation-inference-helm) -  (2 days ago)
 - [louis030195/awesome-obsidian-templates](https://github.com/louis030195/awesome-obsidian-templates) - a collection of obsidian templates (1 week ago)
 - [louis030195/nano-database](https://github.com/louis030195/nano-database) -  (2 weeks ago)
@@ -126,11 +119,11 @@ You have to really understand all of the twists and turns that require getting f
 
 #### 📓 Gists I wrote
 
+- [Hosting a LLM on CPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f85488469c8805b2d5f29a67a79dc151) (today)
 - [Hosting a LLM on GPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f31a2d3a93042c1c84cd120dbd75e897) (today)
 - [](https://gist.github.com/a12a3615095641ba06d7864d0076962e) (1 day ago)
 - [](https://gist.github.com/e62a3a093ae942c5c3c65892aaf4cb3b) (1 day ago)
 - [](https://gist.github.com/cb20d246e393e7d24642241e1deaa983) (1 day ago)
-- [](https://gist.github.com/8c99aac12dab3b9b1d2fa5d1fa2cbc22) (2 days ago)
 
 #### ⭐ Recent Stars
 
