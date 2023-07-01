@@ -38,7 +38,18 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          “The difference between successful people and really successful people is that really successful people say no to almost everything
+          wanted to know about it right away so we could reproduce the error and release a fix. So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          If your private actions do not generalize, then you cannot have general ideas.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -49,23 +60,12 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
+          From this Anaximander concluded that human beings arose from other animals with more self-reliant newborns: He proposed the spontaneous origin of life in mud, the first animals being fish covered with spines. Some descendants of these fishes eventually abandoned the water and moved to dry land, where they evolved into other animals by the transmutation of one form into another.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Cosmos</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Carl Sagan</p>
 </div>
 </div>
 </div>
@@ -111,26 +111,26 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 #### 👷 Check out what I'm currently working on
 
-- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (today)
-- [louis030195/text-generation-inference-helm](https://github.com/louis030195/text-generation-inference-helm) -  (2 days ago)
+- [different-ai/embedbase](https://github.com/different-ai/embedbase) - The native Software 3.0 stack (1 day ago)
+- [louis030195/text-generation-inference-helm](https://github.com/louis030195/text-generation-inference-helm) -  (3 days ago)
 - [louis030195/awesome-obsidian-templates](https://github.com/louis030195/awesome-obsidian-templates) - a collection of obsidian templates (1 week ago)
 - [louis030195/nano-database](https://github.com/louis030195/nano-database) -  (2 weeks ago)
-- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (3 weeks ago)
+- [louis030195/obsidian-ava](https://github.com/louis030195/obsidian-ava) - Quickly format your notes with ChatGPT in Obsidian (4 weeks ago)
 
 #### 📓 Gists I wrote
 
-- [Becoming a Motley host, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/db731f8700050377c860a8051b1b5e5c) (today)
-- [Hosting a LLM on CPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f85488469c8805b2d5f29a67a79dc151) (today)
-- [Hosting a LLM on GPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f31a2d3a93042c1c84cd120dbd75e897) (today)
-- [](https://gist.github.com/a12a3615095641ba06d7864d0076962e) (1 day ago)
-- [](https://gist.github.com/e62a3a093ae942c5c3c65892aaf4cb3b) (1 day ago)
+- [Becoming a Motley host, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/db731f8700050377c860a8051b1b5e5c) (1 day ago)
+- [Hosting a LLM on CPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f85488469c8805b2d5f29a67a79dc151) (1 day ago)
+- [Hosting a LLM on GPU, supporting @louis030195 initiative to assemble a decentralized llm network, for more details, read https://motley-ai.vercel.app/](https://gist.github.com/f31a2d3a93042c1c84cd120dbd75e897) (1 day ago)
+- [](https://gist.github.com/a12a3615095641ba06d7864d0076962e) (2 days ago)
+- [](https://gist.github.com/e62a3a093ae942c5c3c65892aaf4cb3b) (2 days ago)
 
 #### ⭐ Recent Stars
 
-- [iMADi-ARCH/embedbase-experimentation](https://github.com/iMADi-ARCH/embedbase-experimentation) -  (1 day ago)
-- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (1 day ago)
-- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API (3 days ago)
-- [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR&#39;22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space” (4 days ago)
+- [iMADi-ARCH/embedbase-experimentation](https://github.com/iMADi-ARCH/embedbase-experimentation) -  (2 days ago)
+- [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs (2 days ago)
+- [huggingface/huggingface.js](https://github.com/huggingface/huggingface.js) - Utilities to use the Hugging Face hub API (4 days ago)
+- [Arnav0400/ViT-Slim](https://github.com/Arnav0400/ViT-Slim) - Official code for our CVPR&#39;22 paper “Vision Transformer Slimming: Multi-Dimension Searching in Continuous Optimization Space” (5 days ago)
 - [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust (1 week ago)
 
 ### 🎬 Youtube Videos
