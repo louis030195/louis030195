@@ -38,71 +38,43 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Books
+          Figuring out the right product is the innovator’s job, not the customer’s job. The customer only knows what she thinks she wants based on her experience with the current product. The innovator can take into account everything that’s possible, often going against what she knows to be true. This requires a combination of knowledge, skill, and courage.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Cryptocurrency Blockchain Web Three Is Following This Exact Trajectories
 
-Summary:
-The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
+Key takeaways:
+- Morrison derives a threestep process for how new technologies are received by the status quo.
+- Stage one is just ignoring the technology, while stage two is engaging in rational counter arguments.
+- Stage three is when the name calling begins, with opponents accusing the technology of being bad for society.
 
 Transcript:
 Speaker 1
-Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
-
-Speaker 2
-Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
-
-Speaker 1
-You're in it.
-
-Speaker 3
-Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
-
-Speaker 1
-Of course it requires a price. All religious requires a sacrifice.
-
-Speaker 2
-Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
-
-Speaker 1
-No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
-
-Speaker 2
-Yeah, she only has listened to Mark's podcast.
-
-Speaker 1
-But appropriately so. There we go. OK. Booktube.
-
-Speaker 2
-Booktube. The Machiavellian's by a burner. Yeah.
-
-Speaker 1
-So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
+And so Morrison basically derives, he goes through this example, and he derives basically this three part process that he says applies to any new technology. Basically, as it is as it is greeted and fought by the status quo by the powers it be. And he says basically, it's a three step process. The step one is just completely ignore it. Like, so just pretend it doesn't exist, refuse to acknowledge it, don't talk about it, don't even engage in conversations like we're just not going to do this. At some point though, at some point, these things become too obvious and they have to engage. She said step two is rational counter argument, right? So, and rational counter argument is this can't possibly work because, you know, it's going to be too expensive. It's not going to be fast enough. It's not going to scale. People don't know how to use it. All the different kind of rational arguments that you can come up with to oppose something. And then ultimately, when those don't work anymore, because people are still watching this and being like, okay, this still seems like a good idea. Then he says stage three is when the name calling begins. And so stage three is basically just like a full out power status political fight where all of a sudden basically it's like, okay, these are these people who are bringing this technology, they're bad people, they have bad morals, they have bad intent, they're going to ruin everything. And if you think about it, it's so funny because it's like basically the internet followed this exact trajectory. Like, you know, crypto cryptocurrency blockchain web three is following this exact same trajectory social networking follows this exact same trajectory. Like, I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything. Right. And it is this is literally what happens with every new technology and I become convinced that basically how this unfolds.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The framing effect is a cognitive bias where people decide on options based on whether the options are presented with positive or negative connotations; e.g. as a loss or as a gain. People tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. Gain and loss are defined in the scenario as descriptions of outcomes (e.g., lives lost or saved, disease patients treated and not treated, etc.).
+          If your product requires advertising or salespeople to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Framing Effect (Psychology) - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In lists of logical fallacies, you will fnd included “the genetic fallacy”—the fallacy of attacking a belief based on someone’s causes for believing it.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
