@@ -31,6 +31,8 @@ Like my outputs? [Help me building the future](https://www.linkedin.com/in/louis
 
 [START]
 
+## 🥦 [All my brain food](https://louis030195.notion.site/Readwise-9ba0d6289ae748c59f76bec591548c66?pvs=4)
+
 <!-- Hack to join array with "," https://stackoverflow.com/questions/21305865/golang-separating-items-with-comma-in-template -->
 ### 📚 What I'm currently reading
 {{range goodReadsCurrentlyReading 10}}
