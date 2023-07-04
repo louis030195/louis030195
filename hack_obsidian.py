@@ -36,8 +36,7 @@ def list_models():
 list_models_response = list_models()
 
 openai.api_key = "EMPTY"
-openai.base_path = list_models_response['data'][0]['url']
-
+openai.api_base = list_models_response['data'][0]['url']
 
 skipped = 0
 m = 10
@@ -61,24 +60,25 @@ def try_or_continue(content):
                 max_tokens=100,
             )
             text = completion.choices[0].text
+            # print("reponse", text)
             if not text: raise Exception("empty text")
             return text
         except Exception as e:
-            print(f"Attempt {i+1} failed to summarize, reducing prompt size...")
+            # print(f"Attempt {i+1} failed to summarize, reducing prompt size...", e)
             content = content[:len(content)//2]  # Halve the prompt size
-    print("Skipping this file after 2 failed attempts")
+    # print("Skipping this file after 2 failed attempts")
 
 for a in repo.get_commits()[0:m+skipped]:
     a: Commit = a
     brain_food = []
     for file in a.files:
-        content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode()
+        content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
         if "publish: true" not in content:
             continue
 
         summary = try_or_continue(content)
         if not summary:
-            print("damn failed to summarize louis shower thoughts", content)
+            # print("damn failed to summarize louis shower thoughts", content)
             continue
         
         brain_food.append(summary)
