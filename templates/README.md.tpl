@@ -7,7 +7,8 @@ In 2022 I [made 7000 contributions on GitHub](https://github.com/louis030195),
 and written 1.000,000 words in Obsidian.
 - I also founded an AI startup that became a 5 figure business in only a few months and got into in the latest [Techstars](https://techstars.com) batch.
 - In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava), aligned with my desire to reduce the friction between our physical and digital mind. This was part of [Buildspace n&ws2](https://buildspace.so).
-- Later I joined [OrangeDAO](https://orangedao.xyz) fellowship building [Embedbase](https://embedbase.xyz)
+- Later I joined [OrangeDAO](https://orangedao.xyz) fellowship, building [Embedbase](https://embedbase.xyz)
+- Today I am part of [Buildspace on-site in SF for 3 months](https://buildspace.so)
 
 [🌱 Something is budding](https://motley-ai.vercel.app/), [what do you think?](https://www.admonymous.co/louis030195)
 
