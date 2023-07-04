@@ -9,7 +9,7 @@ and [written 1.000,000 words on a public Obsidian](https://brain.louis030195.com
 - In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava), aligned with my desire to reduce the friction between our physical and digital mind. This was part of [Buildspace n&ws2](https://buildspace.so).
 - Now building [Embedbase](https://embedbase.xyz)
 
-## 🔗 [Links](https://brain.louis030195.com/Links)
+## 🔗 Links
 
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
