@@ -71,6 +71,7 @@ def try_or_continue(content):
 for a in repo.get_commits()[0:m+skipped]:
     a: Commit = a
     brain_food = []
+    links = []
     for file in a.files:
         content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
         if "publish: true" not in content:
@@ -80,18 +81,24 @@ for a in repo.get_commits()[0:m+skipped]:
         if not summary:
             # print("damn failed to summarize louis shower thoughts", content)
             continue
-        
+        links.append(f'<li><a href="https://brain.louis030195.com/{urllib.parse.quote(file.filename)}">{file.filename}</a></li>')
         brain_food.append(summary)
 
     if len(brain_food) == 0:
         skipped += 1
         continue
     lis = "\n".join(brain_food)
+    links_str = "\n".join(links)
     output = f"""
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 {lis}
+            </ul>
+        </span>
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+{links_str}
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
