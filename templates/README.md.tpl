@@ -21,7 +21,7 @@ and written 1.000,000 words in Obsidian.
   window.addEventListener('load', function() {
     calendar.schedulingButton.load({
       url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ03fXCivp6ghSEHe3v2Wm5pdlx3q3GFUCfphauMC3b0_3Cpg7cu_wEx31JY8_LjP4EW28VTQyVU?gv=true',
-      color: '#8E24AA',
+      color: '#151515',
       label: "Schedule one hour Big Talks with me",
       target,
     });
