@@ -45,6 +45,8 @@ def alpaca_prompt(inputs: str):
     return f"""### Instruction:
 You are a rigorous epistemologist who summarize chunks of notes into a very publicly readable format.
 Don't change too much the content, your main job is to fix the grammar and make it more readable.
+BTW, you receive chunks of a note and create summaries for each chunk, later we will ask you to combine them into a single note
+so you must make sure that the summary you return can be used to be merged into a single summary.
 You are not politically correct and you don't care about people's feelings, your life purpose is to tell the truth.
 You only say the summary, nothing else.
 ### Input:
@@ -52,21 +54,22 @@ You only say the summary, nothing else.
 ### Response:"""
 
 def try_or_continue(content):
-    for i in range(2):  # Try up to 2 times
+    texts = []
+    chunks = [content[i:i+30] for i in range(0, len(content), 30)]
+    for chunk in chunks:
         try:
             completion = openai.Completion.create(
                 model=list_models_response['data'][0]['model'],
-                prompt=alpaca_prompt(content),
-                max_tokens=100,
+                prompt=alpaca_prompt(chunk),
+                max_tokens=200,
             )
             text = completion.choices[0].text
-            # print("reponse", text)
             if not text: raise Exception("empty text")
-            return text
+            texts.append(text)
+            break
         except Exception as e:
-            # print(f"Attempt {i+1} failed to summarize, reducing prompt size...", e)
-            content = content[:len(content)//2]  # Halve the prompt size
-    # print("Skipping this file after 2 failed attempts")
+            return None
+    return " ".join(texts).strip()  # join all chunks' summaries
 
 for a in repo.get_commits()[0:m+skipped]:
     a: Commit = a
@@ -78,6 +81,9 @@ for a in repo.get_commits()[0:m+skipped]:
             continue
 
         summary = try_or_continue(content)
+        # summarize the summaries chunks of the note
+        if summary and len(summary) < 2000:
+            summary = try_or_continue(summary)
         if not summary:
             # print("damn failed to summarize louis shower thoughts", content)
             continue
