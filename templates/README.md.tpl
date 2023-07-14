@@ -8,29 +8,7 @@ and written 1.000,000 words in Obsidian.
 - I also founded an AI startup that became a 5 figure business in only a few months and got into in the latest [Techstars](https://techstars.com) batch.
 - In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava), aligned with my desire to reduce the friction between our physical and digital mind. This was part of [Buildspace n&ws2](https://buildspace.so).
 - Later I joined [OrangeDAO](https://orangedao.xyz) fellowship, building [Embedbase](https://embedbase.xyz)
-- Today I am part of [Buildspace on-site in SF for 3 months](https://buildspace.so)
-
-[🌱 Something is budding](https://motley-ai.vercel.app/), [what do you think?](https://www.admonymous.co/louis030195)
-
-<!-- Google Calendar Appointment Scheduling begin -->
-<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
-<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
-<script>
-(function() {
-  var target = document.currentScript;
-  window.addEventListener('load', function() {
-    calendar.schedulingButton.load({
-      url: 'https://calendar.google.com/calendar/appointments/schedules/AcZssZ03fXCivp6ghSEHe3v2Wm5pdlx3q3GFUCfphauMC3b0_3Cpg7cu_wEx31JY8_LjP4EW28VTQyVU?gv=true',
-      color: '#151515',
-      label: "Schedule one hour Big Talks with me",
-      target,
-    });
-  });
-})();
-</script>
-<!-- end Google Calendar Appointment Scheduling -->
-
-Or to discuss other stuff, DM me on Discord or Twitter at *louis030195*.
+- I am now student in [Buildspace on-site in SF for 3 months](https://buildspace.so) - **Building something new**
 
 ## 🔗 Links
 
