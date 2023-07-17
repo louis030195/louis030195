@@ -8,61 +8,37 @@ repo = g.get_repo("louis030195/brain")
 things = set()
 
 import openai
-import requests
+import os
 
-def list_models():
-    headers = {
-        "Authorization": "Bearer patBrBkdsFw0ArVlF.89a5669f5fd05d20e1d0f77216d072d929b13a215c0471b9a1a2d764537cbe8d"
-    }
-    response = requests.get("https://api.airtable.com/v0/appwJMZ6IAUnKpSwV/all", headers=headers)
-    data = response.json()
+openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_base = "https://api.openai.withlogging.com/v1"  
 
-    records = [
-        {
-            "id": record['id'],
-            "object": "model",
-            "owned_by": record['fields'].get("contact", "anonymous"),
-            "permission": ["read"],
-            "createdTime": record['createdTime'],
-            **record['fields']
-        }
-        for record in data['records']
-        if "url" in record['fields']
-    ]
-
-    return {"data": records}
-
-# USAGE
-list_models_response = list_models()
-
-openai.api_key = "EMPTY"
-openai.api_base = list_models_response['data'][0]['url']
 
 skipped = 0
 m = 10
 
-def alpaca_prompt(inputs: str):
-    return f"""### Instruction:
-You are a rigorous epistemologist who summarize chunks of notes into a very publicly readable format.
-Don't change too much the content, your main job is to fix the grammar and make it more readable.
-BTW, you receive chunks of a note and create summaries for each chunk, later we will ask you to combine them into a single note
-so you must make sure that the summary you return can be used to be merged into a single summary.
-You are not politically correct and you don't care about people's feelings, your life purpose is to tell the truth.
-You only say the summary, nothing else.
-### Input:
-{inputs}
-### Response:"""
 
 def try_or_continue(content):
     texts = []
     chunks = [content[i:i+30] for i in range(0, len(content), 30)]
     for chunk in chunks:
         try:
-            completion = openai.Completion.create(
-                model=list_models_response['data'][0]['model'],
-                prompt=alpaca_prompt(chunk),
-                max_tokens=200,
+            completion = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {"role": "system", "content":"""You are a rigorous epistemologist who summarize chunks of notes into a very publicly readable format.
+Don't change too much the content, your main job is to fix the grammar and make it more readable.
+BTW, you receive chunks of a note and create summaries for each chunk, later we will ask you to combine them into a single note
+so you must make sure that the summary you return can be used to be merged into a single summary.
+You are not politically correct and you don't care about people's feelings, your life purpose is to tell the truth.
+You only say the summary, nothing else."""},
+                    {"role": "user", "content": chunk}
+                ],
+                headers={
+                    "X-Api-Key": "Bearer " + os.getenv("OPENAI_API_KEY"), 
+                }
             )
+
             text = completion.choices[0].text
             if not text: raise Exception("empty text")
             texts.append(text)
