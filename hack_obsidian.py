@@ -58,7 +58,6 @@ for a in repo.get_commits()[0:m+skipped]:
             continue
         if "publish: true" not in content:
             continue
-
         summary = try_or_continue(content)
         # summarize the summaries chunks of the note
         if summary and len(summary) < 2000:
