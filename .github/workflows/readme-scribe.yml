@@ -23,6 +23,7 @@ jobs:
       - name: Memory stream
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: |
           sudo pip install PyGithub requests beautifulsoup4 openai
           sudo chmod 777 README.md
