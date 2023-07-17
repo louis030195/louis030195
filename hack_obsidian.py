@@ -52,7 +52,10 @@ for a in repo.get_commits()[0:m+skipped]:
     brain_food = []
     links = []
     for file in a.files:
-        content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
+        try:
+            content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
+        except:
+            continue
         if "publish: true" not in content:
             continue
 
