@@ -54,32 +54,34 @@ for a in repo.get_commits()[0:m+skipped]:
     for file in a.files:
         try:
             content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
-        except:
+        except Exception as e:
+            # print("damn failed to get content", file.filename, e)
             continue
         if "publish: true" not in content:
             continue
-        summary = try_or_continue(content)
+
+        # summary = try_or_continue(content)
         # summarize the summaries chunks of the note
-        if summary and len(summary) < 2000:
-            summary = try_or_continue(summary)
-        if not summary:
+        # if summary and len(summary) < 2000:
+            # summary = try_or_continue(summary)
+        # if not summary:
             # print("damn failed to summarize louis shower thoughts", content)
-            continue
+            # continue
         links.append(f'<li><a href="https://brain.louis030195.com/{urllib.parse.quote(file.filename)}">{file.filename}</a></li>')
-        brain_food.append(summary)
+        # brain_food.append(summary)
 
     if len(brain_food) == 0:
         skipped += 1
         continue
-    lis = "\n".join(brain_food)
+    # lis = "\n".join(brain_food)
     links_str = "\n".join(links)
+#     <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+#             <ul>
+# {lis}
+#             </ul>
+#         </span>
     output = f"""
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-{lis}
-            </ul>
-        </span>
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 {links_str}
