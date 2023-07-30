@@ -8,7 +8,7 @@ and written 1.000,000 words in Obsidian.
 - I also founded an AI startup that became a 5 figure business in only a few months and got into in the latest [Techstars](https://techstars.com) batch.
 - In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava) in a month that became a 4 figure business used by 10.000 users. This was part of [Buildspace n&ws2](https://buildspace.so).
 - Later I joined [OrangeDAO](https://orangedao.xyz) fellowship, building [Embedbase](https://embedbase.xyz)
-- I am now part of [Buildspace SF1](https://buildspace.so/sf1) - **[Exploring brain-computer interfaces](https://publish.obsidian.md/mneme)**
+- I am now part of [Buildspace SF1](https://buildspace.so/sf1) - **[Exploring brain-computer interfaces](https://mediar.ai)**
 
 ## 🔗 Links
 
