@@ -49,15 +49,17 @@ You only say the summary, nothing else."""},
 
 for a in repo.get_commits()[0:m+skipped]:
     a: Commit = a
-    brain_food = []
+    # brain_food = []
     links = []
     for file in a.files:
+        # print(file.filename)
         try:
             content = repo.get_contents(file.filename, ref=a.sha).decoded_content.decode('utf-8', errors='replace')
         except Exception as e:
             # print("damn failed to get content", file.filename, e)
             continue
         if "publish: true" not in content:
+            # print("skipping", file.filename, content)
             continue
 
         # summary = try_or_continue(content)
@@ -70,7 +72,7 @@ for a in repo.get_commits()[0:m+skipped]:
         links.append(f'<li><a href="https://brain.louis030195.com/{urllib.parse.quote(file.filename)}">{file.filename}</a></li>')
         # brain_food.append(summary)
 
-    if len(brain_food) == 0:
+    if len(links) == 0:
         skipped += 1
         continue
     # lis = "\n".join(brain_food)
