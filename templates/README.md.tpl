@@ -3,7 +3,7 @@
 
 Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 
-My Ikigai: I seek to employ AI as a lever, to maximize the potential of the most intricate entity in our universe - the human mind.
+My Ikigai: I seek to employ AI as a lever, to maximize the potential of the most intricate entity in our universe - the human mind. **I want to reduce the friction between our physical and digital mind**
 
 In 2022 I [made 7000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
