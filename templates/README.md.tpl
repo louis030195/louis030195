@@ -3,8 +3,6 @@
 
 Hi, I'm Louis, I am a carbon-based bipedal life form descended from an 🐒.
 
-My Ikigai: I seek to employ AI as a lever, to maximize the potential of the most intricate entity in our universe - the human mind. **I want to reduce the friction between our physical and digital mind**
-
 In 2022 I [made 7000 contributions on GitHub](https://github.com/louis030195), 
 [read 93 books](https://www.goodreads.com/user/show/103091881-louis-beaumont), 
 and written 1.000,000 words in Obsidian.
@@ -12,6 +10,10 @@ and written 1.000,000 words in Obsidian.
 - In 2023, I built [An AI assistant for Obsidian](https://github.com/louis030195/obsidian-ava) in a month that became a 4 figure business used by 10.000 users. This was part of [Buildspace n&ws2](https://buildspace.so).
 - Later I joined [OrangeDAO](https://orangedao.xyz) fellowship, building [Embedbase](https://embedbase.xyz)
 - I am now part of [Buildspace SF1](https://buildspace.so/sf1) - **[Exploring brain-computer interfaces](https://mediar.ai)**
+
+## 🗺️ Cheatsheet - The Hitchhiker guide to louis030195
+
+<iframe src="https://link.excalidraw.com/readonly/Vle2esPYM9VKdkOM5dpk" width="100%" height="600px" style="border: none;"></iframe>
 
 ## 🔗 Links
 
