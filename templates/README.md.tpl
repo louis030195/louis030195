@@ -18,7 +18,8 @@ and written 1.000,000 words in Obsidian.
 ## 🔗 Links
 
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
-- [**brain.louis030195.com**: My second brain](https://brain.louis030195.com)
+- [**lightbrain.louis030195.com**: The near side of my second brain](https://lightbrain.louis030195.com)
+- [**brain.louis030195.com**: The dark side of second brain](https://brain.louis030195.com)
 - [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
 - [**twitter.com**: Twitter](https://twitter.com/@louis030195)
