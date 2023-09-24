@@ -58,7 +58,7 @@ for a in repo.get_commits()[0:m+skipped]:
         except Exception as e:
             # print("damn failed to get content", file.filename, e)
             continue
-        if "publish: true" not in content:
+        if "publish: true" not in content or "Louis/" in file.filename or "CRM/" in file.filename:
             # print("skipping", file.filename, content)
             continue
 
