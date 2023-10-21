@@ -12,6 +12,8 @@ and written 1.000,000 words in Obsidian.
 - I just finished [Buildspace SF1](https://buildspace.so/sf1)
 - Working on something new 👨‍🚀... 
 
+[🐒 Follow my journey into the start-up zoo.](https://substack.com/@louis030195?utm_source=profile-page)
+
 ## 🗺️ Cheatsheet - The Hitchhiker guide to louis030195
 
 <iframe src="https://link.excalidraw.com/readonly/Vle2esPYM9VKdkOM5dpk" width="100%" height="600px" style="border: none;"></iframe>
