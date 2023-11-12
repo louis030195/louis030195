@@ -30,6 +30,10 @@ and written 1.000,000 words in Obsidian.
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: LinkedIn](https://www.linkedin.com/in/louis030195)
 
+## 🧠 My Personal Knowledge Management System
+
+<iframe src="https://link.excalidraw.com/readonly/DviU0fJZwiBdSiakPikb" width="100%" height="600px" style="border: none;"></iframe>
+
 ## 🌊 My memory stream
 
 **Here is a list of some of my inputs and outputs, my memory stream.**
