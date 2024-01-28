@@ -1,20 +1,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 # [louis030195.com](https://louis030195.com) 🤔
 
-Louis, is a carbon-based bipedal life form descended from an 🐒.
-
-Louis is a Techstars 22 alumni, he is also a OrangeDAO.xyz f1 and buildspace.so/sf1 fellow.
-Louis has previously worked for the French CIA and in the cloud industry and has been building LLM-powered products since 2019.
-
-Louis is a generalist, both graduate and self-taught, thanks to reading 100 non-fiction books a year and a deep passion and bias-to-action for technology.
-
-I first learned to use a computer and speak English at the age of 8, doing business on online games. I quickly owned a four figures business through bots that would earn while I was sleeping.
-
-Early on, I had to face the harsh realities of life and was diagnosed with leukemia at the age of 13. I spent my time in hospital learning how to cheat in games through programming. I would reverse engineer games and inject Assembly/c++ code into the client code. Later on I preferred relying on network-based hacks.
-
-This childhood experience led me to entrepreneurship, among many other adventures, driven by a deep desire to transcend human experience through technology.
-
-Louis is currently working on a stealth startup.
+Louis is an evolved 🐒.
 
 ## 🗺️ Cheatsheet - The Hitchhiker guide to louis030195
 
