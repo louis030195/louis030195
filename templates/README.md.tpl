@@ -3,10 +3,6 @@
 
 Carbon-based intelligence 🐒. Working on my 3rd AI startup (top secret 🕵️).
 
-## 🗺️ Cheatsheet - The Hitchhiker guide to louis030195
-
-<iframe src="https://link.excalidraw.com/readonly/BZRSRgsoF8sPs6Qcw4Tg" width="100%" height="600px" style="border: none;"></iframe>
-
 ## 🔗 Links
 
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
