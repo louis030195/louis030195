@@ -1,7 +1,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 # [louis030195.com](https://louis030195.com) 🤔
 
-Louis is an evolved 🐒. Working on my 3rd AI startup (top secret 🕵️).
+Carbon-based intelligence 🐒. Working on my 3rd AI startup (top secret 🕵️).
 
 ## 🗺️ Cheatsheet - The Hitchhiker guide to louis030195
 
