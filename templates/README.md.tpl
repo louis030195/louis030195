@@ -1,7 +1,7 @@
 <link rel="shortcut icon" href="/favicon.ico">
 # [louis030195.com](https://louis030195.com) 🤔
 
-Carbon-based intelligence 🐒. Working on my 3rd AI startup (top secret 🕵️).
+Carbon-based intelligence 🐒. 
 
 ## 🔗 Links
 
