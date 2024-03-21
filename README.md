@@ -28,7 +28,18 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          That’s called consequentialism, by the way, it means that whether an act is right or wrong isn’t determined by whether it looks bad, or mean, or anything like that, the only question is how it will turn out in the end—what are the consequences.
+          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          NEO: I’ve kept quiet for as long as I could, but I feel a certain need to speak up at this point. The human body is the most inefficient source of energy you could possibly imagine. The efficiency of a power plant at converting thermal energy into electricity decreases as you run the turbines at lower temperatures. If you had any sort of food humans could eat, it would be more efficient to burn it in a furnace than feed it to humans. And now you’re telling me that their food is the bodies of the dead, fed to the living? Haven’t you ever heard of the laws of thermodynamics?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -39,33 +50,12 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How Do You Assess the Judgment of Founders?
-
-Summary:
-How do you assess the judgment of founders not assessing the idea? So i see there's two categories of, two categories of founders, two, two ways to do this. You can look at the work that they've done, and again, on this, it's not that you're necessarily looking for the track recordf like, the level of success per se,. Although, you know, is is napole, was it napoleon?You'd rather have a lucky genetle than a smart general. Ah, the reality is, the kids that make new things from scratch, it actually turns out that they actually have been deep in domain for a long time. In almost every case
-
-Transcript:
-Speaker 2
-How do you assess the judgment of founders not assessing the idea, how do you assess the judgment? Yes.
-
-Speaker 1
-So i see there's two categories of, two categories of founders, two, two ways to do this. So they're sort of, you know, they're sort of, there's the ones who done it before, right? Ah, and so the ones, youknow, the ones that weare, this is their second or third or fourth time starting a company. Ah, you know, with them you have this just obviously enormous advantage, which as you can basically look at the work that they've done, youkno's like anybody else i's done, you now, who now has its recrecord. You can look at the work that they've done, and again, on this, it's not that you're necessarily looking for the track recordf like, the level of success per se, right? Although, you know, is is napole, was it napoleon? Youd ratht youa, you'd rather have a lucky genetle than a smart general. So, like, you know, somebody who's had a highly successful company once, right? As has, youknow, people has an enormous benefit of the doubt when they walk in the door, for for obvious reasons. Ah, but, you know, but even people who haven't had a big success before, it's like, hoket. You can look at kind of how they did the work, right? And so you can look it like, you know, you know, how did they prosecute the opportunity? You know, a the previous time? You know, you can talk to the people riht tho, they worked with syc. You know, how were they under pressure? How were they in terms of like, inventiveness? How were they in terms of, you know, presino persistence? You know, how did, how did they make the decision about when to give up, right? You know, er wen, something simply wasn't ging to work, and so forth. An se you can kind of, youknow, youcan, you can kind of learn from their experience. You know, the harder one is somebody brand new, right? The harder one is somebody shows up, you no, right? At a college or something, or, you know, you don't these days, right? The ultimate golden credential as they got admitted to a topp at school thand dropped out after one day, aso so a, you know, it sort of the kid, right? And of course, you now, i say kid because you don't part, i think it myself, cause, o know that this was me at one point. And look, a lot of the real breakthrough companies that lot of the big franchises, you know, mark eckerberg had not had a job before he started facebook, right? Like, you know, theg guys came straght out to stamford, andb youno stamford, the pt programme, and so forth, and so on. The bilgaesta bot the collegeah, and so, you know, a af lot of times these these big breakthrough companies are people at, you know, they have n't recorecord, like, their track record. Let you know, you could ask for their hist quilt, you knowche p something, but, likee there's no track record, right? Ah, and so the're, you're kind of, you know, evaluating, you know, genovo. And i think they're what we do. The clache is basically, right that it's, youknow, some kid with some crazy idea, and that some crazy musique is wit om money, and, you know, some miracle happens, and, oh, my god, you know, what a weird, ou know, non reproducible thing, or whatever. Ah, the reality is, the kids that make new things work from scratch, it actually turns out that they actually have been deep in the domain for a long time. In almost every case, they've been thinking hard about the problem that they're trying to solve, shi, in a lot of cases, for many years. Ah, and whe that actually means, you no, tat, this is actually really kind of interesting. And maybe soffrs kind of this, you be kind of ario like this. But, you know, as a consequence, you like n soffer, you can have a 21 year old whos specially been a professional level programe for ten years, right? Because, you know, you can trace it back. Andtis like, well, n we hear the story all the time. It's like, well, the specific story hereall the time. You know, i really loved video games, right? And so therefore, right when i was, you know, 11 or 12, i now learned how to code so that i could figure out how to, ike, make my own video games. Based on that, i found it really interesting how, you know, for example, clans or tribes form inside games. And so when i was in high school, i built this ap that, you know, did people matching for whatever world o work aft, you know, guilds or whatever it is. Um. And then, you know, in college, i got into recomputer science, and then i did this project, which is to do this new kind of social networking ap um. And now i've been thinking about that, a building that for the last five years, and now here i am. And now, you know, after ten years of thinking about this, now year's my new social notworking idea, right? Like that. This is not a rare thing, literally, they've been thinking about this now, for you now, tha, we tink about the specific thing for five years, andr the general kind of pattern or category forli ten years. And of course, you know, for things, you know, this, of course, is heavily biased ors domains in which kids get to participate, right? And so that this is less true. And, you know, anything in, you know, there's lots of areas, you know, there's lots of various in technology, wherea 11 year old are not working on it, but they're errieris increasingly where they are. Ah, and so and so basically, it's basid what we call the idea mas esbacialy, the back story. Ah, it's what have they done in the past to really kind of reason their way through? And often, and often, you littre at people who have been, like, writing prototypes and allow tht time ou aseully people who have running code at that point, right? And then it's like, ok, now you're dealing with somebody where, yes, theyre, on the surface, the're 21. In reality, there re aready five or ten years end of the journey. Ah, ten. You're like, ok, now i get it. Now i have somebody whois like a primal creative force who's actualy liketaly thought deeply about this. And so it's a son sots, it's a, it's a much safer bet than it looks.
+          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#129 Marc Andreessen —  Interview With an Icon</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your instinctive willingness to believe something will change along with your willingness to afliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to afliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -84,6 +74,20 @@ So i see there's two categories of, two categories of founders, two, two ways to
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190324</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
 <li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
             </ul>
@@ -99,7 +103,7 @@ So i see there's two categories of, two categories of founders, two, two ways to
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -128,26 +132,12 @@ So i see there's two categories of, two categories of founders, two, two ways to
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200324</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190324</p>
             </div>
         </div>
     </div>
