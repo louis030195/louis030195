@@ -28,34 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Our task today is to find singular ways to create the new things that will make the future not just different, but better to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
+          use Warren Buffett’s criteria for assessing the team: Intelligence, Integrity and Energy. You want someone who is really smart, very hardworking, and trustworthy. A lot of people forget the integrity part, but if you don’t have that, then you have a really hardworking crook, and they will find a way to cheat you.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their ideas as they developed them. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
+          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Founders at Work</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jessica Livingston</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
@@ -71,6 +71,21 @@ Carbon-based intelligence 🐒.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Beff%20Jezos%20-%20Notes%20on%20EAcc%20Principles%20and%20Tenets.md">Readwise/Articles/Beff Jezos - Notes on EAcc Principles and Tenets.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290324</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -127,36 +142,21 @@ Carbon-based intelligence 🐒.
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Beff%20Jezos%20-%20Notes%20on%20EAcc%20Principles%20and%20Tenets.md">Readwise/Articles/Beff Jezos - Notes on EAcc Principles and Tenets.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290324</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
 ### 📚 Books Louis is reading
 
+-   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - Sun Mar 31 05:37:58 -0700 2024
+-   **Niall Ferguson**  - [The House of Rothschild, Vol 2: The World&#39;s Banker 1849-1999](https://www.goodreads.com/book/show/173746.The_House_of_Rothschild_Vol_2) - Sun Mar 31 05:36:25 -0700 2024
+-   **Niall Ferguson**  - [The House of Rothschild, Vol 1: Money&#39;s Prophets, 1798-1848](https://www.goodreads.com/book/show/173745.The_House_of_Rothschild_Vol_1) - Sun Mar 31 05:36:16 -0700 2024
+-   **Mustafa Suleyman**  - [The Coming Wave: Technology, Power, and the Twenty-first Century&#39;s Greatest Dilemma](https://www.goodreads.com/book/show/90590134-the-coming-wave) - Sun Mar 31 05:05:44 -0700 2024
 -   **Ray Kurzweil**  - [The Singularity is Nearer](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) - Sun Mar 31 05:02:21 -0700 2024
 -   **Benjamin Graham**  - [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - Sat Mar 23 20:09:38 -0700 2024
 -   **James H. Austin**  - [Chase, Chance, and Creativity: The Lucky Art of Novelty](https://www.goodreads.com/book/show/1147920.Chase_Chance_and_Creativity) - Thu Mar 14 05:50:26 -0700 2024
 -   **Rudolf Carnap**  - [The Logical Syntax of Language](https://www.goodreads.com/book/show/163785.The_Logical_Syntax_of_Language) - Mon Mar 11 23:57:19 -0700 2024
 -   **Will Durant**  - [The Story of Philosophy: The Lives and Opinions of the World&#39;s Greatest Philosophers](https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy) - Mon Mar 11 23:55:31 -0700 2024
 -   **Mark Manson**  - [Models: Attract Women Through Honesty](https://www.goodreads.com/book/show/12633800-models) - Mon Mar 11 23:55:23 -0700 2024
--   **Wen-Mei W. Hwu**  - [GPU Computing Gems Emerald Edition (Applications of GPU Computing Series)](https://www.goodreads.com/book/show/9255421-gpu-computing-gems-emerald-edition) - Mon Mar 11 23:52:49 -0700 2024
--   **Anonymous**  - [The Epic of Gilgamesh](https://www.goodreads.com/book/show/19351.The_Epic_of_Gilgamesh) - Thu Mar 07 23:01:59 -0800 2024
--   **Kapil Gupta**  - [Overcoming The World](https://www.goodreads.com/book/show/86801952-overcoming-the-world) - Sun Mar 03 11:38:15 -0800 2024
--   **Reid Hoffman**  - [Blitzscaling: The Lightning-Fast Path to Building Massively Valuable Companies](https://www.goodreads.com/book/show/38398157-blitzscaling) - Fri Mar 01 02:18:26 -0800 2024
 
 ### ✍ Recent book reviews
 
