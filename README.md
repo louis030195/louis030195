@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are many kinds of eyes. Even the Sphinx has eyes—therefore there must be many kinds of "truths," and consequently there can be no truth.
+          The Most Dangerous Things Are Heroine And A Monthly Salary
+
+Summary:
+People who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. Once you make a little bit of money, you still want to be living like your old self so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. It just gives you freedom of operation.
+
+Transcript:
+Speaker 1
+Yet, there are two tweets that i put out that are related. So the first i must talk about ber somewat ahout your life style in nowat has to upgrade. Shouldn't get up grater too fast. And that one ad people who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. And it just gives you freedom of operation. Once you make a little bit of money, you still want to be living like your old self, so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. The problem is that when you go into a work life style like that, you don't just suddenly go from making 20 dollars an hour to making a thousand dollars an hour. That's a progression over a long career. And as that happens, one subtle problem is that you upgrade your life style as you make more and more money. And that upgrading of the life style ups what you consider to be wealth, and you stay in this wage slave trap. So i forget who said it, maybe it was nasin tolet, but he said, you know, the most dangerous things are heroine and a monthly salary, right? Because they are highly indictive. The way you want to get wealthy is you want to be poor and working and working and working. And this is, for example, how the tech industry works, where you don't make any money for ten years, and then suddenly, in year 11, you might have a giant pay day. Which is what, by the way, one reason why these very high marginal tax straits for the so called wealthy are flawed sthe highest risk taking most creative professions literally lose money for a decade of your life while you take massive risks, and you bleed and bleed and bleed, and then suddenly, in year 11, or you're 15, you might have one single big payday. But then, of course, uncle sam show up and say, hey, you know what? You just made a lot of money this year. Therefore you're rich, therefore you're evil, and you got to hand it all over to us. So he just destroys those kinds of creative, risk taking professions. But ideally, you want to make your money in discreet lumps, separated over long periods of time so that your own life style does not have a chance to adapt quickly.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Get Rich —  Every Episode</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
+          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
+<p style="margin-bottom: 0; color: #9f8e7d">None</p>
 </div>
 </div>
 </div>
@@ -71,21 +78,6 @@ Carbon-based intelligence 🐒.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
-<li><a href="https://brain.louis030195.com/The%20Bible.md">The Bible.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010424</p>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -105,11 +97,12 @@ Carbon-based intelligence 🐒.
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 310324</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010424</p>
             </div>
         </div>
     </div>
@@ -132,13 +125,27 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+<li><a href="https://brain.louis030195.com/The%20Bible.md">The Bible.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Mark%20Manson%20-%20Models%20-%20Attract%20Women%20Through%20Honesty.md">Readwise/Books/Mark Manson - Models - Attract Women Through Honesty.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 310324</p>
             </div>
         </div>
     </div>
