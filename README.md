@@ -28,33 +28,33 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Significant figures (also known as the significant digits, precision or resolution) of a number in positional notation are digits in the number that are reliable and necessary to indicate the quantity of something.  If a number expressing the result of a measurement (e.g., length, pressure, volume, or mass) has more digits than the number of digits allowed by the measurement resolution, then only as many digits as allowed by the measurement resolution are reliable, and so only these can be significant figures.
+          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Significant Figures - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Lax–Friedrichs method, named after Peter Lax and Kurt O. Friedrichs, is a numerical method for the solution of hyperbolic partial differential equations based on finite differences. The method can be described as the FTCS (forward in time, centered in space) scheme with a numerical dissipation term of 1/2. One can view the Lax–Friedrichs method as an alternative to Godunov's scheme, where one avoids solving a Riemann problem at each cell interface, at the expense of adding artificial viscosity.
+          In reflecting upon the part played by chance in the development of new concepts, he recalled the story of the three princes of Serendip who set out to find some interesting object on a journey through their realm. They did not find the particular object of their search, but along the way they discovered many new things simply because they were looking for something.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Lax–Friedrichs Method - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Men, Machines, and Modern Times</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Morison, Elting Elmore</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A formidable person is one who seems like they'll get what they want, regardless of whatever obstacles are in the way. Formidable is close to confident, except that someone could be confident and mistaken. Formidable is roughly justifiably confident.
+          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Convince Investors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
@@ -88,21 +88,6 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Beff%20Jezos%20-%20Notes%20on%20EAcc%20Principles%20and%20Tenets.md">Readwise/Articles/Beff Jezos - Notes on EAcc Principles and Tenets.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290324</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
             </ul>
         </span>
@@ -124,6 +109,21 @@ Carbon-based intelligence 🐒.
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Beff%20Jezos%20-%20Notes%20on%20EAcc%20Principles%20and%20Tenets.md">Readwise/Articles/Beff Jezos - Notes on EAcc Principles and Tenets.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Poor_Charlies.md">Readwise/Articles/readwise.io - Poor_Charlies.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 290324</p>
             </div>
         </div>
     </div>
