@@ -28,7 +28,25 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Money is a side effect of specialization. In a specialized society, most of the things you need, you can’t make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
+          The Principal Agent Problem
+
+Summary:
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
+
+Transcript:
+Speaker 1
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principal-Agent Problem —  Act Like an Owner</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Economically, you can think of a startup as a way to compress your whole working life into a few years. Instead of working at a low intensity for forty years, you work as hard as you possibly can for four.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -39,23 +57,12 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
+          You don’t have to make the mind quiet. If you end all conflict, the mind naturally becomes quiet. And when the mind is absolutely silent, without any movement of thought, then perhaps you will see something, perhaps there is something sacred beyond all words. And this man has sought everlastingly, something that is beyond measure, beyond thought, which is incorruptible, unnameable, eternal. That can only take place when the mind is absolutely free and completely silent
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
