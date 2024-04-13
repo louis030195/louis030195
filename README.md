@@ -28,34 +28,43 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A company that could pay all its employees so straightforwardly would be enormously successful. Many employees would work harder if they could get paid for it. More importantly, such a company would attract people who wanted to work especially hard. It would crush its competitors.
+          A popular belief about “rationality” is that rationality opposes all emotion—that all our sadness and all our joy are automatically anti-logical by virtue of being feelings. Yet strangely enough, I can’t find any theorem of probability theory which proves that I should appear ice-cold and expressionless.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Feeling Rational - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">lesswrong.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In companies, you have a dictator at the top, a CEO, or the founders. Then all of a sudden it turns back into a butterfly network, and now you report to a board, a bunch of people. And inherently, the founder-dictators tend to be very risk-prone. They have a lot of vision, they have a lot of drive, they know where they want to take the thing. They like to make risky moves and bets and pivots and turns. But boards don’t like that. Boards don’t like to be dragged along. It’s a group of people. It’s groupthink, it’s committee-think. No committee ever built anything great. So related to that, no board ever built anything great. Boards can be helpful; they can be sounding boards. But you do not want the board to be running the company. And the larger the board, the more you’re going to find yourself spending time just keeping them up-to-date and in sync.
+          Cryptocurrency Blockchain Web Three Is Following This Exact Trajectories
+
+Key takeaways:
+- Morrison derives a threestep process for how new technologies are received by the status quo.
+- Stage one is just ignoring the technology, while stage two is engaging in rational counter arguments.
+- Stage three is when the name calling begins, with opponents accusing the technology of being bad for society.
+
+Transcript:
+Speaker 1
+And so Morrison basically derives, he goes through this example, and he derives basically this three part process that he says applies to any new technology. Basically, as it is as it is greeted and fought by the status quo by the powers it be. And he says basically, it's a three step process. The step one is just completely ignore it. Like, so just pretend it doesn't exist, refuse to acknowledge it, don't talk about it, don't even engage in conversations like we're just not going to do this. At some point though, at some point, these things become too obvious and they have to engage. She said step two is rational counter argument, right? So, and rational counter argument is this can't possibly work because, you know, it's going to be too expensive. It's not going to be fast enough. It's not going to scale. People don't know how to use it. All the different kind of rational arguments that you can come up with to oppose something. And then ultimately, when those don't work anymore, because people are still watching this and being like, okay, this still seems like a good idea. Then he says stage three is when the name calling begins. And so stage three is basically just like a full out power status political fight where all of a sudden basically it's like, okay, these are these people who are bringing this technology, they're bad people, they have bad morals, they have bad intent, they're going to ruin everything. And if you think about it, it's so funny because it's like basically the internet followed this exact trajectory. Like, you know, crypto cryptocurrency blockchain web three is following this exact same trajectory social networking follows this exact same trajectory. Like, I've now seen this pattern, you know, out of 50 times in the last 30 years and it keeps playing out the same way. Nobody learns anything. Right. And it is this is literally what happens with every new technology and I become convinced that basically how this unfolds.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
+          When there’s a confusing problem and you’re just starting out and you have a falsifiable hypothesis, go test it. Find some simple, easy way of doing a basic check and do it right away. Don’t worry about designing an elaborate course of experiments that would make a grant proposal look impressive to a funding agency.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -74,7 +83,7 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -88,7 +97,7 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
