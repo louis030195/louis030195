@@ -28,41 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The stationary-action principle – also known as the principle of least action – is a variational principle that, when applied to the action of a mechanical system, yields the equations of motion for that system. The principle states that the trajectories (i.e. the solutions of the equations of motion) are stationary points of the system's action functional. The term "least action" is a historical misnomer since the principle has no minimality requirement: the value of the action functional need not be minimal (even locally) on the trajectories.
+          Monopoly is the condition of every successful business
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Stationary-Action Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">configuration space</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What is Success for You?
-
-Summary:
-Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
-
-Transcript:
-Speaker 1
-Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
+          So the question arises: Is the mind mechanical? That is, in your mind, are your thoughts, your feelings, your reactions, your responsibilities, your relationships, your ways, your opinions, and so on, merely mechanical; that is, responding according to conditioning, according to environmental influence? If that is the totality of the mind, then we live in a tremendous, inescapable prison
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
@@ -78,33 +71,6 @@ Success for me, for me, is is freedom. And not freedom that has to be given to m
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Founders%20-%20337%20Napoleon%27s%20Maxims%20and%20Strategy.md">Readwise/Podcasts/Founders - 337 Napoleon's Maxims and Strategy.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Geeks%20Who%20Lead%20Podcast%20-%20Short%20Byte%20%E2%80%94%20%20Steven%20Gaffney%20-%20Essential%20Elements%20of%20a%20Consistently%20High%20Achieving%20Team.md">Readwise/Podcasts/Geeks Who Lead Podcast - Short Byte —  Steven Gaffney - Essential Elements of a Consistently High Achieving Team.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Casey%20Halpern%20%E2%80%94%20%20Biology%20%26%20Treatments%20for%20Compulsive%20Behaviors%20%26%20Binge%20Eating.md">Readwise/Podcasts/Huberman Lab - Dr. Casey Halpern —  Biology & Treatments for Compulsive Behaviors & Binge Eating.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Eddie%20Chang%20%E2%80%94%20%20the%20Science%20of%20Learning%20%26%20Speaking%20Languages.md">Readwise/Podcasts/Huberman Lab - Dr. Eddie Chang —  the Science of Learning & Speaking Languages.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Naval%20-%20David%20Deutsch%20%E2%80%94%20%20Knowledge%20Creation%20and%20the%20Human%20Race%20-%20%20Part%201.md">Readwise/Podcasts/Naval - David Deutsch —  Knowledge Creation and the Human Race -  Part 1.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Aarthi%20and%20Sriram%20Show%20-%20Marc%20Andreessen%20on%20Elon%20Musk%20-%20%20Good%20Startup%20Ideas%20-%20%20How%20to%20Have%20the%20Courage%20to%20Think%20Independently%20and%20Finding%20a%20Co-Founder.md">Readwise/Podcasts/The Aarthi and Sriram Show - Marc Andreessen on Elon Musk -  Good Startup Ideas -  How to Have the Courage to Think Independently and Finding a Co-Founder.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20187%20Dr.%20Becky%20Kennedy%20%E2%80%94%20%20the%20One%20Thing%20You%20Can%20Say%20That%20Changes%20Everything.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 187 Dr. Becky Kennedy —  the One Thing You Can Say That Changes Everything.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20189%20Chris%20Davis%20%E2%80%94%20%20Three%20Generations%20of%20Wealth.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 189 Chris Davis —  Three Generations of Wealth.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20191%20Dr.%20Rhonda%20Patrick%20%E2%80%94%20%20Diet%20Essentials%20for%20Healthy%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 191 Dr. Rhonda Patrick —  Diet Essentials for Healthy Living.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat%20%20Startup%20School.md">Readwise/Podcasts/Y Combinator - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat  Startup School.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Inside%20the%20Department%20of%20Defense%20and%20Its%20Vision%20for%20the%20Future.md">Readwise/Podcasts/a16z Podcast - Inside the Department of Defense and Its Vision for the Future.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -136,6 +102,20 @@ Success for me, for me, is is freedom. And not freedom that has to be given to m
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Jehan%20Wickramasuriya%20%E2%80%94%20AI%20in%20High-Stress%20Scenarios.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Jehan Wickramasuriya — AI in High-Stress Scenarios.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Shreya%20Shankar%20%E2%80%94%20Operationalizing%20Machine%20Learning.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Shreya Shankar — Operationalizing Machine Learning.md</a></li>
@@ -154,7 +134,20 @@ Success for me, for me, is is freedom. And not freedom that has to be given to m
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Founders%20-%20337%20Napoleon%27s%20Maxims%20and%20Strategy.md">Readwise/Podcasts/Founders - 337 Napoleon's Maxims and Strategy.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Geeks%20Who%20Lead%20Podcast%20-%20Short%20Byte%20%E2%80%94%20%20Steven%20Gaffney%20-%20Essential%20Elements%20of%20a%20Consistently%20High%20Achieving%20Team.md">Readwise/Podcasts/Geeks Who Lead Podcast - Short Byte —  Steven Gaffney - Essential Elements of a Consistently High Achieving Team.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Casey%20Halpern%20%E2%80%94%20%20Biology%20%26%20Treatments%20for%20Compulsive%20Behaviors%20%26%20Binge%20Eating.md">Readwise/Podcasts/Huberman Lab - Dr. Casey Halpern —  Biology & Treatments for Compulsive Behaviors & Binge Eating.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Eddie%20Chang%20%E2%80%94%20%20the%20Science%20of%20Learning%20%26%20Speaking%20Languages.md">Readwise/Podcasts/Huberman Lab - Dr. Eddie Chang —  the Science of Learning & Speaking Languages.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Naval%20-%20David%20Deutsch%20%E2%80%94%20%20Knowledge%20Creation%20and%20the%20Human%20Race%20-%20%20Part%201.md">Readwise/Podcasts/Naval - David Deutsch —  Knowledge Creation and the Human Race -  Part 1.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Aarthi%20and%20Sriram%20Show%20-%20Marc%20Andreessen%20on%20Elon%20Musk%20-%20%20Good%20Startup%20Ideas%20-%20%20How%20to%20Have%20the%20Courage%20to%20Think%20Independently%20and%20Finding%20a%20Co-Founder.md">Readwise/Podcasts/The Aarthi and Sriram Show - Marc Andreessen on Elon Musk -  Good Startup Ideas -  How to Have the Courage to Think Independently and Finding a Co-Founder.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20187%20Dr.%20Becky%20Kennedy%20%E2%80%94%20%20the%20One%20Thing%20You%20Can%20Say%20That%20Changes%20Everything.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 187 Dr. Becky Kennedy —  the One Thing You Can Say That Changes Everything.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20189%20Chris%20Davis%20%E2%80%94%20%20Three%20Generations%20of%20Wealth.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 189 Chris Davis —  Three Generations of Wealth.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20191%20Dr.%20Rhonda%20Patrick%20%E2%80%94%20%20Diet%20Essentials%20for%20Healthy%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 191 Dr. Rhonda Patrick —  Diet Essentials for Healthy Living.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat%20%20Startup%20School.md">Readwise/Podcasts/Y Combinator - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat  Startup School.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Inside%20the%20Department%20of%20Defense%20and%20Its%20Vision%20for%20the%20Future.md">Readwise/Podcasts/a16z Podcast - Inside the Department of Defense and Its Vision for the Future.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
