@@ -28,43 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Women's bodies evolved to suit the demands of bearing and rearing children and of gathering plant food. Men's bodies evolved to suit the demands of rising in a male hierarchy, fighting over women, and providing meat to a family
+          In companies, you have a dictator at the top, a CEO, or the founders. Then all of a sudden it turns back into a butterfly network, and now you report to a board, a bunch of people. And inherently, the founder-dictators tend to be very risk-prone. They have a lot of vision, they have a lot of drive, they know where they want to take the thing. They like to make risky moves and bets and pivots and turns. But boards don’t like that. Boards don’t like to be dragged along. It’s a group of people. It’s groupthink, it’s committee-think. No committee ever built anything great. So related to that, no board ever built anything great. Boards can be helpful; they can be sounding boards. But you do not want the board to be running the company. And the larger the board, the more you’re going to find yourself spending time just keeping them up-to-date and in sync.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you run a business, you must recognize that no amount of formal
-planning can anticipate such changes. Does that mean you shouldn't plan?
-Not at all. You need to plan the way a fire department plans: It cannot
-anticipate where the next fire will be, so it has to shape an energetic and
-efficient team that is capable of responding to the unanticipated as well as
-to any ordinary event. Understanding the nature of strategic inflection
-points and what to do about them will help you safeguard your company'
-well-being. It is your responsibility to guide your company out of harm's
-way and to place it in a position where it can prosper in the new order.
-Nobody else can do this but you.
+          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Only the Paranoid Survive</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Andrew S. Grove</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -83,20 +74,6 @@ Nobody else can do this but you.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Founders%20-%20337%20Napoleon%27s%20Maxims%20and%20Strategy.md">Readwise/Podcasts/Founders - 337 Napoleon's Maxims and Strategy.md</a></li>
@@ -111,6 +88,48 @@ Nobody else can do this but you.
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20191%20Dr.%20Rhonda%20Patrick%20%E2%80%94%20%20Diet%20Essentials%20for%20Healthy%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 191 Dr. Rhonda Patrick —  Diet Essentials for Healthy Living.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat%20%20Startup%20School.md">Readwise/Podcasts/Y Combinator - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat  Startup School.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Inside%20the%20Department%20of%20Defense%20and%20Its%20Vision%20for%20the%20Future.md">Readwise/Podcasts/a16z Podcast - Inside the Department of Defense and Its Vision for the Future.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Benchmark%20Part%20I.md">Readwise/Podcasts/Acquired - Benchmark Part I.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nvidia%20Part%20II%20%E2%80%94%20%20the%20Machine%20Learning%20Company.md">Readwise/Podcasts/Acquired - Nvidia Part II —  the Machine Learning Company.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Dwarkesh%20Podcast%20-%20Marc%20Andreessen%20-%20AI%20-%20%20Crypto%20-%20%201000%20Elon%20Musks%20-%20%20Regrets%20-%20%20Vulnerabilities%20-%20%20%26%20Managerial%20Revolution.md">Readwise/Podcasts/Dwarkesh Podcast - Marc Andreessen - AI -  Crypto -  1000 Elon Musks -  Regrets -  Vulnerabilities -  & Managerial Revolution.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Geeks%20Who%20Lead%20Podcast%20-%20Short%20Byte%20%E2%80%94%20%20Steven%20Gaffney%20-%20Essential%20Elements%20of%20a%20Consistently%20High%20Achieving%20Team.md">Readwise/Podcasts/Geeks Who Lead Podcast - Short Byte —  Steven Gaffney - Essential Elements of a Consistently High Achieving Team.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20How%20EleutherAI%20Trains%20and%20Releases%20LLMs%20%E2%80%94%20%20Interview%20With%20Stella%20Biderman.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - How EleutherAI Trains and Releases LLMs —  Interview With Stella Biderman.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Casey%20Halpern%20%E2%80%94%20%20Biology%20%26%20Treatments%20for%20Compulsive%20Behaviors%20%26%20Binge%20Eating.md">Readwise/Podcasts/Huberman Lab - Dr. Casey Halpern —  Biology & Treatments for Compulsive Behaviors & Binge Eating.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Nolan%20Williams%20%E2%80%94%20%20Psychedelics%20%26%20Neurostimulation%20for%20Brain%20Rewiring.md">Readwise/Podcasts/Huberman Lab - Dr. Nolan Williams —  Psychedelics & Neurostimulation for Brain Rewiring.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Science-Based%20Tools%20for%20Increasing%20Happiness.md">Readwise/Podcasts/Huberman Lab - Science-Based Tools for Increasing Happiness.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20The%20Science%20of%20Love%20-%20%20Desire%20and%20Attachment.md">Readwise/Podcasts/Huberman Lab - The Science of Love -  Desire and Attachment.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Naval%20-%20David%20Deutsch%20%E2%80%94%20%20Knowledge%20Creation%20and%20the%20Human%20Race%20-%20%20Part%201.md">Readwise/Podcasts/Naval - David Deutsch —  Knowledge Creation and the Human Race -  Part 1.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Aarthi%20and%20Sriram%20Show%20-%20Marc%20Andreessen%20on%20Elon%20Musk%20-%20%20Good%20Startup%20Ideas%20-%20%20How%20to%20Have%20the%20Courage%20to%20Think%20Independently%20and%20Finding%20a%20Co-Founder.md">Readwise/Podcasts/The Aarthi and Sriram Show - Marc Andreessen on Elon Musk -  Good Startup Ideas -  How to Have the Courage to Think Independently and Finding a Co-Founder.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20183%20%E2%80%94%20%20Paul%20Assaiante%20%E2%80%94%20%20Learning%20to%20Face%20Your%20Fears.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 183 —  Paul Assaiante —  Learning to Face Your Fears.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20Proven%20Strategies%20to%20Accelerate%20Growth%20-%20%20Productivity%20and%20Profits%20With%20George%20Stalk%20-%20%20Jr..md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - Proven Strategies to Accelerate Growth -  Productivity and Profits With George Stalk -  Jr..md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
