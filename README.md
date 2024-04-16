@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In probability theory, the central limit theorem (CLT) establishes that, in many situations, when independent random variables are summed up, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed.  The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
+          We’re looking for extraordinary entrepreneurs who can create very large businesses. After eighteen years and backing over one hundred entrepreneurs, I’ve learned it’s a rare person who has the combination of attributes to get through the challenges of a startup and create a large company that changes our lives.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Central Limit Theorem - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Occam's razor (appropriately interpreted and in compromise with Epicurus' principle of indifference) tells us to assign high/low a priori plausibility to simple/complex strings x.
+          Personality Traits for entrepreneurs 
+
+Summary:
+Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
+
+Transcript:
+Speaker 1
+It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d"></p>
-<p style="margin-bottom: 0; color: #9f8e7d">Texts in Theoretical Computer Science. An EATCS Series Marcus Hutter - Universal Artificial Intellig...</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+          For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what’s happening when you do this. A job means doing something people want, averaged together with everyone else in that company.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -71,33 +78,6 @@ Carbon-based intelligence 🐒.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Founders%20-%20337%20Napoleon%27s%20Maxims%20and%20Strategy.md">Readwise/Podcasts/Founders - 337 Napoleon's Maxims and Strategy.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Geeks%20Who%20Lead%20Podcast%20-%20Short%20Byte%20%E2%80%94%20%20Steven%20Gaffney%20-%20Essential%20Elements%20of%20a%20Consistently%20High%20Achieving%20Team.md">Readwise/Podcasts/Geeks Who Lead Podcast - Short Byte —  Steven Gaffney - Essential Elements of a Consistently High Achieving Team.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Casey%20Halpern%20%E2%80%94%20%20Biology%20%26%20Treatments%20for%20Compulsive%20Behaviors%20%26%20Binge%20Eating.md">Readwise/Podcasts/Huberman Lab - Dr. Casey Halpern —  Biology & Treatments for Compulsive Behaviors & Binge Eating.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Eddie%20Chang%20%E2%80%94%20%20the%20Science%20of%20Learning%20%26%20Speaking%20Languages.md">Readwise/Podcasts/Huberman Lab - Dr. Eddie Chang —  the Science of Learning & Speaking Languages.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Naval%20-%20David%20Deutsch%20%E2%80%94%20%20Knowledge%20Creation%20and%20the%20Human%20Race%20-%20%20Part%201.md">Readwise/Podcasts/Naval - David Deutsch —  Knowledge Creation and the Human Race -  Part 1.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Aarthi%20and%20Sriram%20Show%20-%20Marc%20Andreessen%20on%20Elon%20Musk%20-%20%20Good%20Startup%20Ideas%20-%20%20How%20to%20Have%20the%20Courage%20to%20Think%20Independently%20and%20Finding%20a%20Co-Founder.md">Readwise/Podcasts/The Aarthi and Sriram Show - Marc Andreessen on Elon Musk -  Good Startup Ideas -  How to Have the Courage to Think Independently and Finding a Co-Founder.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20187%20Dr.%20Becky%20Kennedy%20%E2%80%94%20%20the%20One%20Thing%20You%20Can%20Say%20That%20Changes%20Everything.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 187 Dr. Becky Kennedy —  the One Thing You Can Say That Changes Everything.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20189%20Chris%20Davis%20%E2%80%94%20%20Three%20Generations%20of%20Wealth.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 189 Chris Davis —  Three Generations of Wealth.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20191%20Dr.%20Rhonda%20Patrick%20%E2%80%94%20%20Diet%20Essentials%20for%20Healthy%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 191 Dr. Rhonda Patrick —  Diet Essentials for Healthy Living.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat%20%20Startup%20School.md">Readwise/Podcasts/Y Combinator - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat  Startup School.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Inside%20the%20Department%20of%20Defense%20and%20Its%20Vision%20for%20the%20Future.md">Readwise/Podcasts/a16z Podcast - Inside the Department of Defense and Its Vision for the Future.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -129,11 +109,34 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160424</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Jehan%20Wickramasuriya%20%E2%80%94%20AI%20in%20High-Stress%20Scenarios.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Jehan Wickramasuriya — AI in High-Stress Scenarios.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Shreya%20Shankar%20%E2%80%94%20Operationalizing%20Machine%20Learning.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Shreya Shankar — Operationalizing Machine Learning.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20The%20Effects%20of%20Cannabis%20%28Marijuana%29%20on%20the%20Brain%20%26%20Body.md">Readwise/Podcasts/Huberman Lab - The Effects of Cannabis (Marijuana) on the Brain & Body.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20The%20Science%20of%20Love%20-%20%20Desire%20and%20Attachment.md">Readwise/Podcasts/Huberman Lab - The Science of Love -  Desire and Attachment.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Founders%20-%20337%20Napoleon%27s%20Maxims%20and%20Strategy.md">Readwise/Podcasts/Founders - 337 Napoleon's Maxims and Strategy.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Geeks%20Who%20Lead%20Podcast%20-%20Short%20Byte%20%E2%80%94%20%20Steven%20Gaffney%20-%20Essential%20Elements%20of%20a%20Consistently%20High%20Achieving%20Team.md">Readwise/Podcasts/Geeks Who Lead Podcast - Short Byte —  Steven Gaffney - Essential Elements of a Consistently High Achieving Team.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Scaling%20LLMs%20and%20Accelerating%20Adoption%20With%20Aidan%20Gomez%20at%20Cohere.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Scaling LLMs and Accelerating Adoption With Aidan Gomez at Cohere.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Casey%20Halpern%20%E2%80%94%20%20Biology%20%26%20Treatments%20for%20Compulsive%20Behaviors%20%26%20Binge%20Eating.md">Readwise/Podcasts/Huberman Lab - Dr. Casey Halpern —  Biology & Treatments for Compulsive Behaviors & Binge Eating.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Dr.%20Eddie%20Chang%20%E2%80%94%20%20the%20Science%20of%20Learning%20%26%20Speaking%20Languages.md">Readwise/Podcasts/Huberman Lab - Dr. Eddie Chang —  the Science of Learning & Speaking Languages.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Naval%20-%20David%20Deutsch%20%E2%80%94%20%20Knowledge%20Creation%20and%20the%20Human%20Race%20-%20%20Part%201.md">Readwise/Podcasts/Naval - David Deutsch —  Knowledge Creation and the Human Race -  Part 1.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Aarthi%20and%20Sriram%20Show%20-%20Marc%20Andreessen%20on%20Elon%20Musk%20-%20%20Good%20Startup%20Ideas%20-%20%20How%20to%20Have%20the%20Courage%20to%20Think%20Independently%20and%20Finding%20a%20Co-Founder.md">Readwise/Podcasts/The Aarthi and Sriram Show - Marc Andreessen on Elon Musk -  Good Startup Ideas -  How to Have the Courage to Think Independently and Finding a Co-Founder.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20187%20Dr.%20Becky%20Kennedy%20%E2%80%94%20%20the%20One%20Thing%20You%20Can%20Say%20That%20Changes%20Everything.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 187 Dr. Becky Kennedy —  the One Thing You Can Say That Changes Everything.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20189%20Chris%20Davis%20%E2%80%94%20%20Three%20Generations%20of%20Wealth.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 189 Chris Davis —  Three Generations of Wealth.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20191%20Dr.%20Rhonda%20Patrick%20%E2%80%94%20%20Diet%20Essentials%20for%20Healthy%20Living.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 191 Dr. Rhonda Patrick —  Diet Essentials for Healthy Living.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Y%20Combinator%20-%20Keys%20to%20Successful%20Co-Founder%20Relationships%20With%20Cat%20Li%20%26%20Divya%20Bhat%20%20Startup%20School.md">Readwise/Podcasts/Y Combinator - Keys to Successful Co-Founder Relationships With Cat Li & Divya Bhat  Startup School.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Inside%20the%20Department%20of%20Defense%20and%20Its%20Vision%20for%20the%20Future.md">Readwise/Podcasts/a16z Podcast - Inside the Department of Defense and Its Vision for the Future.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -147,12 +150,16 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Niall%20Ferguson%20-%20The%20House%20of%20Rothschild%20.%20Money%27s%20Prophets%20-%20%201798-1848.md">Readwise/Books/Niall Ferguson - The House of Rothschild . Money's Prophets -  1798-1848.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Acquired%20-%20Nintendo%27s%20Origins.md">Readwise/Podcasts/Acquired - Nintendo's Origins.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Jehan%20Wickramasuriya%20%E2%80%94%20AI%20in%20High-Stress%20Scenarios.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Jehan Wickramasuriya — AI in High-Stress Scenarios.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Gradient%20Dissent%20Conversations%20on%20AI%20-%20Shreya%20Shankar%20%E2%80%94%20Operationalizing%20Machine%20Learning.md">Readwise/Podcasts/Gradient Dissent Conversations on AI - Shreya Shankar — Operationalizing Machine Learning.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20The%20Effects%20of%20Cannabis%20%28Marijuana%29%20on%20the%20Brain%20%26%20Body.md">Readwise/Podcasts/Huberman Lab - The Effects of Cannabis (Marijuana) on the Brain & Body.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20The%20Science%20of%20Love%20-%20%20Desire%20and%20Attachment.md">Readwise/Podcasts/Huberman Lab - The Science of Love -  Desire and Attachment.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160424</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150424</p>
             </div>
         </div>
     </div>
