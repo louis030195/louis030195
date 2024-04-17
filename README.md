@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To put it another way: if wealth is giving you fewer options instead of more (and more varied) options, you’re doing it wrong.
+          Figuring out the right product is the innovator’s job, not the customer’s job. The customer only knows what she thinks she wants based on her experience with the current product. The innovator can take into account everything that’s possible, often going against what she knows to be true. This requires a combination of knowledge, skill, and courage.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In probability theory, the central limit theorem (CLT) establishes that, in many situations, when independent random variables are summed up, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed.  The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
+          People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their ideas as they developed them. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Central Limit Theorem - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Founders at Work</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jessica Livingston</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In marketing strategy, first-mover advantage (FMA) is the competitive advantage gained by the initial ("first-moving") significant occupant of a market segment. First-mover advantage enables a company or firm to establish strong brand recognition, customer loyalty, and early purchase of resources before other competitors enter the market segment.  First movers in a specific industry are almost always followed by competitors that attempt to capitalise on the first movers' success. These followers are also aiming to gain market share; however, most of the time the first-movers will already have an established market share, with a loyal customer base that allows them to maintain their market share.
+          The Principal Agent Problem
+
+Summary:
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
+
+Transcript:
+Speaker 1
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">First-Mover Advantage - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principal-Agent Problem —  Act Like an Owner</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
