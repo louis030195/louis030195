@@ -28,41 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How to Debug Your Own Brain
+          Your instinctive willingness to believe something will change along with your willingness to afliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to afliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Common knowledge is the name for the epistemic state we’re collectively in, when we know we can all start choosing action B - and trust everyone else to do the same.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Costly Coordination Mechanism of Common Knowledge - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Ben Pace</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Benjamin abraham horrowitz
 
 Summary:
-The business side of things is relatively fluid. It doesn't take a whole lot of mental effort or energy to keep those things in mind right now. You are the instrument that you use to get things done in the world. There's still a tremendous amount of effort and skill that's valuable in that domaind.
+"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
 
 Transcript:
 Speaker 1
-Like when you're trying to get yourself to do something you know you should b be doing, but somehow there's some sort of barrier that's keeping you from doing that. I think at this point i've, i've worked in enough businesses and started enough of my own businesses, the business side of things is relatively fluid. It doesn take a whole lot of mental effort or energy to keep those things in mind right now. But you are the instrument that you use to get things done in the world. And so the the debugging your own mind and help and trying to anticipate how others are thinking and feeling and trying to optimize around that, there's still a tremendous amount of Effort and skill that's valuable in that domaind and i find myself thinking about tho sorts of things quite often.
+We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Note the implication: You become less of a person when you're wearing a mask or are otherwise anonymous. Shedding the responsibilities of personhood in this way can be quite thrilling, like during Halloween or at a masquerade ball (or while robbing a convenience store!). But it also contributes to the degradation of personhood on the internet — with the ensuing loss of civility we're all familiar with.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Personhood: A Game for Two or More Players | Melting Asphalt</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kevin Simler</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
 </div>
 </div>
 </div>
@@ -96,16 +96,16 @@ Like when you're trying to get yourself to do something you know you should b be
 
 ### 📚 Books Louis is reading
 
+-   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - Thu Apr 18 22:40:48 -0700 2024
+-   **Og Mandino**  - [The Greatest Salesman in the World](https://www.goodreads.com/book/show/356896.The_Greatest_Salesman_in_the_World) - Thu Apr 18 22:40:13 -0700 2024
+-   **Dale Carnegie**  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) - Thu Apr 18 22:39:57 -0700 2024
+-   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - Thu Apr 18 22:39:44 -0700 2024
+-   **Brian Tracy**  - [The Psychology of Selling: Increase Your Sales Faster and Easier Than You Ever Thought Possible](https://www.goodreads.com/book/show/115625.The_Psychology_of_Selling) - Thu Apr 18 22:39:27 -0700 2024
 -   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - Sun Mar 31 05:37:58 -0700 2024
 -   **Niall Ferguson**  - [The House of Rothschild, Vol 2: The World&#39;s Banker 1849-1999](https://www.goodreads.com/book/show/173746.The_House_of_Rothschild_Vol_2) - Sun Mar 31 05:36:25 -0700 2024
 -   **Niall Ferguson**  - [The House of Rothschild, Vol 1: Money&#39;s Prophets, 1798-1848](https://www.goodreads.com/book/show/173745.The_House_of_Rothschild_Vol_1) - Sun Mar 31 05:36:16 -0700 2024
 -   **Mustafa Suleyman**  - [The Coming Wave: Technology, Power, and the Twenty-first Century&#39;s Greatest Dilemma](https://www.goodreads.com/book/show/90590134-the-coming-wave) - Sun Mar 31 05:05:44 -0700 2024
 -   **Ray Kurzweil**  - [The Singularity is Nearer](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) - Sun Mar 31 05:02:21 -0700 2024
--   **Benjamin Graham**  - [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - Sat Mar 23 20:09:38 -0700 2024
--   **James H. Austin**  - [Chase, Chance, and Creativity: The Lucky Art of Novelty](https://www.goodreads.com/book/show/1147920.Chase_Chance_and_Creativity) - Thu Mar 14 05:50:26 -0700 2024
--   **Rudolf Carnap**  - [The Logical Syntax of Language](https://www.goodreads.com/book/show/163785.The_Logical_Syntax_of_Language) - Mon Mar 11 23:57:19 -0700 2024
--   **Will Durant**  - [The Story of Philosophy: The Lives and Opinions of the World&#39;s Greatest Philosophers](https://www.goodreads.com/book/show/31795.The_Story_of_Philosophy) - Mon Mar 11 23:55:31 -0700 2024
--   **Mark Manson**  - [Models: Attract Women Through Honesty](https://www.goodreads.com/book/show/12633800-models) - Mon Mar 11 23:55:23 -0700 2024
 
 ### ✍ Recent book reviews
 
