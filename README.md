@@ -28,34 +28,39 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
+          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Women's bodies evolved to suit the demands of bearing and rearing children and of gathering plant food. Men's bodies evolved to suit the demands of rising in a male hierarchy, fighting over women, and providing meat to a family
+          Your beliefs become your thoughts, 
+Your thoughts become your words, 
+Your words become your actions, 
+Your actions become your habits, 
+Your habits become your values, 
+Your values become your destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mohandas K. Gandhi, Mahadev Desai, and  Mahadev Desai</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
