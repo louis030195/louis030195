@@ -28,41 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The affect heuristic is how an overall feeling of goodness or badness contributes to many other judgments, whether it’s logical or not, whether you’re aware of it or not.
+          Not if it was done by way of prescription. If a desire for the Truth is in someone’s bones, then he will not stop until he finds it. Not because he should. But because he has no choice.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How to Debug Your Own Brain
-
-Summary:
-The business side of things is relatively fluid. It doesn't take a whole lot of mental effort or energy to keep those things in mind right now. You are the instrument that you use to get things done in the world. There's still a tremendous amount of effort and skill that's valuable in that domaind.
-
-Transcript:
-Speaker 1
-Like when you're trying to get yourself to do something you know you should b be doing, but somehow there's some sort of barrier that's keeping you from doing that. I think at this point i've, i've worked in enough businesses and started enough of my own businesses, the business side of things is relatively fluid. It doesn take a whole lot of mental effort or energy to keep those things in mind right now. But you are the instrument that you use to get things done in the world. And so the the debugging your own mind and help and trying to anticipate how others are thinking and feeling and trying to optimize around that, there's still a tremendous amount of Effort and skill that's valuable in that domaind and i find myself thinking about tho sorts of things quite often.
+          Venture capitalists have a list of danger signs to watch out for. Near the top is the company run by techno-weenies who are obsessed with solving interesting technical problems, instead of making users happy. In a startup, you’re not just trying to solve problems. You’re trying to solve problems that users care about. So I think you should make users the test, just as acquirers do. Treat a startup as an optimization problem in which performance is measured by number of users. As anyone who has tried to optimize software knows, the key is measurement. When you try to guess where your program is slow, and what would make it faster, you almost always guess wrong.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Why has that man fallen in love with that woman? Because she's pretty. Why does pretty matter? Because human beings are a mainly monogamous species and so males are choosy about their mates (as male chimpanzees are not); prettiness is an indication of youth and health, which are indications of fertility: Why does that man care about fertility in his mate? Because if he did not, his genes would be eclipsed by those of men who did. Why does he care about that? He does not, but his genes act as if they do. Those who choose infertile mates leave no descendants. Therefore, everybody is descended from men who preferred fertile women, and every person inherits from those ancestors the same preference.
+          “The difference between successful people and really successful people is that really successful people say no to almost everything
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
