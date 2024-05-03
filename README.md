@@ -28,34 +28,50 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In reflecting upon the part played by chance in the development of new concepts, he recalled the story of the three princes of Serendip who set out to find some interesting object on a journey through their realm. They did not find the particular object of their search, but along the way they discovered many new things simply because they were looking for something.
+          What is good?—Whatever augments the feeling of power, the will to power, power itself, in man. What is evil?—Whatever springs from weakness. What is happiness?—The feeling that power increases—that resistance is overcome.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Men, Machines, and Modern Times</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Morison, Elting Elmore</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what’s happening when you do this. A job means doing something people want, averaged together with everyone else in that company.
+          Whatever cannot obey itself, is commanded. Such is the nature of living things.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          It is far more fruitful to evaluate the desires for achievement, than it is to force discipline. If one’s desire for achievement is pure, he will be sufficiently motivated to do all that needs to be done in order to achieve. If it is not, he will play clever and ineffective games such as discipline.
+          You are the average of the five people around you 
+
+Summary:
+"I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first," he says. "It's a fundamental human instinct because everybody, you know, very few people can go through life alone ... You need some sort of support network." He adds: "If they, if you don't have anybody around you who shares your interests, or has the same drives that you do, you'll have a very hard time sustaining it"
+
+Transcript:
+Speaker 1
+Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
+
+Speaker 3
+I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
+
+Speaker 2
+Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
+
+Speaker 1
+So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -103,24 +119,24 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
+-   **Peter Kazanjy**  - [Founding Sales - The Startup Sales Handbook](https://www.goodreads.com/book/show/46019973-founding-sales---the-startup-sales-handbook) - Thu May 02 20:54:24 -0700 2024
 -   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - Thu Apr 18 22:40:48 -0700 2024
 -   **Og Mandino**  - [The Greatest Salesman in the World](https://www.goodreads.com/book/show/356896.The_Greatest_Salesman_in_the_World) - Thu Apr 18 22:40:13 -0700 2024
--   **Dale Carnegie**  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) - Thu Apr 18 22:39:57 -0700 2024
 -   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - Thu Apr 18 22:39:44 -0700 2024
 -   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - Sun Mar 31 05:37:58 -0700 2024
--   **Mustafa Suleyman**  - [The Coming Wave: Technology, Power, and the Twenty-first Century&#39;s Greatest Dilemma](https://www.goodreads.com/book/show/90590134-the-coming-wave) - Sun Mar 31 05:05:44 -0700 2024
 -   **Ray Kurzweil**  - [The Singularity is Nearer](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) - Sun Mar 31 05:02:21 -0700 2024
 -   **Benjamin Graham**  - [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - Sat Mar 23 20:09:38 -0700 2024
 -   **James H. Austin**  - [Chase, Chance, and Creativity: The Lucky Art of Novelty](https://www.goodreads.com/book/show/1147920.Chase_Chance_and_Creativity) - Thu Mar 14 05:50:26 -0700 2024
--   **Rudolf Carnap**  - [The Logical Syntax of Language](https://www.goodreads.com/book/show/163785.The_Logical_Syntax_of_Language) - Mon Mar 11 23:57:19 -0700 2024
+-   **Stephen Jay Gould**  - [The Mismeasure of Man](https://www.goodreads.com/book/show/54218.The_Mismeasure_of_Man) - Sat Feb 10 10:05:48 -0800 2024
+-   **Steven H. Strogatz**  - [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.goodreads.com/book/show/40796176-infinite-powers) - Thu Dec 21 08:07:17 -0800 2023
 
 ### ✍ Recent book reviews
 
--   **Niall Ferguson**  - [The House of Rothschild, Vol 1: Money&#39;s Prophets, 1798-1848](https://www.goodreads.com/book/show/173745.The_House_of_Rothschild_Vol_1) - 5/5 - Sat Apr 27 06:47:37 -0700 2024
--   **Theodore J. Kaczynski**  - [Industrial Society and Its Future](https://www.goodreads.com/book/show/225468.Industrial_Society_and_Its_Future) - 3/5 - Sat Apr 27 06:50:11 -0700 2024
--   **Randima Fernando**  - [GPU Gems: Programming Techniques, Tips and Tricks for Real-Time Graphics](https://www.goodreads.com/book/show/318953.GPU_Gems) - 3/5 - Sat Apr 27 06:49:39 -0700 2024
--   **F.L. Bauer**  - [The Computer - My Life](https://www.goodreads.com/book/show/594610.The_Computer_My_Life) - 4/5 - Sat Apr 27 06:49:26 -0700 2024
--   **Ron Chernow**  - [Titan: The Life of John D. Rockefeller, Sr.](https://www.goodreads.com/book/show/16121.Titan) - 5/5 - Sat Apr 27 06:50:25 -0700 2024
+-   **Charles Murray**  - [Apollo: The Race To The Moon](https://www.goodreads.com/book/show/282086.Apollo) - 0/5 - Thu May 02 20:55:03 -0700 2024
+-   **Michael  Collins**  - [Carrying the Fire: An Astronaut&#39;s Journey](https://www.goodreads.com/book/show/612456.Carrying_the_Fire) - 0/5 - Thu May 02 20:55:08 -0700 2024
+-   **Andrew Chaikin**  - [A Man on the Moon: The Voyages of the Apollo Astronauts](https://www.goodreads.com/book/show/446092.A_Man_on_the_Moon) - 0/5 - Thu May 02 20:55:01 -0700 2024
+-   **Dale Carnegie**  - [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People) - 4/5 - Thu May 02 20:56:01 -0700 2024
+-   **Mary Roach**  - [Packing for Mars: The Curious Science of Life in the Void](https://www.goodreads.com/book/show/9542311-packing-for-mars) - 0/5 - Thu May 02 20:55:20 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
