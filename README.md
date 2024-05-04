@@ -28,34 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          It is far more fruitful to evaluate the desires for achievement, than it is to force discipline. If one’s desire for achievement is pure, he will be sufficiently motivated to do all that needs to be done in order to achieve. If it is not, he will play clever and ineffective games such as discipline.
+          And that recipe has two copies of everything, always, in case one copy is broken. Imagine two long rows of pieces of paper. At each place in the row, there are two pieces of paper, and when you have children, your body selects one piece of paper at random from each place in the row, and the mother’s body will do the same, and so the child also gets two pieces of paper at each place in the row.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you take a journey into yourself, empty all the content that you have collected and go very, very deeply, then there is that vast space, that so-called emptiness, that is full of energy. And in that state alone there is that which is most sacred, most holy.
+          Nassim Taleb writes, “Most of you will fail, disrespected, impoverished, but we are grateful for the risks you are taking and the sacrifices you are making for the sake of the economic growth of the planet and pulling others out of poverty. You are the source of our antifragility. Our nation thanks you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          as soon as a superior power prevails over an inferior power, and the latter proceeds to work as a function of the former, an order of rank is established,
+          That’s called consequentialism, by the way, it means that whether an act is right or wrong isn’t determined by whether it looks bad, or mean, or anything like that, the only question is how it will turn out in the end—what are the consequences.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -71,6 +71,20 @@ Carbon-based intelligence 🐒.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030524</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -90,20 +104,6 @@ Carbon-based intelligence 🐒.
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20193%20%E2%80%94%20%20Dr.%20Jim%20Loehr%20%E2%80%94%20%20Change%20the%20Stories%20You%20Tell%20Yourself.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 193 —  Dr. Jim Loehr —  Change the Stories You Tell Yourself.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030524</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
