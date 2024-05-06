@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          “At the beginning, you should only hire when you have a desperate need to.
+          What a lot of trouble one avoids if one refuses to have anything to do with the common herd! To have no job, to devote one’s time to literature, is the most wonderful thing in the world.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
+          The main difference between integrability in the sense of Lebesgue and Riemann is the way we measure 'the area under the curve'.  The Riemann integral asks the question what's the 'height' of 𝑓f above a given part of the domain of the function. The Lebesgue integral on the other hand asks, for a given part of the range of 𝑓f, what's the measure of the 𝑥x's which contribute to this 'height'.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Integration - ELI5: Riemann-Integrable vs Lebesgue-Integrable - Mathematics Stack Exchange</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Cookie Policy</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The two fundamental questions of causality are: (1) What empirical evidence is required for legitimate inference of cause-eﬀect relationships? (2) Given that we are willing to accept causal information about a phenomenon, what inferences can we draw from such information, and how?
+          Marc Andreessen's information diet
+
+Summary:
+"I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book more often than I was like 50 or 100 years old," he said. "What I try to do is basically like fuzz out everything over a day, week, month, even year time frame." He added: "It's one of the reasons I follow 20,000 people on Twitter".
+
+Transcript:
+Speaker 1
+And so one is, yeah, I mean, look, there's a big information diet component to it, like what are your information sources? I'll just give you my version of it. Like 100% of my information diet is either social media or books. Like, I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book that more often than I was like 50 or 100 years old. And what I try to do is basically like fuzz out everything over a day, week, month, even year time frame, and just like fuzzle that stuff out. So it's like it's either leading edge information, or it's like basically permanent value. And so what that does is like then my social media experience, the purpose of my time on social media as a consumer of it is basically, OK, what I want, keep me on the leading edge. Show me all the new stuff. Show me all the new thinking. Show me all the crazy ideas. Like, get me exposed to all of the really creative people. And it's one of the reasons I follow 20,000 people on Twitter.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -119,16 +126,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
+-   **Gautam Baid**  - [The Joys of Compounding: The Passionate Pursuit of Lifelong Learning, Revised and Updated (Heilbrunn Center for Graham &amp; Dodd Investing Series)](https://www.goodreads.com/book/show/48847632-the-joys-of-compounding) - Mon May 06 07:26:38 -0700 2024
+-   **Max Solomon Bennett**  - [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://www.goodreads.com/book/show/74821304-a-brief-history-of-intelligence) - Mon May 06 07:25:21 -0700 2024
+-   **Carlo Rovelli**  - [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics) - Mon May 06 07:24:46 -0700 2024
+-   **Thomas C. Schelling**  - [The Strategy of Conflict](https://www.goodreads.com/book/show/317330.The_Strategy_of_Conflict) - Mon May 06 07:23:30 -0700 2024
+-   **Andrew  Gordon**  - [The Rules of the Game: Jutland and British Navel Command](https://www.goodreads.com/book/show/354137.The_Rules_of_the_Game) - Mon May 06 07:23:04 -0700 2024
+-   **Carl von Clausewitz**  - [On War](https://www.goodreads.com/book/show/117031.On_War) - Mon May 06 07:21:03 -0700 2024
 -   **Peter Kazanjy**  - [Founding Sales - The Startup Sales Handbook](https://www.goodreads.com/book/show/46019973-founding-sales---the-startup-sales-handbook) - Thu May 02 20:54:24 -0700 2024
 -   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - Thu Apr 18 22:40:48 -0700 2024
 -   **Og Mandino**  - [The Greatest Salesman in the World](https://www.goodreads.com/book/show/356896.The_Greatest_Salesman_in_the_World) - Thu Apr 18 22:40:13 -0700 2024
 -   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - Thu Apr 18 22:39:44 -0700 2024
--   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - Sun Mar 31 05:37:58 -0700 2024
--   **Ray Kurzweil**  - [The Singularity is Nearer](https://www.goodreads.com/book/show/45024007-the-singularity-is-nearer) - Sun Mar 31 05:02:21 -0700 2024
--   **Benjamin Graham**  - [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - Sat Mar 23 20:09:38 -0700 2024
--   **James H. Austin**  - [Chase, Chance, and Creativity: The Lucky Art of Novelty](https://www.goodreads.com/book/show/1147920.Chase_Chance_and_Creativity) - Thu Mar 14 05:50:26 -0700 2024
--   **Stephen Jay Gould**  - [The Mismeasure of Man](https://www.goodreads.com/book/show/54218.The_Mismeasure_of_Man) - Sat Feb 10 10:05:48 -0800 2024
--   **Steven H. Strogatz**  - [Infinite Powers: How Calculus Reveals the Secrets of the Universe](https://www.goodreads.com/book/show/40796176-infinite-powers) - Thu Dec 21 08:07:17 -0800 2023
 
 ### ✍ Recent book reviews
 
