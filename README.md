@@ -28,51 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You are the average of the five people around you 
-
-Key takeaways:
-- Creative success not only depends on individual effort but also on one's social network
-- One becomes the average of the five people they spend the most time with
-
-Transcript:
-Speaker 1
-Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
-
-Speaker 3
-I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
-
-Speaker 2
-Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
-
-Speaker 1
-So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
+          In reflecting upon the part played by chance in the development of new concepts, he recalled the story of the three princes of Serendip who set out to find some interesting object on a journey through their realm. They did not find the particular object of their search, but along the way they discovered many new things simply because they were looking for something.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Men, Machines, and Modern Times</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Morison, Elting Elmore</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Our task today is to find singular ways to create the new things that will make the future not just different, but better to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
+          To suppose that these are cases in which custom has conquered nature, so that the Indians no longer feel frost and fire, would be an erroneous conclusion because nature can never be overcome.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+          Nassim Taleb writes, “Most of you will fail, disrespected, impoverished, but we are grateful for the risks you are taking and the sacrifices you are making for the sake of the economic growth of the planet and pulling others out of poverty. You are the source of our antifragility. Our nation thanks you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -91,7 +74,7 @@ So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20193%20%E2%80%94%20%20Dr.%20Jim%20Loehr%20%E2%80%94%20%20Change%20the%20Stories%20You%20Tell%20Yourself.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 193 —  Dr. Jim Loehr —  Change the Stories You Tell Yourself.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -105,7 +88,7 @@ So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's 
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20193%20%E2%80%94%20%20Dr.%20Jim%20Loehr%20%E2%80%94%20%20Change%20the%20Stories%20You%20Tell%20Yourself.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 193 —  Dr. Jim Loehr —  Change the Stories You Tell Yourself.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
