@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          The Einstein field equations relate the Einstein tensor to the stress–energy tensor, which represents the distribution of energy, momentum and stress in the spacetime manifold. The Einstein tensor is built up from the metric tensor and its partial derivatives; thus, given the stress–energy tensor, the Einstein field equations are a system of ten partial differential equations in which the metric tensor can be solved for.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Solutions of the Einstein Field Equations - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">closed form</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We should substitute morality by the will to our own ends, and consequently to the means to them.
+          Consistency Over Intensity
+
+Summary:
+CNN's John Sutter talks about the concept of habit stacking. He says meditation can be tied to a well-established, daily routine. One woman who wanted to meditate couldn't find time for 20 minutes every day. She was frustrated with herself and decided to give it up completely.
+
+Transcript:
+Speaker 1
+There is one somebody i was working with who wanted to implement meditation, and for some reason he, or it was she, she couldn't find 20 minutes to do itike, she i just can't do 20, 20 minutes. And she's like, let me try ten minutes. And she couldn't do ten minutes. Now this woman was very startn to get frustrated with herself, because she was breaking promises to herself. And she was in give it up completely. Moka, i guess i can't meditate. And then we started talking about this concept of habit stacking, where maybe you could tie meditation to a habit that's already well established. And as she combed over her routine in the morning, she said, you knowha, i'm wan to do, i'm going to meditate while i brush my teeth.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          In Buddha’s teaching egoism is a duty.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
 </div>
 </div>
 </div>
@@ -74,6 +81,7 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Harvard%20Business%20School%20-%20Navigating%20the%20Jagged%20Technological%20Frontier%20Field%20Experimental%20Evidence%20of%20the%20Effects%20of%20AI%20on%20Knowledge%20Worker%20Productivity%20and%20Quality.md">Readwise/Articles/Harvard Business School - Navigating the Jagged Technological Frontier Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
             </ul>
         </span>
@@ -88,7 +96,6 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Harvard%20Business%20School%20-%20Navigating%20the%20Jagged%20Technological%20Frontier%20Field%20Experimental%20Evidence%20of%20the%20Effects%20of%20AI%20on%20Knowledge%20Worker%20Productivity%20and%20Quality.md">Readwise/Articles/Harvard Business School - Navigating the Jagged Technological Frontier Field Experimental Evidence of the Effects of AI on Knowledge Worker Productivity and Quality.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Peter%20Kazanjy%20-%20Founding%20Sales%20The%20Early%20Stage%20Go-to-Market%20Handbook.md">Readwise/Articles/Peter Kazanjy - Founding Sales The Early Stage Go-to-Market Handbook.md</a></li>
             </ul>
         </span>
