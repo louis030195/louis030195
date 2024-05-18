@@ -28,41 +28,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to get rich. I’m not talking about the trickle-down effect here. I’m not saying that if you let Henry Ford get rich, he’ll hire you as a waiter at his next party. I’m saying that he’ll make you a tractor to replace your horse.
+          Significant figures (also known as the significant digits, precision or resolution) of a number in positional notation are digits in the number that are reliable and necessary to indicate the quantity of something.  If a number expressing the result of a measurement (e.g., length, pressure, volume, or mass) has more digits than the number of digits allowed by the measurement resolution, then only as many digits as allowed by the measurement resolution are reliable, and so only these can be significant figures.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Significant Figures - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
+          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Benjamin abraham horrowitz
-
-Summary:
-"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
-
-Transcript:
-Speaker 1
-We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
+          That isn’t how I mean it at all. When I say ‘want,’ I am not speaking of preference or passing desire. I am speaking of a life-and-death sort of want.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
@@ -81,7 +74,7 @@ We are talking about ben who was born in 19 66 in london, england. I did not kno
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
+<li><a href="https://brain.louis030195.com/Computing/Ideas/051824%2011015%20software%203-0%20and%20generative%20ui_1716025926851.md">Computing/Ideas/051824 11015 software 3-0 and generative ui_1716025926851.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -95,7 +88,7 @@ We are talking about ben who was born in 19 66 in london, england. I did not kno
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Computing/Ideas/051824%2011015%20software%203-0%20and%20generative%20ui_1716025926851.md">Computing/Ideas/051824 11015 software 3-0 and generative ui_1716025926851.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
