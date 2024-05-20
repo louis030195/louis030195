@@ -28,23 +28,12 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the accuracy with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions.
+          wanted to know about it right away so we could reproduce the error and release a fix. So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Uncertainty Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The man of knowledge must be able not only to love his enemies, but also to hate his friends.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -56,6 +45,17 @@ Carbon-based intelligence 🐒.
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Lax–Friedrichs Method - Wikipedia</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          You’ll never stumble upon the unexpected if you stick only to the familiar.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Continuous Discovery Habits_ Discover Products That Create Customer Value and Business Value</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Teresa Torres</p>
 </div>
 </div>
 </div>
@@ -71,35 +71,6 @@ Carbon-based intelligence 🐒.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200524</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190524</p>
-            </div>
-        </div>
-    </div>
-    
-
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -124,6 +95,35 @@ Carbon-based intelligence 🐒.
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200524</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200524</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/James%20Currier%20-%20The%20Network%20Effects%20Manual%2013%20Different%20Network%20Effects.md">Readwise/Articles/James Currier - The Network Effects Manual 13 Different Network Effects.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190524</p>
             </div>
         </div>
     </div>
