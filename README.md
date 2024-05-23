@@ -28,7 +28,7 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When the things you do have real effects, it’s no longer enough just to be pleasing. It starts to be important to get the right answers, and that’s where nerds show to advantage. Bill Gates will of course come to mind. Though notoriously lacking in social skills, he gets the right answers, at least as measured in revenue.
+          Money is a side effect of specialization. In a specialized society, most of the things you need, you can’t make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -39,23 +39,23 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For each candidate for a given role, ask the same or similar interview questions. This will allow you to calibrate candidates across identical questions.
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The rarest (and most valuable) thing on this planet: a clear mind.
+          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Nassim Nicholas Taleb</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@nntaleb on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -92,16 +92,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
+-   **Isaac Newton**  - [The Principia : Mathematical Principles of Natural Philosophy](https://www.goodreads.com/book/show/231083.The_Principia_) - Thu May 23 11:13:10 -0700 2024
+-   **Heather Meeker**  - [Open (Source) for Business: A Practical Guide to Open Source Software Licensing](https://www.goodreads.com/book/show/25730398-open-source-for-business) - Thu May 23 11:09:00 -0700 2024
+-   **Steve Blank**  - [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) - Thu May 23 11:07:09 -0700 2024
+-   **Tom O&#39;Neill**  - [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties](https://www.goodreads.com/book/show/43015073-chaos) - Thu May 23 11:06:28 -0700 2024
+-   **Ron Chernow**  - [The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance](https://www.goodreads.com/book/show/16131.The_House_of_Morgan) - Thu May 23 11:05:49 -0700 2024
 -   **Bill   Walsh**  - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) - Mon May 13 08:59:16 -0700 2024
 -   **Thomas C. Schelling**  - [The Strategy of Conflict](https://www.goodreads.com/book/show/317330.The_Strategy_of_Conflict) - Fri May 10 08:32:44 -0700 2024
 -   **Carlo Rovelli**  - [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics) - Fri May 10 08:32:39 -0700 2024
 -   **Alex Hormozi**  - [$100M Offers: How To Make Offers So Good People Feel Stupid Saying No (Acquisition.com $100M Series Book 1)](https://www.goodreads.com/book/show/58612786-100m-offers) - Wed May 08 13:54:52 -0700 2024
 -   **Gautam Baid**  - [The Joys of Compounding: The Passionate Pursuit of Lifelong Learning, Revised and Updated (Heilbrunn Center for Graham &amp; Dodd Investing Series)](https://www.goodreads.com/book/show/48847632-the-joys-of-compounding) - Mon May 06 07:26:38 -0700 2024
--   **Max Solomon Bennett**  - [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://www.goodreads.com/book/show/74821304-a-brief-history-of-intelligence) - Mon May 06 07:25:21 -0700 2024
--   **Andrew  Gordon**  - [The Rules of the Game: Jutland and British Navel Command](https://www.goodreads.com/book/show/354137.The_Rules_of_the_Game) - Mon May 06 07:23:04 -0700 2024
--   **Carl von Clausewitz**  - [On War](https://www.goodreads.com/book/show/117031.On_War) - Mon May 06 07:21:03 -0700 2024
--   **Peter Kazanjy**  - [Founding Sales - The Startup Sales Handbook](https://www.goodreads.com/book/show/46019973-founding-sales---the-startup-sales-handbook) - Thu May 02 20:54:24 -0700 2024
--   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - Thu Apr 18 22:40:48 -0700 2024
 
 ### ✍ Recent book reviews
 
