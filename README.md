@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your body is a small-scale mine of radioactive particles. You receive an annual 40-millirem dose from the natural radioactivity originating inside of you. That’s the same amount of radiation you’d be exposed to from having four chest X-rays. Your radiation dose level can go up by one or two millirem for every eight hours you spend sleeping next to your similarly radioactive loved one.
+          Simulacrum Levels are a framework for analyzing different motivations people can have for making statements.  Simulacrum Level 1: Attempt to describe the world accurately. Simulacrum Level 2: Choose what to say based on what your statement will cause other people to do or believe. Simulacrum Level 3: Say things that signal membership to your ingroup. Simulacrum Level 4: Choose which group to signal membership to based on what the benefit would be for you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Particle Physics of You</p>
-<p style="margin-bottom: 0; color: #9f8e7d">symmetrymagazine.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Simulacrum Levels - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Strawperson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Many things will seem fantastical to you, student. They will seem a thousand miles away. There are things that a man was meant to experience that most would relegate to the realm of magic and fantasy. But, in fact, magic and fantasy are at the heart of man's existence.
+          The Most Dangerous Things Are Heroine And A Monthly Salary
+
+Summary:
+People who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. Once you make a little bit of money, you still want to be living like your old self so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. It just gives you freedom of operation.
+
+Transcript:
+Speaker 1
+Yet, there are two tweets that i put out that are related. So the first i must talk about ber somewat ahout your life style in nowat has to upgrade. Shouldn't get up grater too fast. And that one ad people who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. And it just gives you freedom of operation. Once you make a little bit of money, you still want to be living like your old self, so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. The problem is that when you go into a work life style like that, you don't just suddenly go from making 20 dollars an hour to making a thousand dollars an hour. That's a progression over a long career. And as that happens, one subtle problem is that you upgrade your life style as you make more and more money. And that upgrading of the life style ups what you consider to be wealth, and you stay in this wage slave trap. So i forget who said it, maybe it was nasin tolet, but he said, you know, the most dangerous things are heroine and a monthly salary, right? Because they are highly indictive. The way you want to get wealthy is you want to be poor and working and working and working. And this is, for example, how the tech industry works, where you don't make any money for ten years, and then suddenly, in year 11, you might have a giant pay day. Which is what, by the way, one reason why these very high marginal tax straits for the so called wealthy are flawed sthe highest risk taking most creative professions literally lose money for a decade of your life while you take massive risks, and you bleed and bleed and bleed, and then suddenly, in year 11, or you're 15, you might have one single big payday. But then, of course, uncle sam show up and say, hey, you know what? You just made a lot of money this year. Therefore you're rich, therefore you're evil, and you got to hand it all over to us. So he just destroys those kinds of creative, risk taking professions. But ideally, you want to make your money in discreet lumps, separated over long periods of time so that your own life style does not have a chance to adapt quickly.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Master's Secret Whispers: For those who abhor the noise and seek The Truth about life and living</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Get Rich —  Every Episode</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
