@@ -28,41 +28,48 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Most Dangerous Things Are Heroine And A Monthly Salary
+          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Marc Andreessen's information diet
 
 Summary:
-People who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. Once you make a little bit of money, you still want to be living like your old self so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. It just gives you freedom of operation.
+"I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book more often than I was like 50 or 100 years old," he said. "What I try to do is basically like fuzz out everything over a day, week, month, even year time frame." He added: "It's one of the reasons I follow 20,000 people on Twitter".
 
 Transcript:
 Speaker 1
-Yet, there are two tweets that i put out that are related. So the first i must talk about ber somewat ahout your life style in nowat has to upgrade. Shouldn't get up grater too fast. And that one ad people who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. And it just gives you freedom of operation. Once you make a little bit of money, you still want to be living like your old self, so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. The problem is that when you go into a work life style like that, you don't just suddenly go from making 20 dollars an hour to making a thousand dollars an hour. That's a progression over a long career. And as that happens, one subtle problem is that you upgrade your life style as you make more and more money. And that upgrading of the life style ups what you consider to be wealth, and you stay in this wage slave trap. So i forget who said it, maybe it was nasin tolet, but he said, you know, the most dangerous things are heroine and a monthly salary, right? Because they are highly indictive. The way you want to get wealthy is you want to be poor and working and working and working. And this is, for example, how the tech industry works, where you don't make any money for ten years, and then suddenly, in year 11, you might have a giant pay day. Which is what, by the way, one reason why these very high marginal tax straits for the so called wealthy are flawed sthe highest risk taking most creative professions literally lose money for a decade of your life while you take massive risks, and you bleed and bleed and bleed, and then suddenly, in year 11, or you're 15, you might have one single big payday. But then, of course, uncle sam show up and say, hey, you know what? You just made a lot of money this year. Therefore you're rich, therefore you're evil, and you got to hand it all over to us. So he just destroys those kinds of creative, risk taking professions. But ideally, you want to make your money in discreet lumps, separated over long periods of time so that your own life style does not have a chance to adapt quickly.
+And so one is, yeah, I mean, look, there's a big information diet component to it, like what are your information sources? I'll just give you my version of it. Like 100% of my information diet is either social media or books. Like, I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book that more often than I was like 50 or 100 years old. And what I try to do is basically like fuzz out everything over a day, week, month, even year time frame, and just like fuzzle that stuff out. So it's like it's either leading edge information, or it's like basically permanent value. And so what that does is like then my social media experience, the purpose of my time on social media as a consumer of it is basically, OK, what I want, keep me on the leading edge. Show me all the new stuff. Show me all the new thinking. Show me all the crazy ideas. Like, get me exposed to all of the really creative people. And it's one of the reasons I follow 20,000 people on Twitter.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Get Rich —  Every Episode</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
+          Making Decisions Fast and Well
+
+Summary:
+We go through life making decisions. Should we date person extra wy or get married to them? Should we stay here, or should we move? What jobs should we
+
+Transcript:
+Speaker 1
+Go through life-making decisions. Should we date person X or Y or get married to them? Should we stay here or should we move? What job should we choose?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#147 Reid Hoffman —  Better Decisions, Fewer Mistakes</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
@@ -96,7 +103,7 @@ Yet, there are two tweets that i put out that are related. So the first i must t
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Alexander%20Osterwalder%20-%20Business%20Model%20Generation.md">Readwise/Books/Alexander Osterwalder - Business Model Generation.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Sam%20Altman%20-%20How%20to%20Be%20Successful.md">Readwise/Articles/Sam Altman - How to Be Successful.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -110,7 +117,7 @@ Yet, there are two tweets that i put out that are related. So the first i must t
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Sam%20Altman%20-%20How%20to%20Be%20Successful.md">Readwise/Articles/Sam Altman - How to Be Successful.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Alexander%20Osterwalder%20-%20Business%20Model%20Generation.md">Readwise/Books/Alexander Osterwalder - Business Model Generation.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
