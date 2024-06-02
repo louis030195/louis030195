@@ -28,34 +28,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But since for most of the world’s history the main route to wealth was to steal it, we tend to be suspicious of rich people.
+          I am looking for unknowns, who are passionate and missionbased.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Wealth is the thing that you really want wealth is assets that earn while you sleep. Wealth is the factory that, with robots, is cranking out things. Wealth is the computer program that's running at night that's serving other customers. Wealth even money in the bank that is being re invested into other assets and into other businesses.
+          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seek Wealth, Not Money or Status</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your philosophy is the single most important navigational point on your leadership compass.
+          How Does Technology Impact Society?
+
+Summary:
+Yeah, so there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's the name Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines, and Modern Times. It's this topic. It's basically okay. What exactly is the process by which you do technology, and how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
+
+Transcript:
+Speaker 1
+Yeah. So there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's named Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines in Modern Times. It's this topic. It's basically, OK, what exactly is the process by which you do technology, entry society and then how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Score Takes Care of Itself</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Bill Walsh</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
 </div>
 </div>
 </div>
