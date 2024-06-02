@@ -5,10 +5,11 @@ Carbon-based intelligence 🐒.
 
 ## 🔗 Links
 
+- [🌕 Light side](https://louisbeaumont.me)
+- [🌑 Dark side](https://louis030195.com)
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
 - [**brain.louis030195.com**: Raw, unfiltered, unpolitically correct shower thoughts (and PKM)](https://brain.louis030195.com)
 - [**lu.ma**: tech/science events i organize](https://lu.ma/u/louis030195/events?past=1)
-- [**louis030195.com**: Automatically updated website displaying various activities](https://louis030195.com)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
 - [**twitter.com**: Twitter](https://twitter.com/@louis030195)
 - [**youtube.com**: My Youtube channel](https://www.youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
