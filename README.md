@@ -29,41 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Finding the right balance between cooperation and competition has been the goal and bane of Western politics for centuries
+          When you consider beliefs in evolutionary terms, do not look at how they compete with each other, but consider the survival of the populations that have them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          People, after all, are universally interested in beauty. Lipstick, jewelry, eye shadow, perfume, hair dyes, high heels-people are just as willing to exaggerate or lie about their sexually alluring traits as any peacock or bowerbird. And as the list above makes clear, it seems as if men seek female beauty rather more than women seek male beauty.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Stuart Chase and others have come near to claiming that all abstract words are meaningless, and have used this as a pretext for advocating a kind of political quietism. Since you don’t know what Fascism is, how can you struggle against Fascism?
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Great founders thought five years or more about the problem beforehand
-
-Summary:
-The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years or longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more andmore specific, that's really good. "By the way, OK, by the way, you're also trying to pull one on yourself," he adds.
-
-Transcript:
-Speaker 1
-You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus. This is not like a short term thing. It's almost always somebody. The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years, up and 10 years, up and longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more and more specific, that's really good. If the answers get more and more in general and more and more fuzz, then it's like, OK. And by the way, OK, you're trying to pull one on us. OK, by the way, you're also trying to pull one on yourself. Yeah, right.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -82,7 +75,6 @@ You have to really understand all of the twists and turns that require getting f
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Business/060124%20438%20how%20ppl%20made%20money%20in%20the%20past.md">Business/060124 438 how ppl made money in the past.md</a></li>
 <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
             </ul>
         </span>
@@ -97,20 +89,7 @@ You have to really understand all of the twists and turns that require getting f
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/May%20Wong%20-%20Stanford%20Study%20Finds%20Walking%20Improves%20Creativity.md">Readwise/Articles/May Wong - Stanford Study Finds Walking Improves Creativity.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010624</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
+<li><a href="https://brain.louis030195.com/Business/060124%20438%20how%20ppl%20made%20money%20in%20the%20past.md">Business/060124 438 how ppl made money in the past.md</a></li>
 <li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
             </ul>
         </span>
@@ -128,7 +107,6 @@ You have to really understand all of the twists and turns that require getting f
 
 -   **Friedrich Nietzsche**  - [The Will to Power](https://www.goodreads.com/book/show/31785.The_Will_to_Power) - Sun May 26 01:05:26 -0700 2024
 -   **Isaac Newton**  - [The Principia : Mathematical Principles of Natural Philosophy](https://www.goodreads.com/book/show/231083.The_Principia_) - Thu May 23 11:13:10 -0700 2024
--   **Steve Blank**  - [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) - Thu May 23 11:07:09 -0700 2024
 -   **Tom O&#39;Neill**  - [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties](https://www.goodreads.com/book/show/43015073-chaos) - Thu May 23 11:06:28 -0700 2024
 -   **Ron Chernow**  - [The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance](https://www.goodreads.com/book/show/16131.The_House_of_Morgan) - Thu May 23 11:05:49 -0700 2024
 -   **Bill   Walsh**  - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) - Mon May 13 08:59:16 -0700 2024
@@ -136,14 +114,15 @@ You have to really understand all of the twists and turns that require getting f
 -   **Gautam Baid**  - [The Joys of Compounding: The Passionate Pursuit of Lifelong Learning, Revised and Updated (Heilbrunn Center for Graham &amp; Dodd Investing Series)](https://www.goodreads.com/book/show/48847632-the-joys-of-compounding) - Mon May 06 07:26:38 -0700 2024
 -   **Max Solomon Bennett**  - [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://www.goodreads.com/book/show/74821304-a-brief-history-of-intelligence) - Mon May 06 07:25:21 -0700 2024
 -   **Andrew  Gordon**  - [The Rules of the Game: Jutland and British Navel Command](https://www.goodreads.com/book/show/354137.The_Rules_of_the_Game) - Mon May 06 07:23:04 -0700 2024
+-   **Carl von Clausewitz**  - [On War](https://www.goodreads.com/book/show/117031.On_War) - Mon May 06 07:21:03 -0700 2024
 
 ### ✍ Recent book reviews
 
+-   **Steve Blank**  - [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) - 4/5 - Sun Jun 02 06:01:38 -0700 2024
 -   **Alexander Osterwalder**  - [Business Model Generation](https://www.goodreads.com/book/show/7723797-business-model-generation) - 4/5 - Sun Jun 02 02:12:59 -0700 2024
 -   **Thomas C. Schelling**  - [The Strategy of Conflict](https://www.goodreads.com/book/show/317330.The_Strategy_of_Conflict) - 4/5 - Fri May 24 06:45:22 -0700 2024
 -   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - 3/5 - Fri May 24 06:45:31 -0700 2024
 -   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - 4/5 - Fri May 24 06:45:38 -0700 2024
--   **Heather Meeker**  - [Open Source for Business: A Practical Guide to Open Source Software Licensing](https://www.goodreads.com/book/show/25730398-open-source-for-business) - 1/5 - Fri May 24 06:45:56 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
