@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In evolutionary biology, reciprocal altruism is a behaviour whereby an organism acts in a manner that temporarily reduces its fitness while increasing another organism's fitness, with the expectation that the other organism will act in a similar manner at a later time.
+          But actually, since more than half the students didn’t finish by the time they were 99% sure they’d be done, reality usually delivers results a little worse than the ‘worst-case scenario’. It’s called the planning fallacy, and the best way to fix it is to ask how long things took the last time you tried them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Altruism - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private actions do not generalize, then you cannot have general ideas.
+          We’re looking for extraordinary entrepreneurs who can create very large businesses. After eighteen years and backing over one hundred entrepreneurs, I’ve learned it’s a rare person who has the combination of attributes to get through the challenges of a startup and create a large company that changes our lives.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
+          Neutrinos are abundant subatomic particles that are famous for passing through anything and everything, only very rarely interacting with matter. About 100 trillion neutrinos pass through your body every second.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A First Look at How the Earth Stops High-Energy Neutrinos in Their Tracks</p>
+<p style="margin-bottom: 0; color: #9f8e7d">icecube.wisc.edu</p>
 </div>
 </div>
 </div>
@@ -120,7 +120,6 @@ Carbon-based intelligence 🐒.
 ### 📚 Books Louis is reading
 
 -   **Friedrich Nietzsche**  - [The Will to Power](https://www.goodreads.com/book/show/31785.The_Will_to_Power) - Sun May 26 01:05:26 -0700 2024
--   **Alexander Osterwalder**  - [Business Model Generation](https://www.goodreads.com/book/show/7723797-business-model-generation) - Fri May 24 06:44:38 -0700 2024
 -   **Isaac Newton**  - [The Principia : Mathematical Principles of Natural Philosophy](https://www.goodreads.com/book/show/231083.The_Principia_) - Thu May 23 11:13:10 -0700 2024
 -   **Steve Blank**  - [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) - Thu May 23 11:07:09 -0700 2024
 -   **Tom O&#39;Neill**  - [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties](https://www.goodreads.com/book/show/43015073-chaos) - Thu May 23 11:06:28 -0700 2024
@@ -129,14 +128,15 @@ Carbon-based intelligence 🐒.
 -   **Carlo Rovelli**  - [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics) - Fri May 10 08:32:39 -0700 2024
 -   **Gautam Baid**  - [The Joys of Compounding: The Passionate Pursuit of Lifelong Learning, Revised and Updated (Heilbrunn Center for Graham &amp; Dodd Investing Series)](https://www.goodreads.com/book/show/48847632-the-joys-of-compounding) - Mon May 06 07:26:38 -0700 2024
 -   **Max Solomon Bennett**  - [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://www.goodreads.com/book/show/74821304-a-brief-history-of-intelligence) - Mon May 06 07:25:21 -0700 2024
+-   **Andrew  Gordon**  - [The Rules of the Game: Jutland and British Navel Command](https://www.goodreads.com/book/show/354137.The_Rules_of_the_Game) - Mon May 06 07:23:04 -0700 2024
 
 ### ✍ Recent book reviews
 
+-   **Alexander Osterwalder**  - [Business Model Generation](https://www.goodreads.com/book/show/7723797-business-model-generation) - 4/5 - Sun Jun 02 02:12:59 -0700 2024
 -   **Thomas C. Schelling**  - [The Strategy of Conflict](https://www.goodreads.com/book/show/317330.The_Strategy_of_Conflict) - 4/5 - Fri May 24 06:45:22 -0700 2024
 -   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - 3/5 - Fri May 24 06:45:31 -0700 2024
 -   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - 4/5 - Fri May 24 06:45:38 -0700 2024
 -   **Heather Meeker**  - [Open Source for Business: A Practical Guide to Open Source Software Licensing](https://www.goodreads.com/book/show/25730398-open-source-for-business) - 1/5 - Fri May 24 06:45:56 -0700 2024
--   **Peter Kazanjy**  - [Founding Sales - The Startup Sales Handbook](https://www.goodreads.com/book/show/46019973-founding-sales---the-startup-sales-handbook) - 5/5 - Fri May 24 06:45:15 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
