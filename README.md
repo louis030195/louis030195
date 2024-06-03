@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Monopoly is the condition of every successful business
+          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
+          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
 <p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Now this principle of induction cannot be a purely logical truth like a tautology or an analytic statement.Indeed, if there were such a thing as a purely logical principle of induction, there would be no problem of induction; for in this case, all inductive inferences would have to be regarded as purely logical or tautological transformations, just like inferences in deductive logic.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Karl Popper</p>
 </div>
 </div>
 </div>
@@ -73,9 +73,14 @@ Carbon-based intelligence 🐒.
     position: relative; margin-top: 6rem;">
     
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Carlo%20Rovelli%20-%20Seven%20Brief%20Lessons%20on%20Physics.md">Readwise/Books/Carlo Rovelli - Seven Brief Lessons on Physics.md</a></li>
+            </ul>
+        </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">no brain dump from louis today 😭</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030624</p>
             </div>
         </div>
     </div>
@@ -85,16 +90,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
--   **Friedrich Nietzsche**  - [The Will to Power](https://www.goodreads.com/book/show/31785.The_Will_to_Power) - Sun May 26 01:05:26 -0700 2024
--   **Isaac Newton**  - [The Principia : Mathematical Principles of Natural Philosophy](https://www.goodreads.com/book/show/231083.The_Principia_) - Thu May 23 11:13:10 -0700 2024
--   **Tom O&#39;Neill**  - [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties](https://www.goodreads.com/book/show/43015073-chaos) - Thu May 23 11:06:28 -0700 2024
--   **Ron Chernow**  - [The House of Morgan: An American Banking Dynasty and the Rise of Modern Finance](https://www.goodreads.com/book/show/16131.The_House_of_Morgan) - Thu May 23 11:05:49 -0700 2024
--   **Bill   Walsh**  - [The Score Takes Care of Itself: My Philosophy of Leadership](https://www.goodreads.com/book/show/6342995-the-score-takes-care-of-itself) - Mon May 13 08:59:16 -0700 2024
--   **Carlo Rovelli**  - [Seven Brief Lessons on Physics](https://www.goodreads.com/book/show/25734172-seven-brief-lessons-on-physics) - Fri May 10 08:32:39 -0700 2024
--   **Gautam Baid**  - [The Joys of Compounding: The Passionate Pursuit of Lifelong Learning, Revised and Updated (Heilbrunn Center for Graham &amp; Dodd Investing Series)](https://www.goodreads.com/book/show/48847632-the-joys-of-compounding) - Mon May 06 07:26:38 -0700 2024
--   **Max Solomon Bennett**  - [A Brief History of Intelligence: Why the Evolution of the Brain Holds the Key to the Future of AI](https://www.goodreads.com/book/show/74821304-a-brief-history-of-intelligence) - Mon May 06 07:25:21 -0700 2024
--   **Andrew  Gordon**  - [The Rules of the Game: Jutland and British Navel Command](https://www.goodreads.com/book/show/354137.The_Rules_of_the_Game) - Mon May 06 07:23:04 -0700 2024
--   **Carl von Clausewitz**  - [On War](https://www.goodreads.com/book/show/117031.On_War) - Mon May 06 07:21:03 -0700 2024
+-   **Matthew Walker**  - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep) - Mon Jun 03 05:05:10 -0700 2024
+-   **Dave Kerpen**  - [Likeable Social Media: How to Delight Your Customers, Create an Irresistible Brand, and Be Generally Amazing on Facebook](https://www.goodreads.com/book/show/10220557-likeable-social-media) - Mon Jun 03 05:04:13 -0700 2024
+-   **Lon Safko**  - [The Social Media Bible: Tactics, Tools, and Strategies for Business Success](https://www.goodreads.com/book/show/5129179-the-social-media-bible) - Mon Jun 03 05:03:57 -0700 2024
+-   **Gary Vaynerchuk**  - [Crush It!: Why Now Is the Time to Cash In on Your Passion](https://www.goodreads.com/book/show/6474550-crush-it) - Mon Jun 03 05:02:54 -0700 2024
+-   **Brittany Hennessy**  - [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/book/show/36560239-influencer) - Mon Jun 03 05:02:00 -0700 2024
+-   **Neville Isdell**  - [Inside Coca-Cola: A Ceo&#39;s Life Story of Building the World&#39;s Most Popular Brand](https://www.goodreads.com/book/show/11568442-inside-coca-cola) - Mon Jun 03 05:01:21 -0700 2024
+-   **Donald Miller**  - [Building A Story Brand](https://www.goodreads.com/book/show/41215667-building-a-story-brand) - Mon Jun 03 05:00:18 -0700 2024
+-   **Matthew Dixon**  - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.goodreads.com/book/show/11910902-the-challenger-sale) - Mon Jun 03 04:58:38 -0700 2024
+-   **Eric Ries**  - [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) - Mon Jun 03 04:56:41 -0700 2024
+-   **Keith Ferrazzi**  - [Never Eat Alone: And Other Secrets to Success, One Relationship at a Time](https://www.goodreads.com/book/show/84699.Never_Eat_Alone) - Mon Jun 03 04:56:19 -0700 2024
 
 ### ✍ Recent book reviews
 
