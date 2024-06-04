@@ -29,50 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You are the average of the five people around you 
-
-Summary:
-"I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first," he says. "It's a fundamental human instinct because everybody, you know, very few people can go through life alone ... You need some sort of support network." He adds: "If they, if you don't have anybody around you who shares your interests, or has the same drives that you do, you'll have a very hard time sustaining it"
-
-Transcript:
-Speaker 1
-Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
-
-Speaker 3
-I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
-
-Speaker 2
-Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
-
-Speaker 1
-So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
+          Why has that man fallen in love with that woman? Because she's pretty. Why does pretty matter? Because human beings are a mainly monogamous species and so males are choosy about their mates (as male chimpanzees are not); prettiness is an indication of youth and health, which are indications of fertility: Why does that man care about fertility in his mate? Because if he did not, his genes would be eclipsed by those of men who did. Why does he care about that? He does not, but his genes act as if they do. Those who choose infertile mates leave no descendants. Therefore, everybody is descended from men who preferred fertile women, and every person inherits from those ancestors the same preference.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Significant figures (also known as the significant digits, precision or resolution) of a number in positional notation are digits in the number that are reliable and necessary to indicate the quantity of something.  If a number expressing the result of a measurement (e.g., length, pressure, volume, or mass) has more digits than the number of digits allowed by the measurement resolution, then only as many digits as allowed by the measurement resolution are reliable, and so only these can be significant figures.
+          I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage. Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss. CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they’re out. If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Significant Figures - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When there’s a confusing problem and you’re just starting out and you have a falsifiable hypothesis, go test it. Find some simple, easy way of doing a basic check and do it right away. Don’t worry about designing an elaborate course of experiments that would make a grant proposal look impressive to a funding agency.
+          At times we toyed with the idea of a new service called Viaweb Gold. It would have exactly the same features as our regular service, but would cost ten times as much would be sold in person by a man in a suit. We never got around to offering this variant, but I’m sure we could have signed up a few merchants for it.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
