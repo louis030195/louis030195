@@ -29,34 +29,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their ideas as they developed them. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
+          Economically, you can think of a startup as a way to compress your whole working life into a few years. Instead of working at a low intensity for forty years, you work as hard as you possibly can for four.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Founders at Work</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jessica Livingston</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the accuracy with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions.
+          Personality Traits for entrepreneurs 
+
+Summary:
+Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
+
+Transcript:
+Speaker 1
+It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Uncertainty Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men look for sources that are mobile, distant, and unpredictable (usually meat), while women, burdened with children, look for sources that are static, close, and predictable (usually plants)
+          In Buddha’s teaching egoism is a duty.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
