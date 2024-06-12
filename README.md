@@ -29,36 +29,29 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making Decisions Fast and Well
-
-Summary:
-We go through life making decisions. Should we date person extra wy or get married to them? Should we stay here, or should we move? What jobs should we
-
-Transcript:
-Speaker 1
-Go through life-making decisions. Should we date person X or Y or get married to them? Should we stay here or should we move? What job should we choose?
+          We should substitute morality by the will to our own ends, and consequently to the means to them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#147 Reid Hoffman —  Better Decisions, Fewer Mistakes</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In most societies women travel to live with their husbands, whereas men tend to remain close to their relatives.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          “I have a dream,” said Harry’s voice, “that one day sentient beings will be judged by the patterns of their minds, and not their colour or their shape or the stuff they’re made of, or who their parents were.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -82,20 +75,6 @@ Go through life-making decisions. Should we date person X or Y or get married to
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/David%20J.%20Schwartz%20-%20The%20Magic%20of%20Thinking%20Big.md">Readwise/Books/David J. Schwartz - The Magic of Thinking Big.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120624</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20The%20Social%20Media%20Bible.md">Readwise/Articles/readwise.io - The Social Media Bible.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Raah%2C%20Hanif%20-%20Positive%20Thinking%20Discover%20the%20Power%20of%20Positive%20Thinking%20and%20Change%20Your%20Mindset%20to%20Become%20an%20Optimist.md">Readwise/Books/Raah, Hanif - Positive Thinking Discover the Power of Positive Thinking and Change Your Mindset to Become an Optimist.md</a></li>
             </ul>
@@ -111,7 +90,7 @@ Go through life-making decisions. Should we date person X or Y or get married to
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20The%20Social%20Media%20Bible.md">Readwise/Articles/readwise.io - The Social Media Bible.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/David%20J.%20Schwartz%20-%20The%20Magic%20of%20Thinking%20Big.md">Readwise/Books/David J. Schwartz - The Magic of Thinking Big.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -131,6 +110,34 @@ Go through life-making decisions. Should we date person X or Y or get married to
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120624</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/David%20J.%20Schwartz%20-%20The%20Magic%20of%20Thinking%20Big.md">Readwise/Books/David J. Schwartz - The Magic of Thinking Big.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120624</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20The%20Social%20Media%20Bible.md">Readwise/Articles/readwise.io - The Social Media Bible.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 110624</p>
             </div>
         </div>
     </div>
@@ -150,43 +157,29 @@ Go through life-making decisions. Should we date person X or Y or get married to
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/David%20J.%20Schwartz%20-%20The%20Magic%20of%20Thinking%20Big.md">Readwise/Books/David J. Schwartz - The Magic of Thinking Big.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 110624</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
 ### 📚 Books Louis is reading
 
--   **David J. Schwartz**  - [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) - Tue Jun 11 10:18:31 -0700 2024
--   **Norman Vincent Peale**  - [The Power of Positive Thinking](https://www.goodreads.com/book/show/1134122.The_Power_of_Positive_Thinking) - Tue Jun 11 10:18:14 -0700 2024
--   **Stephen R. Covey**  - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) - Tue Jun 11 10:16:01 -0700 2024
 -   **Michael Pollan**  - [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://www.goodreads.com/book/show/36613747-how-to-change-your-mind) - Mon Jun 03 05:07:53 -0700 2024
 -   **Marshall B. Rosenberg**  - [Nonviolent Communication: A Language of Life](https://www.goodreads.com/book/show/71730.Nonviolent_Communication) - Mon Jun 03 05:06:38 -0700 2024
 -   **Matthew Walker**  - [Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.goodreads.com/book/show/34466963-why-we-sleep) - Mon Jun 03 05:05:10 -0700 2024
--   **Dave Kerpen**  - [Likeable Social Media: How to Delight Your Customers, Create an Irresistible Brand, and Be Generally Amazing on Facebook](https://www.goodreads.com/book/show/10220557-likeable-social-media) - Mon Jun 03 05:04:13 -0700 2024
--   **Lon Safko**  - [The Social Media Bible: Tactics, Tools, and Strategies for Business Success](https://www.goodreads.com/book/show/5129179-the-social-media-bible) - Mon Jun 03 05:03:57 -0700 2024
--   **Gary Vaynerchuk**  - [Crush It!: Why Now Is the Time to Cash In on Your Passion](https://www.goodreads.com/book/show/6474550-crush-it) - Mon Jun 03 05:02:54 -0700 2024
--   **Brittany Hennessy**  - [Influencer: Building Your Personal Brand in the Age of Social Media](https://www.goodreads.com/book/show/36560239-influencer) - Mon Jun 03 05:02:00 -0700 2024
+-   **Donald Miller**  - [Building A Story Brand](https://www.goodreads.com/book/show/41215667-building-a-story-brand) - Mon Jun 03 05:00:18 -0700 2024
+-   **Matthew Dixon**  - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.goodreads.com/book/show/11910902-the-challenger-sale) - Mon Jun 03 04:58:38 -0700 2024
+-   **Eric Ries**  - [The Lean Startup](https://www.goodreads.com/book/show/10127019-the-lean-startup) - Mon Jun 03 04:56:41 -0700 2024
+-   **Keith Ferrazzi**  - [Never Eat Alone: And Other Secrets to Success, One Relationship at a Time](https://www.goodreads.com/book/show/84699.Never_Eat_Alone) - Mon Jun 03 04:56:19 -0700 2024
+-   **Friedrich Nietzsche**  - [The Will to Power](https://www.goodreads.com/book/show/31785.The_Will_to_Power) - Sun May 26 01:05:26 -0700 2024
+-   **Isaac Newton**  - [The Principia : Mathematical Principles of Natural Philosophy](https://www.goodreads.com/book/show/231083.The_Principia_) - Thu May 23 11:13:10 -0700 2024
+-   **Tom O&#39;Neill**  - [Chaos: Charles Manson, the CIA, and the Secret History of the Sixties](https://www.goodreads.com/book/show/43015073-chaos) - Thu May 23 11:06:28 -0700 2024
 
 ### ✍ Recent book reviews
 
--   **Steve Blank**  - [The Four Steps to the Epiphany: Successful Strategies for Products that Win](https://www.goodreads.com/book/show/762542.The_Four_Steps_to_the_Epiphany) - 4/5 - Sun Jun 02 06:01:38 -0700 2024
--   **Alexander Osterwalder**  - [Business Model Generation](https://www.goodreads.com/book/show/7723797-business-model-generation) - 4/5 - Sun Jun 02 02:12:59 -0700 2024
--   **Thomas C. Schelling**  - [The Strategy of Conflict](https://www.goodreads.com/book/show/317330.The_Strategy_of_Conflict) - 4/5 - Fri May 24 06:45:22 -0700 2024
--   **Zig Ziglar**  - [Zig Ziglar&#39;s Secrets of Closing the Sale: For Anyone Who Must Get Others to Say Yes!](https://www.goodreads.com/book/show/578736.Zig_Ziglar_s_Secrets_of_Closing_the_Sale) - 3/5 - Fri May 24 06:45:31 -0700 2024
--   **Neil Rackham**  - [SPIN Selling: Situation Problem Implication Need-payoff](https://www.goodreads.com/book/show/833015.SPIN_Selling) - 4/5 - Fri May 24 06:45:38 -0700 2024
+-   **Stephen R. Covey**  - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) - 3/5 - Wed Jun 12 04:23:09 -0700 2024
+-   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - 4/5 - Wed Jun 12 04:24:35 -0700 2024
+-   **David J. Schwartz**  - [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) - 3/5 - Wed Jun 12 04:22:49 -0700 2024
+-   **Norman Vincent Peale**  - [The Power of Positive Thinking](https://www.goodreads.com/book/show/1134122.The_Power_of_Positive_Thinking) - 3/5 - Wed Jun 12 04:23:01 -0700 2024
+-   **Stephen Jay Gould**  - [The Mismeasure of Man](https://www.goodreads.com/book/show/54218.The_Mismeasure_of_Man) - 3/5 - Wed Jun 12 04:25:11 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
