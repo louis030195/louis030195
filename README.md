@@ -29,41 +29,40 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          he gave deposits for the use of all the olive-presses in Chios and Miletus, which he hired at a low price because no one bid against him. When the harvest time came, and many were wanted all at once and of a sudden, he let them out at any rate which he pleased, and made a quantity of money. Thus he showed the world that philosophers can easily be rich if they like, but that their ambition is of another sort."
+          Health frees your body.
+
+Wealth frees your time.
+
+Purpose frees your spirit.
+
+Wisdom frees your mind.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Ascendant Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@AscendantPower on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to get rich. I’m not talking about the trickle-down effect here. I’m not saying that if you let Henry Ford get rich, he’ll hire you as a waiter at his next party. I’m saying that he’ll make you a tractor to replace your horse.
+          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Loss aversion - most people stop at the first failure 
-
-Summary:
-And those things have failed. And you know, and the way human psychology works is when you try something and it fails, the big lesson that you learn is never try that thing ever again.
-
-Transcript:
-Speaker 1
-And those things have failed. And you know, and the way human psychology works is when you try something and it fails, the big lesson that you learn is never try that thing ever again. Right.
+          Why sex? Surely there are features of human nature other than this one overexposed and troublesome procreative pastime: True enough, but reproduction is the sole goal for which human beings are designed;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
@@ -82,12 +81,12 @@ And those things have failed. And you know, and the way human psychology works i
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Bruce%20Alberts%3B%20Dennis%20Bray%3B%20Karen%20Hopkin%3B%20Alexander%20Johnson%3B%20Julian%20Lewis%3B%20Martin%20Raff%3B%20Keith%20Robert...%20-%20Essential%20Cell%20Biology.md">Readwise/Articles/Bruce Alberts; Dennis Bray; Karen Hopkin; Alexander Johnson; Julian Lewis; Martin Raff; Keith Robert... - Essential Cell Biology.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160624</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150624</p>
             </div>
         </div>
     </div>
@@ -126,12 +125,12 @@ And those things have failed. And you know, and the way human psychology works i
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Bruce%20Alberts%3B%20Dennis%20Bray%3B%20Karen%20Hopkin%3B%20Alexander%20Johnson%3B%20Julian%20Lewis%3B%20Martin%20Raff%3B%20Keith%20Robert...%20-%20Essential%20Cell%20Biology.md">Readwise/Articles/Bruce Alberts; Dennis Bray; Karen Hopkin; Alexander Johnson; Julian Lewis; Martin Raff; Keith Robert... - Essential Cell Biology.md</a></li>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 150624</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160624</p>
             </div>
         </div>
     </div>
