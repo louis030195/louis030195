@@ -29,39 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Take what you hear with a grain of salt. Even the most discouraging Feedback contains crucial pieces of information that can help you make your offering better. The worst response you can get when asking for Feedback isn’t emphatic dislike: it’s total apathy. If no one seems to care about what you’ve created, you don’t have a viable business idea.
+          Confirmation bias was the technical term; it meant, among other things, that when you chose your information sources, there was a notable tendency to choose information sources that agreed with your current opinions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Personal MBA</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kaufman, Josh</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your beliefs become your thoughts, 
-Your thoughts become your words, 
-Your words become your actions, 
-Your actions become your habits, 
-Your habits become your values, 
-Your values become your destiny.
+          In companies, you have a dictator at the top, a CEO, or the founders. Then all of a sudden it turns back into a butterfly network, and now you report to a board, a bunch of people. And inherently, the founder-dictators tend to be very risk-prone. They have a lot of vision, they have a lot of drive, they know where they want to take the thing. They like to make risky moves and bets and pivots and turns. But boards don’t like that. Boards don’t like to be dragged along. It’s a group of people. It’s groupthink, it’s committee-think. No committee ever built anything great. So related to that, no board ever built anything great. Boards can be helpful; they can be sounding boards. But you do not want the board to be running the company. And the larger the board, the more you’re going to find yourself spending time just keeping them up-to-date and in sync.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Autobiography</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Mohandas K. Gandhi, Mahadev Desai, and  Mahadev Desai</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          World domination is such an ugly phrase. I prefer to call it world optimisation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -95,24 +90,24 @@ Your values become your destiny.
 
 ### 📚 Books Louis is reading
 
+-   **Walter Isaacson**  - [The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race](https://www.goodreads.com/book/show/54968118-the-code-breaker) - Tue Jul 02 09:56:44 -0700 2024
+-   **James W. Cortada**  - [IBM: The Rise and Fall and Reinvention of a Global Icon](https://www.goodreads.com/book/show/125532822-ibm) - Tue Jul 02 09:55:54 -0700 2024
 -   **Joseph Campbell**  - [The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) - Sun Jun 30 07:11:25 -0700 2024
 -   **Joseph Campbell**  - [Myths to Live By](https://www.goodreads.com/book/show/821380.Myths_to_Live_By) - Sun Jun 30 07:11:20 -0700 2024
--   **Joseph Campbell**  - [Goddesses: Mysteries of the Feminine Divine](https://www.goodreads.com/book/show/17707946-goddesses) - Sun Jun 30 07:11:13 -0700 2024
--   **Joseph Campbell**  - [A Joseph Campbell Companion: Reflections on the Art of Living](https://www.goodreads.com/book/show/35513.A_Joseph_Campbell_Companion) - Sun Jun 30 07:10:52 -0700 2024
--   **J. Paul Getty**  - [As I See It: The Autobiography of J. Paul Getty](https://www.goodreads.com/book/show/878442.As_I_See_It) - Tue Jun 18 12:14:29 -0700 2024
--   **John Pearson**  - [Painfully Rich: The Outrageous Fortune and Misfortunes of the Heirs of J. Paul Getty](https://www.goodreads.com/book/show/878443.Painfully_Rich) - Tue Jun 18 12:14:21 -0700 2024
 -   **Edward M. Purcell**  - [Electricity and Magnetism](https://www.goodreads.com/book/show/308655.Electricity_and_Magnetism) - Wed Jun 12 12:41:02 -0700 2024
 -   **Herbert B. Callen**  - [Thermodynamics and an Introduction to Thermostatistics](https://www.goodreads.com/book/show/183469.Thermodynamics_and_an_Introduction_to_Thermostatistics) - Wed Jun 12 12:39:43 -0700 2024
 -   **Sheldon Axler**  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Wed Jun 12 12:39:16 -0700 2024
 -   **James Stewart**  - [Calculus, 5th Edition](https://www.goodreads.com/book/show/61297.Calculus_5th_Edition) - Wed Jun 12 12:37:22 -0700 2024
+-   **Howard Anton**  - [Calculus: Early Transcendentals](https://www.goodreads.com/book/show/939195.Calculus) - Wed Jun 12 12:36:30 -0700 2024
+-   **Bruce Alberts**  - [Molecular Biology of the Cell](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell) - Wed Jun 12 12:35:09 -0700 2024
 
 ### ✍ Recent book reviews
 
--   **Stephen R. Covey**  - [The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change](https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People) - 3/5 - Wed Jun 12 04:23:09 -0700 2024
--   **Lee Kuan Yew**  - [From Third World to First: The Singapore Story: 1965-2000](https://www.goodreads.com/book/show/144409.From_Third_World_to_First) - 4/5 - Wed Jun 12 04:24:35 -0700 2024
--   **David J. Schwartz**  - [The Magic of Thinking Big](https://www.goodreads.com/book/show/759945.The_Magic_of_Thinking_Big) - 3/5 - Wed Jun 12 04:22:49 -0700 2024
--   **Norman Vincent Peale**  - [The Power of Positive Thinking](https://www.goodreads.com/book/show/1134122.The_Power_of_Positive_Thinking) - 3/5 - Wed Jun 12 04:23:01 -0700 2024
--   **Stephen Jay Gould**  - [The Mismeasure of Man](https://www.goodreads.com/book/show/54218.The_Mismeasure_of_Man) - 3/5 - Wed Jun 12 04:25:11 -0700 2024
+-   **David Nasaw**  - [Andrew Carnegie](https://www.goodreads.com/book/show/5486.Andrew_Carnegie) - 3/5 - Tue Jul 02 09:53:48 -0700 2024
+-   **Joseph Campbell**  - [A Joseph Campbell Companion: Reflections on the Art of Living](https://www.goodreads.com/book/show/35513.A_Joseph_Campbell_Companion) - 2/5 - Tue Jul 02 09:52:38 -0700 2024
+-   **J. Paul Getty**  - [As I See It: The Autobiography of J. Paul Getty](https://www.goodreads.com/book/show/878442.As_I_See_It) - 4/5 - Tue Jul 02 09:53:58 -0700 2024
+-   **John Pearson**  - [Painfully Rich: The Outrageous Fortune and Misfortunes of the Heirs of J. Paul Getty](https://www.goodreads.com/book/show/878443.Painfully_Rich) - 4/5 - Tue Jul 02 09:54:01 -0700 2024
+-   **Matthew Dixon**  - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.goodreads.com/book/show/11910902-the-challenger-sale) - 3/5 - Tue Jul 02 09:53:36 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
