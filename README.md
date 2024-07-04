@@ -29,58 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For each candidate for a given role, ask the same or similar interview questions. This will allow you to calibrate candidates across identical questions.
+          To men immersed day and night in these meditations comes understanding of the truth pronounced by the god at Delphi, that the mind should know itself; and there comes also the perception of its union with the divine mind, the source of its inexhaustible joy
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You are the average of the five people around you 
-
-Key takeaways:
-- Creative success not only depends on individual effort but also on one's social network
-- One becomes the average of the five people they spend the most time with
-
-Transcript:
-Speaker 1
-Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
-
-Speaker 3
-I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
-
-Speaker 2
-Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
-
-Speaker 1
-So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
+          If you ever do find yourself working for a startup, here’s a handy tip for evaluating competitors. Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they’ll get the wrong candidates.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Only technical individuals innovate
-
-Summary:
-Sri Ram: Big companies are in this new model of managerial capitalism. What we do is we fund the throwbacks, such as Elon Musk and Henry Ford. He says managers don't expose themselves to risks involved in doing new things. "I think one of the world needs the bourgeois capitalist model," he says.
-
-Transcript:
-Speaker 1
-You're going to need this management class. I go through all this to basically say, this then is the lens that I now provide basically for what we do in venture capital, what we do in startups, which basically, the way to think about It is the big companies, like the Fortune 500 and the big tech companies, are they are in this new model of managerial capitalism. At your point, Sri Ram, it's like, you can very clearly see that because you read the executive biographies and it's like, and you see it. It's like Harvard Business School, Stanford Business School, McKinsey, Goldman Sachs. It's like all the above administration. It's all the markers of people who have kind of been in this elite management kind of role and now they're running these companies. What we do is we fund the throwbacks. And Elon Musk, we'll just use the example. Elon's a throwback. Elon's a throwback to Henry Ford. He's a throwback to the prior era of what Burnham called bourgeois capitalism, which is basically owner, proprietor, dictator of the company. And why do we do this? It's because companies that are run in the managerial mode don't do new things. Why do they do new things? Because managers don't do new things. The whole point of being a manager is that you don't expose yourself to the kind of risks involved in doing new things. You don't just try to basically stand that control job for as long as possible. I think one of the world needs the bourgeois capitalist model and they need the entrepreneurs to actually do what they do for anything new to happen. And so we basically keep that. We keep basically the original form of capitalism alive.
+          You don’t have to make the mind quiet. If you end all conflict, the mind naturally becomes quiet. And when the mind is absolutely silent, without any movement of thought, then perhaps you will see something, perhaps there is something sacred beyond all words. And this man has sought everlastingly, something that is beyond measure, beyond thought, which is incorruptible, unnameable, eternal. That can only take place when the mind is absolutely free and completely silent
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
@@ -99,7 +75,7 @@ You're going to need this management class. I go through all this to basically s
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Walter%20Isaacson%20-%20The%20Code%20Breaker.md">Readwise/Books/Walter Isaacson - The Code Breaker.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Stephen%20R.%20Covey%20-%20Seven%20Habits%20of%20Highly%20Effective%20People.md">Readwise/Books/Stephen R. Covey - Seven Habits of Highly Effective People.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -113,7 +89,7 @@ You're going to need this management class. I go through all this to basically s
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Stephen%20R.%20Covey%20-%20Seven%20Habits%20of%20Highly%20Effective%20People.md">Readwise/Books/Stephen R. Covey - Seven Habits of Highly Effective People.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Walter%20Isaacson%20-%20The%20Code%20Breaker.md">Readwise/Books/Walter Isaacson - The Code Breaker.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
