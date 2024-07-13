@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Nature isn’t a person, you can’t trick them into believing something else, if you try to tell the Moon it’s made of cheese you can argue for days and it won’t change the Moon! What you’re talking about is rationalization,
+          Whatever cannot obey itself, is commanded. Such is the nature of living things.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          to hear the inferior and the poor in spirit having their say is a terrible ear-splitting torment for him who knows and trembles at the thought,
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When love beckons to you, follow him, Though his ways are hard and steep. And when his wings enfold you yield to him, Though the sword hidden among his pinions may wound you. And when he speaks to you believe in him.
+          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Prophet</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kahlil Gibran</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          If your private actions do not generalize, then you cannot have general ideas.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
@@ -75,20 +75,6 @@ Carbon-based intelligence 🐒.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Jimmy%20Soni%20%26%20Rob%20Goodman%20-%20A%20Mind%20at%20Play%20How%20Claude%20Shannon%20Invented%20the%20Information%20Age.md">Readwise/Articles/Jimmy Soni & Rob Goodman - A Mind at Play How Claude Shannon Invented the Information Age.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120724</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Alec%20Radford%2C%20Jong%20Wook%20Kim%2C%20Tao%20Xu%2C%20Greg%20Brockman%2C%20Christine%20McLeavey%2C%20Ilya%20Sutskever%20-%20Robust%20Speech%20Recognition%20via%20Large-Scale%20Weak%20Supervision.md">Readwise/Articles/Alec Radford, Jong Wook Kim, Tao Xu, Greg Brockman, Christine McLeavey, Ilya Sutskever - Robust Speech Recognition via Large-Scale Weak Supervision.md</a></li>
             </ul>
         </span>
@@ -99,21 +85,35 @@ Carbon-based intelligence 🐒.
         </div>
     </div>
     
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Jimmy%20Soni%20%26%20Rob%20Goodman%20-%20A%20Mind%20at%20Play%20How%20Claude%20Shannon%20Invented%20the%20Information%20Age.md">Readwise/Articles/Jimmy Soni & Rob Goodman - A Mind at Play How Claude Shannon Invented the Information Age.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120724</p>
+            </div>
+        </div>
+    </div>
+    
 </div>
 
 
 ### 📚 Books Louis is reading
 
+-   **David Hilbert**  - [Geometry and the Imagination](https://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination) - Sat Jul 13 11:35:29 -0700 2024
+-   **David Hilbert**  - [Principles of Mathematical Logic](https://www.goodreads.com/book/show/1313056.Principles_of_Mathematical_Logic) - Sat Jul 13 11:31:59 -0700 2024
+-   **Stephen J. Blundell**  - [Concepts in Thermal Physics](https://www.goodreads.com/book/show/2203001.Concepts_in_Thermal_Physics) - Sat Jul 13 11:30:14 -0700 2024
+-   **Robert Audi**  - [Epistemology: A Contemporary Introduction to the Theory of Knowledge](https://www.goodreads.com/book/show/477976.Epistemology) - Sat Jul 13 11:29:41 -0700 2024
+-   **Umberto Eco**  - [Foucault’s Pendulum](https://www.goodreads.com/book/show/17841.Foucault_s_Pendulum) - Sat Jul 13 11:29:04 -0700 2024
+-   **Ted Chiang**  - [Tower of Babylon](https://www.goodreads.com/book/show/29864598-tower-of-babylon) - Sat Jul 13 11:29:01 -0700 2024
+-   **William P. Alston**  - [Epistemic Justification: Essays in the Theory of Knowledge](https://www.goodreads.com/book/show/2136852.Epistemic_Justification) - Sat Jul 13 11:28:57 -0700 2024
 -   **Walter Isaacson**  - [The Code Breaker: Jennifer Doudna, Gene Editing, and the Future of the Human Race](https://www.goodreads.com/book/show/54968118-the-code-breaker) - Tue Jul 02 09:56:44 -0700 2024
 -   **James W. Cortada**  - [IBM: The Rise and Fall and Reinvention of a Global Icon](https://www.goodreads.com/book/show/125532822-ibm) - Tue Jul 02 09:55:54 -0700 2024
 -   **Joseph Campbell**  - [The Hero With a Thousand Faces](https://www.goodreads.com/book/show/588138.The_Hero_With_a_Thousand_Faces) - Sun Jun 30 07:11:25 -0700 2024
--   **Joseph Campbell**  - [Myths to Live By](https://www.goodreads.com/book/show/821380.Myths_to_Live_By) - Sun Jun 30 07:11:20 -0700 2024
--   **Edward M. Purcell**  - [Electricity and Magnetism](https://www.goodreads.com/book/show/308655.Electricity_and_Magnetism) - Wed Jun 12 12:41:02 -0700 2024
--   **Herbert B. Callen**  - [Thermodynamics and an Introduction to Thermostatistics](https://www.goodreads.com/book/show/183469.Thermodynamics_and_an_Introduction_to_Thermostatistics) - Wed Jun 12 12:39:43 -0700 2024
--   **Sheldon Axler**  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - Wed Jun 12 12:39:16 -0700 2024
--   **James Stewart**  - [Calculus, 5th Edition](https://www.goodreads.com/book/show/61297.Calculus_5th_Edition) - Wed Jun 12 12:37:22 -0700 2024
--   **Howard Anton**  - [Calculus: Early Transcendentals](https://www.goodreads.com/book/show/939195.Calculus) - Wed Jun 12 12:36:30 -0700 2024
--   **Bruce Alberts**  - [Molecular Biology of the Cell](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell) - Wed Jun 12 12:35:09 -0700 2024
 
 ### ✍ Recent book reviews
 
