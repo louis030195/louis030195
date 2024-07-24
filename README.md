@@ -29,34 +29,35 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          We must distinguish between, on the one hand, our subjective experiences or our feelings of conviction, which can never justify any statement (though they can be made the subject of psychological investigation) and, on the other hand, the objective logical relations subsisting among the various systems of scientific statements, and within each of them.
+          Compounding success (which means “growth” in the case of an early-stage start-up) solves almost all internal problems, particularly hard ones.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Karl Raimund Popper</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Be Successful
+(At...</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@sama on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Now this principle of induction cannot be a purely logical truth like a tautology or an analytic statement.Indeed, if there were such a thing as a purely logical principle of induction, there would be no problem of induction; for in this case, all inductive inferences would have to be regarded as purely logical or tautological transformations, just like inferences in deductive logic.
+          Figuring out the right product is the innovator’s job, not the customer’s job. The customer only knows what she thinks she wants based on her experience with the current product. The innovator can take into account everything that’s possible, often going against what she knows to be true. This requires a combination of knowledge, skill, and courage.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Karl Popper</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Wealth is the fundamental thing. Wealth is stuff we want: food, clothes, houses, cars, gadgets, travel to interesting places, and so on. You can have wealth without having money. If you had a magic machine that could on command make you a car or cook you dinner or do your laundry, or do anything else you wanted, you wouldn’t need money. Whereas if you were in the middle of Antarctica, where there is nothing to buy, it wouldn’t matter how much money you had.
+          The Lax–Friedrichs method, named after Peter Lax and Kurt O. Friedrichs, is a numerical method for the solution of hyperbolic partial differential equations based on finite differences. The method can be described as the FTCS (forward in time, centered in space) scheme with a numerical dissipation term of 1/2. One can view the Lax–Friedrichs method as an alternative to Godunov's scheme, where one avoids solving a Riemann problem at each cell interface, at the expense of adding artificial viscosity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Lax–Friedrichs Method - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
 </div>
 </div>
 </div>
@@ -80,7 +81,7 @@ Carbon-based intelligence 🐒.
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220724</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230724</p>
             </div>
         </div>
     </div>
@@ -94,7 +95,7 @@ Carbon-based intelligence 🐒.
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230724</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 220724</p>
             </div>
         </div>
     </div>
