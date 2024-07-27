@@ -29,41 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When love beckons to you, follow him, Though his ways are hard and steep. And when his wings enfold you yield to him, Though the sword hidden among his pinions may wound you. And when he speaks to you believe in him.
+          Nassim Taleb writes, “Most of you will fail, disrespected, impoverished, but we are grateful for the risks you are taking and the sacrifices you are making for the sake of the economic growth of the planet and pulling others out of poverty. You are the source of our antifragility. Our nation thanks you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Prophet</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kahlil Gibran</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Is My To Do List Done Yet?
-
-Summary:
-It's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Because our memories aren't very good at keeping track of what we really do. All of us ar involved in something, hopefully that we care about, that is important to us. Ah, it's just good practiceto be able to track how you're actually spending your time and energy, or investing your time andEnergy instead of just relying on your memory to do that.
-
-Transcript:
-Speaker 1
-Tei it's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Ah, it's just good practiceto to track how you're actually spending your time and energy, or investing your time and energy, instead of just relying on your memory to do that. Because our memories aren't very good at keeping track of what we really do. I think there's there's another cognitive and em a benefit to doing this, which is all of us ar involved in something, hopefully that we care about, that's important to us.
+          This  adaptive  rationale  leads  to  differential  fitness  and relative survival. All in all, adaptivity involves finding a balance between coherence and diversity, robustness and dynamics, and order and chaos. This balance is called ‘fitness’ or ‘resilience’.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">(PDF) Complexity and Planning: Systems, Assemblages and Simulations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">researchgate.net</p>
 </div>
 </div>
 </div>
