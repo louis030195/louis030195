@@ -29,34 +29,78 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your instinctive willingness to believe something will change along with your willingness to afliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to afliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
+          Books
+
+Summary:
+The modern use of the word cult is, we have this very micro-deficient cult. It's like a fake new religion as compared to the all presumably real older. In the language of the ancient city, these are all cults.
+
+Transcript:
+Speaker 1
+Yeah, yeah. In the language of the ancient city, these are all cults. These are all cults. The modern use of the word cult is, we have this very micro-deficient cult, which is like, whatever, basically what it's called meaning, kind of, modern parlance. It's like a fake new religion. As compared to the all presumably real older.
+
+Speaker 2
+Let me ask you a spicy question. If Mark had reason for starting a cult, what would that cult have to do and believe in? Don't you, I mean, you already have the answer.
+
+Speaker 1
+You're in it.
+
+Speaker 3
+Yeah. Yeah. Mark, I just thought you were going to say, my religion will require a sacrifice.
+
+Speaker 1
+Of course it requires a price. All religious requires a sacrifice.
+
+Speaker 2
+Yeah. Yeah. Someday our daughter has to be taken away from us, like, without city. Wow.
+
+Speaker 1
+No, no, no. We have the diluted form. My version, my call is a very diluted form of what my predecessor 4000 years ago would have had.
+
+Speaker 2
+Yeah, she only has listened to Mark's podcast.
+
+Speaker 1
+But appropriately so. There we go. OK. Booktube.
+
+Speaker 2
+Booktube. The Machiavellian's by a burner. Yeah.
+
+Speaker 1
+So actually, there's two books by Burnham. I referenced the Machiavellian's is actually stronger on, it's very good on politics, political theory, political structure, political power. And I'm happy to talk about that. The other book, the managerial revolution, is actually even more relevant, I think, to the kind of world that we live in. And maybe I could touch on that one if that's OK. Yeah. Yeah.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The holographic principle is a tenet of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a lower-dimensional boundary to the region—such as a light-like boundary like a gravitational horizon.
+          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Holographic Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+          How to Debug Your Own Brain
+
+Summary:
+The business side of things is relatively fluid. It doesn't take a whole lot of mental effort or energy to keep those things in mind right now. You are the instrument that you use to get things done in the world. There's still a tremendous amount of effort and skill that's valuable in that domaind.
+
+Transcript:
+Speaker 1
+Like when you're trying to get yourself to do something you know you should b be doing, but somehow there's some sort of barrier that's keeping you from doing that. I think at this point i've, i've worked in enough businesses and started enough of my own businesses, the business side of things is relatively fluid. It doesn take a whole lot of mental effort or energy to keep those things in mind right now. But you are the instrument that you use to get things done in the world. And so the the debugging your own mind and help and trying to anticipate how others are thinking and feeling and trying to optimize around that, there's still a tremendous amount of Effort and skill that's valuable in that domaind and i find myself thinking about tho sorts of things quite often.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
@@ -93,21 +137,21 @@ Carbon-based intelligence 🐒.
 -   **Ernest L. Rossi**  - [The Psychobiology of Gene Expression: Neuroscience and Neurogenesis in Hypnosis and the Healing Arts](https://www.goodreads.com/book/show/533780.The_Psychobiology_of_Gene_Expression) - Sun Jul 21 02:40:14 -0700 2024
 -   **Nessa Carey**  - [The Epigenetics Revolution](https://www.goodreads.com/book/show/12414734-the-epigenetics-revolution) - Sun Jul 21 02:39:59 -0700 2024
 -   **Bessel van der Kolk**  - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score) - Sun Jul 21 02:39:40 -0700 2024
--   **Scott Carney**  - [What Doesn&#39;t Kill Us: How Freezing Water, Extreme Altitude, and Environmental Conditioning Will Renew Our Lost Evolutionary Strength](https://www.goodreads.com/book/show/30039048-what-doesn-t-kill-us) - Sun Jul 21 02:37:50 -0700 2024
 -   **Kelly McGonigal**  - [The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It](https://www.goodreads.com/book/show/23281639-the-upside-of-stress) - Sun Jul 21 02:37:17 -0700 2024
 -   **Sharon Begley**  - [The Plastic Mind](https://www.goodreads.com/book/show/12710665-the-plastic-mind) - Sun Jul 21 02:35:38 -0700 2024
 -   **Norman Doidge**  - [The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself) - Sun Jul 21 02:33:26 -0700 2024
 -   **Neil Shubin**  - [Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body](https://www.goodreads.com/book/show/1662160.Your_Inner_Fish) - Sun Jul 21 02:30:50 -0700 2024
 -   **Georg F. Striedter**  - [Principles of Brain Evolution](https://www.goodreads.com/book/show/783742.Principles_of_Brain_Evolution) - Sun Jul 21 02:29:50 -0700 2024
--   **David  Brooks**  - [The Social Animal: The Hidden Sources of Love, Character, and Achievement](https://www.goodreads.com/book/show/9628743-the-social-animal) - Sun Jul 21 02:27:51 -0700 2024
+-   **David Hilbert**  - [Geometry and the Imagination](https://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination) - Sat Jul 13 11:35:29 -0700 2024
+-   **David Hilbert**  - [Principles of Mathematical Logic](https://www.goodreads.com/book/show/1313056.Principles_of_Mathematical_Logic) - Sat Jul 13 11:31:59 -0700 2024
 
 ### ✍ Recent book reviews
 
--   **David Nasaw**  - [Andrew Carnegie](https://www.goodreads.com/book/show/5486.Andrew_Carnegie) - 3/5 - Tue Jul 02 09:53:48 -0700 2024
--   **Joseph Campbell**  - [A Joseph Campbell Companion: Reflections on the Art of Living](https://www.goodreads.com/book/show/35513.A_Joseph_Campbell_Companion) - 2/5 - Tue Jul 02 09:52:38 -0700 2024
--   **J. Paul Getty**  - [As I See It: The Autobiography of J. Paul Getty](https://www.goodreads.com/book/show/878442.As_I_See_It) - 4/5 - Tue Jul 02 09:53:58 -0700 2024
--   **John Pearson**  - [Painfully Rich: The Outrageous Fortune and Misfortunes of the Heirs of J. Paul Getty](https://www.goodreads.com/book/show/878443.Painfully_Rich) - 4/5 - Tue Jul 02 09:54:01 -0700 2024
--   **Matthew Dixon**  - [The Challenger Sale: Taking Control of the Customer Conversation](https://www.goodreads.com/book/show/11910902-the-challenger-sale) - 3/5 - Tue Jul 02 09:53:36 -0700 2024
+-   **Bruce Alberts**  - [Molecular Biology of the Cell](https://www.goodreads.com/book/show/13400.Molecular_Biology_of_the_Cell) - 0/5 - Sun Aug 04 08:10:53 -0700 2024
+-   **Michael Lynch**  - [Genetics and Analysis of Quantitative Traits](https://www.goodreads.com/book/show/80198.Genetics_and_Analysis_of_Quantitative_Traits) - 0/5 - Sun Aug 04 08:10:59 -0700 2024
+-   **Keith Ferrazzi**  - [Never Eat Alone: And Other Secrets to Success, One Relationship at a Time](https://www.goodreads.com/book/show/84699.Never_Eat_Alone) - 4/5 - Sun Aug 04 08:09:49 -0700 2024
+-   **Benjamin Graham**  - [The Intelligent Investor](https://www.goodreads.com/book/show/106835.The_Intelligent_Investor) - 0/5 - Sun Aug 04 08:09:31 -0700 2024
+-   **Sheldon Axler**  - [Linear Algebra Done Right](https://www.goodreads.com/book/show/309768.Linear_Algebra_Done_Right) - 0/5 - Sun Aug 04 08:10:47 -0700 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
