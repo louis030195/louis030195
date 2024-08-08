@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+          Man spends so much of his time trying to "succeed" that he overlooks the things that will give it to him quite easily.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Master's Secret Whispers: For those who abhor the noise and seek The Truth about life and living</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The unit of processing in the neocortex is the cortical column. Each column is a complete sensory-motor system—that is, it gets inputs and it can generate behaviors. With every movement, a column predicts what its next input will be. Prediction is how a column tests and updates its model.
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Thousand Brains_ A New Theory of Intelligence</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jeff Hawkins</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          wanted to know about it right away so we could reproduce the error and release a fix. So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
+          The two fundamental questions of causality are: (1) What empirical evidence is required for legitimate inference of cause-eﬀect relationships? (2) Given that we are willing to accept causal information about a phenomenon, what inferences can we draw from such information, and how?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
