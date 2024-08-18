@@ -29,42 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          So, then, what does it take to grow? Thankfully, just three simple things:
-
-1) Get more customers
-
-2) Increase their average purchase value
-
-3) Get them to buy more times
-
-That’s it.
+          What leads people astray here is the abstraction of money. Money is not wealth. It’s just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In reflecting upon the part played by chance in the development of new concepts, he recalled the story of the three princes of Serendip who set out to find some interesting object on a journey through their realm. They did not find the particular object of their search, but along the way they discovered many new things simply because they were looking for something.
+          If your product requires advertising or salespeople to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Men, Machines, and Modern Times</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Morison, Elting Elmore</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Genes are the primary policy-makers; brains are the executives. But as brains became more highly developed, they took over more and more of the actual policy decisions, using tricks like learning and simulation in doing so. The logical conclusion to this trend, not yet reached in any species, would be for the genes to give the survival machine a single overall policy instruction: do whatever you think best to keep us alive.
+          use Warren Buffett’s criteria for assessing the team: Intelligence, Integrity and Energy. You want someone who is really smart, very hardworking, and trustworthy. A lot of people forget the integrity part, but if you don’t have that, then you have a really hardworking crook, and they will find a way to cheat you.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Selfish Gene</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Richard Dawkins</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -83,7 +75,7 @@ That’s it.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Shane%20Parrish%20-%20Clear%20Thinking.md">Readwise/Books/Shane Parrish - Clear Thinking.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Nassim%20Nicholas%20Taleb%20-%20Antifragile%20Things%20That%20Gain%20From%20Disorder.md">Readwise/Books/Nassim Nicholas Taleb - Antifragile Things That Gain From Disorder.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -97,7 +89,7 @@ That’s it.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Shane%20Parrish%20-%20Clear%20Thinking.md">Readwise/Books/Shane Parrish - Clear Thinking.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -140,7 +132,7 @@ That’s it.
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Nassim%20Nicholas%20Taleb%20-%20Antifragile%20Things%20That%20Gain%20From%20Disorder.md">Readwise/Books/Nassim Nicholas Taleb - Antifragile Things That Gain From Disorder.md</a></li>
+<li><a href="https://brain.louis030195.com/Philosophy/Mind/Mental%20Model/Mental%20model%20cheatsheet.md">Philosophy/Mind/Mental Model/Mental model cheatsheet.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -155,6 +147,8 @@ That’s it.
 
 ### 📚 Books Louis is reading
 
+-   **Paulo Coelho**  - [The Alchemist](https://www.goodreads.com/book/show/133946561-the-alchemist) - Sun Aug 18 02:16:50 -0700 2024
+-   **Orson Scott Card**  - [Ender’s Game (Ender&#39;s Saga, #1)](https://www.goodreads.com/book/show/375802.Ender_s_Game) - Sun Aug 18 02:16:01 -0700 2024
 -   **Ernest L. Rossi**  - [The Psychobiology of Gene Expression: Neuroscience and Neurogenesis in Hypnosis and the Healing Arts](https://www.goodreads.com/book/show/533780.The_Psychobiology_of_Gene_Expression) - Sun Jul 21 02:40:14 -0700 2024
 -   **Nessa Carey**  - [The Epigenetics Revolution](https://www.goodreads.com/book/show/12414734-the-epigenetics-revolution) - Sun Jul 21 02:39:59 -0700 2024
 -   **Bessel van der Kolk**  - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score) - Sun Jul 21 02:39:40 -0700 2024
@@ -163,8 +157,6 @@ That’s it.
 -   **Norman Doidge**  - [The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself) - Sun Jul 21 02:33:26 -0700 2024
 -   **Neil Shubin**  - [Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body](https://www.goodreads.com/book/show/1662160.Your_Inner_Fish) - Sun Jul 21 02:30:50 -0700 2024
 -   **Georg F. Striedter**  - [Principles of Brain Evolution](https://www.goodreads.com/book/show/783742.Principles_of_Brain_Evolution) - Sun Jul 21 02:29:50 -0700 2024
--   **David Hilbert**  - [Geometry and the Imagination](https://www.goodreads.com/book/show/719289.Geometry_and_the_Imagination) - Sat Jul 13 11:35:29 -0700 2024
--   **David Hilbert**  - [Principles of Mathematical Logic](https://www.goodreads.com/book/show/1313056.Principles_of_Mathematical_Logic) - Sat Jul 13 11:31:59 -0700 2024
 
 ### ✍ Recent book reviews
 
