@@ -29,33 +29,33 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you ever do find yourself working for a startup, here’s a handy tip for evaluating competitors. Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they’ll get the wrong candidates.
+          —the essential difference between the two religions of décadence: Buddhism promises nothing, but actually fulfils; Christianity promises everything, but fulfils nothing.—
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
+          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Women's bodies evolved to suit the demands of bearing and rearing children and of gathering plant food. Men's bodies evolved to suit the demands of rising in a male hierarchy, fighting over women, and providing meat to a family
+          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
@@ -76,7 +76,6 @@ Carbon-based intelligence 🐒.
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Shane%20Parrish%20-%20Clear%20Thinking.md">Readwise/Books/Shane Parrish - Clear Thinking.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Steven%20Strogatz%20-%20Infinite%20Powers%20How%20Calculus%20Reveals%20the%20Secrets%20of%20the%20Universe.md">Readwise/Books/Steven Strogatz - Infinite Powers How Calculus Reveals the Secrets of the Universe.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -91,6 +90,7 @@ Carbon-based intelligence 🐒.
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Shane%20Parrish%20-%20Clear%20Thinking.md">Readwise/Books/Shane Parrish - Clear Thinking.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Steven%20Strogatz%20-%20Infinite%20Powers%20How%20Calculus%20Reveals%20the%20Secrets%20of%20the%20Universe.md">Readwise/Books/Steven Strogatz - Infinite Powers How Calculus Reveals the Secrets of the Universe.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
