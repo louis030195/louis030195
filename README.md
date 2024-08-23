@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In marketing strategy, first-mover advantage (FMA) is the competitive advantage gained by the initial ("first-moving") significant occupant of a market segment. First-mover advantage enables a company or firm to establish strong brand recognition, customer loyalty, and early purchase of resources before other competitors enter the market segment.  First movers in a specific industry are almost always followed by competitors that attempt to capitalise on the first movers' success. These followers are also aiming to gain market share; however, most of the time the first-movers will already have an established market share, with a loyal customer base that allows them to maintain their market share.
+          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">First-Mover Advantage - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People form close friendships by knowing private things about each other, and the reason most people don’t make close friends is because they’re too embarrassed to share anything really important about themselves.
+          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If by ‘free will’ you mean the freedom to do what you desire – then yes, humans have free will. But if by ‘free will’ you mean the freedom to choose what to desire – then no, humans have no free will.
+          If you could get all the people in an organization rowing in the same direction, you could dominate any industry, in any market, against any competition, at any time.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Five Dysfunctions of a Team - A Leadership Fable</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Patrick Lencioni</p>
 </div>
 </div>
 </div>
@@ -90,16 +90,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
+-   **Ted Chiang**  - [Stories of Your Life and Others](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others) - Fri Aug 23 11:32:10 -0700 2024
+-   **Friedrich Nietzsche**  - [The Birth of Tragedy](https://www.goodreads.com/book/show/2823.The_Birth_of_Tragedy) - Fri Aug 23 11:31:52 -0700 2024
+-   **Euripides**  - [The Bacchae](https://www.goodreads.com/book/show/380609.The_Bacchae) - Fri Aug 23 11:31:27 -0700 2024
+-   **Kapil  Gupta**  - [Atmamun: The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God.](https://www.goodreads.com/book/show/30008981-atmamun) - Fri Aug 23 11:30:33 -0700 2024
+-   **J. Clark Scott**  - [But How Do It Know? The Basic Principles of Computers for Everyone](https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone) - Fri Aug 23 11:29:50 -0700 2024
+-   **David Hume**  - [A Treatise of Human Nature](https://www.goodreads.com/book/show/80311.A_Treatise_of_Human_Nature) - Fri Aug 23 11:29:26 -0700 2024
+-   **Judea Pearl**  - [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/book/show/36204378-the-book-of-why) - Fri Aug 23 11:29:09 -0700 2024
 -   **Paulo Coelho**  - [The Alchemist](https://www.goodreads.com/book/show/133946561-the-alchemist) - Sun Aug 18 02:16:50 -0700 2024
 -   **Orson Scott Card**  - [Ender’s Game (Ender&#39;s Saga, #1)](https://www.goodreads.com/book/show/375802.Ender_s_Game) - Sun Aug 18 02:16:01 -0700 2024
 -   **Ernest L. Rossi**  - [The Psychobiology of Gene Expression: Neuroscience and Neurogenesis in Hypnosis and the Healing Arts](https://www.goodreads.com/book/show/533780.The_Psychobiology_of_Gene_Expression) - Sun Jul 21 02:40:14 -0700 2024
--   **Nessa Carey**  - [The Epigenetics Revolution](https://www.goodreads.com/book/show/12414734-the-epigenetics-revolution) - Sun Jul 21 02:39:59 -0700 2024
--   **Bessel van der Kolk**  - [The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma](https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score) - Sun Jul 21 02:39:40 -0700 2024
--   **Kelly McGonigal**  - [The Upside of Stress: Why Stress Is Good for You, and How to Get Good at It](https://www.goodreads.com/book/show/23281639-the-upside-of-stress) - Sun Jul 21 02:37:17 -0700 2024
--   **Sharon Begley**  - [The Plastic Mind](https://www.goodreads.com/book/show/12710665-the-plastic-mind) - Sun Jul 21 02:35:38 -0700 2024
--   **Norman Doidge**  - [The Brain that Changes Itself: Stories of Personal Triumph from the Frontiers of Brain Science](https://www.goodreads.com/book/show/570172.The_Brain_that_Changes_Itself) - Sun Jul 21 02:33:26 -0700 2024
--   **Neil Shubin**  - [Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body](https://www.goodreads.com/book/show/1662160.Your_Inner_Fish) - Sun Jul 21 02:30:50 -0700 2024
--   **Georg F. Striedter**  - [Principles of Brain Evolution](https://www.goodreads.com/book/show/783742.Principles_of_Brain_Evolution) - Sun Jul 21 02:29:50 -0700 2024
 
 ### ✍ Recent book reviews
 
