@@ -29,34 +29,41 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Many things will seem fantastical to you, student. They will seem a thousand miles away. There are things that a man was meant to experience that most would relegate to the realm of magic and fantasy. But, in fact, magic and fantasy are at the heart of man's existence.
+          A Majorana fermion, also referred to as a Majorana particle, is a fermion that is its own antiparticle. They were hypothesised by Ettore Majorana in 1937. The term is sometimes used in opposition to a Dirac fermion, which describes fermions that are not their own antiparticles.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Master's Secret Whispers: For those who abhor the noise and seek The Truth about life and living</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Majorana Fermion - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Note the implication: You become less of a person when you're wearing a mask or are otherwise anonymous. Shedding the responsibilities of personhood in this way can be quite thrilling, like during Halloween or at a masquerade ball (or while robbing a convenience store!). But it also contributes to the degradation of personhood on the internet — with the ensuing loss of civility we're all familiar with.
+          Founder Market Fit
+
+Summary:
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
+
+Transcript:
+Speaker 1
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you Might not think would draw people who are enthusiasts, but nevertheless do.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Personhood: A Game for Two or More Players | Melting Asphalt</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kevin Simler</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          “I have a dream,” said Harry’s voice, “that one day sentient beings will be judged by the patterns of their minds, and not their colour or their shape or the stuff they’re made of, or who their parents were.
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -91,16 +98,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
+-   **Thomas J. Peters**  - [In Search of Excellence: Lessons from America&#39;s Best-Run Companies](https://www.goodreads.com/book/show/4076.In_Search_of_Excellence) - Tue Aug 27 11:44:33 -0700 2024
+-   **Bryan Caplan**  - [The Myth of the Rational Voter: Why Democracies Choose Bad Policies](https://www.goodreads.com/book/show/698866.The_Myth_of_the_Rational_Voter) - Tue Aug 27 11:39:30 -0700 2024
+-   **Archibald Putt**  - [Putt&#39;s Law and the Successful Technocrat: How to Win in the Information Age](https://www.goodreads.com/book/show/2345523.Putt_s_Law_and_the_Successful_Technocrat) - Tue Aug 27 11:38:55 -0700 2024
+-   **Peter F. Drucker**  - [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.goodreads.com/book/show/48019.The_Effective_Executive) - Tue Aug 27 11:38:19 -0700 2024
+-   **Peter F. Drucker**  - [The Practice of Management](https://www.goodreads.com/book/show/48018.The_Practice_of_Management) - Tue Aug 27 11:36:54 -0700 2024
 -   **Ted Chiang**  - [Stories of Your Life and Others](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others) - Fri Aug 23 11:32:10 -0700 2024
 -   **Friedrich Nietzsche**  - [The Birth of Tragedy](https://www.goodreads.com/book/show/2823.The_Birth_of_Tragedy) - Fri Aug 23 11:31:52 -0700 2024
 -   **Euripides**  - [The Bacchae](https://www.goodreads.com/book/show/380609.The_Bacchae) - Fri Aug 23 11:31:27 -0700 2024
 -   **Kapil  Gupta**  - [Atmamun: The Path To Achieving The Bliss Of The Himalayan Swamis. And The Freedom Of A Living God.](https://www.goodreads.com/book/show/30008981-atmamun) - Fri Aug 23 11:30:33 -0700 2024
 -   **J. Clark Scott**  - [But How Do It Know? The Basic Principles of Computers for Everyone](https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone) - Fri Aug 23 11:29:50 -0700 2024
--   **David Hume**  - [A Treatise of Human Nature](https://www.goodreads.com/book/show/80311.A_Treatise_of_Human_Nature) - Fri Aug 23 11:29:26 -0700 2024
--   **Judea Pearl**  - [The Book of Why: The New Science of Cause and Effect](https://www.goodreads.com/book/show/36204378-the-book-of-why) - Fri Aug 23 11:29:09 -0700 2024
--   **Paulo Coelho**  - [The Alchemist](https://www.goodreads.com/book/show/133946561-the-alchemist) - Sun Aug 18 02:16:50 -0700 2024
--   **Orson Scott Card**  - [Ender’s Game (Ender&#39;s Saga, #1)](https://www.goodreads.com/book/show/375802.Ender_s_Game) - Sun Aug 18 02:16:01 -0700 2024
--   **Ernest L. Rossi**  - [The Psychobiology of Gene Expression: Neuroscience and Neurogenesis in Hypnosis and the Healing Arts](https://www.goodreads.com/book/show/533780.The_Psychobiology_of_Gene_Expression) - Sun Jul 21 02:40:14 -0700 2024
 
 ### ✍ Recent book reviews
 
