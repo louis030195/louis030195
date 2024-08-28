@@ -29,34 +29,43 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          EXTRAVAGANCE. The habit of trying to "keep up with the Joneses," spending beyond one's income.
+          Then I realized people pay for certainty. They value certainty. I call this “the perceived likelihood of achievement.” In other words, “How likely do I believe it is that I will achieve the result I am looking for if I make this purchase?”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Think and Grow Rich</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Hill, Napoleon</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
+          If you run a business, you must recognize that no amount of formal
+planning can anticipate such changes. Does that mean you shouldn't plan?
+Not at all. You need to plan the way a fire department plans: It cannot
+anticipate where the next fire will be, so it has to shape an energetic and
+efficient team that is capable of responding to the unanticipated as well as
+to any ordinary event. Understanding the nature of strategic inflection
+points and what to do about them will help you safeguard your company'
+well-being. It is your responsibility to guide your company out of harm's
+way and to place it in a position where it can prosper in the new order.
+Nobody else can do this but you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Only the Paranoid Survive</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Andrew S. Grove</p>
 </div>
 </div>
 </div>
