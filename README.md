@@ -29,44 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage. Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss. CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they’re out. If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
+          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When you raise your prices, you . . .
-
-. . . Increase your clients’ emotional investment
-
-. . . Increase your clients’ perceived value of your service
-
-. . . Increase your clients’ results because they value your service and are invested
-
-. . . Attract the best clients who are the easiest to satisfy and actually cost less to fulfill, and who are the most likely to actually receive and perceive the most relative value
-
-. . . Multiply your margin because you have money to invest in systems to create efficiency; smart people; improved customer experience; scale your business; and, most importantly of all, to keep watching the number in your personal bank account go up, month after month, even with reinvesting in your business. This allows you to ultimately enjoy the process for the long haul and help more people as you grow, rather than burning out and shriveling into obscurity.
+          Logical positivism, later called logical empiricism, and both of which together are also known as neopositivism, was a movement in Western philosophy whose central thesis was the verification principle (also known as the verifiability criterion of meaning). This theory of knowledge asserted that only statements verifiable through direct observation or logical proof are meaningful in terms of conveying truth value, information or factual content. Starting in the late 1920s, groups of philosophers, scientists, and mathematicians formed the Berlin Circle and the Vienna Circle, which, in these two cities, would propound the ideas of logical positivism.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Logical Positivism - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">empirical sciences</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In differential calculus and differential geometry, an inflection point, point of inflection, flex, or inflection (British English: inflexion) is a point on a smooth plane curve at which the curvature changes sign. In particular, in the case of the graph of a function, it is a point where the function changes from being concave (concave downward) to convex (concave upward), or vice versa.
+          Men look for sources that are mobile, distant, and unpredictable (usually meat), while women, burdened with children, look for sources that are static, close, and predictable (usually plants)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Inflection Point - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
