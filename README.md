@@ -29,7 +29,7 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          wanted to know about it right away so we could reproduce the error and release a fix. So at Viaweb the developers were always in close contact with support. The customer support people were about thirty feet away from the programmers, and knew they could always interrupt anything with a report of a genuine bug. We would leave a board meeting to fix a serious bug.
+          When the things you do have real effects, it’s no longer enough just to be pleasing. It starts to be important to get the right answers, and that’s where nerds show to advantage. Bill Gates will of course come to mind. Though notoriously lacking in social skills, he gets the right answers, at least as measured in revenue.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -40,30 +40,30 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How Does Technology Impact Society?
-
-Summary:
-Yeah, so there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's the name Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines, and Modern Times. It's this topic. It's basically okay. What exactly is the process by which you do technology, and how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
-
-Transcript:
-Speaker 1
-Yeah. So there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's named Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines in Modern Times. It's this topic. It's basically, OK, what exactly is the process by which you do technology, entry society and then how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
+          The unit of processing in the neocortex is the cortical column. Each column is a complete sensory-motor system—that is, it gets inputs and it can generate behaviors. With every movement, a column predicts what its next input will be. Prediction is how a column tests and updates its model.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Thousand Brains_ A New Theory of Intelligence</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jeff Hawkins</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In lists of logical fallacies, you will fnd included “the genetic fallacy”—the fallacy of attacking a belief based on someone’s causes for believing it.
+          Most companies die by suicide rather than homicide 
+
+Summary:
+Yeah, there's an old adage, there's an old adage adventure which is more companies die by suicide than homicide.
+
+Transcript:
+Speaker 1
+Yeah, there's an old adage, there's an old adage adventure which is more companies die by suicide than homicide.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
 </div>
 </div>
 </div>
