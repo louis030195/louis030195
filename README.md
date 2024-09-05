@@ -29,18 +29,18 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He grows stronger under the misfortunes which threaten to annihilate him.
+          What is good?—Whatever augments the feeling of power, the will to power, power itself, in man. What is evil?—Whatever springs from weakness. What is happiness?—The feeling that power increases—that resistance is overcome.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best companies are almost always mission oriented.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -51,12 +51,12 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
+          A relationship of peace is a relationship that is more parallel than perpendicular. It is two individuals that move side by side. Rather than two individuals that intersect. A maintenance of individuality and freedom results in the prevalence of peace.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
