@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Money is a side effect of specialization. In a specialized society, most of the things you need, you can’t make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
+          The Hayflick limit, or Hayflick phenomenon, is the number of times a normal somatic, differentiated human cell population will divide before cell division stops. However, this limit does not apply to stem cells.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hayflick Limit - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Leonard Hayflick</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Neutrinos are abundant subatomic particles that are famous for passing through anything and everything, only very rarely interacting with matter. About 100 trillion neutrinos pass through your body every second.
+          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A First Look at How the Earth Stops High-Energy Neutrinos in Their Tracks</p>
-<p style="margin-bottom: 0; color: #9f8e7d">icecube.wisc.edu</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Then I realized people pay for certainty. They value certainty. I call this “the perceived likelihood of achievement.” In other words, “How likely do I believe it is that I will achieve the result I am looking for if I make this purchase?”
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -85,16 +85,16 @@ Carbon-based intelligence 🐒.
 
 ### 📚 Books Louis is reading
 
--   **Thomas J. Peters**  - [In Search of Excellence: Lessons from America&#39;s Best-Run Companies](https://www.goodreads.com/book/show/4076.In_Search_of_Excellence) - Tue Aug 27 11:44:33 -0700 2024
--   **Peter F. Drucker**  - [The Effective Executive: The Definitive Guide to Getting the Right Things Done](https://www.goodreads.com/book/show/48019.The_Effective_Executive) - Tue Aug 27 11:38:19 -0700 2024
--   **Peter F. Drucker**  - [The Practice of Management](https://www.goodreads.com/book/show/48018.The_Practice_of_Management) - Tue Aug 27 11:36:54 -0700 2024
--   **Ted Chiang**  - [Stories of Your Life and Others](https://www.goodreads.com/book/show/223380.Stories_of_Your_Life_and_Others) - Fri Aug 23 11:32:10 -0700 2024
--   **Euripides**  - [The Bacchae](https://www.goodreads.com/book/show/380609.The_Bacchae) - Fri Aug 23 11:31:27 -0700 2024
--   **J. Clark Scott**  - [But How Do It Know? The Basic Principles of Computers for Everyone](https://www.goodreads.com/book/show/18276352-but-how-do-it-know-the-basic-principles-of-computers-for-everyone) - Fri Aug 23 11:29:50 -0700 2024
--   **David Hume**  - [A Treatise of Human Nature](https://www.goodreads.com/book/show/80311.A_Treatise_of_Human_Nature) - Fri Aug 23 11:29:26 -0700 2024
--   **Paulo Coelho**  - [The Alchemist](https://www.goodreads.com/book/show/133946561-the-alchemist) - Sun Aug 18 02:16:50 -0700 2024
--   **Orson Scott Card**  - [Ender’s Game (Ender&#39;s Saga, #1)](https://www.goodreads.com/book/show/375802.Ender_s_Game) - Sun Aug 18 02:16:01 -0700 2024
--   **Ernest L. Rossi**  - [The Psychobiology of Gene Expression: Neuroscience and Neurogenesis in Hypnosis and the Healing Arts](https://www.goodreads.com/book/show/533780.The_Psychobiology_of_Gene_Expression) - Sun Jul 21 02:40:14 -0700 2024
+-   **Kenneth O. Stanley**  - [Why Greatness Cannot Be Planned: The Myth of the Objective](https://www.goodreads.com/book/show/25670869-why-greatness-cannot-be-planned) - Sun Sep 08 10:23:15 -0700 2024
+-   **Carroll Quigley**  - [The Evolution of Civilizations](https://www.goodreads.com/book/show/991681.The_Evolution_of_Civilizations) - Sun Sep 08 10:22:46 -0700 2024
+-   **Gerald M. Edelman**  - [The Mindful Brain: Cortical Organization and the Group-Selective Theory of Higher Brain Function](https://www.goodreads.com/book/show/1574208.The_Mindful_Brain) - Sun Sep 08 10:21:51 -0700 2024
+-   **Deborah J. Rumsey**  - [Probability For Dummies](https://www.goodreads.com/book/show/746141.Probability_For_Dummies) - Sun Sep 08 10:21:28 -0700 2024
+-   **Peter Woit**  - [Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law](https://www.goodreads.com/book/show/27578.Not_Even_Wrong) - Sun Sep 08 10:21:01 -0700 2024
+-   **Werner Heisenberg**  - [Physics and Philosophy: The Revolution in Modern Science](https://www.goodreads.com/book/show/111185.Physics_and_Philosophy) - Sun Sep 08 10:20:44 -0700 2024
+-   **Max Tegmark**  - [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.goodreads.com/book/show/34272565-life-3-0) - Sun Sep 08 10:20:18 -0700 2024
+-   **Peter Bevelin**  - [All I Want To Know Is Where I&#39;m Going To Die So I&#39;ll Never Go There](https://www.goodreads.com/book/show/30113404-all-i-want-to-know-is-where-i-m-going-to-die-so-i-ll-never-go-there) - Sun Sep 08 10:19:54 -0700 2024
+-   **William Gibson**  - [The Difference Engine](https://www.goodreads.com/book/show/337116.The_Difference_Engine) - Sun Sep 08 10:19:04 -0700 2024
+-   **Elting E. Morison**  - [Men, Machines, and Modern Times](https://www.goodreads.com/book/show/2120575.Men_Machines_and_Modern_Times) - Sun Sep 08 10:17:59 -0700 2024
 
 ### ✍ Recent book reviews
 
