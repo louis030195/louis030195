@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
+          “At the beginning, you should only hire when you have a desperate need to.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Not if it was done by way of prescription. If a desire for the Truth is in someone’s bones, then he will not stop until he finds it. Not because he should. But because he has no choice.
+          Gold laboureth diligently and contentedly for the wise owner who finds for it profitable employment, multiplying even as the flocks of the field.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Clason, George Samuel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The richest man in Babylon</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Nature isn’t a person, you can’t trick them into believing something else, if you try to tell the Moon it’s made of cheese you can argue for days and it won’t change the Moon! What you’re talking about is rationalization,
+          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
@@ -76,21 +76,6 @@ Carbon-based intelligence 🐒.
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Paul%20Graham%20-%20Founder%20Mode.md">Readwise/Articles/Paul Graham - Founder Mode.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Peter%20Bevelin%20-%20All%20I%20Want%20to%20Know%20Is%20Where%20I%27m%20Going%20to%20Die%20So%20I%27ll%20Never%20Go%20There%20Buffett%20and%20Munger%20a%20Study%20in%20Simplicity%20and%20Uncommon%20-%20%20Common%20Sense.md">Readwise/Books/Peter Bevelin - All I Want to Know Is Where I'm Going to Die So I'll Never Go There Buffett and Munger a Study in Simplicity and Uncommon -  Common Sense.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 100924</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Paul%20Graham%20-%20Founder%20Mode.md">Readwise/Articles/Paul Graham - Founder Mode.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -106,6 +91,21 @@ Carbon-based intelligence 🐒.
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Paul%20Graham%20-%20Founder%20Mode.md">Readwise/Articles/Paul Graham - Founder Mode.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Tweets/%40naval%20on%20Twitter%20-%20Tweets%20From%20Naval.md">Readwise/Tweets/@naval on Twitter - Tweets From Naval.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 100924</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Paul%20Graham%20-%20Founder%20Mode.md">Readwise/Articles/Paul Graham - Founder Mode.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Peter%20Bevelin%20-%20All%20I%20Want%20to%20Know%20Is%20Where%20I%27m%20Going%20to%20Die%20So%20I%27ll%20Never%20Go%20There%20Buffett%20and%20Munger%20a%20Study%20in%20Simplicity%20and%20Uncommon%20-%20%20Common%20Sense.md">Readwise/Books/Peter Bevelin - All I Want to Know Is Where I'm Going to Die So I'll Never Go There Buffett and Munger a Study in Simplicity and Uncommon -  Common Sense.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
