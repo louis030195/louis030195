@@ -29,17 +29,6 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
           World domination is such an ugly phrase. I prefer to call it world optimisation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -51,12 +40,23 @@ Carbon-based intelligence 🐒.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+          Then I realized people pay for certainty. They value certainty. I call this “the perceived likelihood of achievement.” In other words, “How likely do I believe it is that I will achieve the result I am looking for if I make this purchase?”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
