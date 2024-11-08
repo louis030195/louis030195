@@ -29,49 +29,50 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Most Dangerous Things Are Heroine And A Monthly Salary
-
-Summary:
-People who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. Once you make a little bit of money, you still want to be living like your old self so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. It just gives you freedom of operation.
-
-Transcript:
-Speaker 1
-Yet, there are two tweets that i put out that are related. So the first i must talk about ber somewat ahout your life style in nowat has to upgrade. Shouldn't get up grater too fast. And that one ad people who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. And it just gives you freedom of operation. Once you make a little bit of money, you still want to be living like your old self, so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. The problem is that when you go into a work life style like that, you don't just suddenly go from making 20 dollars an hour to making a thousand dollars an hour. That's a progression over a long career. And as that happens, one subtle problem is that you upgrade your life style as you make more and more money. And that upgrading of the life style ups what you consider to be wealth, and you stay in this wage slave trap. So i forget who said it, maybe it was nasin tolet, but he said, you know, the most dangerous things are heroine and a monthly salary, right? Because they are highly indictive. The way you want to get wealthy is you want to be poor and working and working and working. And this is, for example, how the tech industry works, where you don't make any money for ten years, and then suddenly, in year 11, you might have a giant pay day. Which is what, by the way, one reason why these very high marginal tax straits for the so called wealthy are flawed sthe highest risk taking most creative professions literally lose money for a decade of your life while you take massive risks, and you bleed and bleed and bleed, and then suddenly, in year 11, or you're 15, you might have one single big payday. But then, of course, uncle sam show up and say, hey, you know what? You just made a lot of money this year. Therefore you're rich, therefore you're evil, and you got to hand it all over to us. So he just destroys those kinds of creative, risk taking professions. But ideally, you want to make your money in discreet lumps, separated over long periods of time so that your own life style does not have a chance to adapt quickly.
+          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Get Rich —  Every Episode</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
+<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          While top-line bookings growth is super important, investors want to understand how profitable that revenue stream is. Gross profit provides that measure.
-What’s included in gross profit may vary by company, but in general all costs associated with the manufacturing, delivery, and support of a product/service should be included.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">16 Startup Metrics | Andreessen Horowitz</p>
-<p style="margin-bottom: 0; color: #9f8e7d">a16z.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Founder divorce 
+          You are the average of the five people around you 
 
 Summary:
-This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
+"I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first," he says. "It's a fundamental human instinct because everybody, you know, very few people can go through life alone ... You need some sort of support network." He adds: "If they, if you don't have anybody around you who shares your interests, or has the same drives that you do, you'll have a very hard time sustaining it"
 
 Transcript:
 Speaker 1
-This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
+Yeah, so this was my fourth topic, which you cruelly, you can cut my screen.
+
+Speaker 3
+I know I feel like we totally lost track of like, how do we country and then you just started like going depth first as opposed to like actually tackling the actual...
+
+Speaker 2
+Look, I will come back next to the next statement and biology go eight hours, okay? So I hope Mark went to the bathroom before this because we are going to meet the record like, art de yo, we will go both red and depth first. Eight hours and one minute. All right, it's been a new challenge.
+
+Speaker 1
+So, yeah, look, this is gonna be the thing I was gonna say. Like, look, there's a part of being creative that is individual effort and is individual effort to learn and is individual effort to try to actually create something. And then there's a big part of it. It's like, what is your personal social network? Like, who are your friends? And there's an old adage that is absolutely true, which is basically any individual over time, you basically become the average of the five people you spend the most time with. You know, you zero in, you adapt. And it's a fundamental human instinct because everybody, you know, very few people can go through life alone. You need some sort of support network. Your support network has a value system and they have things they care about and things they're interested in and you will tend to care about and be more interested in those things. And if they, if you don't have anybody around you who shares your interests, right, or has the same drives that you do, you'll have a very hard time sustaining it.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The advantage of creating wealth, as a way to get rich, is not just that it’s more legitimate (many of the other methods are now illegal) but that it’s more straightforward. You just have to do something people want.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -88,14 +89,9 @@ This goes to the company's time by suicide. It's like, I haven't run the numbers
     position: relative; margin-top: 6rem;">
     
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Kerry%20Patterson%20-%20Crucial%20Conversations%20Tools%20for%20Talking%20When%20Stakes%20Are%20High.md">Readwise/Books/Kerry Patterson - Crucial Conversations Tools for Talking When Stakes Are High.md</a></li>
-            </ul>
-        </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 071124</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">no brain dump from louis today 😭</p>
             </div>
         </div>
     </div>
