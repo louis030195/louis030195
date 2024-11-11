@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private actions do not generalize, then you cannot have general ideas.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          Your instinctive willingness to believe something will change along with your willingness to afliate with people who are known for believing it—quite apart from whether the belief is actually true. Some people may be reluctant to believe that God does not exist, not because there is evidence that God does exist, but rather because they are reluctant to afliate with Richard Dawkins or those darned “strident” atheists who go around publicly saying “God does not exist.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Rationality: From AI to Zombies</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
+          There are only two types of people in the world. People who want to live comfortably—they are seeking death, they want a comfortable grave. And people who want to live—they choose to live dangerously, because life thrives only when there is risk.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
 </div>
 </div>
 </div>
