@@ -29,41 +29,46 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The teaching of Being, of things, and of all those constant entities, is a hundred times more easy than the teaching of Becoming and of evolution.
+          The same could be said of Draco’s clever use of reciprocation pressure with an unsolicited gift, a technique which Harry had read about in his social psychology books
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+          Your beliefs become your thoughts,
+Your thoughts become your words,
+Your words become your actions,
+Your actions become your habits,
+Your habits become your values,
+Your values become your destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Gandhi: An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mahatma Gandhi</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Only technical individuals innovate
+          Personality Traits for entrepreneurs 
 
 Summary:
-Sri Ram: Big companies are in this new model of managerial capitalism. What we do is we fund the throwbacks, such as Elon Musk and Henry Ford. He says managers don't expose themselves to risks involved in doing new things. "I think one of the world needs the bourgeois capitalist model," he says.
+Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
 
 Transcript:
 Speaker 1
-You're going to need this management class. I go through all this to basically say, this then is the lens that I now provide basically for what we do in venture capital, what we do in startups, which basically, the way to think about It is the big companies, like the Fortune 500 and the big tech companies, are they are in this new model of managerial capitalism. At your point, Sri Ram, it's like, you can very clearly see that because you read the executive biographies and it's like, and you see it. It's like Harvard Business School, Stanford Business School, McKinsey, Goldman Sachs. It's like all the above administration. It's all the markers of people who have kind of been in this elite management kind of role and now they're running these companies. What we do is we fund the throwbacks. And Elon Musk, we'll just use the example. Elon's a throwback. Elon's a throwback to Henry Ford. He's a throwback to the prior era of what Burnham called bourgeois capitalism, which is basically owner, proprietor, dictator of the company. And why do we do this? It's because companies that are run in the managerial mode don't do new things. Why do they do new things? Because managers don't do new things. The whole point of being a manager is that you don't expose yourself to the kind of risks involved in doing new things. You don't just try to basically stand that control job for as long as possible. I think one of the world needs the bourgeois capitalist model and they need the entrepreneurs to actually do what they do for anything new to happen. And so we basically keep that. We keep basically the original form of capitalism alive.
+It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
