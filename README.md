@@ -29,39 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
+          The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your beliefs become your thoughts, 
-Your thoughts become your words, 
-Your words become your actions, 
-Your actions become your habits, 
-Your habits become your values, 
-Your values become your destiny.
+          I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage. Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss. CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they’re out. If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Autobiography</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Mohandas K. Gandhi, Mahadev Desai, and  Mahadev Desai</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Natural selection has designed all parts of our bodies to last just long enough to see our children into independence, no more
+          In differential calculus and differential geometry, an inflection point, point of inflection, flex, or inflection (British English: inflexion) is a point on a smooth plane curve at which the curvature changes sign. In particular, in the case of the graph of a function, it is a point where the function changes from being concave (concave downward) to convex (concave upward), or vice versa.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley - Genome the Autobiography of a Species in 23 Chapters-HarperCollins</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Inflection Point - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
@@ -90,6 +85,9 @@ Your values become your destiny.
 
 ### 📚 Books Louis is reading
 
+-   **Mahan Khalsa**  - [Let&#39;s Get Real or Let&#39;s Not Play: Transforming the Buyer/Seller Relationship](https://www.goodreads.com/book/show/2862506-let-s-get-real-or-let-s-not-play) - Fri Nov 15 17:27:22 -0800 2024
+-   **Richard P. Rumelt**  - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - Fri Nov 15 17:26:51 -0800 2024
+-   **Hamilton Wright Helmer**  - [7 Powers: The Foundations of Business Strategy](https://www.goodreads.com/book/show/32816087-7-powers) - Fri Nov 15 17:26:34 -0800 2024
 -   **Max Chafkin**  - [The Contrarian: Peter Thiel and Silicon Valley&#39;s Pursuit of Power](https://www.goodreads.com/book/show/57880116-the-contrarian) - Tue Nov 05 20:05:46 -0800 2024
 -   **James Essinger**  - [Ada&#39;s Algorithm: How Lord Byron&#39;s Daughter Ada Lovelace Launched the Digital Age](https://www.goodreads.com/book/show/23396040-ada-s-algorithm) - Tue Nov 05 20:05:26 -0800 2024
 -   **Kurt W. Beyer**  - [Grace Hopper and the Invention of the Information Age](https://www.goodreads.com/book/show/6501998-grace-hopper-and-the-invention-of-the-information-age) - Tue Nov 05 20:05:16 -0800 2024
@@ -97,9 +95,6 @@ Your values become your destiny.
 -   **Winston S. Churchill**  - [Churchill: The Power of Words: His Remarkable Life Recounted Through His Writings and Speeches](https://www.goodreads.com/book/show/13239849-churchill) - Mon Oct 21 19:28:45 -0700 2024
 -   **Martin  Gilbert**  - [Churchill: A Life](https://www.goodreads.com/book/show/824938.Churchill) - Mon Oct 21 19:27:56 -0700 2024
 -   **William Manchester**  - [The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932](https://www.goodreads.com/book/show/19809.The_Last_Lion) - Mon Oct 21 19:27:25 -0700 2024
--   **Andrew Roberts**  - [Churchill: Walking with Destiny](https://www.goodreads.com/book/show/38470102-churchill) - Mon Oct 21 19:26:58 -0700 2024
--   **David G. Chandler**  - [The Campaigns of Napoleon](https://www.goodreads.com/book/show/389341.The_Campaigns_of_Napoleon) - Mon Oct 21 19:26:20 -0700 2024
--   **Robert B. Asprey**  - [The Rise of Napoleon Bonaparte](https://www.goodreads.com/book/show/189570.The_Rise_of_Napoleon_Bonaparte) - Mon Oct 21 19:26:06 -0700 2024
 
 ### ✍ Recent book reviews
 
