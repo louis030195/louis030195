@@ -29,39 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Occam's razor (appropriately interpreted and in compromise with Epicurus' principle of indifference) tells us to assign high/low a priori plausibility to simple/complex strings x.
+          Man spends so much of his time trying to "succeed" that he overlooks the things that will give it to him quite easily.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d"></p>
-<p style="margin-bottom: 0; color: #9f8e7d">Texts in Theoretical Computer Science. An EATCS Series Marcus Hutter - Universal Artificial Intellig...</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Master's Secret Whispers: For those who abhor the noise and seek The Truth about life and living</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Your beliefs become your thoughts,
-Your thoughts become your words,
-Your words become your actions,
-Your actions become your habits,
-Your habits become your values,
-Your values become your destiny.
+          Note the implication: You become less of a person when you're wearing a mask or are otherwise anonymous. Shedding the responsibilities of personhood in this way can be quite thrilling, like during Halloween or at a masquerade ball (or while robbing a convenience store!). But it also contributes to the degradation of personhood on the internet — with the ensuing loss of civility we're all familiar with.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Gandhi: An Autobiography</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Mahatma Gandhi</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Personhood: A Game for Two or More Players | Melting Asphalt</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kevin Simler</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          In any orthodox theory the wavefunction is complete and hence must collapse, so we must consider whether collapses could be generated in a relativistically invariant way.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Tim Maudlin</p>
 </div>
 </div>
 </div>
@@ -78,9 +73,14 @@ Your values become your destiny.
     position: relative; margin-top: 6rem;">
     
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+            </ul>
+        </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">no brain dump from louis today 😭</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 241124</p>
             </div>
         </div>
     </div>
