@@ -29,34 +29,34 @@ Carbon-based intelligence 🐒.
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Saturated fat is a type of fat in which the fatty acid chains have all single bonds. A fat known as a glyceride is made of two kinds of smaller molecules: a short glycerol backbone and fatty acids that each contain a long linear or branched chain of carbon (C) atoms. Along the chain, some carbon atoms are linked by single bonds (-C-C-) and others are linked by double bonds (-C=C-). A double bond along the carbon chain can react with a pair of hydrogen atoms to change into a single -C-C- bond, with each H atom now bonded to one of the two C atoms. Glyceride fats without any carbon chain double bonds are called saturated because they are "saturated with" hydrogen atoms, having no double bonds available to react with more hydrogen.
+          In marketing strategy, first-mover advantage (FMA) is the competitive advantage gained by the initial ("first-moving") significant occupant of a market segment. First-mover advantage enables a company or firm to establish strong brand recognition, customer loyalty, and early purchase of resources before other competitors enter the market segment.  First movers in a specific industry are almost always followed by competitors that attempt to capitalise on the first movers' success. These followers are also aiming to gain market share; however, most of the time the first-movers will already have an established market share, with a loyal customer base that allows them to maintain their market share.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Saturated Fat - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">double bonds</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">First-Mover Advantage - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Simply stated, the value of a business today is the sum of all the money it will make in the future
+          His assertion that entropy increases almost always, rather than always, was indeed very hard to swallow for those who did not believe in molecular reality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Subtle Is the Lord</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Abraham Pais</p>
 </div>
 </div>
 </div>
