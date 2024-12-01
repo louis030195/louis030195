@@ -1,5 +1,5 @@
 <link rel="shortcut icon" href="/favicon.ico">
-# [Louis Beaumont (@louis030195)](https://louis030195.com) 🤔
+# [(@louis030195)](https://louis030195.com) 🤔
 
 carbon-based intelligence 🐒. high without drugs
 
