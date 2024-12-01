@@ -1,18 +1,15 @@
 <link rel="shortcut icon" href="/favicon.ico">
 # [Louis Beaumont (@louis030195)](https://louis030195.com) 🤔
 
-Carbon-based intelligence 🐒. 
+carbon-based intelligence 🐒. high without drugs
 
 ## 🔗 Links
 
-- [🌕 Light side](https://louisbeaumont.me)
-- [🌑 Dark side](https://louis030195.com)
+- [**🌚the darkest corner of my brain 🧠**)](https://brain.louis030195.com)
 - [Teach me something by sending an anonymous feedback](https://www.admonymous.co/louis030195)
-- [**brain.louis030195.com**: Raw, unfiltered, unpolitically correct shower thoughts (and PKM)](https://brain.louis030195.com)
 - [**lu.ma**: tech/science events i organize](https://lu.ma/u/louis030195/events?past=1)
 - [**github.com**: Talk is cheap, some things I created and open sourced](https://github.com/louis030195)
 - [**twitter.com**: Twitter](https://twitter.com/@louis030195)
-- [**youtube.com**: My Youtube channel](https://www.youtube.com/channel/UCQyHp-A6Y4hwRt7qmi_TYOQ)
 - [**goodreads.com**: My book tracking on Goodreads](https://www.goodreads.com/user/show/103091881-louis-beaumont)
 - [**linkedin.com**: LinkedIn](https://www.linkedin.com/in/louis030195)
 
