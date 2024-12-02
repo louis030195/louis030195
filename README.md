@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For example, males usually compete for access to females, rather than vice versa. There are good evolutionary reasons for this, and there are clear evolutionary consequences, too; for instance, men are more aggressive than women.
+          Figuring out the right product is the innovator’s job, not the customer’s job. The customer only knows what she thinks she wants based on her experience with the current product. The innovator can take into account everything that’s possible, often going against what she knows to be true. This requires a combination of knowledge, skill, and courage.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Our task today is to find singular ways to create the new things that will make the future not just different, but better to go from 0 to 1. The essential first step is to think for yourself. Only by seeing our world anew, as fresh and strange as it was to the ancients who saw it first, can we both re-create it and preserve it for the future.
+          So the question arises: Is the mind mechanical? That is, in your mind, are your thoughts, your feelings, your reactions, your responsibilities, your relationships, your ways, your opinions, and so on, merely mechanical; that is, responding according to conditioning, according to environmental influence? If that is the totality of the mind, then we live in a tremendous, inescapable prison
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Phiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          How do and should we form and change opinions? Logic tells us to avoid inconsistencies and incoherences. Language tells us to attend to how meaning is inferred from ambiguous language. Decision theory says to distinguish values from fact opinion, and says exactly how decisions should respond to these. Regarding fact opinion, Bayesian theory says to distinguish priors from likelihoods, and says exactly how fact opinion should respond to evidence.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Overcoming Bias : Standard Biases</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Robin Hanson</p>
 </div>
 </div>
 </div>
