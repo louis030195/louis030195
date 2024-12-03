@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Not every kind of hard is good. There is good pain and bad pain. You want the kind of pain you get from going running, not the kind you get from stepping on a nail.
+          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Saturated fat is a type of fat in which the fatty acid chains have all single bonds. A fat known as a glyceride is made of two kinds of smaller molecules: a short glycerol backbone and fatty acids that each contain a long linear or branched chain of carbon (C) atoms. Along the chain, some carbon atoms are linked by single bonds (-C-C-) and others are linked by double bonds (-C=C-). A double bond along the carbon chain can react with a pair of hydrogen atoms to change into a single -C-C- bond, with each H atom now bonded to one of the two C atoms. Glyceride fats without any carbon chain double bonds are called saturated because they are "saturated with" hydrogen atoms, having no double bonds available to react with more hydrogen.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Saturated Fat - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">double bonds</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Making wealth is not the only way to get rich. For most of human history it has not even been the most common. Until a few centuries ago, the main sources of wealth were mines, slaves and serfs, land, and cattle, and the only ways to acquire these rapidly were by inheritance, marriage, conquest, or confiscation. Naturally wealth had a bad reputation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
 <p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          (There is nothing over which a free man ponders less than death; his wisdom is, to meditate not on death but on life.)
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">What Is Life?</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Erwin Schrodinger</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
