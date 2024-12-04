@@ -26,34 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The holographic principle is a tenet of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a lower-dimensional boundary to the region—such as a light-like boundary like a gravitational horizon.
+          We should substitute morality by the will to our own ends, and consequently to the means to them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Holographic Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Living never flowers in security; it flowers only in insecurity.
+          Benjamin abraham horrowitz
+
+Summary:
+"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
+
+Transcript:
+Speaker 1
+We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          That isn’t how I mean it at all. When I say ‘want,’ I am not speaking of preference or passing desire. I am speaking of a life-and-death sort of want.
+          Of all people only those are at leisure who make time for philosophy, only those are really alive.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Shortness of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Seneca</p>
 </div>
 </div>
 </div>
