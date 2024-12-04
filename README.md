@@ -26,35 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
-Hypothesis testing allows us to make probabilistic statements about population parameters.
+          Founder Market Fit
+
+Summary:
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you might not think would draw people who are enthusiasts, but nevertheless do.
+
+Transcript:
+Speaker 1
+It's what you work on nights and weekends. Like it's the thing that's just inherent. And one of the things we get to deal with is we get to deal with these very extreme people who have this kind of obsession about all kinds of fields of technology, including ones that you Might not think would draw people who are enthusiasts, but nevertheless do.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Statistical Hypothesis Testing - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The quantum connection is faster than light (Instantaneous)
+          Rather than just raising cash as they grow their businesses, the smartest entrepreneurs select venture capitalists who can deliver valuable services. The best venture capitalists have access to the best networks, which further amplifies their value.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quantum Non-Locality and Relativity_ Metaphysical Intimations of Modern Physics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Tim Maudlin</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.
+          Wealth is the thing that you really want wealth is assets that earn while you sleep. Wealth is the factory that, with robots, is cranking out things. Wealth is the computer program that's running at night that's serving other customers. Wealth even money in the bank that is being re invested into other assets and into other businesses.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seek Wealth, Not Money or Status</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
@@ -78,7 +84,7 @@ Hypothesis testing allows us to make probabilistic statements about population p
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 041224</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 031224</p>
             </div>
         </div>
     </div>
@@ -92,7 +98,7 @@ Hypothesis testing allows us to make probabilistic statements about population p
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 031224</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 041224</p>
             </div>
         </div>
     </div>
