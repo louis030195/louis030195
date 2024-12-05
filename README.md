@@ -26,34 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          We must distinguish between, on the one hand, our subjective experiences or our feelings of conviction, which can never justify any statement (though they can be made the subject of psychological investigation) and, on the other hand, the objective logical relations subsisting among the various systems of scientific statements, and within each of them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Karl Raimund Popper</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what’s happening when you do this. A job means doing something people want, averaged together with everyone else in that company.
+          Great founders thought five years or more about the problem beforehand
+
+Summary:
+The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years or longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more andmore specific, that's really good. "By the way, OK, by the way, you're also trying to pull one on yourself," he adds.
+
+Transcript:
+Speaker 1
+You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus. This is not like a short term thing. It's almost always somebody. The great successful companies, great founders, almost always have thought deeply about the domain they're operating in for five years, up and 10 years, up and longer. And basically, you ask increasingly detailed questions. If the answers get more and more specific, as the questions get more and more specific, that's really good. If the answers get more and more in general and more and more fuzz, then it's like, OK. And by the way, OK, you're trying to pull one on us. OK, by the way, you're also trying to pull one on yourself. Yeah, right.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your private actions do not generalize, then you cannot have general ideas.
+          You don’t have to make the mind quiet. If you end all conflict, the mind naturally becomes quiet. And when the mind is absolutely silent, without any movement of thought, then perhaps you will see something, perhaps there is something sacred beyond all words. And this man has sought everlastingly, something that is beyond measure, beyond thought, which is incorruptible, unnameable, eternal. That can only take place when the mind is absolutely free and completely silent
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
@@ -101,24 +108,24 @@ carbon-based intelligence 🐒. high without drugs
 
 ### 📚 Books Louis is reading
 
--   **Mahan Khalsa**  - [Let&#39;s Get Real or Let&#39;s Not Play: Transforming the Buyer/Seller Relationship](https://www.goodreads.com/book/show/2862506-let-s-get-real-or-let-s-not-play) - Fri Nov 15 17:27:22 -0800 2024
--   **Richard P. Rumelt**  - [Good Strategy Bad Strategy: The Difference and Why It Matters](https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy) - Fri Nov 15 17:26:51 -0800 2024
--   **Hamilton Wright Helmer**  - [7 Powers: The Foundations of Business Strategy](https://www.goodreads.com/book/show/32816087-7-powers) - Fri Nov 15 17:26:34 -0800 2024
--   **Max Chafkin**  - [The Contrarian: Peter Thiel and Silicon Valley&#39;s Pursuit of Power](https://www.goodreads.com/book/show/57880116-the-contrarian) - Tue Nov 05 20:05:46 -0800 2024
 -   **James Essinger**  - [Ada&#39;s Algorithm: How Lord Byron&#39;s Daughter Ada Lovelace Launched the Digital Age](https://www.goodreads.com/book/show/23396040-ada-s-algorithm) - Tue Nov 05 20:05:26 -0800 2024
 -   **Kurt W. Beyer**  - [Grace Hopper and the Invention of the Information Age](https://www.goodreads.com/book/show/6501998-grace-hopper-and-the-invention-of-the-information-age) - Tue Nov 05 20:05:16 -0800 2024
--   **Kerry Patterson**  - [Crucial Conversations: Tools for Talking When Stakes are High](https://www.goodreads.com/book/show/15014.Crucial_Conversations) - Tue Nov 05 20:05:14 -0800 2024
 -   **Winston S. Churchill**  - [Churchill: The Power of Words: His Remarkable Life Recounted Through His Writings and Speeches](https://www.goodreads.com/book/show/13239849-churchill) - Mon Oct 21 19:28:45 -0700 2024
 -   **Martin  Gilbert**  - [Churchill: A Life](https://www.goodreads.com/book/show/824938.Churchill) - Mon Oct 21 19:27:56 -0700 2024
 -   **William Manchester**  - [The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932](https://www.goodreads.com/book/show/19809.The_Last_Lion) - Mon Oct 21 19:27:25 -0700 2024
+-   **Andrew Roberts**  - [Churchill: Walking with Destiny](https://www.goodreads.com/book/show/38470102-churchill) - Mon Oct 21 19:26:58 -0700 2024
+-   **David G. Chandler**  - [The Campaigns of Napoleon](https://www.goodreads.com/book/show/389341.The_Campaigns_of_Napoleon) - Mon Oct 21 19:26:20 -0700 2024
+-   **Robert B. Asprey**  - [The Rise of Napoleon Bonaparte](https://www.goodreads.com/book/show/189570.The_Rise_of_Napoleon_Bonaparte) - Mon Oct 21 19:26:06 -0700 2024
+-   **Philip G. Dwyer**  - [Napoleon: The Path to Power](https://www.goodreads.com/book/show/2978800-napoleon) - Mon Oct 21 19:25:51 -0700 2024
+-   **Dan Roam**  - [The Back of the Napkin: Solving Problems and Selling Ideas with Pictures](https://www.goodreads.com/book/show/2420301.The_Back_of_the_Napkin) - Sun Oct 20 17:36:06 -0700 2024
 
 ### ✍ Recent book reviews
 
--   **Donald L. Barlett**  - [Howard Hughes: His Life and Madness](https://www.goodreads.com/book/show/320861.Howard_Hughes) - 5/5 - Sun Oct 20 17:30:14 -0700 2024
--   **Duncan Clark**  - [Alibaba: The House That Jack Ma Built](https://www.goodreads.com/book/show/25817524-alibaba) - 5/5 - Sun Oct 20 09:34:27 -0700 2024
--   **Morgan Housel**  - [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money) - 3/5 - Sun Oct 20 09:34:50 -0700 2024
--   **Jim Paul**  - [What I Learned Losing a Million Dollars](https://www.goodreads.com/book/show/1334384.What_I_Learned_Losing_a_Million_Dollars) - 4/5 - Sun Oct 06 17:18:26 -0700 2024
--   **John Yorke**  - [Into the Woods: A Five Act Journey Into Story](https://www.goodreads.com/book/show/17593915-into-the-woods) - 4/5 - Sun Oct 06 17:18:36 -0700 2024
+-   **Timothy Leary**  - [The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead](https://www.goodreads.com/book/show/123698.The_Psychedelic_Experience) - 3/5 - Thu Dec 05 07:26:43 -0800 2024
+-   **Carl R. Rogers**  - [On Becoming a Person: A Therapist&#39;s View of Psychotherapy](https://www.goodreads.com/book/show/174879.On_Becoming_a_Person) - 1/5 - Thu Dec 05 07:26:34 -0800 2024
+-   **Douglas R. Hofstadter**  - [Metamagical Themas: Questing for the Essence of Mind and Pattern](https://www.goodreads.com/book/show/181239.Metamagical_Themas) - 4/5 - Thu Dec 05 07:26:59 -0800 2024
+-   **George Soros**  - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - 4/5 - Thu Dec 05 07:27:16 -0800 2024
+-   **Nick Bostrom**  - [Anthropic Bias: Observation Selection Effects in Science and Philosophy](https://www.goodreads.com/book/show/2002987.Anthropic_Bias) - 3/5 - Thu Dec 05 07:28:00 -0800 2024
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
