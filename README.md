@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Natural selection has designed all parts of our bodies to last just long enough to see our children into independence, no more
+          Simulacrum Levels are a framework for analyzing different motivations people can have for making statements.  Simulacrum Level 1: Attempt to describe the world accurately. Simulacrum Level 2: Choose what to say based on what your statement will cause other people to do or believe. Simulacrum Level 3: Say things that signal membership to your ingroup. Simulacrum Level 4: Choose which group to signal membership to based on what the benefit would be for you.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley - Genome the Autobiography of a Species in 23 Chapters-HarperCollins</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Simulacrum Levels - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Strawperson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Wealth can be created without being sold. Scientists, till recently at least, effectively donated the wealth they created. We are all richer for knowing about penicillin, because we’re less likely to die from infections. Wealth is whatever people want, and not dying is certainly something we want. Hackers often donate their work by writing open source software that anyone can use for free. I am much the richer for the operating system FreeBSD, which I’m running on the computer I’m using now, and so is Yahoo, which runs it on all their servers.
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The holographic principle is a tenet of string theories and a supposed property of quantum gravity that states that the description of a volume of space can be thought of as encoded on a lower-dimensional boundary to the region—such as a light-like boundary like a gravitational horizon.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Holographic Principle - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
@@ -70,9 +70,28 @@ carbon-based intelligence 🐒. high without drugs
     position: relative; margin-top: 6rem;">
     
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Henry%20Ford%20-%20My%20Life%20and%20Work.md">Readwise/Books/Henry Ford - My Life and Work.md</a></li>
+            </ul>
+        </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">no brain dump from louis today 😭</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 130225</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Henry%20Ford%20-%20My%20Life%20and%20Work.md">Readwise/Books/Henry Ford - My Life and Work.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 120225</p>
             </div>
         </div>
     </div>
@@ -82,24 +101,24 @@ carbon-based intelligence 🐒. high without drugs
 
 ### 📚 Books Louis is reading
 
--   **James Essinger**  - [Ada&#39;s Algorithm: How Lord Byron&#39;s Daughter Ada Lovelace Launched the Digital Age](https://www.goodreads.com/book/show/23396040-ada-s-algorithm) - Tue Nov 05 20:05:26 -0800 2024
--   **Kurt W. Beyer**  - [Grace Hopper and the Invention of the Information Age](https://www.goodreads.com/book/show/6501998-grace-hopper-and-the-invention-of-the-information-age) - Tue Nov 05 20:05:16 -0800 2024
--   **Winston S. Churchill**  - [Churchill: The Power of Words: His Remarkable Life Recounted Through His Writings and Speeches](https://www.goodreads.com/book/show/13239849-churchill) - Mon Oct 21 19:28:45 -0700 2024
--   **Martin  Gilbert**  - [Churchill: A Life](https://www.goodreads.com/book/show/824938.Churchill) - Mon Oct 21 19:27:56 -0700 2024
--   **William Manchester**  - [The Last Lion: Winston Spencer Churchill: Visions of Glory, 1874-1932](https://www.goodreads.com/book/show/19809.The_Last_Lion) - Mon Oct 21 19:27:25 -0700 2024
--   **Andrew Roberts**  - [Churchill: Walking with Destiny](https://www.goodreads.com/book/show/38470102-churchill) - Mon Oct 21 19:26:58 -0700 2024
--   **David G. Chandler**  - [The Campaigns of Napoleon](https://www.goodreads.com/book/show/389341.The_Campaigns_of_Napoleon) - Mon Oct 21 19:26:20 -0700 2024
--   **Robert B. Asprey**  - [The Rise of Napoleon Bonaparte](https://www.goodreads.com/book/show/189570.The_Rise_of_Napoleon_Bonaparte) - Mon Oct 21 19:26:06 -0700 2024
--   **Philip G. Dwyer**  - [Napoleon: The Path to Power](https://www.goodreads.com/book/show/2978800-napoleon) - Mon Oct 21 19:25:51 -0700 2024
--   **Dan Roam**  - [The Back of the Napkin: Solving Problems and Selling Ideas with Pictures](https://www.goodreads.com/book/show/2420301.The_Back_of_the_Napkin) - Sun Oct 20 17:36:06 -0700 2024
+-   **Dan S. Kennedy**  - [The Ultimate Sales Letter: Attract New Customers. Boost Your Sales](https://www.goodreads.com/book/show/112466.The_Ultimate_Sales_Letter) - Mon Feb 10 19:07:42 -0800 2025
+-   **Joseph Campbell**  - [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) - Mon Feb 10 19:07:23 -0800 2025
+-   **Henry Ford**  - [My Life And Work](https://www.goodreads.com/book/show/1122054.My_Life_And_Work) - Mon Feb 10 19:06:27 -0800 2025
+-   **Philip Freeman**  - [Alexander the Great](https://www.goodreads.com/book/show/7841459-alexander-the-great) - Mon Feb 10 19:05:56 -0800 2025
+-   **Arrian**  - [The Campaigns of Alexander](https://www.goodreads.com/book/show/862639.The_Campaigns_of_Alexander) - Mon Feb 10 19:05:17 -0800 2025
+-   **Steven Pressfield**  - [The Virtues of War](https://www.goodreads.com/book/show/1316.The_Virtues_of_War) - Mon Feb 10 19:04:34 -0800 2025
+-   **Jack Weatherford**  - [The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire](https://www.goodreads.com/book/show/6648001-the-secret-history-of-the-mongol-queens) - Mon Feb 10 19:04:09 -0800 2025
+-   **Michael   Roberts**  - [Gustavus Adolphus and the Rise of Sweden](https://www.goodreads.com/book/show/2226087.Gustavus_Adolphus_and_the_Rise_of_Sweden) - Mon Feb 10 19:03:45 -0800 2025
+-   **Warren Bennis**  - [Leaders: The Strategies for Taking Charge](https://www.goodreads.com/book/show/355023.Leaders) - Mon Feb 10 19:03:18 -0800 2025
+-   **Jay Earley**  - [Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using IFS, a New, Cutting-Edge Therapy](https://www.goodreads.com/book/show/6969927-self-therapy) - Mon Feb 10 19:02:51 -0800 2025
 
 ### ✍ Recent book reviews
 
--   **Timothy Leary**  - [The Psychedelic Experience: A Manual Based on the Tibetan Book of the Dead](https://www.goodreads.com/book/show/123698.The_Psychedelic_Experience) - 3/5 - Thu Dec 05 07:26:43 -0800 2024
--   **Carl R. Rogers**  - [On Becoming a Person: A Therapist&#39;s View of Psychotherapy](https://www.goodreads.com/book/show/174879.On_Becoming_a_Person) - 1/5 - Thu Dec 05 07:26:34 -0800 2024
--   **Douglas R. Hofstadter**  - [Metamagical Themas: Questing for the Essence of Mind and Pattern](https://www.goodreads.com/book/show/181239.Metamagical_Themas) - 4/5 - Thu Dec 05 07:26:59 -0800 2024
--   **George Soros**  - [The Alchemy of Finance](https://www.goodreads.com/book/show/369708.The_Alchemy_of_Finance) - 4/5 - Thu Dec 05 07:27:16 -0800 2024
--   **Nick Bostrom**  - [Anthropic Bias: Observation Selection Effects in Science and Philosophy](https://www.goodreads.com/book/show/2002987.Anthropic_Bias) - 3/5 - Thu Dec 05 07:28:00 -0800 2024
+-   **James P. Carse**  - [Finite and Infinite Games: A Vision of Life as Play and Possibility](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) - 2/5 - Sun Feb 09 10:31:58 -0800 2025
+-   **John Markoff**  - [What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry](https://www.goodreads.com/book/show/725789.What_the_Dormouse_Said) - 4/5 - Sun Feb 09 10:31:03 -0800 2025
+-   **Dale Carnegie**  - [Public Speaking and Influencing Men in Business](https://www.goodreads.com/book/show/331708.Public_Speaking_and_Influencing_Men_in_Business) - 5/5 - Sun Feb 09 10:31:40 -0800 2025
+-   **A.G. Lafley**  - [Playing to Win: How Strategy Really Works](https://www.goodreads.com/book/show/13586928-playing-to-win) - 4/5 - Sun Feb 09 10:30:23 -0800 2025
+-   **Aldous Huxley**  - [The Divine Within: Selected Writings on Enlightenment](https://www.goodreads.com/book/show/16065661-the-divine-within) - 4/5 - Sun Feb 09 10:30:39 -0800 2025
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
