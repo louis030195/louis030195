@@ -11,6 +11,11 @@ jobs:
     steps:
       - uses: actions/checkout@master
 
+      - name: Install dependencies
+        run: |
+          pip install --ignore-installed typing-extensions
+          pip install -r requirements.txt
+
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
