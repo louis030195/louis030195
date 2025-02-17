@@ -26,40 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best companies are almost always mission oriented.
+          In quantum mechanics, the uncertainty principle (also known as Heisenberg's uncertainty principle) is any of a variety of mathematical inequalities asserting a fundamental limit to the accuracy with which the values for certain pairs of physical quantities of a particle, such as position, x, and momentum, p, can be predicted from initial conditions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Uncertainty Principle - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
+          To an unnecessary extent, the prolonged fight was driven by emotions and resentments. Instead, Doudna and Zhang could have followed the example of Jack Kilby of Texas Instruments and Robert Noyce of Intel who, after five years of wrangling, agreed to share the patent rights for the microchip by cross-licensing their intellectual property to each other and splitting the royalties, which helped the microchip business grow exponentially and define a new age of technology. Unlike the CRISPR contestants, Noyce and Kilby obeyed an all-important business maxim: *Don’t fight over divvying up the proceeds until you finish robbing the stagecoach*.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Code Breaker</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Walter Isaacson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          One should interpret this question as broadly as possible. Does the CEO know what to do in all matters all the time? This includes matters of personnel, financing, product strategy, goal sizing, and marketing. At a macro level, does the CEO set the right strategy for the company and know its implications in every detail of the company?
-
-I evaluate two distinct facets of knowing what to do:
-
-![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/257138003/fWWqBrIkGRjkDthxRDd88juWTWaUY61kk8Ncl96bsk8-id23-00002.jpeg)  Strategy In good companies, the story and the strategy are the same thing. As a result, the proper output of all the strategic work is the story.
-
-![](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/257138003/6eMszXpdfTMgdoetaJvTxsTjQpmPXnjE1T2hI92Qk7c-id23-00002.jpeg)  Decision making At the detailed level, the output of knowing what to do is the speed and quality of the CEO’s decisions.
+          In reflecting upon the part played by chance in the development of new concepts, he recalled the story of the three princes of Serendip who set out to find some interesting object on a journey through their realm. They did not find the particular object of their search, but along the way they discovered many new things simply because they were looking for something.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Horowitz, Ben</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Men, Machines, and Modern Times</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Morison, Elting Elmore</p>
 </div>
 </div>
 </div>
@@ -92,7 +86,7 @@ I evaluate two distinct facets of knowing what to do:
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Unknown%20-%20The%20Qualified%20Sales%20Leader%20Proven%20Lessons%20From%20a%20Five-Time%20CRO.md">Readwise/Articles/Unknown - The Qualified Sales Leader Proven Lessons From a Five-Time CRO.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Philip%20Freeman%20-%20Alexander%20the%20Great.md">Readwise/Books/Philip Freeman - Alexander the Great.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -106,7 +100,7 @@ I evaluate two distinct facets of knowing what to do:
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Philip%20Freeman%20-%20Alexander%20the%20Great.md">Readwise/Books/Philip Freeman - Alexander the Great.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Unknown%20-%20The%20Qualified%20Sales%20Leader%20Proven%20Lessons%20From%20a%20Five-Time%20CRO.md">Readwise/Articles/Unknown - The Qualified Sales Leader Proven Lessons From a Five-Time CRO.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
