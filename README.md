@@ -26,24 +26,7 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Health frees your body.
-
-Wealth frees your time.
-
-Purpose frees your spirit.
-
-Wisdom frees your mind.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Ascendant Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@AscendantPower on Twitter</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making wealth is not the only way to get rich. For most of human history it has not even been the most common. Until a few centuries ago, the main sources of wealth were mines, slaves and serfs, land, and cattle, and the only ways to acquire these rapidly were by inheritance, marriage, conquest, or confiscation. Naturally wealth had a bad reputation.
+          What leads people astray here is the abstraction of money. Money is not wealth. It’s just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -54,12 +37,33 @@ Wisdom frees your mind.
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The man of knowledge must be able not only to love his enemies, but also to hate his friends.
+          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Fast, lift, sprint, stretch, and meditate.
+
+Build, sell, write, create, invest, and own.
+
+Read, reflect, love, seek truth, and ignore society.
+
+Make these habits. Say no to everything else.
+
+Avoid debt, jail, addiction, disgrace, shortcuts, and media.
+
+Relax. Victory is assured.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
 </div>
 </div>
 </div>
@@ -75,6 +79,20 @@ Wisdom frees your mind.
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Unknown%20-%20The%20Qualified%20Sales%20Leader%20Proven%20Lessons%20From%20a%20Five-Time%20CRO.md">Readwise/Articles/Unknown - The Qualified Sales Leader Proven Lessons From a Five-Time CRO.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160225</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -102,20 +120,6 @@ Wisdom frees your mind.
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Unknown%20-%20The%20Qualified%20Sales%20Leader%20Proven%20Lessons%20From%20a%20Five-Time%20CRO.md">Readwise/Articles/Unknown - The Qualified Sales Leader Proven Lessons From a Five-Time CRO.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 160225</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
@@ -123,7 +127,6 @@ Wisdom frees your mind.
 
 -   **Dan S. Kennedy**  - [The Ultimate Sales Letter: Attract New Customers. Boost Your Sales](https://www.goodreads.com/book/show/112466.The_Ultimate_Sales_Letter) - Mon Feb 10 19:07:42 -0800 2025
 -   **Joseph Campbell**  - [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) - Mon Feb 10 19:07:23 -0800 2025
--   **Henry Ford**  - [My Life And Work](https://www.goodreads.com/book/show/1122054.My_Life_And_Work) - Mon Feb 10 19:06:27 -0800 2025
 -   **Philip Freeman**  - [Alexander the Great](https://www.goodreads.com/book/show/7841459-alexander-the-great) - Mon Feb 10 19:05:56 -0800 2025
 -   **Arrian**  - [The Campaigns of Alexander](https://www.goodreads.com/book/show/862639.The_Campaigns_of_Alexander) - Mon Feb 10 19:05:17 -0800 2025
 -   **Steven Pressfield**  - [The Virtues of War](https://www.goodreads.com/book/show/1316.The_Virtues_of_War) - Mon Feb 10 19:04:34 -0800 2025
@@ -131,14 +134,15 @@ Wisdom frees your mind.
 -   **Michael   Roberts**  - [Gustavus Adolphus and the Rise of Sweden](https://www.goodreads.com/book/show/2226087.Gustavus_Adolphus_and_the_Rise_of_Sweden) - Mon Feb 10 19:03:45 -0800 2025
 -   **Warren Bennis**  - [Leaders: The Strategies for Taking Charge](https://www.goodreads.com/book/show/355023.Leaders) - Mon Feb 10 19:03:18 -0800 2025
 -   **Jay Earley**  - [Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using IFS, a New, Cutting-Edge Therapy](https://www.goodreads.com/book/show/6969927-self-therapy) - Mon Feb 10 19:02:51 -0800 2025
+-   **Amy Cuddy**  - [Presence: Bringing Your Boldest Self to Your Biggest Challenges](https://www.goodreads.com/book/show/25066556-presence) - Mon Feb 10 19:02:30 -0800 2025
 
 ### ✍ Recent book reviews
 
+-   **Henry Ford**  - [My Life And Work](https://www.goodreads.com/book/show/1122054.My_Life_And_Work) - 5/5 - Sun Feb 16 17:52:18 -0800 2025
+-   **qntm**  - [There Is No Antimemetics Division](https://www.goodreads.com/book/show/54870256-there-is-no-antimemetics-division) - 3/5 - Sun Feb 16 17:51:51 -0800 2025
 -   **James P. Carse**  - [Finite and Infinite Games: A Vision of Life as Play and Possibility](https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games) - 2/5 - Sun Feb 09 10:31:58 -0800 2025
 -   **John Markoff**  - [What the Dormouse Said: How the Sixties Counterculture Shaped the Personal Computer Industry](https://www.goodreads.com/book/show/725789.What_the_Dormouse_Said) - 4/5 - Sun Feb 09 10:31:03 -0800 2025
 -   **Dale Carnegie**  - [Public Speaking and Influencing Men in Business](https://www.goodreads.com/book/show/331708.Public_Speaking_and_Influencing_Men_in_Business) - 5/5 - Sun Feb 09 10:31:40 -0800 2025
--   **A.G. Lafley**  - [Playing to Win: How Strategy Really Works](https://www.goodreads.com/book/show/13586928-playing-to-win) - 4/5 - Sun Feb 09 10:30:23 -0800 2025
--   **Aldous Huxley**  - [The Divine Within: Selected Writings on Enlightenment](https://www.goodreads.com/book/show/16065661-the-divine-within) - 4/5 - Sun Feb 09 10:30:39 -0800 2025
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
