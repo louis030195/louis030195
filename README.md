@@ -26,41 +26,51 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The rarest (and most valuable) thing on this planet: a clear mind.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Nassim Nicholas Taleb</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@nntaleb on Twitter</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          EXTRAVAGANCE. The habit of trying to "keep up with the Joneses," spending beyond one's income.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Think and Grow Rich</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Hill, Napoleon</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Is My To Do List Done Yet?
+          The Principal Agent Problem
 
 Summary:
-It's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Because our memories aren't very good at keeping track of what we really do. All of us ar involved in something, hopefully that we care about, that is important to us. Ah, it's just good practiceto be able to track how you're actually spending your time and energy, or investing your time andEnergy instead of just relying on your memory to do that.
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
 
 Transcript:
 Speaker 1
-Tei it's a daily review process combined with getting into the habit of making notes as you're doing the work, which i i think has a couple of benefits. Ah, it's just good practiceto to track how you're actually spending your time and energy, or investing your time and energy, instead of just relying on your memory to do that. Because our memories aren't very good at keeping track of what we really do. I think there's there's another cognitive and em a benefit to doing this, which is all of us ar involved in something, hopefully that we care about, that's important to us.
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principal-Agent Problem —  Act Like an Owner</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          When you raise your prices, you . . .
+
+. . . Increase your clients’ emotional investment
+
+. . . Increase your clients’ perceived value of your service
+
+. . . Increase your clients’ results because they value your service and are invested
+
+. . . Attract the best clients who are the easiest to satisfy and actually cost less to fulfill, and who are the most likely to actually receive and perceive the most relative value
+
+. . . Multiply your margin because you have money to invest in systems to create efficiency; smart people; improved customer experience; scale your business; and, most importantly of all, to keep watching the number in your personal bank account go up, month after month, even with reinvesting in your business. This allows you to ultimately enjoy the process for the long haul and help more people as you grow, rather than burning out and shriveling into obscurity.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          he gave deposits for the use of all the olive-presses in Chios and Miletus, which he hired at a low price because no one bid against him. When the harvest time came, and many were wanted all at once and of a sudden, he let them out at any rate which he pleased, and made a quantity of money. Thus he showed the world that philosophers can easily be rich if they like, but that their ambition is of another sort."
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
+<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
 </div>
 </div>
 </div>
