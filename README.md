@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Neutrinos are abundant subatomic particles that are famous for passing through anything and everything, only very rarely interacting with matter. About 100 trillion neutrinos pass through your body every second.
+          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A First Look at How the Earth Stops High-Energy Neutrinos in Their Tracks</p>
-<p style="margin-bottom: 0; color: #9f8e7d">icecube.wisc.edu</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In probability theory, the central limit theorem (CLT) establishes that, in many situations, when independent random variables are summed up, their properly normalized sum tends toward a normal distribution even if the original variables themselves are not normally distributed.  The theorem is a key concept in probability theory because it implies that probabilistic and statistical methods that work for normal distributions can be applicable to many problems involving other types of distributions.
+          A formidable person is one who seems like they'll get what they want, regardless of whatever obstacles are in the way. Formidable is close to confident, except that someone could be confident and mistaken. Formidable is roughly justifiably confident.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Central Limit Theorem - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Convince Investors</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When you’re in any institution, you cannot speak freely, especially when you’re the CEO. I’ve only really been able to speak freely to a greater extent over the last year and a half.
+          Truth—or, more precisely, an accurate understanding of reality—is the essential foundation for any good outcome.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Eric-Jorgenson_The-Anthology-of-Balaji.indd</p>
-<p style="margin-bottom: 0; color: #9f8e7d">readwise.io</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principles</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Dalio, Ray</p>
 </div>
 </div>
 </div>
@@ -72,12 +72,12 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Steven%20Pressfield%20-%20Virtues%20of%20War.md">Readwise/Books/Steven Pressfield - Virtues of War.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Mahan%20Khalsa%20-%20Let%27s%20Get%20Real%20or%20Let%27s%20Not%20Play%20Transforming%20the%20BuyerSeller%20Relationship.md">Readwise/Books/Mahan Khalsa - Let's Get Real or Let's Not Play Transforming the BuyerSeller Relationship.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 180225</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190225</p>
             </div>
         </div>
     </div>
