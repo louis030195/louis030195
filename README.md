@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You must be willing to suffer the anger of the opponent, and yet not return anger. You must not become bitter. No matter how emotional your opponents are, you must be calm.
+          What leads people astray here is the abstraction of money. Money is not wealth. It’s just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Autobiography of Martin Luther King, Jr.</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Unknown</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.
+          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">John D. Rockefeller on Making Money: Advice and Words of Wisdom on Building and Sharing Wealth</p>
-<p style="margin-bottom: 0; color: #9f8e7d">John Rockefeller</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
+          His assertion that entropy increases almost always, rather than always, was indeed very hard to swallow for those who did not believe in molecular reality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Subtle Is the Lord</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Abraham Pais</p>
 </div>
 </div>
 </div>
@@ -70,9 +70,14 @@ carbon-based intelligence 🐒. high without drugs
     position: relative; margin-top: 6rem;">
     
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20215%20David%20Heacock%20Managing%20and%20Marketing%20a%20%24250M%20Business.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 215 David Heacock Managing and Marketing a $250M Business.md</a></li>
+            </ul>
+        </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">no brain dump from louis today 😭</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 230225</p>
             </div>
         </div>
     </div>
@@ -82,16 +87,16 @@ carbon-based intelligence 🐒. high without drugs
 
 ### 📚 Books Louis is reading
 
+-   **Vaclav Smil**  - [Grand Transitions: How the Modern World Was Made](https://www.goodreads.com/book/show/54811336-grand-transitions) - Sun Feb 23 06:25:58 -0800 2025
+-   **Vaclav Smil**  - [Energy Myths and Realities: Bringing Science to the Energy Policy Debate](https://www.goodreads.com/book/show/8793836-energy-myths-and-realities) - Sun Feb 23 06:25:55 -0800 2025
+-   **Vaclav Smil**  - [Oil: A Beginner&#39;s Guide](https://www.goodreads.com/book/show/3387138-oil) - Sun Feb 23 06:25:51 -0800 2025
+-   **Vaclav Smil**  - [Invention and Innovation: A Brief History of Hype and Failure](https://www.goodreads.com/book/show/61102803-invention-and-innovation) - Sun Feb 23 06:25:48 -0800 2025
+-   **Vaclav Smil**  - [Growth: From Microorganisms to Megacities](https://www.goodreads.com/book/show/44512537-growth) - Sun Feb 23 06:25:45 -0800 2025
+-   **Vaclav Smil**  - [Energy and Civilization: A History](https://www.goodreads.com/book/show/31850765-energy-and-civilization) - Sun Feb 23 06:25:42 -0800 2025
+-   **Vaclav Smil**  - [Numbers Don&#39;t Lie: 71 Things You Need to Know About the World](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie) - Sun Feb 23 06:25:38 -0800 2025
+-   **Vaclav Smil**  - [Energy: A Beginner&#39;s Guide](https://www.goodreads.com/book/show/632902.Energy) - Sun Feb 23 06:24:12 -0800 2025
 -   **Dan S. Kennedy**  - [The Ultimate Sales Letter: Attract New Customers. Boost Your Sales](https://www.goodreads.com/book/show/112466.The_Ultimate_Sales_Letter) - Mon Feb 10 19:07:42 -0800 2025
 -   **Joseph Campbell**  - [The Power of Myth](https://www.goodreads.com/book/show/35519.The_Power_of_Myth) - Mon Feb 10 19:07:23 -0800 2025
--   **Philip Freeman**  - [Alexander the Great](https://www.goodreads.com/book/show/7841459-alexander-the-great) - Mon Feb 10 19:05:56 -0800 2025
--   **Arrian**  - [The Campaigns of Alexander](https://www.goodreads.com/book/show/862639.The_Campaigns_of_Alexander) - Mon Feb 10 19:05:17 -0800 2025
--   **Steven Pressfield**  - [The Virtues of War](https://www.goodreads.com/book/show/1316.The_Virtues_of_War) - Mon Feb 10 19:04:34 -0800 2025
--   **Jack Weatherford**  - [The Secret History of the Mongol Queens: How the Daughters of Genghis Khan Rescued His Empire](https://www.goodreads.com/book/show/6648001-the-secret-history-of-the-mongol-queens) - Mon Feb 10 19:04:09 -0800 2025
--   **Michael   Roberts**  - [Gustavus Adolphus and the Rise of Sweden](https://www.goodreads.com/book/show/2226087.Gustavus_Adolphus_and_the_Rise_of_Sweden) - Mon Feb 10 19:03:45 -0800 2025
--   **Warren Bennis**  - [Leaders: The Strategies for Taking Charge](https://www.goodreads.com/book/show/355023.Leaders) - Mon Feb 10 19:03:18 -0800 2025
--   **Jay Earley**  - [Self-Therapy: A Step-By-Step Guide to Creating Inner Wholeness Using IFS, a New, Cutting-Edge Therapy](https://www.goodreads.com/book/show/6969927-self-therapy) - Mon Feb 10 19:02:51 -0800 2025
--   **Amy Cuddy**  - [Presence: Bringing Your Boldest Self to Your Biggest Challenges](https://www.goodreads.com/book/show/25066556-presence) - Mon Feb 10 19:02:30 -0800 2025
 
 ### ✍ Recent book reviews
 
