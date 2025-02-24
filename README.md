@@ -26,41 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How Does Technology Impact Society?
-
-Summary:
-Yeah, so there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's the name Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines, and Modern Times. It's this topic. It's basically okay. What exactly is the process by which you do technology, and how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
-
-Transcript:
-Speaker 1
-Yeah. So there's this incredible book. It's very short, very good. It's actually written 50 years ago by a professor at MIT at the time. And it's named Elting Morrison. And what's great about this book is it was written before the internet, even before personal computers. And so it's got this kind of timeless kind of quality to it. And it's the title of the book is called Men, Machines in Modern Times. It's this topic. It's basically, OK, what exactly is the process by which you do technology, entry society and then how does society react? Basically, how does the powers that be or the status quo of society react? And Morrison tells this amazing story.
+          We close this chapter with a few summarizing lines. One may be risk loving yet completely averse to ruin. The central asymmetry of life is: In a strategy that entails ruin, benefits never offset risks of ruin. Further: Ruin and other changes in condition are different animals. Every single risk you take adds up to reduce your life expectancy. Finally: Rationality is avoidance of systemic ruin.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Why Technology Still Matters With Marc Andreessen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">a16z Podcast</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The main difference between integrability in the sense of Lebesgue and Riemann is the way we measure 'the area under the curve'.  The Riemann integral asks the question what's the 'height' of 𝑓f above a given part of the domain of the function. The Lebesgue integral on the other hand asks, for a given part of the range of 𝑓f, what's the measure of the 𝑥x's which contribute to this 'height'.
+          The Einstein field equations relate the Einstein tensor to the stress–energy tensor, which represents the distribution of energy, momentum and stress in the spacetime manifold. The Einstein tensor is built up from the metric tensor and its partial derivatives; thus, given the stress–energy tensor, the Einstein field equations are a system of ten partial differential equations in which the metric tensor can be solved for.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Integration - ELI5: Riemann-Integrable vs Lebesgue-Integrable - Mathematics Stack Exchange</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Cookie Policy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Solutions of the Einstein Field Equations - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">closed form</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          one with a long experience of the difculties of logic and of the deceptiveness of theories which seem irrefutable, I fnd myself unable to be sure of the rightness of a theory, merely on the ground that I cannot see any point on which it is wrong. But to have constructed a theory of logic which is not at any point obviously wrong is to have achieved a work of extraordinary difculty and importance. This merit, in my opinion, belongs to Mr Wittgenstein’s book, and makes it one which no serious philosopher can aford to neglect.
+          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
@@ -79,7 +72,7 @@ Yeah. So there's this incredible book. It's very short, very good. It's actually
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20215%20David%20Heacock%20Managing%20and%20Marketing%20a%20%24250M%20Business.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 215 David Heacock Managing and Marketing a $250M Business.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Energy%20Transitions%20Global%20and%20National%20Perspectives.md">Readwise/Books/Vaclav Smil - Energy Transitions Global and National Perspectives.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -93,7 +86,7 @@ Yeah. So there's this incredible book. It's very short, very good. It's actually
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Energy%20Transitions%20Global%20and%20National%20Perspectives.md">Readwise/Books/Vaclav Smil - Energy Transitions Global and National Perspectives.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20215%20David%20Heacock%20Managing%20and%20Marketing%20a%20%24250M%20Business.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 215 David Heacock Managing and Marketing a $250M Business.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
