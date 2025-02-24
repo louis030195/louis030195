@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          People think startups grow out of some brilliant initial idea like a plant from a seed. But almost all the founders I interviewed changed their ideas as they developed them. PayPal started out writing encryption software, Excite started as a database search company, and Flickr grew out of an online game.
+          To an unnecessary extent, the prolonged fight was driven by emotions and resentments. Instead, Doudna and Zhang could have followed the example of Jack Kilby of Texas Instruments and Robert Noyce of Intel who, after five years of wrangling, agreed to share the patent rights for the microchip by cross-licensing their intellectual property to each other and splitting the royalties, which helped the microchip business grow exponentially and define a new age of technology. Unlike the CRISPR contestants, Noyce and Kilby obeyed an all-important business maxim: *Don’t fight over divvying up the proceeds until you finish robbing the stagecoach*.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Founders at Work</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jessica Livingston</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Code Breaker</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Walter Isaacson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For here is a man who actually identifies evil with pain and good with pleasure, thus making a mockery of all our attempts to establish moral standards, a man who declares we are just wasting our time and uttering mere meaningless sounds, since nothing is really ofthe slightest significance except pleasant or unpleasant physical sensations.
+          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you ever do find yourself working for a startup, here’s a handy tip for evaluating competitors. Read their job listings. Everything else on their site may be stock photos or the prose equivalent, but the job listings have to be specific about what they want, or they’ll get the wrong candidates.
+          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
