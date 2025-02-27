@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If magic is like casting Imperio on someone to make them do what you want, then science is like knowing them so well that you can convince them it was their own idea all along.
+          When the beard (or hair) is black, heed the reasoning, but ignore the conclusion. When the beard is gray, consider both reasoning and conclusion. When the beard is white, skip the reasoning, but mind the conclusion.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For the vast bulk of messages, in fact, symbols do not behave like fair coins. The symbol that is sent now depends, in important and predictable ways, on the symbol that was just sent: one symbol has a “pull” on the next. Take an image: Hartley showed how to measure its information content by gauging the intensity of each “elementary area.” But in images that resemble anything other than TV static, intensities are not splattered randomly across the pixels: each pixel has pull. A light pixel is more likely to appear next to a light pixel, a dark next to a dark.
+          So the question arises: Is the mind mechanical? That is, in your mind, are your thoughts, your feelings, your reactions, your responsibilities, your relationships, your ways, your opinions, and so on, merely mechanical; that is, responding according to conditioning, according to environmental influence? If that is the totality of the mind, then we live in a tremendous, inescapable prison
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Mind at Play: How Claude Shannon Invented the Information Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jimmy Soni &amp; Rob Goodman</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
+          Then I realized people pay for certainty. They value certainty. I call this “the perceived likelihood of achievement.” In other words, “How likely do I believe it is that I will achieve the result I am looking for if I make this purchase?”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
 </div>
 </div>
 </div>
