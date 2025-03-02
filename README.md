@@ -26,41 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          in order to be able to draw a limit to thought, we should have to find both sides of the limit thinkable (i.e. we should have to be able to think what cannot be thought)
+          In my whole life, I have known no wise people (over a broad subject matter area) who didn't read all the time-none, zero.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Poor Charlies's Almanack</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Charlie Munger</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The IDMA
-
-Summary:
-"You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do," he says. "What I find is it's almost always five years plus."
-
-Transcript:
-Speaker 1
-So the concept of the IDMA is to really be the master of a domain. You have to really understand all of the twists and turns that require getting from point A, which is like a vague idea of what you want to do, kind of all the way to point Z on the other side of the maze, which is an actual product that matters that you can build a startup around. And you have to actually think your way through all those steps. And the founders who are good at what they do, think through, they take the time they put in the effort, often years. What I find is it's almost always five years plus.
+          company culture is one in which people have something in common that distinguishes them quite sharply from the rest of the world. If everybody likes ice cream, that probably doesn’t matter … you also need to strike the right balance between athletes (competitive people) and nerds (creators) no matter what.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
+          We must not let ourselves be seduced by blue eyes and heaving breasts: greatness of soul has absolutely nothing romantic about it. And unfortunately nothing whatever amiable either.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
@@ -76,6 +69,20 @@ So the concept of the IDMA is to really be the master of a domain. You have to r
     width: 100vw;
     position: relative; margin-top: 6rem;">
     
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Jay%20Earley%20-%20Self-Therapy%20A%20Step-by-Step%20Guide%20to%20Creating%20Wholeness%20and%20Healing%20Your%20Inner%20Child%20Using%20IFS%20-%20%20a%20New%20-%20%20Cutting-Edge%20Psychotherapy.md">Readwise/Books/Jay Earley - Self-Therapy A Step-by-Step Guide to Creating Wholeness and Healing Your Inner Child Using IFS -  a New -  Cutting-Edge Psychotherapy.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270225</p>
+            </div>
+        </div>
+    </div>
+    
+
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
@@ -103,35 +110,21 @@ So the concept of the IDMA is to really be the master of a domain. You have to r
         </div>
     </div>
     
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Jay%20Earley%20-%20Self-Therapy%20A%20Step-by-Step%20Guide%20to%20Creating%20Wholeness%20and%20Healing%20Your%20Inner%20Child%20Using%20IFS%20-%20%20a%20New%20-%20%20Cutting-Edge%20Psychotherapy.md">Readwise/Books/Jay Earley - Self-Therapy A Step-by-Step Guide to Creating Wholeness and Healing Your Inner Child Using IFS -  a New -  Cutting-Edge Psychotherapy.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 270225</p>
-            </div>
-        </div>
-    </div>
-    
 </div>
 
 
 ### 📚 Books Louis is reading
 
+-   **Isabel Briggs Myers**  - [Gifts Differing: Understanding Personality Type](https://www.goodreads.com/book/show/49187.Gifts_Differing) - Sat Mar 01 18:40:39 -0800 2025
+-   **Peter W. Huber**  - [Orwell&#39;s Revenge: The 1984 Palimpsest](https://www.goodreads.com/book/show/1099656.Orwell_s_Revenge) - Sat Mar 01 18:40:31 -0800 2025
+-   **Gary Chapman**  - [The 5 Love Languages: The Secret to Love that Lasts](https://www.goodreads.com/book/show/23878688-the-5-love-languages) - Sat Mar 01 18:39:19 -0800 2025
+-   **Annie Duke**  - [Thinking in Bets: Making Smarter Decisions When You Don&#39;t Have All the Facts](https://www.goodreads.com/book/show/35957157-thinking-in-bets) - Sat Mar 01 18:39:15 -0800 2025
+-   **Frank   Ryan**  - [Darwin&#39;s Blind Spot: The Role of Living Interactions in Evolution](https://www.goodreads.com/book/show/26091543-darwin-s-blind-spot) - Sat Mar 01 18:34:35 -0800 2025
 -   **Vaclav Smil**  - [Grand Transitions: How the Modern World Was Made](https://www.goodreads.com/book/show/54811336-grand-transitions) - Sun Feb 23 06:25:58 -0800 2025
 -   **Vaclav Smil**  - [Energy Myths and Realities: Bringing Science to the Energy Policy Debate](https://www.goodreads.com/book/show/8793836-energy-myths-and-realities) - Sun Feb 23 06:25:55 -0800 2025
 -   **Vaclav Smil**  - [Oil: A Beginner&#39;s Guide](https://www.goodreads.com/book/show/3387138-oil) - Sun Feb 23 06:25:51 -0800 2025
 -   **Vaclav Smil**  - [Invention and Innovation: A Brief History of Hype and Failure](https://www.goodreads.com/book/show/61102803-invention-and-innovation) - Sun Feb 23 06:25:48 -0800 2025
 -   **Vaclav Smil**  - [Growth: From Microorganisms to Megacities](https://www.goodreads.com/book/show/44512537-growth) - Sun Feb 23 06:25:45 -0800 2025
--   **Vaclav Smil**  - [Energy and Civilization: A History](https://www.goodreads.com/book/show/31850765-energy-and-civilization) - Sun Feb 23 06:25:42 -0800 2025
--   **Vaclav Smil**  - [Numbers Don&#39;t Lie: 71 Things You Need to Know About the World](https://www.goodreads.com/book/show/50705179-numbers-don-t-lie) - Sun Feb 23 06:25:38 -0800 2025
--   **Vaclav Smil**  - [Energy: A Beginner&#39;s Guide](https://www.goodreads.com/book/show/632902.Energy) - Sun Feb 23 06:24:12 -0800 2025
--   **Arrian**  - [The Campaigns of Alexander](https://www.goodreads.com/book/show/862639.The_Campaigns_of_Alexander) - Mon Feb 10 19:05:17 -0800 2025
--   **Barry Werth**  - [The Billion Dollar Molecule: One Company&#39;s Quest for the Perfect Drug](https://www.goodreads.com/book/show/38065.The_Billion_Dollar_Molecule) - Mon Feb 10 19:01:36 -0800 2025
 
 ### ✍ Recent book reviews
 
