@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Natural selection has designed all parts of our bodies to last just long enough to see our children into independence, no more
+          It is the same logic Microsoft would follow in the 1990s, when its Windows operating system was similarly run as a partially open system. Like AT&amp;T, Microsoft invited its enemies to connect, to take advantage of an open platform, hoping they wouldn’t notice or worry that the platform came with a spring trap. For as with Bell, once having made one’s bargain with Microsoft, there was no going back.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Matt Ridley - Genome the Autobiography of a Species in 23 Chapters-HarperCollins</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Master Switch: The Rise and Fall of Information Empires</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Tim Wu</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          use Warren Buffett’s criteria for assessing the team: Intelligence, Integrity and Energy. You want someone who is really smart, very hardworking, and trustworthy. A lot of people forget the integrity part, but if you don’t have that, then you have a really hardworking crook, and they will find a way to cheat you.”
+          The unit of processing in the neocortex is the cortical column. Each column is a complete sensory-motor system—that is, it gets inputs and it can generate behaviors. With every movement, a column predicts what its next input will be. Prediction is how a column tests and updates its model.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Thousand Brains_ A New Theory of Intelligence</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jeff Hawkins</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          By selecting and growing those few species of plants and animals that we can eat, so that they constitute 90 percent rather than 0.1 percent of the biomass on an acre of land, we obtain far more edible calories per acre. As a result, one acre can feed many more herders and farmers— typically, 10 to 100 times more—than hunter-gatherers. That strength of brute numbers was the first of many military advantages that food-producing tribes gained over hunter-gatherer tribes.
+          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
