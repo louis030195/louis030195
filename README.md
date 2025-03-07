@@ -26,44 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
+          Man is a rope stretched between the animal and the Superman—a rope over an abyss.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Fast, lift, sprint, stretch, and meditate.
+          How to Improve Confidence
 
-Build, sell, write, create, invest, and own.
+Summary:
+Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. when your stress levels are up, and what you do about it when it's down. I love this because you can learn about yourself. And then as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there.
 
-Read, reflect, love, seek truth, and ignore society.
-
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
+Transcript:
+Speaker 1
+Notice when your stress levels are up, and what you do about it when it's down. Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. Oh, in the morning, i have tons of energy. I'm really good. Oh, one six o'clock hids, i notice i'm a lot more irritable. I'm i'm a lot more impulsive. And then what you do, as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there. I love this because you can learn about yourself.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage. Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss. CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they’re out. If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
+          Living never flowers in security; it flowers only in insecurity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
 </div>
 </div>
 </div>
