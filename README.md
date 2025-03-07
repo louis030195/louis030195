@@ -26,36 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Obvious ideas will always be executed by big companies
-
-So the big thing is, most of the obviously good ideas are bad ideas for a startup, right? And the reason is because most of the obviously good ideas, if they're obviously good ideas, they're already getting done by big companies. So what are big companies really good at? Like, just take all the big, the top 50, whatever tech companies, what are they really good at? They're really good at doing the next obviously good idea, right? They're like, what's a good idea? Smartphone whose battery lasts 10% longer, you know? Yeah, like Apple's on it, right? You know, they got like 10,000 people working on that, right? Like, there's no startup opportunity there. And so like, you know, we always say kind of by definition, like if it's a good startup idea, it basically, it can't be a good idea that looks like a good idea because a big company's already doing that.
+          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
+          We must distinguish between, on the one hand, our subjective experiences or our feelings of conviction, which can never justify any statement (though they can be made the subject of psychological investigation) and, on the other hand, the objective logical relations subsisting among the various systems of scientific statements, and within each of them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
-<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Karl Raimund Popper</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          He grows stronger under the misfortunes which threaten to annihilate him.
+          What leads people astray here is the abstraction of money. Money is not wealth. It’s just something we use to move wealth around. So although there may be, in certain specific moments (like your family, this month) a fixed amount of money available to trade with other people for things you want, there is not a fixed amount of wealth in the world. You can make more wealth. Wealth has been getting created and destroyed (but on balance, created) for all of human history.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
@@ -80,6 +78,20 @@ So the big thing is, most of the obviously good ideas are bad ideas for a startu
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 060325</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Isabel%20Briggs%20Myers%20-%20Gifts%20Differing%20Understanding%20Personality%20Type.md">Readwise/Books/Isabel Briggs Myers - Gifts Differing Understanding Personality Type.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 070325</p>
             </div>
         </div>
     </div>
