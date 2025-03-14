@@ -26,7 +26,7 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -37,30 +37,23 @@ carbon-based intelligence 🐒. high without drugs
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Most Dangerous Things Are Heroine And A Monthly Salary
-
-Summary:
-People who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. Once you make a little bit of money, you still want to be living like your old self so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. It just gives you freedom of operation.
-
-Transcript:
-Speaker 1
-Yet, there are two tweets that i put out that are related. So the first i must talk about ber somewat ahout your life style in nowat has to upgrade. Shouldn't get up grater too fast. And that one ad people who are living far below their means enjoy a freedom that people busy upgratding their life style just can't fathom. And i think that's very important. Like just a knot upgrade your life style all the time to maintain your freedom. And it just gives you freedom of operation. Once you make a little bit of money, you still want to be living like your old self, so that just the worry goes away. So don't run out to upbrad that house and life style and all that stuff. Lat' you goingto pa ousand dollars an hour. The problem is that when you go into a work life style like that, you don't just suddenly go from making 20 dollars an hour to making a thousand dollars an hour. That's a progression over a long career. And as that happens, one subtle problem is that you upgrade your life style as you make more and more money. And that upgrading of the life style ups what you consider to be wealth, and you stay in this wage slave trap. So i forget who said it, maybe it was nasin tolet, but he said, you know, the most dangerous things are heroine and a monthly salary, right? Because they are highly indictive. The way you want to get wealthy is you want to be poor and working and working and working. And this is, for example, how the tech industry works, where you don't make any money for ten years, and then suddenly, in year 11, you might have a giant pay day. Which is what, by the way, one reason why these very high marginal tax straits for the so called wealthy are flawed sthe highest risk taking most creative professions literally lose money for a decade of your life while you take massive risks, and you bleed and bleed and bleed, and then suddenly, in year 11, or you're 15, you might have one single big payday. But then, of course, uncle sam show up and say, hey, you know what? You just made a lot of money this year. Therefore you're rich, therefore you're evil, and you got to hand it all over to us. So he just destroys those kinds of creative, risk taking professions. But ideally, you want to make your money in discreet lumps, separated over long periods of time so that your own life style does not have a chance to adapt quickly.
+          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Get Rich —  Every Episode</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
+          Human and animal foragers are constantly prioritizing and making effort-allocation decisions, even if only unconsciously. They concentrate first on favorite foods, or ones that yield the highest payoff. If these are unavailable, they shift to less and less preferred foods.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Jared M. Diamond - Guns, Germs and Steel</p>
+<p style="margin-bottom: 0; color: #9f8e7d">1999, W. W. Norton &amp; Company</p>
 </div>
 </div>
 </div>
@@ -79,7 +72,7 @@ Yet, there are two tweets that i put out that are related. So the first i must t
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Invention%20and%20Innovation.md">Readwise/Books/Vaclav Smil - Invention and Innovation.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -93,7 +86,7 @@ Yet, there are two tweets that i put out that are related. So the first i must t
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Invention%20and%20Innovation.md">Readwise/Books/Vaclav Smil - Invention and Innovation.md</a></li>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
