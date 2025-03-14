@@ -26,34 +26,38 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In theoretical physics, twistor theory was proposed by Roger Penrose in 1967 as a possible path to quantum gravity and has evolved into a branch of theoretical and mathematical physics. Penrose proposed that twistor space should be the basic arena for physics from which space-time itself should emerge. It leads to a powerful set of mathematical tools that have applications to differential and integral geometry, nonlinear differential equations and representation theory and in physics to general relativity and quantum field theory, in particular to scattering amplitudes.
+          The Matthew Effect
+
+Transcript:
+Speaker 1
+The square root of the number of people in a company accomplish half of the output, right?
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Twistor Theory - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+          If your private life conflicts with your intellectual opinion, it cancels your intellectual ideas, not your private life.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
+          Genes are the primary policy-makers; brains are the executives. But as brains became more highly developed, they took over more and more of the actual policy decisions, using tricks like learning and simulation in doing so. The logical conclusion to this trend, not yet reached in any species, would be for the genes to give the survival machine a single overall policy instruction: do whatever you think best to keep us alive.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Selfish Gene</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Richard Dawkins</p>
 </div>
 </div>
 </div>
