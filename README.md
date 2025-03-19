@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A wormhole (or Einstein–Rosen bridge or Einstein–Rosen wormhole) is a speculative structure linking disparate points in spacetime, and is based on a special solution of the Einstein field equations.  A wormhole can be visualized as a tunnel with two ends at separate points in spacetime (i.e., different locations, different points in time, or both).  Wormholes are consistent with the general theory of relativity, but whether wormholes actually exist remains to be seen. Many scientists postulate that wormholes are merely projections of a fourth spatial dimension, analogous to how a two-dimensional (2D) being could experience only part of a three-dimensional (3D) object.[1]  Theoretically, a wormhole might connect extremely long distances such as a billion light years, or short distances such as a few meters, or different points in time, or even different universes.[2]
+          Build great metrics. Metrics show how the machine is working by providing numbers and setting off alert lights in a dashboard.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Wormhole - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Charles Misner</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principles</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Dalio, Ray</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Organisms whose cells have a nucleus are called eucaryotes (from the Greek words eu, meaning “well” or “truly,” and karyon, a “kernel” or “nucleus”). Organisms whose cells do not have a nucleus are called procaryotes (from pro, meaning “before”). The terms “bacterium” and “procaryote” are often used interchangeably, although we shall see that the category of procaryotes also includes another class of cells, the archaea (singular archaeon), which are so remotely related to bacteria that they are given a separate name.
+          World domination is such an ugly phrase. I prefer to call it world optimisation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Essential Cell Biology</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Bruce Alberts; Dennis Bray; Karen Hopkin; Alexander Johnson; Julian Lewis; Martin Raff; Keith Robert...</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
+          A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself. A good teacher is merely a catalyst.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Striking Thoughts</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Bruce Lee's Wisdom</p>
 </div>
 </div>
 </div>
