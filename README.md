@@ -26,34 +26,42 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To the Orphic, life in this world is pain and weariness. We are bound to a wheel which turns through endless cycles of birth and death; our true life is of the stars, but we are tied to earth. Only by purification and renunciation and an ascetic life can we escape from the wheel and attain at last to the ecstasy of union with God.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Conformal cyclic cosmology (CCC) is a cosmological model in the framework of general relativity and proposed by theoretical physicist Roger Penrose. In CCC, the universe iterates through infinite cycles, with the future timelike infinity (i.e. the latest end of any possible timescale evaluated for any point in space) of each previous iteration being identified with the Big Bang singularity of the next. Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinary New View of the Universe.
+          A statistical hypothesis test is a method of statistical inference used to decide whether the data at hand sufficiently support a particular hypothesis.
+Hypothesis testing allows us to make probabilistic statements about population parameters.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Conformal Cyclic Cosmology - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Statistical Hypothesis Testing - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When there’s a confusing problem and you’re just starting out and you have a falsifiable hypothesis, go test it. Find some simple, easy way of doing a basic check and do it right away. Don’t worry about designing an elaborate course of experiments that would make a grant proposal look impressive to a funding agency.
+          Marc Andreessen's information diet
+
+Summary:
+"I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book more often than I was like 50 or 100 years old," he said. "What I try to do is basically like fuzz out everything over a day, week, month, even year time frame." He added: "It's one of the reasons I follow 20,000 people on Twitter".
+
+Transcript:
+Speaker 1
+And so one is, yeah, I mean, look, there's a big information diet component to it, like what are your information sources? I'll just give you my version of it. Like 100% of my information diet is either social media or books. Like, I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book that more often than I was like 50 or 100 years old. And what I try to do is basically like fuzz out everything over a day, week, month, even year time frame, and just like fuzzle that stuff out. So it's like it's either leading edge information, or it's like basically permanent value. And so what that does is like then my social media experience, the purpose of my time on social media as a consumer of it is basically, OK, what I want, keep me on the leading edge. Show me all the new stuff. Show me all the new thinking. Show me all the crazy ideas. Like, get me exposed to all of the really creative people. And it's one of the reasons I follow 20,000 people on Twitter.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
@@ -72,7 +80,12 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/pmarchive.com%20-%20Part%206%20How%20Much%20Funding%20Is%20Too%20Little%20Too%20Much.md">Readwise/Articles/pmarchive.com - Part 6 How Much Funding Is Too Little Too Much.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Barry%20Werth%20-%20The%20Billion-Dollar%20Molecule.md">Readwise/Books/Barry Werth - The Billion-Dollar Molecule.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Friedrich%20Nietzsche%20-%20Aphorisms%20on%20Love%20and%20Hate.md">Readwise/Books/Friedrich Nietzsche - Aphorisms on Love and Hate.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Hill%2C%20Napoleon%20-%20Think%20and%20Grow%20Rich.md">Readwise/Books/Hill, Napoleon - Think and Grow Rich.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Kapil%20Gupta%20-%20Overcoming%20the%20World.md">Readwise/Books/Kapil Gupta - Overcoming the World.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29%20-%20Chaos%20Charles%20Manson%20-%20the%20CIA%20-%20and%20the%20Secret%20History%20of%20the%20Sixties.md">Readwise/Books/O'Neill, Tom; Piepenbring, Dan (CON) - Chaos Charles Manson - the CIA - and the Secret History of the Sixties.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -86,12 +99,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/pmarchive.com%20-%20Part%206%20How%20Much%20Funding%20Is%20Too%20Little%20Too%20Much.md">Readwise/Articles/pmarchive.com - Part 6 How Much Funding Is Too Little Too Much.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Barry%20Werth%20-%20The%20Billion-Dollar%20Molecule.md">Readwise/Books/Barry Werth - The Billion-Dollar Molecule.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Friedrich%20Nietzsche%20-%20Aphorisms%20on%20Love%20and%20Hate.md">Readwise/Books/Friedrich Nietzsche - Aphorisms on Love and Hate.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Hill%2C%20Napoleon%20-%20Think%20and%20Grow%20Rich.md">Readwise/Books/Hill, Napoleon - Think and Grow Rich.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Kapil%20Gupta%20-%20Overcoming%20the%20World.md">Readwise/Books/Kapil Gupta - Overcoming the World.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29%20-%20Chaos%20Charles%20Manson%20-%20the%20CIA%20-%20and%20the%20Secret%20History%20of%20the%20Sixties.md">Readwise/Books/O'Neill, Tom; Piepenbring, Dan (CON) - Chaos Charles Manson - the CIA - and the Secret History of the Sixties.md</a></li>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
