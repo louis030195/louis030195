@@ -26,18 +26,18 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To put it another way: if wealth is giving you fewer options instead of more (and more varied) options, you’re doing it wrong.
+          The greatest improvements in the productive powers of labour, and the greater part of the skill, dexterity, and judgment, with which it is anywhere directed, or applied, seem to have been the effects of the division of labour.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">An Inquiry Into the Nature and Causes of the Wealth of Nations</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Adam Smith</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          For most people the best plan probably is to go to work for some existing company. But it is a good idea to understand what’s happening when you do this. A job means doing something people want, averaged together with everyone else in that company.
+          What were we going to do in the next six months? Whatever looked like the biggest win. I don’t know if I ever dared give this answer, but that was the truth. Plans are just another word for ideas on the shelf. When we thought of good ideas, we implemented them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -48,12 +48,12 @@ carbon-based intelligence 🐒. high without drugs
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          use Warren Buffett’s criteria for assessing the team: Intelligence, Integrity and Energy. You want someone who is really smart, very hardworking, and trustworthy. A lot of people forget the integrity part, but if you don’t have that, then you have a really hardworking crook, and they will find a way to cheat you.”
+          That mordant critic of the social scene, the economist Thorstein Veblen, in his classic *Theory of the Leisure Class*, invented a phrase to describe the way the great nineteenth-century American *nouveaux riches* like the Vanderbilts and Rockefellers once employed their surplus wealth in competitive display. He called it ‘conspicuous consumption’: the building of the great Rhode Island mansions which they barely used, the throwing of the massive parties which none but the hideously rich could equal. Driven by such sumptuary competition, they sometimes reached the point which Veblen identified as ‘conspicuous waste’ – the spending of very large amounts of money simply to defeat their rivals in a war of pointless ostentation.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Painfully Rich</p>
+<p style="margin-bottom: 0; color: #9f8e7d">John Pearson</p>
 </div>
 </div>
 </div>
@@ -72,12 +72,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/pmarchive.com%20-%20Part%206%20How%20Much%20Funding%20Is%20Too%20Little%20Too%20Much.md">Readwise/Articles/pmarchive.com - Part 6 How Much Funding Is Too Little Too Much.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Barry%20Werth%20-%20The%20Billion-Dollar%20Molecule.md">Readwise/Books/Barry Werth - The Billion-Dollar Molecule.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Friedrich%20Nietzsche%20-%20Aphorisms%20on%20Love%20and%20Hate.md">Readwise/Books/Friedrich Nietzsche - Aphorisms on Love and Hate.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Hill%2C%20Napoleon%20-%20Think%20and%20Grow%20Rich.md">Readwise/Books/Hill, Napoleon - Think and Grow Rich.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Kapil%20Gupta%20-%20Overcoming%20the%20World.md">Readwise/Books/Kapil Gupta - Overcoming the World.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29%20-%20Chaos%20Charles%20Manson%20-%20the%20CIA%20-%20and%20the%20Secret%20History%20of%20the%20Sixties.md">Readwise/Books/O'Neill, Tom; Piepenbring, Dan (CON) - Chaos Charles Manson - the CIA - and the Secret History of the Sixties.md</a></li>
+<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -91,7 +86,12 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/README.md">README.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/pmarchive.com%20-%20Part%206%20How%20Much%20Funding%20Is%20Too%20Little%20Too%20Much.md">Readwise/Articles/pmarchive.com - Part 6 How Much Funding Is Too Little Too Much.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Barry%20Werth%20-%20The%20Billion-Dollar%20Molecule.md">Readwise/Books/Barry Werth - The Billion-Dollar Molecule.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Friedrich%20Nietzsche%20-%20Aphorisms%20on%20Love%20and%20Hate.md">Readwise/Books/Friedrich Nietzsche - Aphorisms on Love and Hate.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Hill%2C%20Napoleon%20-%20Think%20and%20Grow%20Rich.md">Readwise/Books/Hill, Napoleon - Think and Grow Rich.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Kapil%20Gupta%20-%20Overcoming%20the%20World.md">Readwise/Books/Kapil Gupta - Overcoming the World.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/O%27Neill%2C%20Tom%3B%20Piepenbring%2C%20Dan%20%28CON%29%20-%20Chaos%20Charles%20Manson%20-%20the%20CIA%20-%20and%20the%20Secret%20History%20of%20the%20Sixties.md">Readwise/Books/O'Neill, Tom; Piepenbring, Dan (CON) - Chaos Charles Manson - the CIA - and the Secret History of the Sixties.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
