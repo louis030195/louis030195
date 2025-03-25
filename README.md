@@ -26,34 +26,35 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Science tells us what we can know, but what we can know is little, and if we forget how much we cannot know we become insensitive to many things of very great importance
+          If there is a single key to success, it is the trait of being able to make things happen in the world—willfulness, determination, execution focus, not giving up when you hit a roadblock, the ability to solve any problem that comes your way, and self-belief.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Russell, Bertrand</p>
-<p style="margin-bottom: 0; color: #9f8e7d">A History Of Western Philosophy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Be Successful
+(At...</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@sama on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I am looking for unknowns, who are passionate and missionbased.
+          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The best companies are almost always mission oriented.
+          A phylogenetic tree (also phylogeny or evolutionary tree) is a branching diagram or a tree showing the evolutionary relationships among various biological species or other entities based upon similarities and differences in their physical or genetic characteristics. All life on Earth is part of a single phylogenetic tree, indicating common ancestry.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Phylogenetic Tree - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
 </div>
 </div>
 </div>
