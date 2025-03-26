@@ -26,34 +26,43 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
+          Take what you hear with a grain of salt. Even the most discouraging Feedback contains crucial pieces of information that can help you make your offering better. The worst response you can get when asking for Feedback isn’t emphatic dislike: it’s total apathy. If no one seems to care about what you’ve created, you don’t have a viable business idea.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Personal MBA</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kaufman, Josh</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          . At last he wearily returned to his home, and in his own house was the jewel! I see how foolish we are, searching the universe for that bliss which is to be found only in our own hearts when the mind is purged of its activities. You are perfectly right. I begin from where I started. I begin with what I am.
+          So, then, what does it take to grow? Thankfully, just three simple things:
+
+1) Get more customers
+
+2) Increase their average purchase value
+
+3) Get them to buy more times
+
+That’s it.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Total Freedom_ the Essential Krishnamurti</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Jiddu Krishnamurti</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          There are only two types of people in the world. People who want to live comfortably—they are seeking death, they want a comfortable grave. And people who want to live—they choose to live dangerously, because life thrives only when there is risk.
+          If there is a single key to success, it is the trait of being able to make things happen in the world—willfulness, determination, execution focus, not giving up when you hit a roadblock, the ability to solve any problem that comes your way, and self-belief.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Be Successful
+(At...</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@sama on Twitter</p>
 </div>
 </div>
 </div>
