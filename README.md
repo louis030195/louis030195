@@ -26,34 +26,35 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
+          He believed that business wasted too much time on paperwork, committees and discussion anyhow. Forgetting nothing, and delegating what was inessential, he became a great exponent of the role of capitalist as self-sufficient one-man band, making the most minute decisions with a minimum of red tape and bureaucracy.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Painfully Rich</p>
+<p style="margin-bottom: 0; color: #9f8e7d">John Pearson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To men immersed day and night in these meditations comes understanding of the truth pronounced by the god at Delphi, that the mind should know itself; and there comes also the perception of its union with the divine mind, the source of its inexhaustible joy
+          Compounding success (which means “growth” in the case of an early-stage start-up) solves almost all internal problems, particularly hard ones.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">How to Be Successful
+(At...</p>
+<p style="margin-bottom: 0; color: #9f8e7d">@sama on Twitter</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you do not undertake a risk of real harm, reparable or even potentially irreparable, from an adventure, it is not an adventure.
+          Step 1: Customer Discovery The goal ofCustomer Discovery is just what the name implies: finding out who the customers for your product are and whether the problem you believe you are solving is important to them. More formally, this step involves discovering whether the problem, product and customer hypotheses in your business plan are correct.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Four Steps to the Epiphany Success</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Steven Gary Blank</p>
 </div>
 </div>
 </div>
