@@ -26,44 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Fast, lift, sprint, stretch, and meditate.
-
-Build, sell, write, create, invest, and own.
-
-Read, reflect, love, seek truth, and ignore society.
-
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
+          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In physics, the reciprocal lattice represents the Fourier transform of another lattice (usually a Bravais lattice). In normal usage, the initial lattice (whose transform is represented by the reciprocal lattice) is usually a periodic spatial function in real-space and is also known as the direct lattice. While the direct lattice exists in real-space and is what one would commonly understand as a physical lattice (e.g., a lattice of a crystal), the reciprocal lattice exists in reciprocal space (also known as momentum space or less commonly as K-space, due to the relationship between the Pontryagin duals momentum and position)
+          Preoccupation with being right means you’re betting, which personalizes the market and is the root of losses due to psychological factors. Concern yourself with whether or not you have done your homework to define a set of conditions under which you will enter and exit the market, and whether or not you carry out that plan.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Reciprocal Lattice - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">primitive vectors</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">What I Learned Losing a Million Dollars</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jim Paul</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          A popular belief about “rationality” is that rationality opposes all emotion—that all our sadness and all our joy are automatically anti-logical by virtue of being feelings. Yet strangely enough, I can’t find any theorem of probability theory which proves that I should appear ice-cold and expressionless.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Feeling Rational - LessWrong</p>
+<p style="margin-bottom: 0; color: #9f8e7d">lesswrong.com</p>
 </div>
 </div>
 </div>
