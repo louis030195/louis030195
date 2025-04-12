@@ -26,34 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Lindy is a deli in New York, now a tourist trap, that proudly claims to be famous for its cheesecake, but in fact has been known for fifty or so years by physicists and mathematicians thanks to the heuristic that developed there. Actors who hung out there gossiping about other actors discovered that Broadway shows that lasted for, say, one hundred days, had a future life expectancy of a hundred more. For those that lasted two hundred days, two hundred more. The heuristic became known as the Lindy effect.
+          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The halo effect (sometimes called the halo error) is the tendency for positive impressions of a person, company, brand or product in one area to positively influence one's opinion or feelings in other areas. Halo effect is “the name given to the phenomenon whereby evaluators tend to be influenced by their previous judgments of performance or personality.” The halo effect which is a cognitive bias can possibly prevent someone from accepting a person, a product or a brand based on the idea of an unfounded belief on what is good or bad.
+          In marketing strategy, first-mover advantage (FMA) is the competitive advantage gained by the initial ("first-moving") significant occupant of a market segment. First-mover advantage enables a company or firm to establish strong brand recognition, customer loyalty, and early purchase of resources before other competitors enter the market segment.  First movers in a specific industry are almost always followed by competitors that attempt to capitalise on the first movers' success. These followers are also aiming to gain market share; however, most of the time the first-movers will already have an established market share, with a loyal customer base that allows them to maintain their market share.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Halo Effect - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edward Thorndike</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Isotopes are two or more types of atoms that have the same atomic number (number of protons in their nuclei) and position in the periodic table (and hence belong to the same chemical element), and that differ in nucleon numbers (mass numbers) due to different numbers of neutrons in their nuclei. While all isotopes of a given element have almost the same chemical properties, they have different atomic masses and physical properties.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Isotope - Wikipedia</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">First-Mover Advantage - Wikipedia</p>
 <p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          Making Decisions Fast and Well
+
+Summary:
+We go through life making decisions. Should we date person extra wy or get married to them? Should we stay here, or should we move? What jobs should we
+
+Transcript:
+Speaker 1
+Go through life-making decisions. Should we date person X or Y or get married to them? Should we stay here or should we move? What job should we choose?
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#147 Reid Hoffman —  Better Decisions, Fewer Mistakes</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
 </div>
 </div>
 </div>
