@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          How do and should we form and change opinions? Logic tells us to avoid inconsistencies and incoherences. Language tells us to attend to how meaning is inferred from ambiguous language. Decision theory says to distinguish values from fact opinion, and says exactly how decisions should respond to these. Regarding fact opinion, Bayesian theory says to distinguish priors from likelihoods, and says exactly how fact opinion should respond to evidence.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Overcoming Bias : Standard Biases</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Robin Hanson</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Not every kind of hard is good. There is good pain and bad pain. You want the kind of pain you get from going running, not the kind you get from stepping on a nail.
+          In theoretical physics, twistor theory was proposed by Roger Penrose in 1967 as a possible path to quantum gravity and has evolved into a branch of theoretical and mathematical physics. Penrose proposed that twistor space should be the basic arena for physics from which space-time itself should emerge. It leads to a powerful set of mathematical tools that have applications to differential and integral geometry, nonlinear differential equations and representation theory and in physics to general relativity and quantum field theory, in particular to scattering amplitudes.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Twistor Theory - Wikipedia</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To suppose that these are cases in which custom has conquered nature, so that the Indians no longer feel frost and fire, would be an erroneous conclusion because nature can never be overcome.
+          When we are young we believe that we know everything, and so we believe that if we see no explanation for something, then no explanation exists. When we are older we realise that the whole universe works by a rhythm and a reason, even if we ourselves do not know it. It is only our own ignorance which appears to us as insanity.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -72,7 +72,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Essentials%20Lose%20Fat%20With%20Science-Based%20Tools.md">Readwise/Podcasts/Huberman Lab - Essentials Lose Fat With Science-Based Tools.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Numbers%20Don%27t%20Lie.md">Readwise/Books/Vaclav Smil - Numbers Don't Lie.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -86,7 +86,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Numbers%20Don%27t%20Lie.md">Readwise/Books/Vaclav Smil - Numbers Don't Lie.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/Huberman%20Lab%20-%20Essentials%20Lose%20Fat%20With%20Science-Based%20Tools.md">Readwise/Podcasts/Huberman Lab - Essentials Lose Fat With Science-Based Tools.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
