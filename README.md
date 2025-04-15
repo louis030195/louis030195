@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          It is the same logic Microsoft would follow in the 1990s, when its Windows operating system was similarly run as a partially open system. Like AT&amp;T, Microsoft invited its enemies to connect, to take advantage of an open platform, hoping they wouldn’t notice or worry that the platform came with a spring trap. For as with Bell, once having made one’s bargain with Microsoft, there was no going back.
+          Note the implication: You become less of a person when you're wearing a mask or are otherwise anonymous. Shedding the responsibilities of personhood in this way can be quite thrilling, like during Halloween or at a masquerade ball (or while robbing a convenience store!). But it also contributes to the degradation of personhood on the internet — with the ensuing loss of civility we're all familiar with.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Master Switch: The Rise and Fall of Information Empires</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Tim Wu</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Personhood: A Game for Two or More Players | Melting Asphalt</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kevin Simler</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making wealth is not the only way to get rich. For most of human history it has not even been the most common. Until a few centuries ago, the main sources of wealth were mines, slaves and serfs, land, and cattle, and the only ways to acquire these rapidly were by inheritance, marriage, conquest, or confiscation. Naturally wealth had a bad reputation.
+          “One of the biggest determinants of candidate conversion is how quickly you interview them and how quickly you can make an offer.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+          He who desires or avoids the things which are not in his power can neither be faithful nor free, but of necessity he must change with them and be tossed about with them as in a tempest, and of necessity must subject himself to others who have the power to procure or prevent what lie desires or would avoid;
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
