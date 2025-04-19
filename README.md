@@ -26,41 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you do not undertake a risk of real harm, reparable or even potentially irreparable, from an adventure, it is not an adventure.
+          At the level of the family, the ideal of marriage as a union that must be preserved through thick and thin is being undermined by a view that marriage is an economic contract that sets out the expectations of the parties involved and can be readily annulled if either party does not feel it is getting its expected returns from the exchange.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Driven: How Human Nature Shapes Our Choices</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Paul R. Lawrence; Nitin Nohria</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          A teacher is never a giver of truth; he is a guide, a pointer to the truth that each student must find for himself. A good teacher is merely a catalyst.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Striking Thoughts</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Bruce Lee's Wisdom</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Marc Andreessen's information diet
+          How to Debug Your Own Brain
 
 Summary:
-"I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book more often than I was like 50 or 100 years old," he said. "What I try to do is basically like fuzz out everything over a day, week, month, even year time frame." He added: "It's one of the reasons I follow 20,000 people on Twitter".
+The business side of things is relatively fluid. It doesn't take a whole lot of mental effort or energy to keep those things in mind right now. You are the instrument that you use to get things done in the world. There's still a tremendous amount of effort and skill that's valuable in that domaind.
 
 Transcript:
 Speaker 1
-And so one is, yeah, I mean, look, there's a big information diet component to it, like what are your information sources? I'll just give you my version of it. Like 100% of my information diet is either social media or books. Like, I'm on a total barbell. Like, so I either get information that's current right now, or I'm reading a book that more often than I was like 50 or 100 years old. And what I try to do is basically like fuzz out everything over a day, week, month, even year time frame, and just like fuzzle that stuff out. So it's like it's either leading edge information, or it's like basically permanent value. And so what that does is like then my social media experience, the purpose of my time on social media as a consumer of it is basically, OK, what I want, keep me on the leading edge. Show me all the new stuff. Show me all the new thinking. Show me all the crazy ideas. Like, get me exposed to all of the really creative people. And it's one of the reasons I follow 20,000 people on Twitter.
+Like when you're trying to get yourself to do something you know you should b be doing, but somehow there's some sort of barrier that's keeping you from doing that. I think at this point i've, i've worked in enough businesses and started enough of my own businesses, the business side of things is relatively fluid. It doesn take a whole lot of mental effort or energy to keep those things in mind right now. But you are the instrument that you use to get things done in the world. And so the the debugging your own mind and help and trying to anticipate how others are thinking and feeling and trying to optimize around that, there's still a tremendous amount of Effort and skill that's valuable in that domaind and i find myself thinking about tho sorts of things quite often.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#106 Josh Kaufman —  Maximizing Our Locus of Control</p>
+<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          The most valuable knowledge is always discovered last: but the most valuable knowledge consists of methods.
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
