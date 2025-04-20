@@ -26,41 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          How to Improve Confidence
-
-Summary:
-Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. when your stress levels are up, and what you do about it when it's down. I love this because you can learn about yourself. And then as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there.
-
-Transcript:
-Speaker 1
-Notice when your stress levels are up, and what you do about it when it's down. Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. Oh, in the morning, i have tons of energy. I'm really good. Oh, one six o'clock hids, i notice i'm a lot more irritable. I'm i'm a lot more impulsive. And then what you do, as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there. I love this because you can learn about yourself.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I ask the fundamental question of rationality: why do you believe what you believe? What do you think you know and how do you think you know it?
+          Occam's razor (appropriately interpreted and in compromise with Epicurus' principle of indifference) tells us to assign high/low a priori plausibility to simple/complex strings x.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d"></p>
+<p style="margin-bottom: 0; color: #9f8e7d">Texts in Theoretical Computer Science. An EATCS Series Marcus Hutter - Universal Artificial Intellig...</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I think everyone who gets rich by their own efforts will be found to be in a situation with measurement and leverage. Everyone I can think of does: CEOs, movie stars, hedge fund managers, professional athletes. A good hint to the presence of leverage is the possibility of failure. Upside must be balanced by downside, so if there is big potential for gain there must also be a terrifying possibility of loss. CEOs, stars, fund managers, and athletes all live with the sword hanging over their heads; the moment they start to suck, they’re out. If you’re in a job that feels safe, you are not going to get rich, because if there is no danger there is almost certainly no leverage.
+          “One of the biggest determinants of candidate conversion is how quickly you interview them and how quickly you can make an offer.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elad Gil - High Growth Handbook</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2018, Stripe Press - libgen.lc</p>
 </div>
 </div>
 </div>
