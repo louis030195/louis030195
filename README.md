@@ -26,41 +26,39 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
+          Your beliefs become your thoughts,
+Your thoughts become your words,
+Your words become your actions,
+Your actions become your habits,
+Your habits become your values,
+Your values become your destiny.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Gandhi: An Autobiography</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Mahatma Gandhi</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If your product requires advertising or salespeople to sell it, it’s not good enough: technology is primarily about product development, not distribution. Bubble-era advertising was obviously wasteful, so the only sustainable growth is viral growth
+          ![](https://readwise-assets.s3.amazonaws.com/media/reader/pub/af0c0c807e3d70d87d4178fa2d94f078.png)
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Essential Cell Biology</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Bruce Alberts; Dennis Bray; Karen Hopkin; Alexander Johnson; Julian Lewis; Martin Raff; Keith Robert...</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Personality Traits for entrepreneurs 
-
-Summary:
-Openness equals non-discriminatory, right? Equals every new idea is a great idea. It's hard to be creative if you're not discriminatory. Great artists are picky and choosy over what they think the great ideas are. And so maybe you want like high openness, you want high low agreeability - which means high disagreeability.
-
-Transcript:
-Speaker 1
-It's like they're nervous system is not wired that way. And so you kind of need to close your eyes and kind of imagine, you know, what if you took somebody who was born to be a musician, for example, and you forced them to become an accountant, Right? Or vice versa, like what if you took somebody who was born to be an accountant and forced them to be a musician, right? And both people would be very, very unhappy. And so anyway, this is sort of the inherent trait of creativity, openness. So we say that, you know, that's one, you know, against the, you know, directly related one is agreeableness, right? So open plus agreeable equals every new idea is a great idea, right? Equals non-discriminatory. Well, it's hard to be creative if you're not discriminatory. Like one of the things that great artists have in common is they're like actually really picky and choosy over what they think the great ideas are and they throw away a lot of their like Initial attempts. And so maybe you want like high openness, you want high, you want actually high low agreeability, which means high disagreeability, right? So you kind of want that. Conscientiousness, you know, do artists or creators or programmers or entrepreneurs have to be conscientious? Probably yes, to some extent, right? And there's a sub-trade of conscientiousness called industriousness, which basically is like inherent work ethic, right? Sort of drive to get things done. So, you know, you probably need some of that. So, just to start with that, because, when I first heard something like consciousness, right?
+          Wealth is the thing that you really want wealth is assets that earn while you sleep. Wealth is the factory that, with robots, is cranking out things. Wealth is the computer program that's running at night that's serving other customers. Wealth even money in the bank that is being re invested into other assets and into other businesses.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Seek Wealth, Not Money or Status</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
