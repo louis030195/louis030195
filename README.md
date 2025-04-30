@@ -26,41 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Men are like clouds. They are driven forward by a mysterious and invisible wind against which they are powerless. They think they are in control and laugh at the weakness of the clouds, but their wind is a thousand times stronger than the one blowing up there.
+          Many have stood their ground and faced the darkness when it comes for them. Fewer come for the darkness and force it to face them. It is a hard life, sometimes lonely, often short. I have told none to refuse that calling, but neither would I wish to increase their number.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Quick Passages</p>
-<p style="margin-bottom: 0; color: #9f8e7d">None</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Genes are the primary policy-makers; brains are the executives. But as brains became more highly developed, they took over more and more of the actual policy decisions, using tricks like learning and simulation in doing so. The logical conclusion to this trend, not yet reached in any species, would be for the genes to give the survival machine a single overall policy instruction: do whatever you think best to keep us alive.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Selfish Gene</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Richard Dawkins</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Benjamin abraham horrowitz
-
-Summary:
-"We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties," he says. "You've got the mods and the rockers, the ho the rolling stones, all that."
-
-Transcript:
-Speaker 1
-We are talking about ben who was born in 19 66 in london, england. I did not know that it was the sixties. The counter culture is in full swing in london. You've got the mods and the rockers, the ho the rolling stones, all that. And ben's family that he was born into, young family is living in london at the time. Their american expats, the husband of ben's father, had come to london to work for bertrand russell, the philosopher, philosopher, polymatha logician, mathematician.
+          There are only two types of people in the world. People who want to live comfortably—they are seeking death, they want a comfortable grave. And people who want to live—they choose to live dangerously, because life thrives only when there is risk.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Andreessen Horowitz Part I</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Acquired</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Courage: the Joy of Living Dangerously</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Osho</p>
 </div>
 </div>
 </div>
