@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          20th-century philosophy saw the development of a number of new philosophical schools—including logical positivism, analytic philosophy, phenomenology, existentialism, and poststructuralism. In terms of the eras of philosophy, it is usually labelled as contemporary philosophy (succeeding modern philosophy, which runs roughly from the time of René Descartes until the late 19th to early 20th centuries).
+          The unit of processing in the neocortex is the cortical column. Each column is a complete sensory-motor system—that is, it gets inputs and it can generate behaviors. With every movement, a column predicts what its next input will be. Prediction is how a column tests and updates its model.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">20th-Century Philosophy - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edmund Gettier</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Thousand Brains_ A New Theory of Intelligence</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jeff Hawkins</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Becoming is inventing, willing, self-denying, self-overcoming; no subject but an action, it places things, it is creative, no "causes and effects."
+          Why has that man fallen in love with that woman? Because she's pretty. Why does pretty matter? Because human beings are a mainly monogamous species and so males are choosy about their mates (as male chimpanzees are not); prettiness is an indication of youth and health, which are indications of fertility: Why does that man care about fertility in his mate? Because if he did not, his genes would be eclipsed by those of men who did. Why does he care about that? He does not, but his genes act as if they do. Those who choose infertile mates leave no descendants. Therefore, everybody is descended from men who preferred fertile women, and every person inherits from those ancestors the same preference.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen: Sex and the Evolution of Human Nature</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
+          But wealth had another advantage, too. Not only could it buy wives directly, it could also buy "power." It is noteworthy that it is hard to distinguish between wealth and power before the time of the Renaissance. Until then there was no such thing as an power economic sector independent of the power structure. A man's livelihood and his allegiance were owed to the same social superior. Power is, roughly speaking, the ability to call do your bidding, and that depended strictly on wealth (with a little help from violence).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Red Queen</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Matt Ridley</p>
 </div>
 </div>
 </div>
@@ -77,20 +77,6 @@ carbon-based intelligence 🐒. high without drugs
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300425</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Numbers%20Don%27t%20Lie.md">Readwise/Books/Vaclav Smil - Numbers Don't Lie.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 010525</p>
             </div>
         </div>
@@ -106,6 +92,20 @@ carbon-based intelligence 🐒. high without drugs
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Vaclav%20Smil%20-%20Numbers%20Don%27t%20Lie.md">Readwise/Books/Vaclav Smil - Numbers Don't Lie.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 300425</p>
             </div>
         </div>
     </div>
