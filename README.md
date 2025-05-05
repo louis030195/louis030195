@@ -26,34 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When a thousand people believe some made-up story for one month – that’s fake news. When a billion people believe it for a thousand years – that’s a religion,
+          Founder divorce 
+
+Summary:
+This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
+
+Transcript:
+Speaker 1
+This goes to the company's time by suicide. It's like, I haven't run the numbers recently, but it's like half or more of even the companies that work have some sort of founder split, founder divorce. We actually use the term founder divorce because it is what it's like.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">21 Lessons for the 21st Century</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Yuval Noah Harari</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Aarthi and Sriram's Good Time Show</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Journalism isn’t Lindy compatible. Information transmits organically by word of mouth, which circulates in a two-way manner.
+          Not if it was done by way of prescription. If a desire for the Truth is in someone’s bones, then he will not stop until he finds it. Not because he should. But because he has no choice.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Note the implication: You become less of a person when you're wearing a mask or are otherwise anonymous. Shedding the responsibilities of personhood in this way can be quite thrilling, like during Halloween or at a masquerade ball (or while robbing a convenience store!). But it also contributes to the degradation of personhood on the internet — with the ensuing loss of civility we're all familiar with.
+          That lesson stuck with Musk. “I took from the book that we need to extend the scope of consciousness so that we are better able to ask the questions about the answer, which is the universe,” he says.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Personhood: A Game for Two or More Players | Melting Asphalt</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Kevin Simler</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Elon Musk</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Walter Isaacson</p>
 </div>
 </div>
 </div>
@@ -72,12 +79,13 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Dawkins%20-%20The%20God%20Delusion.md">Readwise/Books/Richard Dawkins - The God Delusion.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030525</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 040525</p>
             </div>
         </div>
     </div>
@@ -86,12 +94,12 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 020525</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030525</p>
             </div>
         </div>
     </div>
