@@ -26,34 +26,41 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Tegmark claims that the hypothesis has no free parameters and is not observationally ruled out. Thus, he reasons, it is preferred over other theories-of-everything by Occam's Razor. Tegmark also considers augmenting the MUH with a second assumption, the computable universe hypothesis (CUH), which says that the mathematical structure that is our external physical reality is defined by computable functions.
+          Sometimes you do have to fight. Where that’s true, you should fight and win. There is no middle ground: either don’t throw any punches, or strike hard and end it quickly.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Mathematical Universe Hypothesis - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Zero to One_ Notes on Startups, or How to Build the Future</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Peter Thiel</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          In marketing strategy, first-mover advantage (FMA) is the competitive advantage gained by the initial ("first-moving") significant occupant of a market segment. First-mover advantage enables a company or firm to establish strong brand recognition, customer loyalty, and early purchase of resources before other competitors enter the market segment.  First movers in a specific industry are almost always followed by competitors that attempt to capitalise on the first movers' success. These followers are also aiming to gain market share; however, most of the time the first-movers will already have an established market share, with a loyal customer base that allows them to maintain their market share.
+          The Principal Agent Problem
+
+Summary:
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
+
+Transcript:
+Speaker 1
+Now, the principal agent problem pops up everywhere in micro economics. The way that they try to characterize it is that the principals incentives are different in the agent's incentives. So the owner of the business wants what is best for the business and will make the most money. The agent generally wants whatever will look good to the principal, or might make them the most friends in the neighborhood or in the business, or might make them personally the most money.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">First-Mover Advantage - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">en.wikipedia.org</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Principal-Agent Problem —  Act Like an Owner</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Naval</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          And that recipe has two copies of everything, always, in case one copy is broken. Imagine two long rows of pieces of paper. At each place in the row, there are two pieces of paper, and when you have children, your body selects one piece of paper at random from each place in the row, and the mother’s body will do the same, and so the child also gets two pieces of paper at each place in the row.
+          You must stick with whatever you pick long enough to have trial and error. You will fail. In fact, you will fail until you succeed. But you will fail far longer if you keep changing who you market to, because you must start over from the beginning each time. So, pick then commit.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">$100M Offers</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Alex Hormozi</p>
 </div>
 </div>
 </div>
@@ -72,6 +79,22 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Umberto%20Eco%20-%20On%20Beauty%20History%20of%20Western%20Ideas.md">Readwise/Articles/Umberto Eco - On Beauty History of Western Ideas.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Rudolf%20Carnap%20-%20An%20Introduction%20to%20the%20Philosophy%20of%20Science.md">Readwise/Books/Rudolf Carnap - An Introduction to the Philosophy of Science.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 040525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Dawkins%20-%20The%20God%20Delusion.md">Readwise/Books/Richard Dawkins - The God Delusion.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
             </ul>
         </span>
@@ -100,23 +123,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Dawkins%20-%20The%20God%20Delusion.md">Readwise/Books/Richard Dawkins - The God Delusion.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 040525</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Umberto%20Eco%20-%20On%20Beauty%20History%20of%20Western%20Ideas.md">Readwise/Articles/Umberto Eco - On Beauty History of Western Ideas.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Rudolf%20Carnap%20-%20An%20Introduction%20to%20the%20Philosophy%20of%20Science.md">Readwise/Books/Rudolf Carnap - An Introduction to the Philosophy of Science.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
