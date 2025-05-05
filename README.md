@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          —the essential difference between the two religions of décadence: Buddhism promises nothing, but actually fulfils; Christianity promises everything, but fulfils nothing.—
+          Only consider at what price you sell your own will: if for no other reason, at least for this, that you sell it not for a small sum.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Selection From the Discourses of Epictetus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Epictetus</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Blank has developed what he calls a Customer-Development Process, based on the idea that startups should apply the scientific method just as scientists do: Start with a hypothesis, test it, and prove it—or move on to further iterations of the hypothesis if it proves incorrect.
+          Confirmation bias was the technical term; it meant, among other things, that when you chose your information sources, there was a notable tendency to choose information sources that agreed with your current opinions.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
-<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The solution societies find, as they get more specialized, is to make the trade into a two-step process. Instead of trading violins directly for potatoes, you trade violins for, say, silver, which you can then trade again for anything else you need. The intermediate stuff—the medium of exchange—can be anything that’s rare and portable. Historically metals have been the most common, but recently we’ve been using a medium of exchange, called the dollar, that doesn’t physically exist.
+          We must distinguish between, on the one hand, our subjective experiences or our feelings of conviction, which can never justify any statement (though they can be made the subject of psychological investigation) and, on the other hand, the objective logical relations subsisting among the various systems of scientific statements, and within each of them.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Logic of Scientific Discovery</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Karl Raimund Popper</p>
 </div>
 </div>
 </div>
@@ -72,20 +72,6 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030525</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Articles/Umberto%20Eco%20-%20On%20Beauty%20History%20of%20Western%20Ideas.md">Readwise/Articles/Umberto Eco - On Beauty History of Western Ideas.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Rudolf%20Carnap%20-%20An%20Introduction%20to%20the%20Philosophy%20of%20Science.md">Readwise/Books/Rudolf Carnap - An Introduction to the Philosophy of Science.md</a></li>
             </ul>
@@ -101,7 +87,20 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Dawkins%20-%20The%20God%20Delusion.md">Readwise/Books/Richard Dawkins - The God Delusion.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 030525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
             </ul>
         </span>
@@ -116,6 +115,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Richard%20Dawkins%20-%20The%20God%20Delusion.md">Readwise/Books/Richard Dawkins - The God Delusion.md</a></li>
 <li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
             </ul>
         </span>
