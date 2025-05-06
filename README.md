@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.
+          Everyday language is a part of the human organism and is no less complicated than it. It is not humanly possible to gather immediately from it what the logic of language is. Language disguises thought. So much so, that from the outward form of the clothing it is impossible to infer the form of the thought beneath it, because the outward form of the clothing is not designed to reveal the form of the body, but for entirely diferent purposes. The tacit conventions on which the understanding of everyday language depends are enormously complicated.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">[Routledge Classics] Ludwig Wittgenstein - Tractatus Logico-Philosophicus</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2001, Routledge - libgen.lc</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Conformal cyclic cosmology (CCC) is a cosmological model in the framework of general relativity and proposed by theoretical physicist Roger Penrose. In CCC, the universe iterates through infinite cycles, with the future timelike infinity (i.e. the latest end of any possible timescale evaluated for any point in space) of each previous iteration being identified with the Big Bang singularity of the next. Penrose popularized this theory in his 2010 book Cycles of Time: An Extraordinary New View of the Universe.
+          I am looking for unknowns, who are passionate and missionbased.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Conformal Cyclic Cosmology - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Roger Penrose</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Often, as in this case, Charlie generally focuses first on what to avoid-that is, on what NOT to do-before he considers the affirmative steps he will take in a given situation. "All I want to know is where I'm going to die, so I'll never go there" is one of his favorite quips.
+          “The difference between successful people and really successful people is that really successful people say no to almost everything
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Poor Charlies's Almanack</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Charlie Munger</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
@@ -72,7 +72,8 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/Umberto%20Eco%20-%20On%20Beauty%20History%20of%20Western%20Ideas.md">Readwise/Articles/Umberto Eco - On Beauty History of Western Ideas.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Rudolf%20Carnap%20-%20An%20Introduction%20to%20the%20Philosophy%20of%20Science.md">Readwise/Books/Rudolf Carnap - An Introduction to the Philosophy of Science.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -86,8 +87,7 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/Umberto%20Eco%20-%20On%20Beauty%20History%20of%20Western%20Ideas.md">Readwise/Articles/Umberto Eco - On Beauty History of Western Ideas.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Rudolf%20Carnap%20-%20An%20Introduction%20to%20the%20Philosophy%20of%20Science.md">Readwise/Books/Rudolf Carnap - An Introduction to the Philosophy of Science.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/The%20Knowledge%20Project%20with%20Shane%20Parrish%20-%20226%20Garry%20Tan%20Billion-Dollar%20Misfits%20%E2%80%94%20Inside%20Y%20Combinator%E2%80%99s%20Startup%20Formula.md">Readwise/Podcasts/The Knowledge Project with Shane Parrish - 226 Garry Tan Billion-Dollar Misfits — Inside Y Combinator’s Startup Formula.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
