@@ -26,41 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Consistency Over Intensity
-
-Summary:
-CNN's John Sutter talks about the concept of habit stacking. He says meditation can be tied to a well-established, daily routine. One woman who wanted to meditate couldn't find time for 20 minutes every day. She was frustrated with herself and decided to give it up completely.
-
-Transcript:
-Speaker 1
-There is one somebody i was working with who wanted to implement meditation, and for some reason he, or it was she, she couldn't find 20 minutes to do itike, she i just can't do 20, 20 minutes. And she's like, let me try ten minutes. And she couldn't do ten minutes. Now this woman was very startn to get frustrated with herself, because she was breaking promises to herself. And she was in give it up completely. Moka, i guess i can't meditate. And then we started talking about this concept of habit stacking, where maybe you could tie meditation to a habit that's already well established. And as she combed over her routine in the morning, she said, you knowha, i'm wan to do, i'm going to meditate while i brush my teeth.
+          Yet when you are called stupid, it makes you angry. Because something within you entertains the possibility that you might, in fact, be. Then something else within you grows irritated by the idea that you might be. This internal conflict manifests itself as anger.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">#137 Justin Su'a —  Peak Mental Performance</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Knowledge Project with Shane Parrish</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Direct Truth - Uncompromising, Non-Prescriptive Truths to the Enduring Questions of Life</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Kapil Gupta</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          If you do not undertake a risk of real harm, reparable or even potentially irreparable, from an adventure, it is not an adventure.
+          The so-called instinct of causality is nothing more than the fear of the unfamiliar, and the attempt at finding something in it which is already known.—It is not a search for causes, but for the familiar.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
-<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Making wealth is not the only way to get rich. For most of human history it has not even been the most common. Until a few centuries ago, the main sources of wealth were mines, slaves and serfs, land, and cattle, and the only ways to acquire these rapidly were by inheritance, marriage, conquest, or confiscation. Naturally wealth had a bad reputation.
+          So you have to learn how to admit you’re wrong, over and over and over again. It doesn’t sound like much, but it’s so hard that most people can’t do science. Always questioning yourself, always taking another look at things you’ve always taken for granted.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
@@ -79,7 +72,7 @@ There is one somebody i was working with who wanted to implement meditation, and
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Do%20You%20Really%20Know%20Your%20ICP%20Why%20It%20Matters%20and%20How%20to%20Find%20Out.md">Readwise/Podcasts/a16z Podcast - Do You Really Know Your ICP Why It Matters and How to Find Out.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -107,7 +100,7 @@ There is one somebody i was working with who wanted to implement meditation, and
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Do%20You%20Really%20Know%20Your%20ICP%20Why%20It%20Matters%20and%20How%20to%20Find%20Out.md">Readwise/Podcasts/a16z Podcast - Do You Really Know Your ICP Why It Matters and How to Find Out.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -122,23 +115,24 @@ There is one somebody i was working with who wanted to implement meditation, and
 
 ### 📚 Books Louis is reading
 
--   **S.N. Goenka**  - [Discourse Summaries](https://www.goodreads.com/book/show/1263497.Discourse_Summaries) - Sat May 03 17:45:43 -0700 2025
--   **Richard Dawkins**  - [The God Delusion](https://www.goodreads.com/book/show/14743.The_God_Delusion) - Sat May 03 17:44:33 -0700 2025
--   **Anthony P. French**  - [Newtonian Mechanics (M.i.t. Introductory Physics Series)](https://www.goodreads.com/book/show/431054.Newtonian_Mechanics) - Sat May 03 17:39:51 -0700 2025
--   **Neil Shubin**  - [Your Inner Fish: a Journey into the 3.5-Billion-Year History of the Human Body](https://www.goodreads.com/book/show/1662160.Your_Inner_Fish) - Sat May 03 17:38:57 -0700 2025
--   **Umberto Eco**  - [History of Beauty](https://www.goodreads.com/book/show/10505.History_of_Beauty) - Sat May 03 17:38:17 -0700 2025
--   **Bill  Gates**  - [Source Code: My Beginnings](https://www.goodreads.com/book/show/213034913-source-code) - Sat May 03 17:36:56 -0700 2025
--   **Jake Knapp**  - [Click: How to Make What People Want](https://www.goodreads.com/book/show/214151403-click) - Sat May 03 17:36:41 -0700 2025
--   **Rudolf Carnap**  - [An Introduction to the Philosophy of Science](https://www.goodreads.com/book/show/163791.An_Introduction_to_the_Philosophy_of_Science) - Sat May 03 17:35:58 -0700 2025
--   **Gottlob Frege**  - [Frege and Godel: Two Fundamental Texts in Mathematical Logic](https://www.goodreads.com/book/show/520680.Frege_and_Godel) - Sat May 03 17:34:59 -0700 2025
+-   **Ward Farnsworth**  - [The Socratic Method: A Practitioner&#39;s Handbook](https://www.goodreads.com/book/show/57185177-the-socratic-method) - Thu May 08 18:54:21 -0700 2025
+-   **William Strunk Jr.**  - [The Elements of Style](https://www.goodreads.com/book/show/33514.The_Elements_of_Style) - Thu May 08 18:53:43 -0700 2025
+-   **Fyodor Dostoevsky**  - [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground) - Thu May 08 18:52:50 -0700 2025
+-   **John      Goddard**  - [Banking: A Very Short Introduction](https://www.goodreads.com/book/show/26262657-banking) - Thu May 08 18:52:17 -0700 2025
+-   **Richard J. Haier**  - [The Neuroscience of Intelligence](https://www.goodreads.com/book/show/22480600-the-neuroscience-of-intelligence) - Thu May 08 18:50:46 -0700 2025
+-   **Merim Bilalić**  - [The Neuroscience of Expertise](https://www.goodreads.com/book/show/35920358-the-neuroscience-of-expertise) - Thu May 08 18:50:01 -0700 2025
+-   **Ethan Mollick**  - [The Unicorn&#39;s Shadow: Combating the Dangerous Myths that Hold Back Startups, Founders, and Investors](https://www.goodreads.com/book/show/53453640-the-unicorn-s-shadow) - Thu May 08 18:49:06 -0700 2025
+-   **Michael E. Porter**  - [Competitive Advantage: Creating and Sustaining Superior Performance](https://www.goodreads.com/book/show/134776.Competitive_Advantage) - Thu May 08 18:48:49 -0700 2025
+-   **Ali Tamaseb**  - [Super Founders: What Data Reveals About Billion-Dollar Startups](https://www.goodreads.com/book/show/55277918-super-founders) - Thu May 08 18:48:27 -0700 2025
+-   **Stanislas Dehaene**  - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now](https://www.goodreads.com/book/show/46064083-how-we-learn) - Thu May 08 18:47:27 -0700 2025
 
 ### ✍ Recent book reviews
 
+-   **S.N. Goenka**  - [Discourse Summaries](https://www.goodreads.com/book/show/1263497.Discourse_Summaries) - 3/5 - Thu May 08 18:39:48 -0700 2025
+-   **Umberto Eco**  - [History of Beauty](https://www.goodreads.com/book/show/10505.History_of_Beauty) - 3/5 - Thu May 08 18:39:54 -0700 2025
+-   **Bill  Gates**  - [Source Code: My Beginnings](https://www.goodreads.com/book/show/213034913-source-code) - 4/5 - Thu May 08 18:39:50 -0700 2025
+-   **Jake Knapp**  - [Click: How to Make What People Want](https://www.goodreads.com/book/show/214151403-click) - 3/5 - Thu May 08 18:39:52 -0700 2025
 -   **Barry Werth**  - [The Billion Dollar Molecule: One Company&#39;s Quest for the Perfect Drug](https://www.goodreads.com/book/show/38065.The_Billion_Dollar_Molecule) - 4/5 - Sat May 03 17:28:51 -0700 2025
--   **Isabel Briggs Myers**  - [Gifts Differing: Understanding Personality Type](https://www.goodreads.com/book/show/49187.Gifts_Differing) - 3/5 - Sat May 03 17:28:34 -0700 2025
--   **Vaclav Smil**  - [Energy: A Beginner&#39;s Guide](https://www.goodreads.com/book/show/632902.Energy) - 4/5 - Sat May 03 17:28:57 -0700 2025
--   **Gary Chapman**  - [The 5 Love Languages: The Secret to Love that Lasts](https://www.goodreads.com/book/show/23878688-the-5-love-languages) - 3/5 - Sat May 03 17:28:42 -0700 2025
--   **Peter W. Huber**  - [Orwell&#39;s Revenge: The 1984 Palimpsest](https://www.goodreads.com/book/show/1099656.Orwell_s_Revenge) - 2/5 - Sat May 03 17:28:28 -0700 2025
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
