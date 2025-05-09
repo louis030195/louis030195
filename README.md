@@ -26,38 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The Matthew Effect
-
-Transcript:
-Speaker 1
-The square root of the number of people in a company accomplish half of the output, right?
+          The same could be said of Draco’s clever use of reciprocation pressure with an unsolicited gift, a technique which Harry had read about in his social psychology books
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Marc Andreessen on Elon Musk, Good Startup Ideas, How to Have the Courage to Think Independently and Finding a Co-Founder</p>
-<p style="margin-bottom: 0; color: #9f8e7d">The Aarthi and Sriram Show</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Remember what a startup is, economically: a way of saying, I want to work faster. Instead of accumulating money slowly by being paid a regular wage for fifty years, I want to get it over with as soon as possible.
+          The great entrepreneurs have found they need to find complements. If you look at yourself and reflect on your skills and your talents and your unique abilities, you’ll find that everybody has their gaps.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Step 1: Customer Discovery The goal ofCustomer Discovery is just what the name implies: finding out who the customers for your product are and whether the problem you believe you are solving is important to them. More formally, this step involves discovering whether the problem, product and customer hypotheses in your business plan are correct.
+          His assertion that entropy increases almost always, rather than always, was indeed very hard to swallow for those who did not believe in molecular reality.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Four Steps to the Epiphany Success</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Steven Gary Blank</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Subtle Is the Lord</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Abraham Pais</p>
 </div>
 </div>
 </div>
@@ -76,7 +72,7 @@ The square root of the number of people in a company accomplish half of the outp
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Do%20You%20Really%20Know%20Your%20ICP%20Why%20It%20Matters%20and%20How%20to%20Find%20Out.md">Readwise/Podcasts/a16z Podcast - Do You Really Know Your ICP Why It Matters and How to Find Out.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
@@ -90,7 +86,7 @@ The square root of the number of people in a company accomplish half of the outp
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Neil%20Shubin%20-%20Your%20Inner%20Fish%20A%20Journey%20Into%20the%203.5-Billion-Year%20History%20of%20the%20Human%20Body.md">Readwise/Books/Neil Shubin - Your Inner Fish A Journey Into the 3.5-Billion-Year History of the Human Body.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Do%20You%20Really%20Know%20Your%20ICP%20Why%20It%20Matters%20and%20How%20to%20Find%20Out.md">Readwise/Podcasts/a16z Podcast - Do You Really Know Your ICP Why It Matters and How to Find Out.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
