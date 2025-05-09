@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          World domination is such an ugly phrase. I prefer to call it world optimisation.
+          Putting together the initial team, creating the culture, and instilling the mission and values into the team are all like designing and building the initial product.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Harry Potter and the Methods of Rationality</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Eliezer Yudkowsky</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Saturated fat is a type of fat in which the fatty acid chains have all single bonds. A fat known as a glyceride is made of two kinds of smaller molecules: a short glycerol backbone and fatty acids that each contain a long linear or branched chain of carbon (C) atoms. Along the chain, some carbon atoms are linked by single bonds (-C-C-) and others are linked by double bonds (-C=C-). A double bond along the carbon chain can react with a pair of hydrogen atoms to change into a single -C-C- bond, with each H atom now bonded to one of the two C atoms. Glyceride fats without any carbon chain double bonds are called saturated because they are "saturated with" hydrogen atoms, having no double bonds available to react with more hydrogen.
+          All the idealism of mankind, hitherto, is on the point of turning into Nihilism—may be shown to be a belief in absolute worthlessness, i.e. purposelessness.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Saturated Fat - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">double bonds</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Will to Power</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When you’re in any institution, you cannot speak freely, especially when you’re the CEO. I’ve only really been able to speak freely to a greater extent over the last year and a half.
+          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Eric-Jorgenson_The-Anthology-of-Balaji.indd</p>
-<p style="margin-bottom: 0; color: #9f8e7d">readwise.io</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
@@ -72,35 +72,6 @@ carbon-based intelligence 🐒. high without drugs
     <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Elad%20Gil%20The%20Guy%20Behind%20Silicon%20Valley%27s%20Greatest%20Unicorns%20The%20Knowledge%20Project%20Ep.%20228%20-%20Farnam%20Street.md">Readwise/Articles/readwise.io - Elad Gil The Guy Behind Silicon Valley's Greatest Unicorns The Knowledge Project Ep. 228 - Farnam Street.md</a></li>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Ali%20Tamaseb%20-%20Super%20Founders.md">Readwise/Books/Ali Tamaseb - Super Founders.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 080525</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Elad%20Gil%20The%20Guy%20Behind%20Silicon%20Valley%27s%20Greatest%20Unicorns%20The%20Knowledge%20Project%20Ep.%20228%20-%20Farnam%20Street.md">Readwise/Articles/readwise.io - Elad Gil The Guy Behind Silicon Valley's Greatest Unicorns The Knowledge Project Ep. 228 - Farnam Street.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 080525</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Ali%20Tamaseb%20-%20Super%20Founders.md">Readwise/Books/Ali Tamaseb - Super Founders.md</a></li>
             </ul>
         </span>
@@ -116,6 +87,35 @@ carbon-based intelligence 🐒. high without drugs
         <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
             <ul>
 <li><a href="https://brain.louis030195.com/Readwise/Books/Ali%20Tamaseb%20-%20Super%20Founders.md">Readwise/Books/Ali Tamaseb - Super Founders.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 080525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Elad%20Gil%20The%20Guy%20Behind%20Silicon%20Valley%27s%20Greatest%20Unicorns%20The%20Knowledge%20Project%20Ep.%20228%20-%20Farnam%20Street.md">Readwise/Articles/readwise.io - Elad Gil The Guy Behind Silicon Valley's Greatest Unicorns The Knowledge Project Ep. 228 - Farnam Street.md</a></li>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Ali%20Tamaseb%20-%20Super%20Founders.md">Readwise/Books/Ali Tamaseb - Super Founders.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 080525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Articles/readwise.io%20-%20Elad%20Gil%20The%20Guy%20Behind%20Silicon%20Valley%27s%20Greatest%20Unicorns%20The%20Knowledge%20Project%20Ep.%20228%20-%20Farnam%20Street.md">Readwise/Articles/readwise.io - Elad Gil The Guy Behind Silicon Valley's Greatest Unicorns The Knowledge Project Ep. 228 - Farnam Street.md</a></li>
             </ul>
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
