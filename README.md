@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The framing effect is a cognitive bias where people decide on options based on whether the options are presented with positive or negative connotations; e.g. as a loss or as a gain. People tend to avoid risk when a positive frame is presented but seek risks when a negative frame is presented. Gain and loss are defined in the scenario as descriptions of outcomes (e.g., lives lost or saved, disease patients treated and not treated, etc.).
+          In Buddha’s teaching egoism is a duty.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Framing Effect (Psychology) - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Terms of Use and Privacy Policy</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Antichrist</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The idea of the Lindy effect is itself Lindy-proof. The pre-Socratic thinker Periander of Corinth wrote, more than twenty-five hundred years ago: Use laws that are old but food that is fresh. Likewise, Alfonso X of Spain, nicknamed El Sabio, “the wise,” had as a maxim: Burn old logs. Drink old wine. Read old books. Keep old friends.
+          We’re looking for extraordinary entrepreneurs who can create very large businesses. After eighteen years and backing over one hundred entrepreneurs, I’ve learned it’s a rare person who has the combination of attributes to get through the challenges of a startup and create a large company that changes our lives.”
+        </span>
+<div style="font-family: Helvetica, Arial, sans-serif;">
+<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
+</div>
+</div>
+</div>
+<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+          the best pieces of advice I have ever received was the recommendation by a very successful (and happy) older entrepreneur, Yossi Vardi, to have no assistant.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
 <p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
 <p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
-</div>
-</div>
-</div>
-<div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-<span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          I submit that the world would be much happier, if men were as fully able to keep silence as they are to speak.
-        </span>
-<div style="font-family: Helvetica, Arial, sans-serif;">
-<div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Ethics</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Benedictus de Spinoza</p>
 </div>
 </div>
 </div>
@@ -82,29 +82,39 @@ carbon-based intelligence 🐒. high without drugs
         </div>
     </div>
     
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Podcasts/a16z%20Podcast%20-%20Unbundling%20the%20BPO%20How%20AI%20Is%20Disrupting%20Outsourced%20Work.md">Readwise/Podcasts/a16z Podcast - Unbundling the BPO How AI Is Disrupting Outsourced Work.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 180525</p>
+            </div>
+        </div>
+    </div>
+    
 </div>
 
 
 ### 📚 Books Louis is reading
 
--   **Ward Farnsworth**  - [The Socratic Method: A Practitioner&#39;s Handbook](https://www.goodreads.com/book/show/57185177-the-socratic-method) - Thu May 08 18:54:21 -0700 2025
--   **William Strunk Jr.**  - [The Elements of Style](https://www.goodreads.com/book/show/33514.The_Elements_of_Style) - Thu May 08 18:53:43 -0700 2025
--   **Fyodor Dostoevsky**  - [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground) - Thu May 08 18:52:50 -0700 2025
--   **John      Goddard**  - [Banking: A Very Short Introduction](https://www.goodreads.com/book/show/26262657-banking) - Thu May 08 18:52:17 -0700 2025
--   **Richard J. Haier**  - [The Neuroscience of Intelligence](https://www.goodreads.com/book/show/22480600-the-neuroscience-of-intelligence) - Thu May 08 18:50:46 -0700 2025
--   **Merim Bilalić**  - [The Neuroscience of Expertise](https://www.goodreads.com/book/show/35920358-the-neuroscience-of-expertise) - Thu May 08 18:50:01 -0700 2025
--   **Ethan Mollick**  - [The Unicorn&#39;s Shadow: Combating the Dangerous Myths that Hold Back Startups, Founders, and Investors](https://www.goodreads.com/book/show/53453640-the-unicorn-s-shadow) - Thu May 08 18:49:06 -0700 2025
--   **Michael E. Porter**  - [Competitive Advantage: Creating and Sustaining Superior Performance](https://www.goodreads.com/book/show/134776.Competitive_Advantage) - Thu May 08 18:48:49 -0700 2025
--   **Ali Tamaseb**  - [Super Founders: What Data Reveals About Billion-Dollar Startups](https://www.goodreads.com/book/show/55277918-super-founders) - Thu May 08 18:48:27 -0700 2025
 -   **Stanislas Dehaene**  - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now](https://www.goodreads.com/book/show/46064083-how-we-learn) - Thu May 08 18:47:27 -0700 2025
+-   **Johann Wolfgang von Goethe**  - [Faust](https://www.goodreads.com/book/show/406373.Faust) - Thu May 08 18:45:25 -0700 2025
+-   **Iain McGilchrist**  - [The Master and His Emissary: The Divided Brain and the Making of the Western World](https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary) - Thu May 08 18:43:54 -0700 2025
+-   **Anthony P. French**  - [Newtonian Mechanics (M.i.t. Introductory Physics Series)](https://www.goodreads.com/book/show/431054.Newtonian_Mechanics) - Sat May 03 17:39:51 -0700 2025
+-   **Rudolf Carnap**  - [An Introduction to the Philosophy of Science](https://www.goodreads.com/book/show/163791.An_Introduction_to_the_Philosophy_of_Science) - Sat May 03 17:35:58 -0700 2025
+-   **Gottlob Frege**  - [Frege and Godel: Two Fundamental Texts in Mathematical Logic](https://www.goodreads.com/book/show/520680.Frege_and_Godel) - Sat May 03 17:34:59 -0700 2025
 
 ### ✍ Recent book reviews
 
--   **S.N. Goenka**  - [Discourse Summaries](https://www.goodreads.com/book/show/1263497.Discourse_Summaries) - 3/5 - Thu May 08 18:39:48 -0700 2025
--   **Umberto Eco**  - [History of Beauty](https://www.goodreads.com/book/show/10505.History_of_Beauty) - 3/5 - Thu May 08 18:39:54 -0700 2025
--   **Bill  Gates**  - [Source Code: My Beginnings](https://www.goodreads.com/book/show/213034913-source-code) - 4/5 - Thu May 08 18:39:50 -0700 2025
--   **Jake Knapp**  - [Click: How to Make What People Want](https://www.goodreads.com/book/show/214151403-click) - 3/5 - Thu May 08 18:39:52 -0700 2025
--   **Barry Werth**  - [The Billion Dollar Molecule: One Company&#39;s Quest for the Perfect Drug](https://www.goodreads.com/book/show/38065.The_Billion_Dollar_Molecule) - 4/5 - Sat May 03 17:28:51 -0700 2025
+-   **William Strunk Jr.**  - [The Elements of Style](https://www.goodreads.com/book/show/33514.The_Elements_of_Style) - 3/5 - Sun May 18 10:35:32 -0700 2025
+-   **Michael E. Porter**  - [Competitive Advantage: Creating and Sustaining Superior Performance](https://www.goodreads.com/book/show/134776.Competitive_Advantage) - 2/5 - Sun May 18 10:35:00 -0700 2025
+-   **Richard J. Haier**  - [The Neuroscience of Intelligence](https://www.goodreads.com/book/show/22480600-the-neuroscience-of-intelligence) - 2/5 - Sun May 18 10:35:11 -0700 2025
+-   **John      Goddard**  - [Banking: A Very Short Introduction](https://www.goodreads.com/book/show/26262657-banking) - 3/5 - Sun May 18 10:35:22 -0700 2025
+-   **Fyodor Dostoevsky**  - [Notes from Underground](https://www.goodreads.com/book/show/49455.Notes_from_Underground) - 2/5 - Sun May 18 10:35:28 -0700 2025
 
 Anything that align with your interest? Let's have a 15-30 min remote coffee:
 
