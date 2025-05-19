@@ -26,44 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          You need rich people in your society not so much because in spending their money they create jobs, but because of what they have to do to get rich. I’m not talking about the trickle-down effect here. I’m not saying that if you let Henry Ford get rich, he’ll hire you as a waiter at his next party. I’m saying that he’ll make you a tractor to replace your horse.
+          Great companies do three things. First, they create value. Second, they are lasting or permanent in a meaningful way. Finally, they capture at least some of the value they create.”
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tren Griffin - A Dozen Lessons for Entrepreneurs</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2017, Columbia University Press</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Fast, lift, sprint, stretch, and meditate.
-
-Build, sell, write, create, invest, and own.
-
-Read, reflect, love, seek truth, and ignore society.
-
-Make these habits. Say no to everything else.
-
-Avoid debt, jail, addiction, disgrace, shortcuts, and media.
-
-Relax. Victory is assured.
+          Before we end, take some Fat Tony wisdom: always do more than you talk. And precede talk with action. For it will always remain that action without talk supersedes talk without action.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Tweets From Naval</p>
-<p style="margin-bottom: 0; color: #9f8e7d">@naval on Twitter</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          20th-century philosophy saw the development of a number of new philosophical schools—including logical positivism, analytic philosophy, phenomenology, existentialism, and poststructuralism. In terms of the eras of philosophy, it is usually labelled as contemporary philosophy (succeeding modern philosophy, which runs roughly from the time of René Descartes until the late 19th to early 20th centuries).
+          Bayesian philosophers see the conditional relationship as more basic than that of joint events - that is, more compatible with the organization of human knowledge. In this view, B serves as a pointer to a context or frame of knowledge, and A I B stands for an event A in the context specified by B (e.g. , a symptom A in the context of a disease B).Consequently, empirical knowledge invariably will be encoded in conditional probability statements, whereas belief in joint events (if it is ever needed) will be computed from those statements via the product peA, B) = peA I B) P(B), (1.9) which is equivalent to (1.8).
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">20th-Century Philosophy - Wikipedia</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Edmund Gettier</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Judea Pearl - Causality_ Models, Reasoning, and Inference-Cambridge University Press</p>
+<p style="margin-bottom: 0; color: #9f8e7d">2000</p>
 </div>
 </div>
 </div>
@@ -111,6 +101,8 @@ Relax. Victory is assured.
 
 ### 📚 Books Louis is reading
 
+-   **Richard Dawkins**  - [The Ancestor&#39;s Tale: A Pilgrimage to the Dawn of Evolution](https://www.goodreads.com/book/show/17977.The_Ancestor_s_Tale) - Sun May 18 19:39:17 -0700 2025
+-   **Gene Kim**  - [The Unicorn Project](https://www.goodreads.com/book/show/44333183-the-unicorn-project) - Sun May 18 19:38:54 -0700 2025
 -   **Ray Dalio**  - [Principles for Dealing with the Changing World Order: Why Nations Succeed and Fail](https://www.goodreads.com/book/show/52962238-principles-for-dealing-with-the-changing-world-order) - Sun May 18 19:36:27 -0700 2025
 -   **Neil deGrasse Tyson**  - [Astrophysics for People in a Hurry](https://www.goodreads.com/book/show/32191710-astrophysics-for-people-in-a-hurry) - Sun May 18 19:36:08 -0700 2025
 -   **Indra  Nooyi**  - [My Life in Full: Work, Family, and Our Future](https://www.goodreads.com/book/show/57499853-my-life-in-full) - Sun May 18 19:35:39 -0700 2025
@@ -119,8 +111,6 @@ Relax. Victory is assured.
 -   **Stanislas Dehaene**  - [How We Learn: Why Brains Learn Better Than Any Machine . . . for Now](https://www.goodreads.com/book/show/46064083-how-we-learn) - Thu May 08 18:47:27 -0700 2025
 -   **Johann Wolfgang von Goethe**  - [Faust](https://www.goodreads.com/book/show/406373.Faust) - Thu May 08 18:45:25 -0700 2025
 -   **Iain McGilchrist**  - [The Master and His Emissary: The Divided Brain and the Making of the Western World](https://www.goodreads.com/book/show/6968772-the-master-and-his-emissary) - Thu May 08 18:43:54 -0700 2025
--   **Anthony P. French**  - [Newtonian Mechanics (M.i.t. Introductory Physics Series)](https://www.goodreads.com/book/show/431054.Newtonian_Mechanics) - Sat May 03 17:39:51 -0700 2025
--   **Rudolf Carnap**  - [An Introduction to the Philosophy of Science](https://www.goodreads.com/book/show/163791.An_Introduction_to_the_Philosophy_of_Science) - Sat May 03 17:35:58 -0700 2025
 
 ### ✍ Recent book reviews
 
