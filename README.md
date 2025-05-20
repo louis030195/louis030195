@@ -26,25 +26,25 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          When people claim that “admitting uncertainty” makes you look bad, they’re invariably conflating these two very different kinds of uncertainty: uncertainty “in you,” caused by your own ignorance or lack of experience, and uncertainty “in the world,” caused by the fact that reality is messy and unpredictable.
+          For the vast bulk of messages, in fact, symbols do not behave like fair coins. The symbol that is sent now depends, in important and predictable ways, on the symbol that was just sent: one symbol has a “pull” on the next. Take an image: Hartley showed how to measure its information content by gauging the intensity of each “elementary area.” But in images that resemble anything other than TV static, intensities are not splattered randomly across the pixels: each pixel has pull. A light pixel is more likely to appear next to a light pixel, a dark next to a dark.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">The Scout Mindset - Why Some People See Things Clearly and Others Don't</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Julia Galef</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">A Mind at Play: How Claude Shannon Invented the Information Age</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Jimmy Soni &amp; Rob Goodman</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          What is Success for You?
+          How to Improve Confidence
 
 Summary:
-Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
+Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. when your stress levels are up, and what you do about it when it's down. I love this because you can learn about yourself. And then as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there.
 
 Transcript:
 Speaker 1
-Success for me, for me, is is freedom. And not freedom that has to be given to me, but freedom that is earned through mastery.
+Notice when your stress levels are up, and what you do about it when it's down. Start with collecting some personal data, and then you go and you say, ok, try to find some patterns. Oh, in the morning, i have tons of energy. I'm really good. Oh, one six o'clock hids, i notice i'm a lot more irritable. I'm i'm a lot more impulsive. And then what you do, as you go on line and you start goggling things, grab a book, listen to a podcast we you how to improve confidence and list and find these experts out there. I love this because you can learn about yourself.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
@@ -84,6 +84,20 @@ Success for me, for me, is is freedom. And not freedom that has to be given to m
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190525</p>
+            </div>
+        </div>
+    </div>
+    
+
+    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
+        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
+            <ul>
+<li><a href="https://brain.louis030195.com/Readwise/Books/Robert%20Iger%3B%20-%20The%20Ride%20of%20a%20Lifetime.md">Readwise/Books/Robert Iger; - The Ride of a Lifetime.md</a></li>
+            </ul>
+        </span>
+        <div style="font-family: Helvetica, Arial, sans-serif;">
+            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200525</p>
             </div>
         </div>
@@ -99,20 +113,6 @@ Success for me, for me, is is freedom. And not freedom that has to be given to m
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
                 <p style="margin-bottom: 0; color: #9f8e7d">brain upload 180525</p>
-            </div>
-        </div>
-    </div>
-    
-
-    <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
-        <span style="background-color: #000000; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-            <ul>
-<li><a href="https://brain.louis030195.com/Readwise/Books/Robert%20Iger%3B%20-%20The%20Ride%20of%20a%20Lifetime.md">Readwise/Books/Robert Iger; - The Ride of a Lifetime.md</a></li>
-            </ul>
-        </span>
-        <div style="font-family: Helvetica, Arial, sans-serif;">
-            <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190525</p>
             </div>
         </div>
     </div>
