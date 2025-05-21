@@ -26,34 +26,34 @@ carbon-based intelligence 🐒. high without drugs
   position: relative; margin-top: 6rem;">
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          To suppose that these are cases in which custom has conquered nature, so that the Indians no longer feel frost and fire, would be an erroneous conclusion because nature can never be overcome.
+          If your private actions do not generalize, then you cannot have general ideas.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">On the Good Life</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Marcus Tullius Cicero</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Skin_In_The_Game</p>
+<p style="margin-bottom: 0; color: #9f8e7d">louis.beaumont@gmail.com</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          Money is a side effect of specialization. In a specialized society, most of the things you need, you can’t make for yourself. If you want a potato or a pencil or a place to live, you have to get it from someone else.
+          The man of knowledge must be able not only to love his enemies, but also to hate his friends.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Hackers &amp; Painters - Big Ideas From the Computer Age</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Paul Graham</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Thus Spake Zarathustra</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Friedrich Wilhelm Nietzsche</p>
 </div>
 </div>
 </div>
 <div class="highlight-text" style="margin-left: auto; margin-right: auto; min-width: 280px; max-width: 540px; text-align: left; padding-left: 34px; padding-right: 34px; padding-top: 30px; padding-bottom: 12px; white-space: normal;">
 <span style="background-color: transparent; line-height: 2; padding-bottom: 7px; padding-top: 3px; font-size: 14px; white-space: normal;">
-          The problem is that when you don’t go to the trouble of getting to know who you are, what your triggers are, what your blind spots are, and what motivates you, you’ll unavoidably do things you’ll regret. If you avoid addressing conflict, you’ll explode in frustration at someone because you’ve let small issues build up. Do you keep your thoughts close to your chest?
+          Organisms whose cells have a nucleus are called eucaryotes (from the Greek words eu, meaning “well” or “truly,” and karyon, a “kernel” or “nucleus”). Organisms whose cells do not have a nucleus are called procaryotes (from pro, meaning “before”). The terms “bacterium” and “procaryote” are often used interchangeably, although we shall see that the category of procaryotes also includes another class of cells, the archaea (singular archaeon), which are so remotely related to bacteria that they are given a separate name.
         </span>
 <div style="font-family: Helvetica, Arial, sans-serif;">
 <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">From Start-Up to Grown-Up - Grow Your Leadership to Grow Your Business</p>
-<p style="margin-bottom: 0; color: #9f8e7d">Alisa Cohn</p>
+<p style="margin-bottom: 0; font-size: 15px; margin-bottom: 2px; color: #9f8e7d">Essential Cell Biology</p>
+<p style="margin-bottom: 0; color: #9f8e7d">Bruce Alberts; Dennis Bray; Karen Hopkin; Alexander Johnson; Julian Lewis; Martin Raff; Keith Robert...</p>
 </div>
 </div>
 </div>
@@ -77,7 +77,7 @@ carbon-based intelligence 🐒. high without drugs
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190525</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200525</p>
             </div>
         </div>
     </div>
@@ -91,7 +91,7 @@ carbon-based intelligence 🐒. high without drugs
         </span>
         <div style="font-family: Helvetica, Arial, sans-serif;">
             <div style='font-size: 14px; margin-bottom: 0; margin-top: 10px; font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; white-space: normal; font-display: swap;'>
-                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 200525</p>
+                <p style="margin-bottom: 0; color: #9f8e7d">brain upload 190525</p>
             </div>
         </div>
     </div>
