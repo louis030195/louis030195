@@ -1,5 +1,0 @@
-PyGithub
-requests
-beautifulsoup4
-openai
-
