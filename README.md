@@ -38,6 +38,8 @@ i also wear limitless 24/7 and use limitless-mcp
 
 rust when it matters. typescript when it doesn't. ai everywhere.
 
+hot take: python is the worst programming language in AI age - rust/ts just provide faster local feedback through compilation.
+
 **current obsessions:** increasing US GDP, windows rust api, accessibility, windows infra, automation at scale
 
 ---
