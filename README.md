@@ -29,6 +29,7 @@ building mcp servers to increase the bandwidth with superintelligence:
 - [toggl-mcp](https://github.com/louis030195/toggl-mcp) — time tracking
 - [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp) — sales automation
 - [gptzero-mcp](https://github.com/louis030195/gptzero-mcp) — ai detection
+- [oura-mcp](https://github.com/louis030195/oura-mcp) — plug my health to AGI
 
 i also wear limitless 24/7 and use limitless-mcp
 
