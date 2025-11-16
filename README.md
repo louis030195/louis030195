@@ -33,7 +33,7 @@ mcp servers to increase the bandwidth with superintelligence:
 
 i also wear limitless 24/7 and use limitless-mcp
 
-update: 11/15/25: replaced all those by claude skills (much more context efficient)
+update: 11/15/25: replaced all those by claude skills (much more context efficient and it works on mobile/web too)
 
 ---
 
