@@ -16,7 +16,7 @@
 
 ### 🚀 **what i'm shipping**
 
-**[terminator](https://github.com/mediar-ai/terminator)** — rust-powered windows automation for legacy systems. computer use for the real world. because not everything has an api in 2025.
+**[terminator](https://github.com/mediar-ai/terminator)** — rust-powered windows automation for legacy systems. the world business runs on old windows software that has no api.
 
 **mediar** — my company. [check it out](https://mediar.ai)
 
@@ -24,7 +24,7 @@
 
 ### 🔌 **recent ships**
 
-building mcp servers to increase the bandwidth with superintelligence:
+mcp servers to increase the bandwidth with superintelligence:
 - [easy-obsidian-mcp](https://github.com/louis030195/easy-obsidian-mcp) — obsidian ↔ claude
 - [toggl-mcp](https://github.com/louis030195/toggl-mcp) — time tracking
 - [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp) — sales automation
@@ -33,22 +33,12 @@ building mcp servers to increase the bandwidth with superintelligence:
 
 i also wear limitless 24/7 and use limitless-mcp
 
----
-
-### 📊 **stack**
-
-rust when it matters. typescript when it doesn't. ai everywhere.
-
-hot take: python is the worst programming language in AI age - rust/ts just provide faster local feedback through compilation.
-
-**current obsessions:** increasing US GDP, windows rust api, accessibility, windows infra, automation at scale
+update: 11/15/25: replaced all those by claude skills (much more context efficient)
 
 ---
-
-### 🔗 **find me**
 
 [website](https://louis030195.com/) • [x/twitter](https://x.com/louis030195) • [linkedin](https://linkedin.com/in/louis030195) • [mediar](https://mediar.ai)
 
-ex-cia. 
+[live with me](https://hyperbolic.garden/)
 
 ---
