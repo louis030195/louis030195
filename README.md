@@ -10,35 +10,43 @@
     ░  ░    ░ ░     ░      ░        ░  
 ```
 
-**making computer use work** | carbon-based | sf 
+**making computer use work and print dollars** | carbon-based | sf
 
 ---
 
-### 🚀 **what i'm shipping**
+### ships
 
-**[terminator](https://github.com/mediar-ai/terminator)** — rust-powered windows automation for legacy systems. the world business runs on old windows software that has no api.
+**current**
+- [terminator](https://github.com/mediar-ai/terminator) — rust windows automation for legacy systems
+- [mediar](https://mediar.ai) — ai desktop automation company
+- [useterminator.com](https://useterminator.com)
+- [vercelrpa.com](https://vercelrpa.com)
+- [autoehr.com](https://autoehr.com) — healthcare automation
+- [autosap.ai](https://autosap.ai) — sap automation
 
-**mediar** — my company. [check it out](https://mediar.ai)
+**mcp servers**
+- [easy-obsidian-mcp](https://github.com/louis030195/easy-obsidian-mcp) • [obsidian-mcp.com](https://obsidian-mcp.com)
+- [toggl-mcp](https://github.com/louis030195/toggl-mcp)
+- [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp)
+- [gptzero-mcp](https://github.com/louis030195/gptzero-mcp)
+- [oura-mcp](https://github.com/louis030195/oura-mcp)
+- [limitless-mcp](https://github.com/louis030195/limitless-mcp)
+
+**past ships**
+- [screenpipe](https://screenpi.pe) • [screenpipe.dev](https://screenpipe.dev) — 24/7 local screen & audio capture
+- [rewind.sh](https://rewind.sh) — memory for devs
+- [screen-to-crm.com](https://screen-to-crm.com) — sales automation
+- [quote-api.dev](https://quote-api.dev)
+- [third.software](https://third.software)
+- [nolan.sh](https://nolan.sh) — dev tools
+- [elysi.art](https://elysi.art)
+- [look-how-i-use-ai.com](https://look-how-i-use-ai.com)
+
+**ancient ships**
+- [bot orchestration, 4 fig business (when i was kid)](https://github.com/MephisTools/diablo2-protocol)
+- ovhcloud infrastructure, built end to end hardware / low level software observability platform for billion of data center devices
+- french CIA, focused on satellite intelligence / engineering 
 
 ---
 
-### 🔌 **recent ships**
-
-mcp servers to increase the bandwidth with superintelligence:
-- [easy-obsidian-mcp](https://github.com/louis030195/easy-obsidian-mcp) — obsidian ↔ claude
-- [toggl-mcp](https://github.com/louis030195/toggl-mcp) — time tracking
-- [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp) — sales automation
-- [gptzero-mcp](https://github.com/louis030195/gptzero-mcp) — ai detection
-- [oura-mcp](https://github.com/louis030195/oura-mcp) — plug my health to AGI
-
-i also wear limitless 24/7 and use limitless-mcp
-
-update: 11/15/25: replaced all those by claude skills (much more context efficient and it works on mobile/web too)
-
----
-
-[website](https://louis030195.com/) • [x/twitter](https://x.com/louis030195) • [linkedin](https://linkedin.com/in/louis030195) • [mediar](https://mediar.ai)
-
-[live with me](https://hyperbolic.garden/)
-
----
+[louis030195](https://louis030195.com) • [x](https://x.com/louis030195) • [linkedin](https://linkedin.com/in/louis030195) • [hyperbolic.garden](https://hyperbolic.garden)
