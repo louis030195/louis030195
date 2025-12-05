@@ -33,7 +33,7 @@
 - [limitless-mcp](https://github.com/louis030195/limitless-mcp)
 
 **past ships**
-- [screenpipe](https://screenpi.pe) • [screenpipe.dev](https://screenpipe.dev) — 24/7 local screen & audio capture
+- [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
 - [rewind.sh](https://rewind.sh) — memory for devs
 - [screen-to-crm.com](https://screen-to-crm.com) — sales automation
 - [quote-api.dev](https://quote-api.dev)
