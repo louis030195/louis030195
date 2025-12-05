@@ -25,7 +25,7 @@
 - [autosap.ai](https://autosap.ai) — sap automation
 
 **mcp servers**
-- [easy-obsidian-mcp](https://github.com/louis030195/easy-obsidian-mcp) • [obsidian-mcp.com](https://obsidian-mcp.com)
+- [obsidian-mcp.com](https://obsidian-mcp.com)
 - [toggl-mcp](https://github.com/louis030195/toggl-mcp)
 - [apollo-io-mcp](https://github.com/louis030195/apollo-io-mcp)
 - [gptzero-mcp](https://github.com/louis030195/gptzero-mcp)
