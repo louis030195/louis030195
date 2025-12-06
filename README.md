@@ -41,6 +41,7 @@
 - [nolan.sh](https://nolan.sh) — dev tools
 - [elysi.art](https://elysi.art)
 - [look-how-i-use-ai.com](https://look-how-i-use-ai.com)
+- [midjourney but too early / RAG / RLHF before OpenAI popularized it](https://github.com/langa-me/langame-worker)
 - [distributed simulation of evolution (rust, go, c#)](https://github.com/The-Tensox/Erutan-unity)
 - [diablo 2 network protocol + bot orchestration, 4 fig business (when i was kid)](https://github.com/MephisTools/diablo2-protocol)
 - [dofus network protocol + bot orchestration for dofus (4 fig)](https://github.com/AstrubTools/dofus-protocol)
