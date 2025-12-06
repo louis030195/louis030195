@@ -23,6 +23,7 @@
 - [vercelrpa.com](https://vercelrpa.com)
 - [autoehr.com](https://autoehr.com) — healthcare automation
 - [autosap.ai](https://autosap.ai) — sap automation
+- [quote-api.dev](https://quote-api.dev)
 
 **mcp servers**
 - [obsidian-mcp.com](https://obsidian-mcp.com)
@@ -36,7 +37,6 @@
 - [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
 - [rewind.sh](https://rewind.sh) — memory for devs
 - [screen-to-crm.com](https://screen-to-crm.com) — sales automation
-- [quote-api.dev](https://quote-api.dev)
 - [third.software](https://third.software)
 - [nolan.sh](https://nolan.sh) — dev tools
 - [elysi.art](https://elysi.art)
