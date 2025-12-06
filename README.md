@@ -41,6 +41,7 @@
 - [nolan.sh](https://nolan.sh) — dev tools
 - [elysi.art](https://elysi.art)
 - [look-how-i-use-ai.com](https://look-how-i-use-ai.com)
+- [distributed simulation of evolution (rust, go, c#)](https://github.com/The-Tensox/Erutan-unity)
 - [diablo 2 network protocol + bot orchestration, 4 fig business (when i was kid)](https://github.com/MephisTools/diablo2-protocol)
 - [dofus network protocol + bot orchestration for dofus (4 fig)](https://github.com/AstrubTools/dofus-protocol)
 - ovhcloud infrastructure, built end to end hardware / low level software observability platform for billion of data center devices
