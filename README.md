@@ -17,13 +17,7 @@
 ### ships
 
 **current**
-- [terminator](https://github.com/mediar-ai/terminator) — rust windows automation for legacy systems
-- [mediar](https://mediar.ai) — ai desktop automation company
-- [useterminator.com](https://useterminator.com)
-- [vercelrpa.com](https://vercelrpa.com)
-- [autoehr.com](https://autoehr.com) — healthcare automation
-- [autosap.ai](https://autosap.ai) — sap automation
-- [quote-api.dev](https://quote-api.dev)
+- [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
 
 **mcp servers**
 - [obsidian-mcp.com](https://obsidian-mcp.com)
@@ -34,7 +28,7 @@
 - [limitless-mcp](https://github.com/louis030195/limitless-mcp)
 
 **past ships**
-- [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
+
 - [rewind.sh](https://rewind.sh) — memory for devs
 - [screen-to-crm.com](https://screen-to-crm.com) — sales automation
 - [third.software](https://third.software)
