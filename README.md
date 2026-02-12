@@ -10,7 +10,7 @@
     ░  ░    ░ ░     ░      ░        ░  
 ```
 
-**making computer use work and print dollars** | carbon-based | sf
+carbon-based | sf
 
 ---
 
