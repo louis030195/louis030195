@@ -18,6 +18,7 @@
 
 **current**
 - [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
+- [rewind.sh](https://rewind.sh) — rewind.ai
 
 **mcp servers**
 - [obsidian-mcp.com](https://obsidian-mcp.com)
@@ -29,7 +30,7 @@
 
 **past ships**
 
-- [rewind.sh](https://rewind.sh) — memory for devs
+- [mediar.ai](https://mediar.ai) - AI RPA / computer use / b2b 
 - [screen-to-crm.com](https://screen-to-crm.com) — sales automation
 - [third.software](https://third.software)
 - [nolan.sh](https://nolan.sh) — dev tools
