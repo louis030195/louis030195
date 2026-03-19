@@ -17,7 +17,7 @@ carbon-based | sf
 ### ships
 
 **current**
-- [screenpipe](https://screenpi.pe) (16k stars in 4 months) — 24/7 local screen & audio capture
+- [screenpipe](https://screenpi.pe) (100k users) — 24/7 local screen & audio capture
 - [rewind.sh](https://rewind.sh) — rewind.ai
 
 **mcp servers**
