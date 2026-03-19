@@ -19,6 +19,7 @@ carbon-based | sf
 **current**
 - [screenpipe](https://screenpi.pe) (100k users) — 24/7 local screen & audio capture
 - [rewind.sh](https://rewind.sh) — rewind.ai
+- [https://elysi.art](https://elysi.art)
 
 **mcp servers**
 - [obsidian-mcp.com](https://obsidian-mcp.com)
