@@ -19,6 +19,7 @@ carbon-based | sf
 **current**
 - [screenpipe](https://screenpi.pe) (100k users) — 24/7 local screen & audio capture
 - [exocortex.sh](https://exocortex.sh/) - screenpipe parent company
+- [hyperbolic.garden](https://hyperbolic.garden) - building a cult
 - [rewind.sh](https://rewind.sh) — rewind.ai
 - [elysi.art](https://elysi.art)
 
