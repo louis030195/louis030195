@@ -17,11 +17,12 @@ carbon-based | sf
 ### ships
 
 **current**
-- [screenpipe](https://screenpi.pe) (100k users) — 24/7 local screen & audio capture
-- [exocortex.sh](https://exocortex.sh/) - screenpipe parent company
-- [hyperbolic.garden](https://hyperbolic.garden) - building a cult
+- [screenpipe](https://screenpi.pe) (200k users) — 24/7 local screen & audio capture
+- [negentropy.pro](https://negentropy.pro) - ???
+- [exocortex.sh](https://exocortex.sh/) - ???
+- [hyperbolic.garden](https://hyperbolic.garden) - yolo
 - [rewind.sh](https://rewind.sh) — rewind.ai
-- [elysi.art](https://elysi.art)
+- [elysi.art](https://elysi.art) - send me money
 
 **mcp servers**
 - [obsidian-mcp.com](https://obsidian-mcp.com)
