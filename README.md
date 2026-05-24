@@ -17,7 +17,7 @@ carbon-based | sf
 ### ships
 
 **current**
-- [screenpipe](https://screenpi.pe) (YC S26, 250k users) — 24/7 local screen & audio capture
+- [screenpipe](https://screenpi.pe) (YC S26, 300k users) — 24/7 local screen & audio capture
 - [negentropy.pro](https://negentropy.pro) - ???
 - [exocortex.sh](https://exocortex.sh/) - ???
 - [hyperbolic.garden](https://hyperbolic.garden) - yolo
