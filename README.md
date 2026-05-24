@@ -10,7 +10,7 @@
     ░  ░    ░ ░     ░      ░        ░  
 ```
 
-carbon-based | sf
+carbon-based | sf | [please don't give me money](https://screenpipe.com/pricing)
 
 ---
 
