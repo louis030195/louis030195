@@ -17,7 +17,7 @@ carbon-based | sf | [please don't give me money](https://screenpipe.com/pricing)
 ### ships
 
 **current**
-- [screenpipe](https://screenpi.pe) (YC S26, 300k users) — 24/7 local screen & audio capture - [join us](https://screenpipe.com/careers)
+- [screenpipe](https://screenpi.pe) (YC S26) — 24/7 local screen & audio capture - [join us](https://screenpipe.com/careers)
 - [negentropy.pro](https://negentropy.pro) - ???
 - [exocortex.sh](https://exocortex.sh/) - ???
 - [hyperbolic.garden](https://hyperbolic.garden) - yolo
